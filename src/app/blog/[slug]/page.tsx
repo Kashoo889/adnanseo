@@ -103,10 +103,29 @@ export default async function SingleBlogPostPage({ params }: { params: Promise<P
     keywords: post.tags.join(", "),
   };
 
+  const faqLd =
+    post.faqs && post.faqs.length > 0
+      ? {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: post.faqs.map((faq) => ({
+            "@type": "Question",
+            name: faq.question,
+            acceptedAnswer: {
+              "@type": "Answer",
+              text: faq.answer,
+            },
+          })),
+        }
+      : null;
+
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleLd) }} />
+      {faqLd && (
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }} />
+      )}
 
       {/* ARTICLE HEADER / HERO */}
       <article className="border-b border-border bg-[color:var(--color-cream)]">
@@ -268,9 +287,84 @@ export default async function SingleBlogPostPage({ params }: { params: Promise<P
                   ))}
                 </ul>
               )}
+
+              {section.table && (
+                <div className="my-8 overflow-x-auto rounded-2xl border border-border bg-background shadow-[var(--shadow-elegant)]">
+                  <table className="w-full text-left text-sm">
+                    {section.table.caption && (
+                      <caption className="border-b border-border bg-[color:var(--color-cream)] p-4 text-left text-xs font-semibold uppercase tracking-wider text-muted-foreground">
+                        {section.table.caption}
+                      </caption>
+                    )}
+                    <thead className="border-b border-border bg-[color:var(--color-cream)] text-xs font-semibold uppercase tracking-wider text-foreground">
+                      <tr>
+                        {section.table.headers.map((h, hIdx) => (
+                          <th key={hIdx} className="px-4 py-3.5">
+                            {h}
+                          </th>
+                        ))}
+                      </tr>
+                    </thead>
+                    <tbody className="divide-y divide-border text-foreground/90">
+                      {section.table.rows.map((row, rIdx) => (
+                        <tr key={rIdx} className="transition-colors hover:bg-muted/30">
+                          {row.map((cell, cIdx) => (
+                            <td key={cIdx} className={`px-4 py-3.5 ${cIdx === 0 ? "font-medium text-foreground" : ""}`}>
+                              {cell}
+                            </td>
+                          ))}
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+              )}
+
+              {section.image && (
+                <figure className="my-8">
+                  <div className="relative aspect-[16/10] w-full overflow-hidden rounded-2xl border border-border shadow-[var(--shadow-elegant)]">
+                    <Image
+                      src={section.image}
+                      alt={section.imageAlt || post.title}
+                      fill
+                      sizes="(min-width: 1024px) 800px, 100vw"
+                      className="object-cover"
+                    />
+                  </div>
+                  {section.imageCaption && (
+                    <figcaption className="mt-2 text-center text-xs text-muted-foreground">
+                      {section.imageCaption}
+                    </figcaption>
+                  )}
+                </figure>
+              )}
             </div>
           ))}
         </div>
+
+        {/* FREQUENTLY ASKED QUESTIONS */}
+        {post.faqs && post.faqs.length > 0 && (
+          <div className="mt-16 space-y-6">
+            <h2
+              className="text-2xl sm:text-3xl font-semibold tracking-tight text-foreground"
+              style={{ fontFamily: "var(--font-display)" }}
+            >
+              Frequently Asked Questions
+            </h2>
+            <div className="grid gap-4">
+              {post.faqs.map((faq, fIdx) => (
+                <div key={fIdx} className="rounded-2xl border border-border bg-background p-6 shadow-sm">
+                  <h3 className="text-base sm:text-lg font-semibold text-foreground">
+                    {faq.question}
+                  </h3>
+                  <p className="mt-2.5 text-sm sm:text-base leading-relaxed text-foreground/85">
+                    {faq.answer}
+                  </p>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
 
         {/* CONTEXTUAL QUOTE / ASSISTANCE BOX */}
         <div className="mt-14 rounded-3xl border border-border bg-[color:var(--color-cream)] p-8 text-center sm:p-10">
