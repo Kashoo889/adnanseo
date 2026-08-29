@@ -29,33 +29,71 @@ export const areas: string[] = [
   "Dubai Production City",
   "Green Community Village",
   "The Villa",
-  "Bluewaters Island",
+  "Town Square",
+  "Villanova",
+  "Serena",
+  "Living Legends",
+  "Meydan",
   "Downtown Dubai",
+  "Jumeirah Village Triangle",
+  "The Meadows",
+  "The Lakes",
+  "Jumeirah Islands",
+  "Bluewaters Island",
   "DIFC",
   "Jumeirah Beach Residence",
-  "Meydan",
   "Dubai Silicon Oasis",
   "Al Quoz",
   "Nad Al Hamar",
   "Nad Al Sheba",
+  "Al Barsha",
+  "Discovery Gardens",
 ];
 
-// Rough grouping for a nicer display than a flat list.
+// Grouping for directory display
 export const areaGroups: { title: string; items: string[] }[] = [
   {
     title: "Waterfront & Islands",
-    items: ["Palm Jumeirah", "Dubai Marina", "Bluewaters Island", "Jumeirah Beach Residence", "Dubai Creek Harbour"],
+    items: [
+      "Palm Jumeirah",
+      "Dubai Marina",
+      "Bluewaters Island",
+      "Jumeirah Beach Residence",
+      "Dubai Creek Harbour",
+      "Jumeirah Islands",
+    ],
   },
   {
     title: "Downtown & City Core",
-    items: ["Downtown Dubai", "Business Bay", "DIFC", "Dubai Design District", "Meydan"],
+    items: [
+      "Downtown Dubai",
+      "Business Bay",
+      "DIFC",
+      "Dubai Design District",
+      "Meydan",
+    ],
   },
   {
     title: "Villa Communities",
     items: [
-      "Emirates Hills", "Arabian Ranches", "Arabian Ranches 2", "Dubai Hills Estate",
-      "Al Barari", "The Villa", "Mudon", "Damac Hills", "Damac Hills 2",
-      "Jumeirah Golf Estates", "Green Community Village", "The Springs",
+      "Emirates Hills",
+      "Arabian Ranches",
+      "Arabian Ranches 2",
+      "Dubai Hills Estate",
+      "Al Barari",
+      "The Villa",
+      "Mudon",
+      "Damac Hills",
+      "Damac Hills 2",
+      "Jumeirah Golf Estates",
+      "Green Community Village",
+      "The Springs",
+      "The Meadows",
+      "The Lakes",
+      "Villanova",
+      "Serena",
+      "Living Legends",
+      "Jumeirah Village Triangle",
     ],
   },
   {
@@ -65,13 +103,38 @@ export const areaGroups: { title: string; items: string[] }[] = [
   {
     title: "New Dubai & Suburbs",
     items: [
-      "Jumeirah Village Circle", "Al Furjan", "Dubai Investment Park", "Dubai Motor City",
-      "Dubai South", "Dubai Sports City", "Remraam", "Dubai Silicon Oasis",
-      "Nad Al Hamar", "Nad Al Sheba", "Al Quoz",
+      "Jumeirah Village Circle",
+      "Al Furjan",
+      "Dubai Investment Park",
+      "Dubai Motor City",
+      "Dubai South",
+      "Dubai Sports City",
+      "Remraam",
+      "Town Square",
+      "Dubai Silicon Oasis",
+      "Discovery Gardens",
+      "Al Barsha",
+      "Nad Al Hamar",
+      "Nad Al Sheba",
+      "Al Quoz",
     ],
   },
   {
     title: "Business & Tech Districts",
-    items: ["Dubai Internet City", "Dubai Production City", "The Greens"],
+    items: [
+      "Dubai Internet City",
+      "Dubai Production City",
+      "The Greens",
+    ],
   },
 ];
+
+export const slugifyArea = (name: string): string => {
+  return name
+    .toLowerCase()
+    .trim()
+    .replace(/[^\w\s-]/g, "")
+    .replace(/[\s_-]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+};
+

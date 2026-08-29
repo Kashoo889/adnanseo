@@ -6,7 +6,7 @@ import { ArrowUpRight, Check, Phone } from "lucide-react";
 import { WhatsAppIcon } from "@/components/site/WhatsAppIcon";
 import { CTASection } from "@/components/site/CTASection";
 import { getService, services } from "@/config/services";
-import { site, absoluteUrl } from "@/config/site";
+import { site, absoluteUrl, getWhatsAppHref } from "@/config/site";
 
 type Params = { slug: string };
 
@@ -105,7 +105,7 @@ export default async function ServicePage({ params }: { params: Promise<Params> 
             <p className="mt-5 max-w-xl text-base leading-relaxed text-muted-foreground md:text-lg">{svc.intro}</p>
             <div className="mt-8 flex flex-wrap gap-3">
               <a
-                href={site.whatsappHref}
+                href={getWhatsAppHref(`Hi, I would like to get a quote for ${svc.title} in Dubai.`)}
                 aria-label="Message us on WhatsApp"
                 className="inline-flex items-center gap-2 rounded-full bg-[color:var(--color-ink)] px-6 py-3 text-sm font-medium text-[color:var(--color-cream)]"
                 style={{ fontFamily: "var(--font-display)" }}

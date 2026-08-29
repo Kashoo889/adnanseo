@@ -5,10 +5,10 @@ export const site = {
   tagline: "Dubai's discreet junk removal service",
   // Production business number. Every phone/WhatsApp CTA on the site reads from
   // these values, so a future change only needs editing here.
-  phone: "+971 55 528 4216",
-  phoneHref: "tel:+971555284216",
-  whatsapp: "+971 55 528 4216",
-  whatsappHref: "https://wa.me/971555284216",
+  phone: "+971 56 805 0326",
+  phoneHref: "tel:+971568050326",
+  whatsapp: "+971 56 805 0326",
+  whatsappHref: "https://wa.me/971568050326",
   email: "hello@dubaijunkcollection.com",
   address: "Al Quoz Industrial 3, Dubai, United Arab Emirates",
   hours: "Every day · 7:00 – 22:00",
@@ -20,6 +20,13 @@ export const site = {
 // Build an absolute URL from a path when the production domain is configured.
 // Falls back to the relative path while `site.url` is empty.
 export const absoluteUrl = (path: string) => {
-  if (!site.url) return path;
+  if (!site.url || path.startsWith("http://") || path.startsWith("https://")) return path;
   return `${site.url}${path.startsWith("/") ? path : `/${path}`}`;
 };
+
+// Returns a direct WhatsApp click-to-chat URL, optionally pre-filling a customer greeting.
+export const getWhatsAppHref = (message?: string) => {
+  if (!message) return site.whatsappHref;
+  return `${site.whatsappHref}?text=${encodeURIComponent(message)}`;
+};
+

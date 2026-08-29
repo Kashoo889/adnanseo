@@ -57,6 +57,7 @@ export const metadata: Metadata = {
 export const viewport: Viewport = {
   width: "device-width",
   initialScale: 1,
+  themeColor: "#faf8f2",
 };
 
 // Site-wide structured data. Emitted on every page so agents can resolve the

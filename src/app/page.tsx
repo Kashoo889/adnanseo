@@ -16,7 +16,29 @@ export const metadata: Metadata = {
   description:
     "Professional junk removal in Dubai. Book a discreet, uniformed crew for same-day furniture removal, appliance, office and villa clearances — fixed, upfront pricing across every Dubai community.",
   alternates: { canonical: "/" },
-  openGraph: { url: "/", images: [heroImg.src] },
+  openGraph: {
+    title: "Junk Removal Dubai | Premium Junk Removal Services in Dubai",
+    description:
+      "Professional junk removal in Dubai. Book a discreet, uniformed crew for same-day furniture removal, appliance, office and villa clearances — fixed, upfront pricing across every Dubai community.",
+    url: "/",
+    siteName: site.name,
+    type: "website",
+    images: [
+      {
+        url: heroImg.src,
+        width: 1200,
+        height: 630,
+        alt: "Dubai Junk Collection crew carrying out junk removal in Dubai",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Junk Removal Dubai | Premium Junk Removal Services in Dubai",
+    description:
+      "Professional junk removal in Dubai. Book a discreet, uniformed crew for same-day furniture removal, appliance, office and villa clearances.",
+    images: [heroImg.src],
+  },
 };
 
 const stats = [
@@ -62,6 +84,8 @@ const localBusinessLd = {
   telephone: site.phoneHref.replace(/^tel:/, ""),
   email: site.email,
   priceRange: "$$",
+  currenciesAccepted: "AED",
+  paymentAccepted: "Cash, Credit Card, Bank Transfer",
   parentOrganization: { "@id": absoluteUrl("/#organization") },
   address: {
     "@type": "PostalAddress",
@@ -75,6 +99,19 @@ const localBusinessLd = {
     dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
     opens: "07:00",
     closes: "22:00",
+  },
+  hasOfferCatalog: {
+    "@type": "OfferCatalog",
+    name: "Junk Removal & Clearance Services",
+    itemListElement: services.map((s) => ({
+      "@type": "Offer",
+      itemOffered: {
+        "@type": "Service",
+        name: s.title,
+        description: s.short,
+        url: absoluteUrl(`/services/${s.slug}`),
+      },
+    })),
   },
 };
 

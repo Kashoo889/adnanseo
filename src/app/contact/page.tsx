@@ -4,7 +4,7 @@ import type { ComponentType, SVGProps } from "react";
 import { Phone, Mail, MapPin, Clock, ArrowUpRight } from "lucide-react";
 import { PageHero } from "@/components/site/PageHero";
 import { WhatsAppIcon } from "@/components/site/WhatsAppIcon";
-import { site } from "@/config/site";
+import { site, absoluteUrl } from "@/config/site";
 import skylineImg from "@/assets/dubai-skyline.jpg";
 
 export const metadata: Metadata = {
@@ -19,6 +19,26 @@ export const metadata: Metadata = {
     images: [skylineImg.src],
   },
   twitter: { card: "summary_large_image", images: [skylineImg.src] },
+};
+
+const breadcrumbLd = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: [
+    { "@type": "ListItem", position: 1, name: "Home", item: absoluteUrl("/") },
+    { "@type": "ListItem", position: 2, name: "Contact", item: absoluteUrl("/contact") },
+  ],
+};
+
+const contactPageLd = {
+  "@context": "https://schema.org",
+  "@type": "ContactPage",
+  "@id": absoluteUrl("/contact#webpage"),
+  url: absoluteUrl("/contact"),
+  name: "Contact Dubai Junk Collection",
+  description:
+    "Call or WhatsApp us to book a Dubai junk removal service. Same-day pickups available across the city.",
+  mainEntity: { "@id": absoluteUrl("/#organization") },
 };
 
 type ContactDetail = {
@@ -40,6 +60,8 @@ const details: ContactDetail[] = [
 export default function Contact() {
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(contactPageLd) }} />
       <PageHero
         eyebrow="Get in touch"
         title="Tell us what needs to go."

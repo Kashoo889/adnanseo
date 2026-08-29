@@ -13,6 +13,7 @@ export function WhatsAppIcon({
       viewBox="0 0 24 24"
       fill="currentColor"
       className={className}
+      focusable="false"
       role="img"
       {...props}
     >

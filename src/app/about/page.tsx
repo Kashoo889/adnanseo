@@ -7,6 +7,7 @@ import { CTASection } from "@/components/site/CTASection";
 import teamImg from "@/assets/team.jpg";
 import skylineImg from "@/assets/dubai-skyline.jpg";
 import { Compass, Target, HeartHandshake, Sparkles, Users } from "lucide-react";
+import { site, absoluteUrl } from "@/config/site";
 
 export const metadata: Metadata = {
   title: "About Dubai Junk Collection — Dubai's discreet clearance team",
@@ -22,6 +23,26 @@ export const metadata: Metadata = {
   twitter: { card: "summary_large_image", images: [teamImg.src] },
 };
 
+const breadcrumbLd = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: [
+    { "@type": "ListItem", position: 1, name: "Home", item: absoluteUrl("/") },
+    { "@type": "ListItem", position: 2, name: "About", item: absoluteUrl("/about") },
+  ],
+};
+
+const aboutPageLd = {
+  "@context": "https://schema.org",
+  "@type": "AboutPage",
+  "@id": absoluteUrl("/about#webpage"),
+  url: absoluteUrl("/about"),
+  name: "About Dubai Junk Collection",
+  description:
+    "The story, the values and the people behind Dubai Junk Collection. A small, dedicated Dubai team focused on doing one thing well.",
+  mainEntity: { "@id": absoluteUrl("/#organization") },
+};
+
 const values = [
   { icon: Compass, title: "Show up on time", body: "Our slots are two hours long, not four. If we're going to be late, you'll know before we are." },
   { icon: Target, title: "Fixed pricing, always", body: "We agree the price before we start. No new charges appear at the end of the job." },
@@ -32,6 +53,8 @@ const values = [
 export default function About() {
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(aboutPageLd) }} />
       <PageHero
         eyebrow="Our story"
         title="A quiet, careful team from the neighbourhoods we serve."

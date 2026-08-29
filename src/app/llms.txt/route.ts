@@ -1,5 +1,7 @@
 import { services } from "@/config/services";
 import { areas } from "@/config/areas";
+import { areaDetails } from "@/config/areaDetails";
+import { getAllPosts } from "@/config/blog";
 import { site, absoluteUrl } from "@/config/site";
 
 // Serves /llms.txt — a concise, machine-readable map of the site for AI agents
@@ -27,11 +29,22 @@ export function GET() {
     `- [About](${absoluteUrl("/about")}): The team, story and values.`,
     `- [Services](${absoluteUrl("/services")}): Full catalogue of clearance services.`,
     `- [Service Areas](${absoluteUrl("/service-areas")}): Every Dubai community we cover.`,
+    `- [Blog & Guides](${absoluteUrl("/blog")}): Move-out checklists, clearance advice and recycling guides.`,
     `- [Contact](${absoluteUrl("/contact")}): Phone, WhatsApp, email and location.`,
     "",
     "## Services",
     ...services.map(
       (s) => `- [${s.title}](${absoluteUrl(`/services/${s.slug}`)}): ${s.short}`,
+    ),
+    "",
+    "## Blog & Resource Guides",
+    ...getAllPosts().map(
+      (p) => `- [${p.title}](${absoluteUrl(`/blog/${p.slug}`)}): ${p.excerpt}`,
+    ),
+    "",
+    "## Detailed Community Guides",
+    ...Object.values(areaDetails).map(
+      (a) => `- [${a.name}](${absoluteUrl(`/service-areas/${a.slug}`)}): ${a.tagline}`,
     ),
     "",
     "## Booking",

@@ -2,26 +2,67 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { PageHero } from "@/components/site/PageHero";
 import { CTASection } from "@/components/site/CTASection";
-import { areaGroups, areas } from "@/config/areas";
+import { areaGroups, areas, slugifyArea } from "@/config/areas";
+import { areaDetails } from "@/config/areaDetails";
+import { site, absoluteUrl } from "@/config/site";
 import skylineImg from "@/assets/dubai-skyline.jpg";
-import { MapPin } from "lucide-react";
+import { MapPin, ArrowUpRight } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Junk Removal Service Areas in Dubai — Dubai Junk Collection",
-  description: `Junk removal across ${areas.length}+ communities in Dubai — from Palm Jumeirah and Downtown to Arabian Ranches, Dubai Hills and beyond.`,
+  title: `Junk Removal Service Areas in Dubai — All ${areas.length} Communities`,
+  description: `Professional junk removal across all ${areas.length} communities in Dubai — from Palm Jumeirah and Downtown to Arabian Ranches, Dubai Hills, and beyond. Same-day bookings available.`,
   alternates: { canonical: "/service-areas" },
   openGraph: {
-    title: "Service Areas — Dubai",
-    description: "Every Dubai community we cover, in one place.",
+    title: `Junk Removal Service Areas in Dubai — All ${areas.length} Communities`,
+    description: `Professional junk removal across all ${areas.length} communities in Dubai. Same-day bookings available.`,
     url: "/service-areas",
+    siteName: site.name,
+    type: "website",
+    images: [
+      {
+        url: skylineImg.src,
+        width: 1200,
+        height: 630,
+        alt: "Dubai Junk Collection coverage map across all Dubai communities",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: `Junk Removal Service Areas in Dubai — All ${areas.length} Communities`,
+    description: `Professional junk removal across all ${areas.length} communities in Dubai.`,
     images: [skylineImg.src],
   },
-  twitter: { card: "summary_large_image", images: [skylineImg.src] },
+};
+
+const breadcrumbLd = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: [
+    { "@type": "ListItem", position: 1, name: "Home", item: absoluteUrl("/") },
+    { "@type": "ListItem", position: 2, name: "Service Areas", item: absoluteUrl("/service-areas") },
+  ],
+};
+
+const serviceAreaListLd = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  name: "Dubai Junk Collection Service Areas",
+  description: "Communities across Dubai served by Dubai Junk Collection",
+  numberOfItems: areas.length,
+  itemListElement: areas.map((area, index) => ({
+    "@type": "ListItem",
+    position: index + 1,
+    name: area,
+    url: absoluteUrl(`/service-areas/${slugifyArea(area)}`),
+  })),
 };
 
 export default function ServiceAreas() {
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(serviceAreaListLd) }} />
       <PageHero
         eyebrow="Where we work"
         title="Trusted in every corner of Dubai."
@@ -36,12 +77,25 @@ export default function ServiceAreas() {
                 <MapPin aria-hidden className="h-3.5 w-3.5" /> {g.title}
               </div>
               <ul className="mt-6 space-y-2.5 text-sm text-foreground/85">
-                {g.items.map((a) => (
-                  <li key={a} className="flex items-center gap-2">
-                    <span className="h-1 w-1 rounded-full bg-[color:var(--color-bronze)]" />
-                    {a}
-                  </li>
-                ))}
+                {g.items.map((a) => {
+                  const slug = slugifyArea(a);
+                  const hasPage = Boolean(areaDetails[slug]);
+                  return (
+                    <li key={a} className="flex items-center gap-2">
+                      <span className="h-1 w-1 rounded-full bg-[color:var(--color-bronze)] shrink-0" />
+                      {hasPage ? (
+                        <Link
+                          href={`/service-areas/${slug}`}
+                          className="link-underline inline-flex items-center gap-1 font-medium text-foreground hover:text-[color:var(--color-accent)]"
+                        >
+                          {a} <ArrowUpRight className="h-3 w-3 text-muted-foreground" />
+                        </Link>
+                      ) : (
+                        <span>{a}</span>
+                      )}
+                    </li>
+                  );
+                })}
               </ul>
             </div>
           ))}
@@ -55,14 +109,29 @@ export default function ServiceAreas() {
             <span className="text-xs uppercase tracking-[0.18em] text-muted-foreground">{areas.length} locations</span>
           </div>
           <div className="mt-8 flex flex-wrap gap-2">
-            {areas.map((a) => (
-              <span
-                key={a}
-                className="rounded-full border border-border bg-background px-4 py-1.5 text-xs text-foreground/80"
-              >
-                {a}
-              </span>
-            ))}
+            {areas.map((a) => {
+              const slug = slugifyArea(a);
+              const hasPage = Boolean(areaDetails[slug]);
+              if (hasPage) {
+                return (
+                  <Link
+                    key={a}
+                    href={`/service-areas/${slug}`}
+                    className="inline-flex items-center gap-1 rounded-full border border-[color:var(--color-accent)]/40 bg-background px-4 py-1.5 text-xs font-medium text-foreground transition-all hover:border-[color:var(--color-accent)] hover:bg-[color:var(--color-ink)] hover:text-[color:var(--color-cream)]"
+                  >
+                    {a} <ArrowUpRight className="h-3 w-3" />
+                  </Link>
+                );
+              }
+              return (
+                <span
+                  key={a}
+                  className="rounded-full border border-border bg-background px-4 py-1.5 text-xs text-foreground/80"
+                >
+                  {a}
+                </span>
+              );
+            })}
           </div>
           <p className="mt-8 text-sm text-muted-foreground">
             Live somewhere not listed? We probably still cover it — just ask.
