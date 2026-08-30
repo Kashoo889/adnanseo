@@ -5,10 +5,10 @@ export const site = {
   tagline: "Dubai's discreet junk removal service",
   // Production business number. Every phone/WhatsApp CTA on the site reads from
   // these values, so a future change only needs editing here.
-  phone: "+971 56 726 6386",
-  phoneHref: "tel:+971567266386",
-  whatsapp: "+971 56 726 6386",
-  whatsappHref: "https://wa.me/971567266386",
+  phone: "+971 56 725 6386",
+  phoneHref: "tel:+971567256386",
+  whatsapp: "+971 56 725 6386",
+  whatsappHref: "https://wa.me/971567256386",
   email: "hello@dubaijunkcollection.com",
   address: "Al Quoz Industrial 3, Dubai, United Arab Emirates",
   hours: "Every day · 7:00 – 22:00",
