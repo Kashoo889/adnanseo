@@ -72,7 +72,6 @@ const organizationLd = {
   url: absoluteUrl("/"),
   logo: absoluteUrl("/icon-512.png"),
   image: absoluteUrl(ogImage.src),
-  email: site.email,
   telephone,
   address: {
     "@type": "PostalAddress",
@@ -83,7 +82,6 @@ const organizationLd = {
   contactPoint: {
     "@type": "ContactPoint",
     telephone,
-    email: site.email,
     contactType: "customer service",
     areaServed: "AE",
     availableLanguage: ["en", "ar"],

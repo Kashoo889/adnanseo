@@ -19,7 +19,6 @@ export function GET() {
     `> ${site.tagline}. Household, furniture, office and villa clearances handled by a uniformed local crew across Dubai — same-day pickups, fixed upfront pricing.`,
     "",
     `- Phone & WhatsApp: ${site.phone} (${site.phoneHref} · ${site.whatsappHref})`,
-    `- Email: ${site.email}`,
     `- Base: ${site.address}`,
     `- Hours: ${site.hours}`,
     `- Coverage: ${areas.length}+ communities across Dubai, UAE`,
@@ -30,7 +29,7 @@ export function GET() {
     `- [Services](${absoluteUrl("/services")}): Full catalogue of clearance services.`,
     `- [Service Areas](${absoluteUrl("/service-areas")}): Every Dubai community we cover.`,
     `- [Blog & Guides](${absoluteUrl("/blog")}): Move-out checklists, clearance advice and recycling guides.`,
-    `- [Contact](${absoluteUrl("/contact")}): Phone, WhatsApp, email and location.`,
+    `- [Contact](${absoluteUrl("/contact")}): Phone, WhatsApp and location.`,
     "",
     "## Services",
     ...services.map(

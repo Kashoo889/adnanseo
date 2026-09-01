@@ -9,7 +9,6 @@ export const site = {
   phoneHref: "tel:+971567256386",
   whatsapp: "+971 56 725 6386",
   whatsappHref: "https://wa.me/971567256386",
-  email: "hello@dubaijunkcollection.com",
   address: "Al Quoz Industrial 3, Dubai, United Arab Emirates",
   hours: "Every day · 7:00 – 22:00",
   // Production domain (no trailing slash). Every canonical/OG/Twitter/sitemap/

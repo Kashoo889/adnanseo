@@ -9,7 +9,6 @@ import { areaGroups, areas } from "@/config/areas";
 import { site, absoluteUrl } from "@/config/site";
 import { SectionHeader } from "@/components/site/SectionHeader";
 import { CTASection } from "@/components/site/CTASection";
-import { Reviews } from "@/components/site/Reviews";
 
 export const metadata: Metadata = {
   title: "Junk Removal Dubai | Premium Junk Removal Services in Dubai",
@@ -82,7 +81,6 @@ const localBusinessLd = {
   logo: absoluteUrl("/icon-512.png"),
   image: absoluteUrl(heroImg.src),
   telephone: site.phoneHref.replace(/^tel:/, ""),
-  email: site.email,
   priceRange: "$$",
   currenciesAccepted: "AED",
   paymentAccepted: "Cash, Credit Card, Bank Transfer",
@@ -435,8 +433,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* REVIEWS */}
-      <Reviews />
 
       <CTASection
         title="Ready for stress-free junk removal in Dubai?"

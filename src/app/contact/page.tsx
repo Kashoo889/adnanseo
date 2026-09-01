@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import type { ComponentType, SVGProps } from "react";
-import { Phone, Mail, MapPin, Clock, ArrowUpRight } from "lucide-react";
+import { Phone, MapPin, Clock, ArrowUpRight } from "lucide-react";
 import { PageHero } from "@/components/site/PageHero";
 import { WhatsAppIcon } from "@/components/site/WhatsAppIcon";
 import { site, absoluteUrl } from "@/config/site";
@@ -52,7 +52,6 @@ type ContactDetail = {
 const details: ContactDetail[] = [
   { icon: Phone, label: "Phone", value: site.phone, href: site.phoneHref },
   { icon: WhatsAppIcon, label: "WhatsApp", value: site.whatsapp, href: site.whatsappHref, accent: true },
-  { icon: Mail, label: "Email", value: site.email, href: `mailto:${site.email}` },
   { icon: MapPin, label: "Base", value: site.address },
   { icon: Clock, label: "Hours", value: site.hours },
 ];

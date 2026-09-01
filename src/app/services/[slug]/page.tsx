@@ -52,7 +52,6 @@ export default async function ServicePage({ params }: { params: Promise<Params> 
       "@id": absoluteUrl("/#business"),
       name: "Dubai Junk Collection",
       telephone: site.phoneHref.replace(/^tel:/, ""),
-      email: site.email,
       url: absoluteUrl("/"),
     },
   };

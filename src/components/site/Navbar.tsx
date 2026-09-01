@@ -63,7 +63,7 @@ export function Navbar() {
               {site.name}
             </span>
             <span className="hidden text-[11px] uppercase tracking-[0.18em] text-muted-foreground sm:block">
-              Dubai · Since 2016
+              Dubai · Since 2022
             </span>
           </span>
         </Link>

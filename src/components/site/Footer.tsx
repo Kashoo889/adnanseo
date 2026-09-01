@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Phone, Mail, MapPin } from "lucide-react";
+import { Phone, MapPin } from "lucide-react";
 import { site } from "@/config/site";
 import { services } from "@/config/services";
 import { areas } from "@/config/areas";
@@ -78,10 +78,6 @@ export function Footer() {
             <li className="flex items-start gap-2">
               <Phone aria-hidden className="mt-0.5 h-4 w-4 shrink-0" />
               <a href={site.phoneHref} className="hover:text-foreground">{site.phone}</a>
-            </li>
-            <li className="flex items-start gap-2">
-              <Mail aria-hidden className="mt-0.5 h-4 w-4 shrink-0" />
-              <a href={`mailto:${site.email}`} className="hover:text-foreground">{site.email}</a>
             </li>
             <li className="flex items-start gap-2">
               <MapPin aria-hidden className="mt-0.5 h-4 w-4 shrink-0" />

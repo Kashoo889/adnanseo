@@ -82,7 +82,6 @@ export default async function AreaPage({ params }: { params: Promise<Params> }) 
       "@id": absoluteUrl("/#business"),
       name: site.name,
       telephone: site.phoneHref.replace(/^tel:/, ""),
-      email: site.email,
       url: absoluteUrl("/"),
       address: {
         "@type": "PostalAddress",
