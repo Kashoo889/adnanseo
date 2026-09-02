@@ -6,6 +6,10 @@ import officeImg from "@/assets/service-office.jpg";
 import furnitureImg from "@/assets/service-furniture.jpg";
 import mattressImg from "@/assets/service-mattress.jpg";
 import teamImg from "@/assets/team.jpg";
+import dubaiSkylineImg from "@/assets/dubai-skyline.jpg";
+import applianceImg from "@/assets/service-appliance.jpg";
+import gardenImg from "@/assets/service-garden.jpg";
+import warehouseImg from "@/assets/service-warehouse.jpg";
 
 export type BlogAuthor = {
   name: string;
@@ -838,6 +842,346 @@ export const blogPosts: BlogPost[] = [
       },
     ],
     relatedSlugs: ["free-vs-paid-junk-removal-dubai", "where-to-donate-furniture-dubai"],
+  },
+  {
+    slug: "dubai-waste-disposal-rules",
+    title: "Dubai Waste Disposal Rules & Fines for Illegal Dumping: The Complete Resident Guide",
+    excerpt:
+      "A comprehensive guide to Dubai Municipality waste disposal regulations. Understand resident legal obligations, fine schedules from AED 500 to AED 50,000 for improper disposal, hazardous waste restrictions, and how to stay fully compliant.",
+    category: "Guides & Tips",
+    coverImage: dubaiSkylineImg,
+    coverImageAlt: "Dubai urban residential cityscape under municipal environmental and waste management regulations",
+    publishedAt: "2026-09-02",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Dubai Waste Rules", "Illegal Dumping Fines", "Waste Disposal Dubai", "Hazardous Waste", "Dubai Municipality Regulations"],
+    seoTitle: "Dubai Waste Disposal Rules & Fines for Illegal Dumping (2026)",
+    seoDescription:
+      "Understand Dubai waste disposal rules and avoid fines up to AED 50,000 for illegal dumping. Resident guide to bulky waste, hazardous items, and legal clearance.",
+    keyTakeaways: [
+      "Dubai Municipality Order No. 11/2003 and Local Order No. 58/1995 impose strict fines from AED 500 to AED 50,000 for illegal waste dumping and open desert fly-tipping.",
+      "Bulky household items (furniture, appliances, mattresses) are strictly forbidden in standard domestic wheelie bins and residential chute rooms.",
+      "Hazardous waste — including paints, chemical solvents, lead-acid batteries, and commercial coolant — must be routed to specialized treatment facilities in Warsan or Jebel Ali.",
+      "Building security surveillance cameras routinely trace abandoned corridor waste back to individual tenants, resulting in tenancy deposit deductions.",
+    ],
+    sections: [
+      {
+        heading: "Overview of Dubai waste disposal regulations",
+        paragraphs: [
+          "Dubai waste disposal rules require all residential and commercial occupants to separate domestic refuse from bulky, electronic, and hazardous materials. Under Dubai Municipality Order No. 11/2003, discarding furniture, appliances, or renovation debris in standard bins or open plots carries fines from AED 500 up to AED 50,000.",
+          "As Dubai continues to expand its environmental sustainability initiatives under the Dubai Integrated Waste Management Strategy 2041, municipal inspectors and community master developers (such as Emaar, Nakheel, and Dubai Holding) strictly enforce zero-tolerance policies on unauthorized dumping.",
+        ],
+      },
+      {
+        heading: "Dubai Municipality fines for illegal dumping and improper disposal",
+        paragraphs: [
+          "Municipal environmental protection laws categorize waste violations based on the type of material, disposal location, and environmental risk. The table below outlines standard municipal fine schedules across the emirate:",
+        ],
+        table: {
+          caption: "Official Dubai Municipality waste violation fine schedule",
+          headers: ["Violation Type", "Applicable Regulation", "Typical Fine (AED)", "Enforcement Action"],
+          rows: [
+            ["Leaving bulky furniture beside community bins", "Local Order No. 11/2003", "AED 500 – 1,000", "Fine issued to tenant/owner + clearance fee"],
+            ["Dumping construction rubble in non-designated zones", "Administrative Decision 132/2007", "AED 5,000 – 20,000", "Vehicle impoundment + mandatory site remediation"],
+            ["Open desert dumping / illegal fly-tipping", "Federal Law No. 24/1999 & Local Order", "AED 10,000 – 50,000", "Trade license suspension / municipal blacklisting"],
+            ["Disposing of chemical/hazardous waste in general waste", "Local Order No. 58/1995", "AED 5,000 – 30,000", "Legal prosecution & environmental cleanup assessment"],
+            ["Discarding electronics / lead batteries in domestic bins", "Public Health Circulars", "AED 1,000 – 5,000", "Direct penalty issued through building management"],
+          ],
+        },
+      },
+      {
+        heading: "What cannot go into standard community rubbish bins",
+        paragraphs: [
+          "Standard green or black domestic bins provided by Dubai Municipality or private waste contractors are engineered strictly for bagged organic household waste and food packaging. The following items are prohibited from domestic bins and require specialized haulage:",
+        ],
+        bulletPoints: [
+          "Bulky Furniture & Mattresses: Sofas, bed bases, multi-door wardrobes, and dining tables block mechanical compactor trucks and cause hydraulic damage.",
+          "Large White Goods & Appliances: Refrigerators, washing machines, cookers, and air conditioning units containing refrigerants and electronic circuits.",
+          "Renovation & Fitout Debris: Broken ceramic tiles, drywall, cement bags, parquet flooring, and bathroom porcelain fixtures.",
+          "Garden Trimmings & Palm Fronds: Large date palm branches, cut tree limbs, and heavy soil sacks that exceed weight ratings.",
+          "Automotive & Heavy Metal Parts: Car batteries, alloy rims, steel framing, and commercial fitness machinery.",
+        ],
+        image: warehouseImg,
+        imageAlt: "Licensed waste management facility in Dubai sorting construction materials, metals, and bulk refuse",
+        imageCaption: "Official Dubai Municipality waste handling facilities require commercial tipping permits and material classification manifests.",
+      },
+      {
+        heading: "How to handle hazardous waste safely in Dubai",
+        paragraphs: [
+          "Hazardous waste poses immediate environmental risks to ground soil, local water tables, and sanitation personnel. Leftover paint tins, chemical strippers, motor oil, and commercial pesticides cannot simply be placed on the curb.",
+          "Residential quantities of liquid chemicals and paint should be dried out using absorbent sand before disposal or handed to certified hazardous waste collectors who transfer materials to the specialized Warsan Treatment Plant or the Jebel Ali Hazardous Waste Treatment Complex.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Tenant Liability for Building Corridor Dumping",
+          text: "In high-rise towers across Dubai Marina, Downtown, and JVC, building management security cameras monitor service lift lobbies. Abandoning a mattress or sofa in the chute room triggers immediate building fines charged directly against your security deposit.",
+        },
+      },
+      {
+        heading: "How to legally dispose of bulky junk when moving home",
+        paragraphs: [
+          "When vacating a residential villa or apartment, planning your property clearance early ensures full compliance with both community rules and Dubai Municipality regulations.",
+          "Start by categorizing your items: separate donor-quality furniture for registered charities (such as Emirates Red Crescent), identify recyclable metals and plastics, and book an insured, licensed clearance service for all remaining bulky items and dismantled wardrobes.",
+        ],
+      },
+      {
+        heading: "Booking licensed waste collection with full documentation",
+        paragraphs: [
+          "Working with a licensed clearance provider like Dubai Junk Collection eliminates legal risk. Our uniformed teams provide complete power-tool dismantling, service elevator protection, and certified transport manifests ensuring all items reach authorized municipal recycling and disposal facilities.",
+          "Send photos of your unwanted items on WhatsApp to receive a fixed upfront price with scheduled same-day or next-day collection across all Dubai communities.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "What is the fine for illegal dumping in Dubai?",
+        answer:
+          "Under Dubai Municipality Order No. 11/2003, fines for illegal dumping range from AED 500 for dumping bulky items in residential common areas up to AED 50,000 for large-scale fly-tipping in desert plots or open industrial land.",
+      },
+      {
+        question: "Can I throw away an old mattress in my building's garbage room?",
+        answer:
+          "No. Building regulations across Dubai prohibit bulky items like mattresses and sofas in residential garbage rooms. Violations are tracked via CCTV and result in building fines or disposal charges deducted from your rental deposit.",
+      },
+      {
+        question: "How do I legally dispose of paint tins and chemical solvents in Dubai?",
+        answer:
+          "Small amounts of residual paint must be solidified with sand or cat litter before disposal. Liquid chemicals, solvents, and motor oils must be handed to licensed hazardous waste handlers for processing at the Warsan or Jebel Ali municipal treatment plants.",
+      },
+      {
+        question: "Does Dubai Municipality collect renovation waste from residential apartments?",
+        answer:
+          "No. Dubai Municipality does not collect building rubble, tiles, or fitout debris from residential apartments. Renovation waste must be removed by a licensed commercial junk clearance company or disposed of in permitted skips.",
+      },
+    ],
+    relatedSlugs: ["bulky-waste-collection-dubai-municipality", "how-to-recycle-in-dubai"],
+  },
+  {
+    slug: "bulky-waste-collection-dubai-municipality",
+    title: "Dubai Municipality Bulky Waste Collection: How It Works & Private Crew Alternatives",
+    excerpt:
+      "How to use Dubai Municipality's bulky item collection service: eligibility rules, booking steps via the DM App and 800900, restrictions, and when a private clearance crew is necessary.",
+    category: "Guides & Tips",
+    coverImage: mattressImg,
+    coverImageAlt: "Bulky mattresses and furniture items prepared for municipal collection on a residential street in Dubai",
+    publishedAt: "2026-09-02",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Bulky Waste Dubai", "Dubai Municipality Collection", "Furniture Disposal Dubai", "DM Bulky Waste App", "Curbside vs Private Clearance"],
+    seoTitle: "Dubai Municipality Bulky Waste Collection: Rules & Guide (2026)",
+    seoDescription:
+      "How does Dubai Municipality bulky waste collection work? Learn eligibility rules, booking channels (800900 & App), item limits, and private crew alternatives.",
+    keyTakeaways: [
+      "Dubai Municipality offers free bulky waste collection for UAE citizen and resident private villas through the DM Smart App, WhatsApp (054 555 5555), and 800900.",
+      "The municipal service is strictly curbside — crews will not enter homes, climb stairs, or dismantle wardrobes and bed frames.",
+      "Apartment towers, commercial offices, and private developer communities (Emaar, Nakheel, Damac) are generally excluded from free municipal collections.",
+      "For multi-room cleanouts, indoor carrying, furniture disassembly, or same-day move-out deadlines, an insured private clearance team is required.",
+    ],
+    sections: [
+      {
+        heading: "How Dubai Municipality bulky waste collection works",
+        paragraphs: [
+          "Dubai Municipality bulky waste collection is a free municipal service providing curbside pickup of oversized items (such as sofas, tree branches, and refrigerators) for private residential villas across Dubai. Bookings are submitted through the Dubai 24/7 App, WhatsApp (054 555 5555), or the 800900 helpline.",
+          "While this public service provides an excellent solution for single standalone items outside villa gates, it has strict operational limitations regarding item quantities, building types, and labor support.",
+        ],
+      },
+      {
+        heading: "Eligibility criteria: who qualifies and who does not",
+        paragraphs: [
+          "Before scheduling an appointment, it is important to understand which properties and waste types qualify for municipal collection:",
+        ],
+        bulletPoints: [
+          "Eligible Properties: Standalone private residential villas in municipal service zones (such as Jumeirah, Umm Suqeim, Al Rashidiya, Al Mizhar, and Nad Al Sheba).",
+          "Excluded Properties: High-rise apartment towers, commercial office buildings, retail shops, and private master-developer communities that manage private waste contracts.",
+          "Quantity Restrictions: The municipal service is designed for occasional 1 to 3 item pickups, not full-house move-out cleanouts or multi-room clearances.",
+          "Labor Constraints: Municipal crews operate strictly curbside. They will not enter private premises, navigate hallways, dismantle wardrobes, or carry items down stairwells.",
+        ],
+        callout: {
+          type: "info",
+          title: "Private Developer Communities",
+          text: "Communities managed by private master developers (including Downtown Dubai, Dubai Marina, Arabian Ranches, and Palm Jumeirah) maintain their own facilities management rules and require registered private clearance contractors.",
+        },
+      },
+      {
+        heading: "Step-by-step: how to book Dubai Municipality bulky waste pickup",
+        paragraphs: [
+          "If your property qualifies and your items are already dismantled and placed outside your gate, follow these steps to book a municipal pickup:",
+          "1. Download the Dubai 24/7 Smart App or message Dubai Municipality on WhatsApp at 054 555 5555.\n2. Select 'Request for Bulky Waste Collection' from the public services directory.\n3. Enter your Makani number or precise GPS location and villa address.\n4. Upload clear photos of the items and specify the category (furniture, large appliance, or green waste).\n5. Receive your SMS confirmation with your scheduled pickup date (typically within 3 to 7 working days).",
+        ],
+      },
+      {
+        heading: "Municipal curbside pickup vs. private clearance: comparison",
+        paragraphs: [
+          "To choose the right option for your situation, compare the core operational differences between the municipal service and a private crew:",
+        ],
+        table: {
+          caption: "Dubai Municipality bulky waste collection vs. private clearance service",
+          headers: ["Service Feature", "Dubai Municipality Curbside Service", "Private Clearance (Dubai Junk Collection)"],
+          rows: [
+            ["Eligible Property Types", "Residential private villas only", "All apartments, villas, offices, warehouses, and penthouses"],
+            ["Indoor Carrying & Labor", "None (curbside collection only)", "Full inside carry, elevator padding, and stair navigation"],
+            ["Furniture Dismantling", "Not provided; must be disassembled", "Full power-tool disassembly of wardrobes and bed frames"],
+            ["Volume Capacity", "Limited to 1–3 items per request", "From single items to multiple 3-ton dedicated truckloads"],
+            ["Turnaround & Speed", "3 to 7 business days waiting window", "Same-day or next-day scheduled 2-hour arrival windows"],
+            ["Cost", "Free for qualifying villas", "Transparent fixed volume rate (from AED 150)"],
+          ],
+        },
+        image: householdImg,
+        imageAlt: "Household furniture dismantled inside an apartment before transport to prevent hallway damage",
+        imageCaption: "Private clearance teams handle the labor-intensive indoor dismantling and stairwell carrying that municipal curbside trucks do not provide.",
+      },
+      {
+        heading: "What happens if you leave furniture by the road without a booking?",
+        paragraphs: [
+          "Placing unwanted furniture, mattresses, or white goods on the pavement or outside a villa gate without an active municipal booking number is considered illegal dumping.",
+          "Dubai Municipality waste inspectors patrol residential communities daily. Unregistered curbside dumping results in minimum fines of AED 500 under Local Order No. 11/2003, with repeat violations escalating up to AED 5,000.",
+        ],
+      },
+      {
+        heading: "When to hire a private junk removal team instead",
+        paragraphs: [
+          "Hiring a private clearance crew is the ideal solution when you are vacating a rented apartment, facing an Ejari handover inspection, dealing with heavy built-in wardrobes, or needing complete same-day cleanouts.",
+          "At Dubai Junk Collection, our uniformed team handles everything inside your home — from power-tool disassembly and freight elevator bookings to charity routing and certified recycling — leaving your property spotless and inspection-ready.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Is Dubai Municipality bulky waste collection free for all residents?",
+        answer:
+          "The service is free for residents living in private residential villas within Dubai Municipality service sectors. It does not cover high-rise apartment buildings, commercial business premises, or gated private master-planned developments.",
+      },
+      {
+        question: "How do I request a bulky waste pickup from Dubai Municipality?",
+        answer:
+          "You can request a pickup by downloading the Dubai 24/7 App, messaging Dubai Municipality on WhatsApp at 054 555 5555, or calling the 800900 contact center with your Makani number, villa address, and photos of the items.",
+      },
+      {
+        question: "Will Dubai Municipality workers carry furniture down from my apartment?",
+        answer:
+          "No. Municipal crews only collect items that are placed outside on the curbside or at designated villa collection points. They do not enter private buildings, climb stairwells, or carry furniture through elevators.",
+      },
+      {
+        question: "How long does it take for Dubai Municipality to collect bulky waste?",
+        answer:
+          "Municipal collections typically take between 3 to 7 working days following request approval. For urgent same-day or next-day clearances, hiring a licensed private junk removal team is recommended.",
+      },
+    ],
+    relatedSlugs: ["dubai-waste-disposal-rules", "how-to-recycle-in-dubai"],
+  },
+  {
+    slug: "how-to-recycle-in-dubai",
+    title: "How and Where to Recycle Household Goods in Dubai (Drop-off Centers & Pickups)",
+    excerpt:
+      "A complete resident guide to recycling in Dubai: locations of Smart Sustainability Oasis centers, e-waste drop-off bins, appliance recycling depots, and municipal waste diversion practices.",
+    category: "Eco & Recycling",
+    coverImage: applianceImg,
+    coverImageAlt: "Household appliances and electronic goods prepared for material sorting and certified recycling in Dubai",
+    publishedAt: "2026-09-02",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["How to Recycle in Dubai", "Recycling Centres Dubai", "E-Waste Recycling", "Smart Sustainability Oasis", "Eco Friendly Dubai"],
+    seoTitle: "How to Recycle in Dubai: Drop-off Centres, Pickups & Rules (2026)",
+    seoDescription:
+      "Learn how and where to recycle in Dubai: Smart Sustainability Oasis locations, e-waste centres, appliance recycling, and what household items can be diverted from landfill.",
+    keyTakeaways: [
+      "Dubai Municipality operates 13+ Smart Sustainability Oasis 24/7 solar-powered drop-off stations across residential neighborhoods for 18+ recyclable categories.",
+      "Major specialized recycling hubs in Dubai (such as The Recycling Hub by Enviroserve in Dubai Industrial City) process e-waste, refrigerants, and heavy metals with zero landfill impact.",
+      "Household recyclables should be sorted into dry recyclables (paper, cardboard, plastics, metals) and kept separate from contaminated organic waste.",
+      "For bulky recyclable goods (sofas, steel bed frames, large refrigerators), booking an insured clearance team ensures compliant depot sorting and certified recycling.",
+    ],
+    sections: [
+      {
+        heading: "How to recycle in Dubai: the resident overview",
+        paragraphs: [
+          "Recycling in Dubai is organized through municipal color-coded community bins, 24/7 Smart Sustainability Oasis drop-off centers, certified electronic waste facilities, and licensed private collection fleets. Residents can recycle paper, cardboard, plastics, metals, glass, e-waste, and large appliances across designated neighborhood facilities.",
+          "Under the Dubai Integrated Waste Management Strategy 2041, the emirate aims to divert over 75% of municipal solid waste away from landfills, encouraging residents to adopt structured sorting and recycling habits.",
+        ],
+      },
+      {
+        heading: "Where to find recycling centres and drop-off stations in Dubai",
+        paragraphs: [
+          "Dubai Municipality has deployed solar-powered, 24/7 'Smart Sustainability Oasis' recycling centers across key residential neighborhoods. These centers accept up to 18 distinct recyclable streams:",
+        ],
+        bulletPoints: [
+          "Al Barsha 2 Oasis: Located near Al Barsha Pond Park, accepting paper, plastics, glass, metals, small electronics, and textiles.",
+          "Al Manara Oasis: Situated behind the Al Manara Municipality Centre, accepting bulky cardboard, plastics, and domestic e-waste.",
+          "Umm Suqeim 2 Oasis: Near Umm Suqeim Park, featuring compartmentalized bins for glass bottles, tin cans, batteries, and paper.",
+          "Al Warqa 3 Oasis: Convenient drop-off point for residential communities in Mirdif, Al Warqa, and Nad Al Hamar.",
+          "Nad Al Sheba & Dubai Silicon Oasis Stations: Neighborhood collection points designed for rapid drive-through recyclable drops.",
+          "The Recycling Hub by Enviroserve (Dubai Industrial City): World-class 280,000 sq. ft. specialized facility for certified e-waste, IT asset disposition (ITAD), and appliance refrigerant recovery.",
+        ],
+        callout: {
+          type: "tip",
+          title: "Preparing Recyclables for Drop-off",
+          text: "Rinse food containers and plastic bottles before dropping them in recycling bins. Food contamination degrades paper and plastic batches, forcing sorting facilities to redirect them to landfill.",
+        },
+      },
+      {
+        heading: "What items can and cannot be recycled in Dubai",
+        paragraphs: [
+          "Understanding material classifications ensures your household items are successfully processed through UAE recycling facilities:",
+        ],
+        table: {
+          caption: "Accepted vs. unaccepted recyclable materials in Dubai",
+          headers: ["Material Stream", "Widely Accepted for Recycling", "Non-Recyclable (General Waste Only)"],
+          rows: [
+            ["Paper & Cardboard", "Corrugated boxes, newspapers, magazines, office paper, clean cartons", "Greasy pizza boxes, wax-coated paper cups, soiled napkins"],
+            ["Plastics", "PET water bottles (Type 1), HDPE milk jugs (Type 2), rigid clean containers", "Plastic wrap, cling film, styrofoam food containers, chip packets"],
+            ["Metals", "Aluminum beverage cans, tin food cans, metal pots, clean steel scrap", "Aerosol cans with residue, paint tins, contaminated oil filters"],
+            ["Glass", "Glass beverage bottles, glass food jars (clear, green, brown)", "Window pane glass, mirrors, ceramic dishes, light bulbs"],
+            ["Electronics (E-Waste)", "Laptops, phones, cables, circuit boards, small kitchen appliances", "Leaking alkaline batteries, unsealed lead-acid units"],
+          ],
+        },
+        image: teamImg,
+        imageAlt: "Dubai Junk Collection crew sorting residential materials into recyclable metal, timber, and plastic fractions",
+        imageCaption: "Professional clearance teams sort collected items into discrete recyclable material streams before delivering to certified UAE recycling hubs.",
+      },
+      {
+        heading: "Landfill vs. recycling in Dubai: the environmental reality",
+        paragraphs: [
+          "Traditional waste disposal routes mixed refuse directly to municipal landfill sites such as Al Qusais or Jebel Ali. Decomposing organic matter mixed with non-biodegradable plastics in landfills produces methane gas and poses long-term environmental hazards.",
+          "In contrast, certified recycling recovers valuable raw materials — transforming aluminum cans into new metal products, converting plastics into synthetic fibers, and chipping clean timber for landscaping mulch — dramatically reducing Dubai's carbon footprint.",
+        ],
+      },
+      {
+        heading: "How to recycle bulky household items and large appliances",
+        paragraphs: [
+          "While small bottles and paper boxes easily fit into community drop-off bins, large items like multi-door refrigerators, steel bed frames, and living room sofas require specialized transport.",
+          "Appliances containing ozone-depleting hydrofluorocarbons (refrigerants in fridges and ACs) must undergo closed-loop degassing before metal shearing. Discarding them with unlicensed scavengers risks illegal atmospheric venting.",
+        ],
+      },
+      {
+        heading: "Booking an eco-friendly property clearance",
+        paragraphs: [
+          "Dubai Junk Collection is committed to sustainable waste diversion. When our crew clears a villa, apartment, or commercial office, we sort all items into charity-donation, material-recycling, and residual-waste streams.",
+          "To arrange an eco-conscious cleanout, send photos of your items on WhatsApp. We provide a transparent fixed quote and ensure your unwanted items are recycled responsibly through certified UAE partners.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Where can I drop off plastic and paper recycling in Dubai?",
+        answer:
+          "You can drop off clean plastics, paper, and glass at any of Dubai Municipality's 13+ Smart Sustainability Oasis stations (located in Al Barsha, Umm Suqeim, Al Manara, and Al Warqa) or in community recycling bins found across major residential developments.",
+      },
+      {
+        question: "How do I recycle old electronics and laptops safely in Dubai?",
+        answer:
+          "Small electronics can be deposited into dedicated e-waste bins at Smart Sustainability Oasis centers, virgin megastores, or collected by licensed clearance companies that deliver equipment to certified facilities like The Recycling Hub in Dubai Industrial City for secure data destruction and component recycling.",
+      },
+      {
+        question: "Can I recycle large home appliances like refrigerators and washing machines?",
+        answer:
+          "Yes. Large appliances are collected by professional junk removal services and transported to specialized recycling centers where copper coils, steel panels, and toxic refrigerant gases are safely extracted and recycled.",
+      },
+      {
+        question: "Is glass recycling available across Dubai residential areas?",
+        answer:
+          "Yes. Glass bottles and jars can be recycled at Smart Sustainability Oasis drop-off points. However, mirrors, ceramic dishes, and window pane glass cannot go into glass recycling bins because they have different melting temperatures.",
+      },
+    ],
+    relatedSlugs: ["dubai-waste-disposal-rules", "bulky-waste-collection-dubai-municipality"],
   },
 ];
 
