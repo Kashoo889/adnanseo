@@ -160,6 +160,8 @@ This is the rule most likely to quietly damage the site, so it's strict.
 
 ## 14. Images and alt text
 
+- **Exactly 2 images per article — a hard cap.** One featured (cover) image plus one relevant image inside the body. Never publish more than 2.
+- **Sourcing priority:** (1) generate a unique, relevant image yourself whenever image generation is available; (2) if generation is unavailable or can't produce a suitable image, fall back to the existing Pexels/stock image sourcing workflow. Full rules in `image-standards.md`.
 - **Use images only when they help** — illustrate a step, show a before/after, clarify a scenario. No stock filler for decoration's sake.
 - **Alt text describes the image for a real person** who can't see it. Accurate, specific, natural.
 - **Alt text is not a keyword slot.** Include the keyword only if it honestly describes the image; never stuff it. "Crew wrapping a mattress before carrying it down a Marina stairwell" beats "junk removal dubai mattress removal dubai."
@@ -254,7 +256,7 @@ Run every article against this before it goes live. Any "no" blocks publication.
 - [ ] 2–4 contextual internal links to related content where genuinely helpful.
 - [ ] Anchor text descriptive and varied; no generic or repeated exact-match anchors.
 - [ ] Not an orphan — linked from at least one existing relevant page.
-- [ ] Images help the reader; alt text accurate and natural, not stuffed.
+- [ ] Exactly 2 images (1 featured + 1 in-body), generated first where possible and Pexels/stock only as fallback; alt text accurate and natural, not stuffed.
 
 **Local, FAQ & CTA**
 - [ ] Local relevance real and value-adding where used, not decorative.

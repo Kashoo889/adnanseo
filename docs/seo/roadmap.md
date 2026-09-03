@@ -142,6 +142,6 @@ The 93 blog opportunities are organized into **6 thematic publishing tracks**. E
 ## Publishing Cadence & Execution Plan
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
-2. **Batch 2 (Articles B08–B14):** Municipality Rules, Skip Comparisons & Sustainability (establishes trust & snippet dominance) — **In Progress (B08–B10 Live, 3/7 Published)**.
+2. **Batch 2 (Articles B08–B14):** Municipality Rules, Skip Comparisons & Sustainability (establishes trust & snippet dominance) — **In Progress (B08–B13 Live, 6/7 Published)**.
 3. **Batch 3 (Articles B15–B21):** Expat Move-Outs, Handover Checklists & Situational Guides (high seasonal demand).
 4. **Batch 4 (Articles B22–B31):** Item-Specific "How-To Dispose" Snippet Series (captures long-tail question traffic).

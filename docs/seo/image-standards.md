@@ -9,7 +9,7 @@ These standards govern the selection, formatting, optimization, and on-page inte
 
 ## 1. Image Quantity & Placement Rule
 
-Every published blog article **MUST contain exactly two relevant images**:
+Every published blog article **MUST contain exactly two relevant images — no more, no fewer**: one featured (hero cover) image plus one relevant image inside the article body. **Never publish an article with more than 2 images.**
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -27,7 +27,23 @@ Every published blog article **MUST contain exactly two relevant images**:
 
 ---
 
-## 2. Relevance & Authenticity (Zero Generic Stock)
+## 2. Image Sourcing Priority (Generate First, Source Second)
+
+Both images must be obtained by working down this priority order. Only fall to the next
+priority when the one above it is genuinely unavailable or cannot produce a suitable result.
+
+| Priority | Method | When to use |
+| :---: | :--- | :--- |
+| **1** | **Generate a unique, relevant image yourself** using the available image-generation tool. | Always try this first whenever image generation is available. Each article gets its own original, topic-specific visuals. |
+| **2** | **Existing Pexels / stock image sourcing workflow.** | Only when image generation is unavailable, fails, or cannot produce an image that meets the relevance and authenticity rules in Section 3. |
+
+- **Priority 1 — Generate:** Prompt for the specific scenario the article covers (the exact item, room type, community setting, and crew action), not a generic "junk removal" scene. Generated images must still satisfy every rule in Sections 3–7 (relevance, WebP format, size, dimensions, alt text, visual style).
+- **Priority 2 — Source:** Fall back to the established Pexels/stock sourcing workflow, applying the same relevance, authenticity, format, and naming standards. Reused library images are acceptable at this priority when they genuinely match the topic.
+- **Regardless of source:** the 2-image cap in Section 1 is absolute. Do not add a third image because generation produced extra candidates — pick the best hero and the best in-body image and discard the rest.
+
+---
+
+## 3. Relevance & Authenticity (Zero Generic Stock)
 
 - **Must Be Relevant to the Specific Article Topic:**
   - An article on sofa disposal must depict bulky furniture disassembly or loading.
@@ -44,7 +60,7 @@ Every published blog article **MUST contain exactly two relevant images**:
 
 ---
 
-## 3. Format, Compression & Performance Standards
+## 4. Format, Compression & Performance Standards
 
 - **Primary Image Format:** **WebP** (`.webp`) is the mandatory format for all new article imagery.
 - **File Size Target:** Under **120 KB** per image (balanced between crisp clarity and instant loading).
@@ -56,7 +72,7 @@ Every published blog article **MUST contain exactly two relevant images**:
 
 ---
 
-## 4. Dimensions, Aspect Ratios & CLS Prevention
+## 5. Dimensions, Aspect Ratios & CLS Prevention
 
 To ensure a seamless user experience and achieve 100% Core Web Vitals scores with zero Cumulative Layout Shift (CLS):
 
@@ -100,7 +116,7 @@ To ensure a seamless user experience and achieve 100% Core Web Vitals scores wit
 
 ---
 
-## 5. Alt Text & SEO Rules
+## 6. Alt Text & SEO Rules
 
 - **Alt text must describe the image for a real person who cannot see it:** Be specific, accurate, and helpful.
 - **Natural Keyword Inclusion:** Include the primary or secondary keyword only if it genuinely describes what is in the picture.
@@ -115,7 +131,7 @@ To ensure a seamless user experience and achieve 100% Core Web Vitals scores wit
 
 ---
 
-## 6. Website Visual Style Consistency
+## 7. Website Visual Style Consistency
 
 Every image must blend naturally into the website's clean, luxury aesthetic:
 
@@ -129,11 +145,13 @@ Every image must blend naturally into the website's clean, luxury aesthetic:
 
 ---
 
-## 7. Pre-Publish Image Checklist
+## 8. Pre-Publish Image Checklist
 
 Before publishing any article, verify:
 
-- [ ] Exactly 2 images are included (1 Hero Cover + 1 In-Body Supporting image).
+- [ ] Exactly 2 images are included (1 Hero Cover + 1 In-Body Supporting image) — never more.
+- [ ] Priority 1 was attempted first: images were generated uniquely for this article where image generation was available.
+- [ ] Pexels/stock sourcing was used only as the Priority 2 fallback (generation unavailable or unsuitable).
 - [ ] Both images are formatted as **WebP** (`.webp`).
 - [ ] Both images are compressed (< 120 KB each).
 - [ ] Hero Cover image has `priority` and responsive `sizes` attribute.

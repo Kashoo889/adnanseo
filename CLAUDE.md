@@ -76,6 +76,7 @@ Always consult the primary SEO foundation documents before creating or modifying
 1. **[`keywords.md`](file:///d:/Projects/Dubai/rasheed/keywords.md):** Master database of 298 keywords organized into 20 topic clusters with strict search intent tags (`C`, `L`, `I`, `Q`, `N`).
 2. **[`content-rules.md`](file:///d:/Projects/Dubai/rasheed/content-rules.md):** Mandatory editorial rules governing search intent separation, snippet optimization (40–55 word direct answers under H2s), internal linking silos, E-E-A-T standards, and the 19-point QA checklist.
 3. **[`roadmap.md`](file:///d:/Projects/Dubai/rasheed/roadmap.md):** The structured publishing sequence and 6 thematic content tracks.
+4. **[`image-standards.md`](file:///d:/Projects/Dubai/rasheed/image-standards.md):** Blog image rules — exactly 2 images per article (1 featured + 1 in-body), the generate-first / Pexels-fallback sourcing priority, formats, dimensions, and alt text.
 
 ---
 
@@ -83,5 +84,6 @@ Always consult the primary SEO foundation documents before creating or modifying
 
 - **Anti-Cannibalization:** Never target commercial head terms (e.g., *"furniture removal dubai"*) or local terms (e.g., *"junk removal dubai marina"*) as blog posts. Blogs own informational (`I`), question (`Q`), cost, and comparison queries.
 - **Image Optimization:** Always use Next.js `<Image>` with explicit `sizes`, descriptive `alt` text, and responsive aspect ratios.
+- **Article Images:** Exactly **2 images per blog article** (1 featured + 1 relevant in-body image) — never more. Priority 1: generate a unique, relevant image yourself when image generation is available. Priority 2: if generation is unavailable or unsuitable, use the existing Pexels/image sourcing workflow. See `image-standards.md`.
 - **Git History Guardrail:** This project is connected to Lovable. Never force push, rebase, or rewrite pushed Git history. Keep commits clean, descriptive, and atomic.
 - **Accessibility:** Ensure high-contrast text, semantic heading structures (`h1` → `h2` → `h3`), `aria-hidden` on decorative icons, and min 44px+ touch targets on mobile contact buttons.

@@ -1,9 +1,9 @@
-﻿# Dubai Junk Collection — Master Article Registry
+# Dubai Junk Collection — Master Article Registry
 
 **Domain:** dubaijunkcollection.com
 **Total Target Articles:** 93
-**Published Articles:** 10 (10.8% of Total Roadmap)
-**Last Updated:** 2026-09-02
+**Published Articles:** 13 (14.0% of Total Roadmap)
+**Last Updated:** 2026-09-03
 
 ---
 
@@ -21,13 +21,16 @@
 | **B08** | *Dubai Waste Disposal Rules & Fines for Illegal Dumping: The Complete Resident Guide* | dubai-waste-disposal-rules | dubai waste disposal rules | 14 | I | Guides & Tips | 2026-09-02 | Live |
 | **B09** | *Dubai Municipality Bulky Waste Collection: How It Works & Private Crew Alternatives* | bulky-waste-collection-dubai-municipality | bulky waste collection dubai municipality | 14 | I | Guides & Tips | 2026-09-02 | Live |
 | **B10** | *How and Where to Recycle Household Goods in Dubai (Drop-off Centers & Pickups)* | how-to-recycle-in-dubai | how to recycle in dubai | 14 | Q / I | Eco & Recycling | 2026-09-02 | Live |
+| **B11** | *Where Does Your Junk Actually Go After Removal in Dubai?* | where-does-junk-go-after-removal-dubai | where does junk go after removal dubai | 14 | Q / I | Eco & Recycling | 2026-09-03 | Live |
+| **B12** | *Junk Removal vs. Skip Hire in Dubai: Which Is Faster, Cheaper, and Permit-Free?* | junk-removal-vs-skip-hire-dubai | junk removal vs skip hire dubai | 18 | I | Guides & Tips | 2026-09-03 | Live |
+| **B13** | *How to Choose a Junk Removal Company in Dubai: 7 Critical Questions to Ask* | how-to-choose-a-junk-removal-company-dubai | how to choose a junk removal company dubai | 18 | Q / I | Guides & Tips | 2026-09-03 | Live |
 
 ---
 
 ## Batch Publishing Status
 
 * **Batch 1: Cost, Pricing Transparency & Free Intercepts (B01–B07):** 7/7 Completed (100%)
-* **Batch 2: Municipality Rules, Skip Comparisons & Sustainability (B08–B14):** 3/7 Completed (43%)
+* **Batch 2: Municipality Rules, Skip Comparisons & Sustainability (B08–B14):** 6/7 Completed (86%)
 * **Batch 3: Expat Move-Outs, Handover Checklists & Situational Guides (B15–B21):** 0/7 (0%)
 * **Batch 4: Item-Specific How-To Dispose Snippet Series (B22–B31):** 0/10 (0%)
 * **Remaining Long-Tail & Cluster Articles (B32–B93):** 0/62 (0%)
@@ -105,3 +108,24 @@
 * **Secondary Keywords:** recycling centres in dubai, what can you recycle in dubai, landfill vs recycling dubai
 * **Images:** Cover: applianceImg, Body: teamImg
 * **Target Funnel:** /about, /services
+
+### B11: where-does-junk-go-after-removal-dubai
+* **URL:** /blog/where-does-junk-go-after-removal-dubai
+* **Primary Keyword:** where does junk go after removal dubai
+* **Secondary Keywords:** eco friendly junk disposal dubai, sustainable decluttering tips dubai
+* **Images:** Cover: blogB11Cover, Body: blogB11Body
+* **Target Funnel:** /about, /services
+
+### B12: junk-removal-vs-skip-hire-dubai
+* **URL:** /blog/junk-removal-vs-skip-hire-dubai
+* **Primary Keyword:** junk removal vs skip hire dubai
+* **Secondary Keywords:** skip hire dubai alternatives, diy junk removal vs hiring dubai
+* **Images:** Cover: blogB12Cover, Body: blogB12Body
+* **Target Funnel:** /services, /services/construction-waste-removal
+
+### B13: how-to-choose-a-junk-removal-company-dubai
+* **URL:** /blog/how-to-choose-a-junk-removal-company-dubai
+* **Primary Keyword:** how to choose a junk removal company dubai
+* **Secondary Keywords:** what to look for in a junk removal service, questions to ask a junk removal company, best junk removal companies dubai
+* **Images:** Cover: blogB13Cover, Body: blogB13Body
+* **Target Funnel:** /about, /contact
