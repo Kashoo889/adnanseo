@@ -2,8 +2,8 @@
 
 **Domain:** dubaijunkcollection.com
 **Total Target Articles:** 93
-**Published Articles:** 13 (14.0% of Total Roadmap)
-**Last Updated:** 2026-09-03
+**Published Articles:** 16 (17.2% of Total Roadmap)
+**Last Updated:** 2026-09-04
 
 ---
 
@@ -24,14 +24,17 @@
 | **B11** | *Where Does Your Junk Actually Go After Removal in Dubai?* | where-does-junk-go-after-removal-dubai | where does junk go after removal dubai | 14 | Q / I | Eco & Recycling | 2026-09-03 | Live |
 | **B12** | *Junk Removal vs. Skip Hire in Dubai: Which Is Faster, Cheaper, and Permit-Free?* | junk-removal-vs-skip-hire-dubai | junk removal vs skip hire dubai | 18 | I | Guides & Tips | 2026-09-03 | Live |
 | **B13** | *How to Choose a Junk Removal Company in Dubai: 7 Critical Questions to Ask* | how-to-choose-a-junk-removal-company-dubai | how to choose a junk removal company dubai | 18 | Q / I | Guides & Tips | 2026-09-03 | Live |
+| **B14** | *Same-Day vs. Next-Day Junk Removal in Dubai: Managing Urgent Building Handover Timelines* | same-day-vs-next-day-junk-removal-dubai | same day vs next day junk removal dubai | 18 | I / N | Guides & Tips | 2026-09-04 | Live |
+| **B15** | *The Ultimate Move-Out Checklist for Dubai Tenants: Getting Your Security Deposit Back* | move-out-checklist-dubai-tenants | move out checklist dubai tenants | 8, 20 | I / Q | Moving & Tenancy | 2026-09-04 | Live |
+| **B16** | *Leaving Dubai? What to Do with Unwanted Furniture, Electronics & Household Junk* | what-to-do-with-junk-when-leaving-uae | what to do with junk when leaving uae | 8, 20 | Q / I | Moving & Tenancy | 2026-09-04 | Live |
 
 ---
 
 ## Batch Publishing Status
 
 * **Batch 1: Cost, Pricing Transparency & Free Intercepts (B01–B07):** 7/7 Completed (100%)
-* **Batch 2: Municipality Rules, Skip Comparisons & Sustainability (B08–B14):** 6/7 Completed (86%)
-* **Batch 3: Expat Move-Outs, Handover Checklists & Situational Guides (B15–B21):** 0/7 (0%)
+* **Batch 2: Municipality Rules, Skip Comparisons & Sustainability (B08–B14):** 7/7 Completed (100%)
+* **Batch 3: Expat Move-Outs, Handover Checklists & Situational Guides (B15–B21):** 2/7 Completed (29%)
 * **Batch 4: Item-Specific How-To Dispose Snippet Series (B22–B31):** 0/10 (0%)
 * **Remaining Long-Tail & Cluster Articles (B32–B93):** 0/62 (0%)
 
@@ -129,3 +132,24 @@
 * **Secondary Keywords:** what to look for in a junk removal service, questions to ask a junk removal company, best junk removal companies dubai
 * **Images:** Cover: blogB13Cover, Body: blogB13Body
 * **Target Funnel:** /about, /contact
+
+### B14: same-day-vs-next-day-junk-removal-dubai
+* **URL:** /blog/same-day-vs-next-day-junk-removal-dubai
+* **Primary Keyword:** same day vs next day junk removal dubai
+* **Secondary Keywords:** same day junk removal dubai, junk removal company reviews dubai
+* **Images:** Cover: householdImg (placeholder), Body: teamImg (placeholder)
+* **Target Funnel:** /contact, /services
+
+### B15: move-out-checklist-dubai-tenants
+* **URL:** /blog/move-out-checklist-dubai-tenants
+* **Primary Keyword:** move out checklist dubai tenants
+* **Secondary Keywords:** how to get security deposit back dubai, moving house junk removal dubai, clearing a rental property dubai
+* **Images:** Cover: villaImg (placeholder), Body: furnitureImg (placeholder)
+* **Target Funnel:** /services/villa-apartment-cleanouts
+
+### B16: what-to-do-with-junk-when-leaving-uae
+* **URL:** /blog/what-to-do-with-junk-when-leaving-uae
+* **Primary Keyword:** what to do with junk when leaving uae
+* **Secondary Keywords:** expat leaving dubai furniture disposal, moving abroad furniture disposal dubai
+* **Images:** Cover: heroImg (placeholder), Body: applianceImg (placeholder)
+* **Target Funnel:** /services/furniture-removal, /services/villa-apartment-cleanouts
