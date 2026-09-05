@@ -2,8 +2,8 @@
 
 **Domain:** dubaijunkcollection.com
 **Total Target Articles:** 93
-**Published Articles:** 16 (17.2% of Total Roadmap)
-**Last Updated:** 2026-09-04
+**Published Articles:** 19 (20.4% of Total Roadmap)
+**Last Updated:** 2026-09-05
 
 ---
 
@@ -27,6 +27,9 @@
 | **B14** | *Same-Day vs. Next-Day Junk Removal in Dubai: Managing Urgent Building Handover Timelines* | same-day-vs-next-day-junk-removal-dubai | same day vs next day junk removal dubai | 18 | I / N | Guides & Tips | 2026-09-04 | Live |
 | **B15** | *The Ultimate Move-Out Checklist for Dubai Tenants: Getting Your Security Deposit Back* | move-out-checklist-dubai-tenants | move out checklist dubai tenants | 8, 20 | I / Q | Moving & Tenancy | 2026-09-04 | Live |
 | **B16** | *Leaving Dubai? What to Do with Unwanted Furniture, Electronics & Household Junk* | what-to-do-with-junk-when-leaving-uae | what to do with junk when leaving uae | 8, 20 | Q / I | Moving & Tenancy | 2026-09-04 | Live |
+| **B17** | *Villa Handover Guide for Dubai Landlords & Tenants: Avoiding Penalty Deductions* | villa-handover-guide-dubai | villa handover guide dubai | 8 | I | Moving & Tenancy | 2026-09-05 | Live |
+| **B18** | *Property Clearance for Landlords & Real Estate Agents in Dubai* | junk-removal-for-landlords-dubai | junk removal for landlords dubai | 20 | L / C | Commercial & Office | 2026-09-05 | Live |
+| **B19** | *Compassionate Deceased Estate & Hoarder Clearance in Dubai* | hoarder-cleanup-dubai | hoarder cleanup dubai | 20 | C / I | Moving & Tenancy | 2026-09-05 | Live |
 
 ---
 
@@ -34,7 +37,7 @@
 
 * **Batch 1: Cost, Pricing Transparency & Free Intercepts (B01–B07):** 7/7 Completed (100%)
 * **Batch 2: Municipality Rules, Skip Comparisons & Sustainability (B08–B14):** 7/7 Completed (100%)
-* **Batch 3: Expat Move-Outs, Handover Checklists & Situational Guides (B15–B21):** 2/7 Completed (29%)
+* **Batch 3: Expat Move-Outs, Handover Checklists & Situational Guides (B15–B21):** 5/7 Completed (71%)
 * **Batch 4: Item-Specific How-To Dispose Snippet Series (B22–B31):** 0/10 (0%)
 * **Remaining Long-Tail & Cluster Articles (B32–B93):** 0/62 (0%)
 
@@ -153,3 +156,24 @@
 * **Secondary Keywords:** expat leaving dubai furniture disposal, moving abroad furniture disposal dubai
 * **Images:** Cover: heroImg (placeholder), Body: applianceImg (placeholder)
 * **Target Funnel:** /services/furniture-removal, /services/villa-apartment-cleanouts
+
+### B17: villa-handover-guide-dubai
+* **URL:** /blog/villa-handover-guide-dubai
+* **Primary Keyword:** villa handover guide dubai
+* **Secondary Keywords:** villa handover checklist dubai, moving out of a villa in dubai, villa junk removal dubai
+* **Images:** Cover: blogB17Cover (AI-generated), Body: blogB17Body (AI-generated)
+* **Target Funnel:** /services/villa-apartment-cleanouts, /services/garden-green-waste-removal
+
+### B18: junk-removal-for-landlords-dubai
+* **URL:** /blog/junk-removal-for-landlords-dubai
+* **Primary Keyword:** junk removal for landlords dubai
+* **Secondary Keywords:** property management waste solutions dubai, abandoned furniture removal dubai, tenant left junk behind dubai
+* **Images:** Cover: blogB18Cover (AI-generated), Body: blogB18Body (AI-generated)
+* **Target Funnel:** /services/commercial-office-cleanouts, /services/villa-apartment-cleanouts
+
+### B19: hoarder-cleanup-dubai
+* **URL:** /blog/hoarder-cleanup-dubai
+* **Primary Keyword:** hoarder cleanup dubai
+* **Secondary Keywords:** hoarding cleanup services uae, compassionate decluttering dubai, estate clearance dubai
+* **Images:** Cover: blogB19Cover (AI-generated), Body: blogB19Body (AI-generated)
+* **Target Funnel:** /services/villa-apartment-cleanouts, /contact
