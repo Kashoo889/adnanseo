@@ -1,5 +1,5 @@
 import { Phone } from "lucide-react";
-import { site } from "@/config/site";
+import { site, getWhatsAppHref } from "@/config/site";
 import { WhatsAppIcon } from "./WhatsAppIcon";
 
 export function FloatingButtons() {
@@ -23,7 +23,7 @@ export function FloatingButtons() {
             <Phone aria-hidden className="h-5 w-5" /> Call
           </a>
           <a
-            href={site.whatsappHref}
+            href={getWhatsAppHref()}
             aria-label={`Chat on WhatsApp at ${site.whatsapp}`}
             className="inline-flex min-h-12 items-center justify-center gap-2 rounded-full bg-[#25D366] px-4 text-sm font-medium text-white shadow-[0_8px_24px_-10px_rgba(37,211,102,0.7)] transition-transform active:scale-[0.98]"
             style={{ fontFamily: "var(--font-display)" }}
@@ -45,7 +45,7 @@ export function FloatingButtons() {
           md+ only so it never conflicts with the mobile bottom bar. */}
       <div className="fixed bottom-5 right-5 z-50 hidden flex-col gap-3 md:flex sm:bottom-8 sm:right-8">
         <a
-          href={site.whatsappHref}
+          href={getWhatsAppHref()}
           aria-label="Chat on WhatsApp"
           className="group grid h-14 w-14 place-items-center rounded-full bg-[#25D366] text-white shadow-[0_10px_30px_-8px_rgba(37,211,102,0.6)] transition-transform hover:-translate-y-0.5"
         >

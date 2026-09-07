@@ -6,7 +6,7 @@ import heroImg from "@/assets/hero-main.jpg";
 import skylineImg from "@/assets/dubai-skyline.jpg";
 import { services } from "@/config/services";
 import { areaGroups, areas } from "@/config/areas";
-import { site, absoluteUrl } from "@/config/site";
+import { site, absoluteUrl, getWhatsAppHref } from "@/config/site";
 import { SectionHeader } from "@/components/site/SectionHeader";
 import { CTASection } from "@/components/site/CTASection";
 
@@ -149,7 +149,7 @@ export default function Home() {
             </p>
             <div className="mt-8 flex flex-wrap items-center gap-3">
               <a
-                href={site.whatsappHref}
+                href={getWhatsAppHref()}
                 className="inline-flex items-center gap-2 rounded-full bg-[color:var(--color-ink)] px-6 py-3.5 text-sm font-medium text-[color:var(--color-cream)] transition-transform hover:-translate-y-0.5"
                 style={{ fontFamily: "var(--font-display)" }}
               >

@@ -1,4 +1,4 @@
-import { site } from "@/config/site";
+import { site, getWhatsAppHref } from "@/config/site";
 import { Phone } from "lucide-react";
 import { WhatsAppIcon } from "./WhatsAppIcon";
 
@@ -28,7 +28,7 @@ export function CTASection({
           <p className="mx-auto mt-5 max-w-xl text-base text-white/85">{body}</p>
           <div className="mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row">
             <a
-              href={site.whatsappHref}
+              href={getWhatsAppHref()}
               aria-label="Message us on WhatsApp"
               className="inline-flex items-center gap-2 rounded-full bg-[color:var(--color-cream)] px-6 py-3 text-sm font-medium text-[color:var(--color-ink)] transition-transform hover:-translate-y-0.5"
               style={{ fontFamily: "var(--font-display)" }}

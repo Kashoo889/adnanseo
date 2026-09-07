@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { Phone, MapPin } from "lucide-react";
-import { site } from "@/config/site";
+import { site, getWhatsAppHref } from "@/config/site";
 import { services } from "@/config/services";
 import { areas } from "@/config/areas";
 
@@ -20,7 +20,7 @@ export function Footer() {
           </p>
           <div className="mt-6 flex flex-wrap gap-3">
             <a
-              href={site.whatsappHref}
+              href={getWhatsAppHref()}
               className="inline-flex items-center rounded-full bg-[color:var(--color-ink)] px-5 py-2.5 text-sm font-medium text-[color:var(--color-cream)] transition-transform hover:-translate-y-0.5"
               style={{ fontFamily: "var(--font-display)" }}
             >

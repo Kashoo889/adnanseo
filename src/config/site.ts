@@ -16,6 +16,11 @@ export const site = {
   url: "https://dubaijunkcollection.com",
 } as const;
 
+// Default greeting pre-filled into WhatsApp when a CTA has no page-specific
+// message (floating buttons, navbar, footer, hero and contact CTAs). Keeping it
+// here means the wording only ever changes in one place.
+export const defaultWhatsAppMessage = "Hi, I want to avail your junk collection service";
+
 // Build an absolute URL from a path when the production domain is configured.
 // Falls back to the relative path while `site.url` is empty.
 export const absoluteUrl = (path: string) => {
@@ -23,9 +28,8 @@ export const absoluteUrl = (path: string) => {
   return `${site.url}${path.startsWith("/") ? path : `/${path}`}`;
 };
 
-// Returns a direct WhatsApp click-to-chat URL, optionally pre-filling a customer greeting.
-export const getWhatsAppHref = (message?: string) => {
-  if (!message) return site.whatsappHref;
-  return `${site.whatsappHref}?text=${encodeURIComponent(message)}`;
-};
+// Returns a direct WhatsApp click-to-chat URL with a pre-filled customer
+// greeting. Falls back to `defaultWhatsAppMessage` when no message is passed.
+export const getWhatsAppHref = (message: string = defaultWhatsAppMessage) =>
+  `${site.whatsappHref}?text=${encodeURIComponent(message)}`;
 

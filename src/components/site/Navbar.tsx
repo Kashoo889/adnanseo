@@ -4,7 +4,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
 import { Menu, X, Phone } from "lucide-react";
-import { site } from "@/config/site";
+import { site, getWhatsAppHref } from "@/config/site";
 
 const nav = [
   { to: "/", label: "Home" },
@@ -93,7 +93,7 @@ export function Navbar() {
             <Phone aria-hidden className="h-4 w-4" /> {site.phone}
           </a>
           <a
-            href={site.whatsappHref}
+            href={getWhatsAppHref()}
             className="inline-flex items-center rounded-full bg-[color:var(--color-ink)] px-5 py-2.5 text-sm font-medium text-[color:var(--color-cream)] transition-transform hover:-translate-y-0.5"
             style={{ fontFamily: "var(--font-display)" }}
           >
@@ -139,7 +139,7 @@ export function Navbar() {
                 Call
               </a>
               <a
-                href={site.whatsappHref}
+                href={getWhatsAppHref()}
                 className="flex-1 rounded-full bg-[color:var(--color-ink)] px-4 py-3 text-center text-sm text-[color:var(--color-cream)]"
                 style={{ fontFamily: "var(--font-display)" }}
               >
