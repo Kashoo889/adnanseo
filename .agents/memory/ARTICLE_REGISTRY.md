@@ -2,15 +2,15 @@
 
 **Domain:** dubaijunkcollection.com
 **Total Target Articles:** 93
-**Published Articles:** 19 (20.4% of Total Roadmap)
-**Last Updated:** 2026-09-05
+**Published Articles:** 22 (23.7% of Total Roadmap)
+**Last Updated:** 2026-09-07
 
 ---
 
 ## Published Articles Index
 
 | ID | Title | Slug | Primary Keyword | Cluster | Intent | Category | Published Date | Status |
-| :-: | :--- | :--- | :--- | :-: | :---: | :--- | :-: | :-: |
+| :-: | :--- | :--- | :--- | :-: | :--- | :--- | :-: | :-: |
 | **B01** | *Dubai Junk Removal Cost Guide: Realistic Pricing & Truck Load Rates* | dubai-junk-removal-cost-guide | junk removal cost dubai | 12 | C / Q | Guides & Tips | 2026-08-30 | Live |
 | **B02** | *How Much Does Old Furniture & Sofa Removal Cost in Dubai?* | furniture-removal-cost-dubai | furniture removal cost dubai | 12 | C | Guides & Tips | 2026-08-31 | Live |
 | **B03** | *Villa Cleanout & Handover Clearance Cost in Dubai: A Full Breakdown* | villa-clearance-cost-dubai | villa clearance cost dubai | 12 | C | Moving & Tenancy | 2026-08-31 | Live |
@@ -30,6 +30,9 @@
 | **B17** | *Villa Handover Guide for Dubai Landlords & Tenants: Avoiding Penalty Deductions* | villa-handover-guide-dubai | villa handover guide dubai | 8 | I | Moving & Tenancy | 2026-09-05 | Live |
 | **B18** | *Property Clearance for Landlords & Real Estate Agents in Dubai* | junk-removal-for-landlords-dubai | junk removal for landlords dubai | 20 | L / C | Commercial & Office | 2026-09-05 | Live |
 | **B19** | *Compassionate Deceased Estate & Hoarder Clearance in Dubai* | hoarder-cleanup-dubai | hoarder cleanup dubai | 20 | C / I | Moving & Tenancy | 2026-09-05 | Live |
+| **B20** | *Seasonal Decluttering in Dubai: Ramadan, New Year & Post-Summer Cleanouts* | ramadan-home-clearing-dubai | ramadan home clearing dubai | 20 | I | Guides & Tips | 2026-09-07 | Live |
+| **B21** | *Downsizing Your Home in Dubai: Garage & Storeroom Decluttering Strategies* | downsizing-home-dubai-tips | downsizing home dubai tips | 20 | I / C | Moving & Tenancy | 2026-09-07 | Live |
+| **B22** | *How to Safely Dispose of Old Furniture & Broken Wardrobes in Dubai* | how-to-dispose-of-old-furniture-in-dubai | how to dispose of old furniture in dubai | 3 | Q | Guides & Tips | 2026-09-07 | Live |
 
 ---
 
@@ -37,9 +40,9 @@
 
 * **Batch 1: Cost, Pricing Transparency & Free Intercepts (B01–B07):** 7/7 Completed (100%)
 * **Batch 2: Municipality Rules, Skip Comparisons & Sustainability (B08–B14):** 7/7 Completed (100%)
-* **Batch 3: Expat Move-Outs, Handover Checklists & Situational Guides (B15–B21):** 5/7 Completed (71%)
-* **Batch 4: Item-Specific How-To Dispose Snippet Series (B22–B31):** 0/10 (0%)
-* **Remaining Long-Tail & Cluster Articles (B32–B93):** 0/62 (0%)
+* **Batch 3: Expat Move-Outs, Handover Checklists & Situational Guides (B15–B21):** 7/7 Completed (100%)
+* **Batch 4: Item-Specific How-To Dispose Snippet Series (B22–B31):** 1/10 (10%)
+* **Remaining Long-Tail & Cluster Articles (B32–B93):** 0/61 (0%)
 
 ---
 
@@ -177,3 +180,24 @@
 * **Secondary Keywords:** hoarding cleanup services uae, compassionate decluttering dubai, estate clearance dubai
 * **Images:** Cover: blogB19Cover (AI-generated), Body: blogB19Body (AI-generated)
 * **Target Funnel:** /services/villa-apartment-cleanouts, /contact
+
+### B20: ramadan-home-clearing-dubai
+* **URL:** /blog/ramadan-home-clearing-dubai
+* **Primary Keyword:** ramadan home clearing dubai
+* **Secondary Keywords:** new year decluttering dubai, end of summer villa clearout dubai, spring cleaning junk removal dubai
+* **Images:** Cover: householdImg, Body: gardenImg
+* **Target Funnel:** /services/household-junk-removal
+
+### B21: downsizing-home-dubai-tips
+* **URL:** /blog/downsizing-home-dubai-tips
+* **Primary Keyword:** downsizing home dubai tips
+* **Secondary Keywords:** garage clearance dubai, storeroom clearance dubai, junk removal after moving dubai
+* **Images:** Cover: villaImg, Body: teamImg
+* **Target Funnel:** /services/household-junk-removal
+
+### B22: how-to-dispose-of-old-furniture-in-dubai
+* **URL:** /blog/how-to-dispose-of-old-furniture-in-dubai
+* **Primary Keyword:** how to dispose of old furniture in dubai
+* **Secondary Keywords:** can you throw away furniture in dubai, broken furniture disposal dubai, wardrobe removal dubai
+* **Images:** Cover: furnitureImg, Body: householdImg
+* **Target Funnel:** /services/furniture-removal

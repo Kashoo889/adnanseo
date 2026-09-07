@@ -2379,6 +2379,363 @@ export const blogPosts: BlogPost[] = [
     ],
     relatedSlugs: ["villa-handover-guide-dubai", "junk-removal-for-landlords-dubai", "what-to-do-with-junk-when-leaving-uae"],
   },
+  {
+    slug: "ramadan-home-clearing-dubai",
+    title: "Seasonal Decluttering in Dubai: Ramadan, New Year & Post-Summer Cleanouts",
+    excerpt:
+      "Plan your seasonal home cleanout in Dubai. Expert timing guides for pre-Ramadan hospitality prep, post-summer villa reorganizing, and New Year decluttering resets.",
+    category: "Guides & Tips",
+    coverImage: householdImg,
+    coverImageAlt: "Spacious and decluttered Dubai living room prepared for seasonal family gatherings",
+    publishedAt: "2026-09-07",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: [
+      "Ramadan Home Clearing Dubai",
+      "New Year Decluttering Dubai",
+      "End of Summer Villa Clearout Dubai",
+      "Spring Cleaning Junk Removal Dubai",
+      "Seasonal Decluttering UAE",
+    ],
+    seoTitle: "Seasonal Decluttering in Dubai: Ramadan, New Year & Summer Cleanouts",
+    seoDescription:
+      "Master seasonal decluttering in Dubai. Practical timelines for Ramadan preparation, post-summer AC storeroom resets, and booking bulk waste clearances.",
+    keyTakeaways: [
+      "Dubai homes follow distinct seasonal decluttering rhythms: pre-Ramadan majlis prep (Feb–Mar), post-summer indoor resets (Sept–Oct), and New Year lifestyle overhauls (Dec–Jan).",
+      "Pre-Ramadan cleanouts focus on expanding living and dining spaces, clearing spare guest bedrooms, and donating gently used textiles and furniture to UAE charities.",
+      "Post-summer clearances tackle heat-damaged balcony furniture, dry palm fronds, humid storerooms, and dust-accumulated garage storage.",
+      "Donation queues peak 2–3 weeks before Ramadan; scheduling charity donations or private eco-clearance early guarantees collection before the Holy Month begins.",
+      "Insured, professional junk removal teams can clear unwanted furniture, obsolete electronics, and seasonal garden debris in a single 2-hour scheduled visit.",
+    ],
+    sections: [
+      {
+        heading: "Seasonal decluttering rhythms in Dubai homes and villas",
+        paragraphs: [
+          "Effective seasonal decluttering in Dubai aligns with three major calendar milestones: pre-Ramadan home preparation to accommodate family gatherings and charitable giving, post-summer outdoor restorations after extreme desert heat, and New Year cleanouts to clear accumulated consumer goods and storeroom overflow before annual lease renewals.",
+          "Living in Dubai brings unique seasonal pressures. Between international travel cycles, high summer humidity, and vibrant holiday hospitality, homes accumulate unused items rapidly. Understanding when and how to purge clutter keeps apartments and villas functional throughout the year.",
+        ],
+      },
+      {
+        heading: "Pre-Ramadan home clearing: preparing your space for hospitality",
+        paragraphs: [
+          "In the weeks leading up to the Holy Month, homes across Dubai undergo substantial refreshes. The focus centers on creating open, serene environments for prayer, reflection, and hosting family iftars and suhoors:",
+        ],
+        bulletPoints: [
+          "Opening Majlis and Dining Areas: Replace or remove oversized, damaged seating, worn occasional chairs, and redundant side tables to accommodate larger dining setups and guest floor cushions.",
+          "Kitchen and Pantry Overhauls: Clear out expired pantry staples, duplicate small appliances (old blenders, broken air fryers), and chipped cookware to make room for festive meal preparation.",
+          "Guest Room Preparation: Empty secondary bedroom wardrobes and storerooms of overflow luggage and seasonal storage to welcome visiting relatives comfortably.",
+          "Charity Donation Window: Registered UAE humanitarian charities—such as Emirates Red Crescent, Beit Al Khair, and Dar Al Ber—experience peak demand. Schedule donation drop-offs or collections at least 15 days before Ramadan starts.",
+        ],
+        callout: {
+          type: "tip",
+          title: "The Ramadan Collection Rush",
+          text: "Charity collection slots and municipal bulky item pickup schedules book up completely 10 to 14 days before Ramadan. If you have bulky sofas or large dining sets to clear, arrange private collection well in advance.",
+        },
+      },
+      {
+        heading: "End of summer villa clearouts: recovering from extreme heat",
+        paragraphs: [
+          "By late September and October, as temperatures drop from peak summer highs of 45°C+ to pleasant outdoor weather, Dubai residents reclaim their balconies, gardens, and courtyards:",
+        ],
+        bulletPoints: [
+          "Sun-Damaged Outdoor Furniture: UAE summer UV radiation and extreme heat severely degrade synthetic rattan, plastic loungers, and canvas umbrella shades, turning them brittle and splintered.",
+          "Garden and Pergola Revival: Clear dry, fallen palm branches, expired planter boxes, and accumulated desert sand drift from patio interlocks before the winter outdoor dining season.",
+          "Balcony and Storeroom Purge: Balconies often become catch-all dumping zones during four months of indoor confinement. Clearing them restores skyline views and ventilation.",
+        ],
+        image: gardenImg,
+        imageAlt: "Restored Dubai villa outdoor garden and patio area cleared of summer debris and dried foliage",
+        imageCaption: "Post-summer outdoor cleanouts prepare Dubai villa gardens, patios, and pergolas for winter outdoor entertaining.",
+      },
+      {
+        heading: "New Year and spring decluttering: annual resets and lease reviews",
+        paragraphs: [
+          "January brings cooler weather and the classic 'fresh start' mindset, coinciding with the busiest lease renewal cycle in Dubai:",
+        ],
+        bulletPoints: [
+          "The 'One-Year Rule' for Storerooms: If an appliance, boxed gadget, or suitcase of clothing has remained untouched in your under-stair storeroom or apartment laundry cupboard for 12 months, it is time to haul it away.",
+          "Kids' Playroom Clearout: Sort through outgrown toys, broken plastic scooters, and outdated study desks following the winter festive gift influx.",
+          "Pre-Renewal Assessment: If you plan to downsize or renegotiate your tenancy at your annual Ejari expiry, decluttering early prevents expensive last-minute panic clearances.",
+        ],
+      },
+      {
+        heading: "Responsible disposal vs. donation across the seasons",
+        paragraphs: [
+          "When conducting a major seasonal home clearing in Dubai, categorize your items systematically:",
+          "Gently used, clean furniture, operational appliances, and wearable clothing should be channeled to registered UAE charities or textile banks located at community mosques and retail centers.",
+          "Heavily stained mattresses, broken chipboard wardrobes, shattered patio glass, and expired electronics must not be dumped in community bin rooms or on road verges, which incurs municipal fines up to AED 1,000. Professional haulers route these materials directly to Tadweer-licensed recycling centers and sorting hubs.",
+        ],
+      },
+      {
+        heading: "Stress-free seasonal cleanouts with Dubai Junk Collection",
+        paragraphs: [
+          "Whether you need an urgent pre-Ramadan furniture haulage or a complete post-summer garden and balcony clearout, Dubai Junk Collection provides rapid, reliable service.",
+          "Our uniformed teams handle heavy lifting, dismantling, and transport across all 49 Dubai communities. Send us photos of your seasonal clutter on WhatsApp for an immediate, upfront flat rate.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "When is the best time to start pre-Ramadan decluttering in Dubai?",
+        answer:
+          "We recommend starting your decluttering 3 to 4 weeks before Ramadan. This allows ample time to sort donation items, schedule charity pickups before their rosters fill, and have heavy furniture hauled away smoothly.",
+      },
+      {
+        question: "Can Dubai Junk Collection clear heat-damaged garden pergolas and outdoor furniture?",
+        answer:
+          "Yes. Our crews carry battery power tools to safely dismantle sun-damaged timber pergolas, warped composite decking, rusted trampolines, and brittle patio sets, hauling them directly to licensed recycling and waste management facilities.",
+      },
+      {
+        question: "Do you collect seasonal junk during Ramadan working hours?",
+        answer:
+          "Yes. We adjust our operational schedule during Ramadan to accommodate residential community quiet hours and building management rules, offering convenient morning and post-iftar evening collection appointments.",
+      },
+      {
+        question: "How do I ensure items I discard are recycled rather than sent to landfill?",
+        answer:
+          "Dubai Junk Collection partners with licensed UAE materials recovery facilities. Unusable wood, metals, plastics, and paper are segregated at our sorting transfer depot and directed into secondary raw material processing streams.",
+      },
+    ],
+    relatedSlugs: ["move-out-checklist-dubai-tenants", "where-to-donate-furniture-dubai", "free-vs-paid-junk-removal-dubai"],
+  },
+  {
+    slug: "downsizing-home-dubai-tips",
+    title: "Downsizing Your Home in Dubai: Garage & Storeroom Decluttering Strategies",
+    excerpt:
+      "Transitioning to a smaller apartment or townhouse? Master the art of downsizing in Dubai with practical room-by-room sorting rules, garage clearances, and storage audits.",
+    category: "Moving & Tenancy",
+    coverImage: villaImg,
+    coverImageAlt: "Modern organized Dubai home showing efficient storage and decluttered living space during downsizing",
+    publishedAt: "2026-09-07",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: [
+      "Downsizing Home Dubai Tips",
+      "Garage Clearance Dubai",
+      "Storeroom Clearance Dubai",
+      "Junk Removal After Moving Dubai",
+      "Apartment Downsizing UAE",
+    ],
+    seoTitle: "Downsizing Home in Dubai: Garage & Storeroom Decluttering Guide",
+    seoDescription:
+      "Essential guide to downsizing your home in Dubai. Learn how to clear packed garages, sort under-stair storerooms, and transition into smaller apartments seamlessly.",
+    keyTakeaways: [
+      "Downsizing from a large villa (e.g., Arabian Ranches, JGE) to a central apartment (Downtown, Marina, JVC) often requires shedding 30% to 50% of your bulky furniture and storage volume.",
+      "Dubai garages and secondary storerooms accumulate high volumes of obsolete goods—camping gear, broken luggage, duplicate kitchenware, and expired home gym weights.",
+      "The 'Floor Plan Rule': Measure elevator dimensions, door widths, and living room layout in your new property before deciding which large sectional sofas or king wardrobes to keep.",
+      "Renting long-term self-storage in Dubai often costs more over 12 months than the depreciated market value of stored flatpack furniture.",
+      "Organizing a pre-move professional junk removal collection eliminates moving truck fees for items you will inevitably discard upon arrival.",
+    ],
+    sections: [
+      {
+        heading: "Downsizing home in Dubai: the strategic transition",
+        paragraphs: [
+          "Downsizing your home in Dubai requires systematically auditing furniture scale against your new floor plan, purging long-neglected garage and storeroom caches, eliminating duplicate appliances, and booking professional bulk clearance at least 7 to 10 days before move day to prevent paying relocation crews to transport items you no longer need.",
+          "Whether children have left for university, you are relocating closer to central business hubs like DIFC or Business Bay, or you are choosing to lower annual lease expenses, transitioning from an expansive 4-bedroom villa to a streamlined 2-bedroom townhouse or high-rise apartment is a significant lifestyle shift. Without disciplined decluttering, apartment spaces quickly become overwhelmed.",
+        ],
+      },
+      {
+        heading: "The true cost of holding onto clutter: storage units vs. clearance",
+        paragraphs: [
+          "Many Dubai residents facing a downsize hesitate to discard bulky items, choosing instead to hire self-storage units in Al Quoz, DIP, or Ras Al Khor. However, the financial arithmetic rarely supports long-term storage of standard consumer goods:",
+        ],
+        bulletPoints: [
+          "Annual Rental Costs: A standard 50–100 sq. ft. secure self-storage unit in Dubai costs between AED 6,000 and AED 14,000 per year.",
+          "Depreciation Reality: Standard particle-board wardrobes, dining sets, and second-tier appliances depreciate by over 70% within 3 years. Paying thousands in annual storage fees to preserve AED 2,000 worth of furniture is an expensive financial trap.",
+          "The Liberation of Purging: Clearing surplus items permanently frees mental bandwidth and provides immediate financial clarity.",
+        ],
+        callout: {
+          type: "warning",
+          title: "The Self-Storage Trap",
+          text: "Over 65% of items placed into Dubai storage units during a downsize are never retrieved by the owner and end up being hauled away 18 to 24 months later after thousands in rent have been spent.",
+        },
+      },
+      {
+        heading: "Tackling the garage clearance: reclaiming desert storage zones",
+        paragraphs: [
+          "In Dubai villa communities, garages quickly evolve into hot, dusty dumping grounds for items that cannot fit inside air-conditioned living spaces:",
+        ],
+        bulletPoints: [
+          "Desert & Outdoor Gear: Expired dune-bashing sandboards, dry-rotted camping gazebos, warped pop-up tents, and punctured inflatable swimming pools from previous summers.",
+          "Disused Sports & Fitness Equipment: Heavy iron barbells, rusted exercise bikes, deflated paddleboards, and broken tennis ball machines that will not fit into apartment buildings.",
+          "Home Improvement Leftovers: Dried paint cans, half-used bags of interlock tile cement, and spare ceramic tiles leftover from previous villa modifications that cannot legally be dumped in standard community skips.",
+          "Automotive & Tool Storage: Clear out broken toolboxes, duplicate jacks, and old tires to ensure vehicles or compact mobility gear fit neatly.",
+        ],
+        image: teamImg,
+        imageAlt: "Uniformed crew sorting and loading heavy garage clearance items into a transport truck in a Dubai suburban villa driveway",
+        imageCaption: "A structured garage clearance eliminates years of accumulated outdoor gear, tools, and expired sporting equipment.",
+      },
+      {
+        heading: "Conquering internal storerooms and under-stair cupboards",
+        paragraphs: [
+          "Indoor storerooms in Dubai homes often harbor surprisingly dense collections of obsolete possessions. Apply the strict 'Three-Box Method' when sorting:",
+        ],
+        bulletPoints: [
+          "Keep Box: Daily essentials, high-value sentimental keepsakes, and furniture that precisely matches your new apartment's architectural layout.",
+          "Donate / Sell Box: Working electronic devices, intact spare luggage, quality baby strollers, and good-condition clothing suitable for UAE charity drops or online marketplaces.",
+          "Junk & Recycle Box: Stripped charging cables, warped shelving, mold-damaged storage cartons, outdated textbooks, and worn-out bedding.",
+        ],
+      },
+      {
+        heading: "Junk removal after moving: clearing leftover packing waste",
+        paragraphs: [
+          "Even the most meticulous downsizing moves generate post-move debris at your new property. Unpacking reveals excess corrugated boxes, polystyrene foam padding, bubble wrap, and items that simply do not look right in the new layout.",
+          "Dubai residential towers enforce strict policies prohibiting tenants from leaving flattened moving boxes or discarded side tables in communal corridors, trash chute rooms, or basement car parks. Arranging a post-move cleanout sweeps the property clear in a single appointment.",
+        ],
+      },
+      {
+        heading: "Seamless downsizing assistance with Dubai Junk Collection",
+        paragraphs: [
+          "Downsizing should be an invigorating new chapter, not an exhausting physical ordeal. Dubai Junk Collection helps homeowners and tenants clear years of accumulated clutter quickly and affordably.",
+          "Our polite, uniformed crews arrive with all required equipment, disassemble unwanted furniture, pack heavy garage waste, and transport everything away according to Dubai Municipality environmental guidelines. WhatsApp our clearance team today for a transparent, instant quotation.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "How long before moving should I start downsizing my Dubai home?",
+        answer:
+          "Start your decluttering process at least 4 to 6 weeks prior to your move date. Begin with high-volume storage areas like the garage, balcony, and under-stair cupboards before moving into everyday bedrooms and living areas.",
+      },
+      {
+        question: "What furniture items should I almost always discard when moving from a villa to an apartment?",
+        answer:
+          "Oversized 8-to-10-seater dining tables, expansive L-shaped modular sectionals, large wooden patio pergolas, and freestanding double-door wardrobes often will not fit through apartment building elevators or within compact apartment floor plans.",
+      },
+      {
+        question: "How can I dispose of half-empty paint tins and household chemicals during a garage cleanout?",
+        answer:
+          "Standard community bins strictly prohibit wet paints, chemicals, and motor oils. Dubai Junk Collection coordinates with specialized hazardous and commercial disposal channels to ensure chemical waste is treated compliant with local environmental laws.",
+      },
+      {
+        question: "Can your team clear my garage while I am busy at work?",
+        answer:
+          "Yes. If you tag or group items clearly and arrange security gate pass permissions with your villa community management, our team can complete the clearance, send timestamped completion photos, and provide digital invoice settlement.",
+      },
+    ],
+    relatedSlugs: ["move-out-checklist-dubai-tenants", "villa-handover-guide-dubai", "where-to-donate-furniture-dubai"],
+  },
+  {
+    slug: "how-to-dispose-of-old-furniture-in-dubai",
+    title: "How to Safely Dispose of Old Furniture & Broken Wardrobes in Dubai",
+    excerpt:
+      "Learn how to legally dispose of old furniture and broken wardrobes in Dubai. Compare municipality bulky waste rules, recycling options, building NOCs, and avoid AED 500+ dumping fines.",
+    category: "Guides & Tips",
+    coverImage: furnitureImg,
+    coverImageAlt: "Disassembled wooden wardrobe and furniture components ready for safe, compliant disposal in Dubai",
+    publishedAt: "2026-09-07",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: [
+      "How to Dispose of Old Furniture in Dubai",
+      "Can You Throw Away Furniture in Dubai",
+      "Broken Furniture Disposal Dubai",
+      "Wardrobe Removal Dubai",
+      "Furniture Collection Dubai",
+    ],
+    seoTitle: "How to Dispose of Old Furniture in Dubai: Legal Rules & Options",
+    seoDescription:
+      "Step-by-step guide to disposing of old furniture and broken wardrobes in Dubai. Discover legal collection methods, municipality rules, and avoid dumping fines.",
+    keyTakeaways: [
+      "Discarding old furniture in residential bin rooms, parking bays, or pavement verges is strictly illegal in Dubai, carrying municipal fines between AED 500 and AED 1,000.",
+      "Dubai Municipality operates a bulky waste collection service for certain UAE citizens and residential areas, but private tenants and gated communities often face waiting periods of up to 7–14 days.",
+      "Large wooden wardrobes, custom shelving, and heavy bed frames must be professionally disassembled before removal to prevent wall scuffs and elevator door damage in apartment towers.",
+      "Solid timber and metal furniture components are 100% recyclable at UAE material recovery facilities, whereas broken chipboard and MDF are routed for eco-compliant processing.",
+      "Professional junk removal companies offer same-day furniture dismantling, loading, and disposal with zero building permits or heavy lifting required from the tenant.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of old furniture in Dubai legally and safely",
+        paragraphs: [
+          "To dispose of old furniture in Dubai legally, you must either book a bulky waste collection through Dubai Municipality, donate functional pieces to a registered charity, transport items to an authorized waste management station, or hire a licensed private junk removal company to dismantle and haul the items away—never abandon furniture in common bin rooms or on the street, which violates Dubai Municipality Local Order No. 11 of 2003.",
+          "Across Dubai's high-rise towers and gated villa communities, old furniture disposal is one of the most frequent challenges residents face. Heavy chipboard wardrobes, sagging sofas, and cracked dining tables cannot simply be dragged to the building garbage chute or left outside your villa gate.",
+        ],
+      },
+      {
+        heading: "Can you throw away furniture in Dubai trash rooms?",
+        paragraphs: [
+          "A common misconception among Dubai newcomers is that building trash rooms or villa community wheelie bins accommodate furniture. They do not:",
+        ],
+        bulletPoints: [
+          "Chute and Room Obstruction: Placing broken chairs, disassembled drawers, or mattresses in high-rise garbage rooms blocks fire escape corridors and triggers building maintenance warnings.",
+          "CCTV Monitoring and Direct Fines: Most major community developers (such as Emaar, Nakheel, DAMAC, and Union Properties) actively monitor waste disposal areas with CCTV. Offending units receive automated security fines ranging from AED 500 to AED 1,000, charged directly to the landlord or tenant account.",
+          "Compactor Damage: Standard building waste compactors cannot crush wooden wardrobe frames or metal bed springs, risking thousands of dirhams in mechanical repair liabilities.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Municipal Dumping Fines",
+          text: "Under Dubai Municipality regulations, abandoning bulky furniture or commercial debris in public spaces, desert areas, or unauthorized curbsides carries strict fines starting at AED 500, escalating for repeat violations.",
+        },
+      },
+      {
+        heading: "Dismantling large wardrobes and wall units safely",
+        paragraphs: [
+          "Attempting to move fully assembled multi-door wardrobes, king-size bed frames, or six-shelf bookcases through Dubai apartments often causes costly property damage:",
+        ],
+        bulletPoints: [
+          "Elevator & Hallway Scuffs: Navigating large furniture through narrow turns scuffs hallway paint, damages plasterboard, and dents elevator trim—costing tenants valuable security deposit money during handover.",
+          "Tool Requirements: Disassembling modern flatpack furniture requires battery drills, hex keys, and rubber mallets to detach heavy mirror doors, cam locks, and back panels safely.",
+          "Weight Distribution: Breaking items down into manageable flat panels protects your back and allows single-trip transport through service corridors.",
+        ],
+        image: householdImg,
+        imageAlt: "Technician dismantling a large wooden wardrobe into flat panels for safe transport through an apartment service elevator in Dubai",
+        imageCaption: "Systematic furniture disassembly prevents wall scuffs, elevator damage, and injury during removal.",
+      },
+      {
+        heading: "Disposal pathways: Municipality vs. charity vs. licensed removal",
+        paragraphs: [
+          "Depending on the condition of your furniture and your moving timeline, you have three primary disposal routes in Dubai:",
+        ],
+        table: {
+          caption: "Comparison of Old Furniture Disposal Methods in Dubai",
+          headers: ["Method", "Turnaround Time", "Cost", "Labor Included?", "Best For"],
+          rows: [
+            ["Dubai Municipality Bulky Waste", "3 to 14 business days", "Free (eligible areas)", "Curbside pickup only (no indoor carry)", "Patients who can wait and carry items outdoors"],
+            ["Registered UAE Charities", "3 to 7 business days", "Free", "Limited (will reject damaged goods)", "Clean, undamaged, reusable furniture only"],
+            ["Licensed Private Junk Removal", "Same-day / Next-day", "Modest fixed fee", "Full indoor labor, dismantling & cleanup included", "Broken furniture, urgent handovers, zero-hassle clearance"],
+          ],
+        },
+      },
+      {
+        heading: "What happens to broken furniture after disposal?",
+        paragraphs: [
+          "Responsible disposal does not mean dumping in desert landfills. Dubai Junk Collection prioritizes environmental recovery in line with the UAE Net Zero 2050 strategic initiative:",
+          "Solid timber and clean wood components are segregated and transferred to certified wood processing plants, where they are shredded into mulch, animal bedding, or composite boards.",
+          "Metal brackets, hinges, drawer slides, and screws are sorted into ferrous scrap streams for local metallurgical recycling.",
+          "Non-recyclable chipboard and damaged foam are delivered to authorized municipal waste-to-energy facilities, minimizing landfill impact.",
+        ],
+      },
+      {
+        heading: "Effortless furniture collection with Dubai Junk Collection",
+        paragraphs: [
+          "Don't struggle with heavy power tools, narrow stairwells, or strict building management security desks. Dubai Junk Collection makes furniture disposal in Dubai completely effortless.",
+          "Our polite, insured team disassembles wardrobes, carries heavy pieces from any floor, and ensures 100% compliant, eco-friendly disposal. Send a photo of your furniture on WhatsApp for an immediate flat-rate price.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can I leave an old sofa or wardrobe next to the community garbage bin in Dubai?",
+        answer:
+          "No. Leaving furniture next to community bins is considered illegal dumping under Dubai Municipality rules. Community management will review security camera footage and issue fines between AED 500 and AED 1,000 to your apartment or villa.",
+      },
+      {
+        question: "Does Dubai Junk Collection dismantle large wardrobes before removing them?",
+        answer:
+          "Yes. Our crew brings all necessary power tools to disassemble large wardrobes, wall units, bunk beds, and modular desks quickly and quietly, ensuring zero damage to your walls, doors, or elevator.",
+      },
+      {
+        question: "Can you remove furniture on the same day in Dubai?",
+        answer:
+          "Yes. We offer rapid same-day furniture removal across all Dubai areas. Our trucks can typically arrive at your property within 60 to 90 minutes of your WhatsApp booking confirmation.",
+      },
+      {
+        question: "Will you remove broken chipboard furniture that charities refuse to accept?",
+        answer:
+          "Yes. While charities only take pristine, reusable items, Dubai Junk Collection accepts all furniture regardless of condition, including broken, water-damaged, or termite-infested furniture.",
+      },
+    ],
+    relatedSlugs: ["furniture-removal-cost-dubai", "free-vs-paid-junk-removal-dubai", "dubai-waste-disposal-rules"],
+  },
 ];
 
 // Helper Functions
