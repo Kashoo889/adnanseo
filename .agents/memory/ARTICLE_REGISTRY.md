@@ -201,3 +201,27 @@
 * **Secondary Keywords:** can you throw away furniture in dubai, broken furniture disposal dubai, wardrobe removal dubai
 * **Images:** Cover: furnitureImg, Body: householdImg
 * **Target Funnel:** /services/furniture-removal
+
+### B23: where-to-dispose-old-sofa-in-dubai
+* **URL:** /blog/where-to-dispose-old-sofa-in-dubai
+* **Primary Keyword:** where to dispose old sofa in dubai
+* **Secondary Keywords:** what to do with old sofa dubai, couch removal dubai, sofa donation dubai
+* **Angle:** Condition decides the exit route; getting a sofa back out of a Dubai tower or villa is a different job from getting it in.
+* **Images:** Cover: furnitureImg, Body: blogB18Body
+* **Target Funnel:** /services/furniture-removal
+
+### B24: how-to-dispose-of-a-mattress-in-dubai
+* **URL:** /blog/how-to-dispose-of-a-mattress-in-dubai
+* **Primary Keyword:** how to dispose of a mattress in dubai
+* **Secondary Keywords:** where to throw old mattress dubai, bulky waste dubai, mattress recycling
+* **Angle:** The one bulky item nobody takes for free — charity hygiene policy closes donation, so plan a paid or municipal route from day one.
+* **Images:** Cover: mattressImg, Body: householdImg
+* **Target Funnel:** /services/mattress-bulky-item-removal
+
+### B25: how-to-dispose-of-old-fridge-in-dubai
+* **URL:** /blog/how-to-dispose-of-old-fridge-in-dubai
+* **Primary Keyword:** how to dispose of old fridge in dubai
+* **Secondary Keywords:** where to dispose washing machine dubai, responsible appliance disposal dubai, white goods recycling
+* **Angle:** Appliances are the category where day-before preparation (defrost, drain, isolate) decides whether the pickup happens; refrigerant recovery makes a fridge legally different.
+* **Images:** Cover: applianceImg, Body: warehouseImg
+* **Target Funnel:** /services/appliance-removal

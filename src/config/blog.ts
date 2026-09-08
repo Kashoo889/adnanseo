@@ -2736,6 +2736,394 @@ export const blogPosts: BlogPost[] = [
     ],
     relatedSlugs: ["furniture-removal-cost-dubai", "free-vs-paid-junk-removal-dubai", "dubai-waste-disposal-rules"],
   },
+  {
+    slug: "where-to-dispose-old-sofa-in-dubai",
+    title: "Where to Dispose of an Old Sofa or Couch in Dubai",
+    excerpt:
+      "Four legal ways to get rid of an old sofa in Dubai, how the condition of the piece decides which one you get, and what it actually takes to move a three-seater out of a tower or villa.",
+    category: "Guides & Tips",
+    coverImage: furnitureImg,
+    coverImageAlt: "Two uniformed crew members carrying a brown leather sofa down a marble staircase inside a Dubai home",
+    publishedAt: "2026-09-07",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: [
+      "Where to Dispose Old Sofa in Dubai",
+      "What to Do With Old Sofa Dubai",
+      "Couch Removal Dubai",
+      "Sofa Donation Dubai",
+      "Apartment Clearance",
+    ],
+    seoTitle: "Where to Dispose of an Old Sofa in Dubai: Every Legal Option",
+    seoDescription:
+      "Wondering where to dispose of an old sofa in Dubai? Compare resale, charity pickup, municipality collection and paid removal, plus how to get it out of the building.",
+    keyTakeaways: [
+      "There are four legal routes for an old sofa in Dubai: private resale, charity collection, a Dubai Municipality bulky waste request, or a licensed removal crew.",
+      "Condition decides the route. Charities inspect before they collect and turn down anything stained, torn, sagging, or stored outdoors in Dubai humidity.",
+      "Most towers require a service lift booking and a move-out or removal pass from the security desk before a sofa can leave the building.",
+      "A sofa that was assembled or hoisted into a room on handover day rarely leaves through the same door intact, so plan for legs, feet, or frame sections to come off.",
+      "Leaving a couch in a bin room, stairwell, or parking bay is treated as illegal dumping and is billed back to the unit, usually between AED 500 and AED 1,000.",
+    ],
+    sections: [
+      {
+        heading: "Where to dispose of an old sofa in Dubai",
+        paragraphs: [
+          "You have four legal options for an old sofa in Dubai: sell or give it away privately while it is still clean, book a charity collection if the piece is genuinely reusable, request a Dubai Municipality bulky waste pickup where your address is eligible, or hire a licensed removal crew to carry it out and dispose of it the same day.",
+          "Which one you get is rarely a free choice. It is decided by the state of the sofa and by how many days you have left in the property. Someone with three weeks and a clean two-seater has every option open. Someone handing back keys on Thursday with a sagging corner unit has one.",
+        ],
+      },
+      {
+        heading: "Start with the condition of the sofa, not the price",
+        paragraphs: [
+          "Before you message anyone, sit on it, look underneath it, and smell it. That thirty-second check tells you which route is realistically available.",
+        ],
+        bulletPoints: [
+          "Resale grade: frame solid, cushions holding shape, upholstery clean, no pet damage. Branded pieces move quickly on local classifieds, but expect buyers to want it gone this weekend and to expect you to help carry it to their pickup vehicle.",
+          "Donation grade: structurally sound and clean, but dated or lightly worn. Registered UAE charities and thrift operations will consider it, and most ask for photos first. Their collection teams inspect at the door and can decline on the spot.",
+          "Disposal grade: torn fabric, broken frame, collapsed springs, water marks, or mildew. This is where most Dubai sofas land, particularly anything that spent a summer on a balcony or in an unairconditioned storeroom. Humidity gets into foam and the smell does not come out.",
+        ],
+        callout: {
+          type: "tip",
+          title: "Photograph it in daylight",
+          text: "Charities and private buyers both make their decision from photos. Shoot the sofa from the front, from one end, and close on any damage. Being upfront about a stain saves a wasted collection slot for them and a wasted afternoon for you.",
+        },
+      },
+      {
+        heading: "What to do with an old sofa nobody wants",
+        paragraphs: [
+          "Once resale and donation are ruled out, the sofa becomes waste, and Dubai treats bulky waste strictly. A couch cannot go down a garbage chute, cannot be compacted by a building compactor, and cannot be left in a common area for someone else to deal with.",
+          "The two remaining routes are a Dubai Municipality bulky waste request, which is free where it applies but works to its own schedule and expects the item to already be outside, or a private licensed crew, which costs money and does the carrying.",
+        ],
+        callout: {
+          type: "warning",
+          title: "The bin room is the expensive option",
+          text: "Sofas abandoned in bin rooms, fire stairwells, parking bays, or beside community skips are traced through building CCTV and access logs. Community management issues the fine to the unit, typically AED 500 to AED 1,000, and the landlord passes it to the tenant or deducts it at handover.",
+        },
+      },
+      {
+        heading: "Getting the sofa out of the building is the actual job",
+        paragraphs: [
+          "People underestimate this part every time. The sofa came into the apartment once, often on handover day when the lift was empty, the corridors were unfurnished, and two delivery men had all afternoon. Reversing that with a full building around you is a different exercise.",
+          "In towers, the service lift has to be booked, usually a day ahead, and building management often protects the lift car with padded blankets before anything bulky goes in. Security wants a removal pass or move-out approval before they let anything leave through the loading bay. Some buildings only allow bulky movements in the morning or after standard working hours.",
+          "In villas, the constraint is the staircase rather than the lift. A three-seater coming down a curved marble stair needs two people at different heights and enough clearance at the turn, and marble chips if you rest a hardwood frame on it.",
+          "Deep-seat and corner sofas frequently will not clear a standard apartment doorway once a wall or console has gone in behind them. Feet unscrew, back panels come off many modern designs, and a sectional splits at the joining brackets. If none of that is possible, the piece has to be cut down inside the room, which is loud, messy work best done by people who do it regularly.",
+        ],
+        image: blogB18Body,
+        imageAlt: "Uniformed crew moving blanket-wrapped furniture on a padded trolley through a Dubai apartment corridor with the lift entrance protected",
+        imageCaption: "Padded trolleys, lift protection, and a booked service lift are what stop a bulky pickup from turning into a repair bill.",
+      },
+      {
+        heading: "Which route fits your sofa",
+        paragraphs: [
+          "Matching the piece to the right exit saves both money and a wasted week waiting on a collection that was never going to be approved.",
+        ],
+        table: {
+          caption: "Sofa disposal routes in Dubai by condition and urgency",
+          headers: ["Condition of the sofa", "Best route", "Typical wait", "Who does the lifting"],
+          rows: [
+            ["Clean, current, branded", "Private sale or giveaway on local classifieds", "Days to a few weeks", "The buyer, usually with your help"],
+            ["Sound but dated or lightly worn", "Registered charity collection", "3 to 7 days, subject to photo approval", "Charity crew, kerbside or door depending on the organisation"],
+            ["Worn, stained, or damaged", "Licensed private removal", "Same day or next day", "The removal crew, from inside the room"],
+            ["Any condition, no deadline pressure", "Dubai Municipality bulky waste request", "Several days to a couple of weeks", "You, as far as the collection point"],
+          ],
+        },
+      },
+      {
+        heading: "Timing it around a Dubai move-out",
+        paragraphs: [
+          "The sofa should leave before the deep clean, not after. Cleaners charge again if they have to work around furniture, and a heavy piece dragged across a floor after the clean leaves exactly the marks the handover inspection looks for.",
+          "If you are waiting on a charity to confirm, book a fallback slot with a paid crew for the day before your inspection. Charity teams occasionally cancel or decline at the door, and there is no room in a handover week to start the search again. This is also the moment to bundle other pieces into one trip, since a crew already on site for a sofa can take the coffee table, mattress, and balcony furniture for far less than three separate visits would cost.",
+        ],
+      },
+      {
+        heading: "Book a couch collection without doing the carrying",
+        paragraphs: [
+          "Send a photo of the sofa on WhatsApp along with your floor and building name. That is enough for a fixed price, and it tells the crew in advance whether they need a service lift booking, a stair carry, or tools to split a sectional.",
+          "The team arrives with blankets, straps, and trolleys, handles the paperwork at the security desk, and takes the piece for sorting so the timber, metal, and foam are separated rather than sent straight to landfill.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Will a charity in Dubai collect a used sofa from my apartment?",
+        answer:
+          "Some will, but almost all ask for photos first and reserve the right to decline at the door. Expect a firm no for anything torn, stained, sagging, or stored outdoors. Several organisations also collect kerbside only, meaning the sofa needs to be downstairs before their van arrives.",
+      },
+      {
+        question: "Is it worth selling an old sofa in Dubai instead of paying to remove it?",
+        answer:
+          "It is worth trying if the piece is clean and reasonably current, and if you have at least a couple of weeks. Below that, the time spent messaging buyers who do not show up usually costs more than a collection would. Set a cutoff date and switch routes when you hit it.",
+      },
+      {
+        question: "Do I need building permission to take a sofa out of a Dubai tower?",
+        answer:
+          "In most managed towers, yes. Security typically wants a removal pass or move-out approval linked to your unit, and the service lift needs to be booked in advance. Buildings that restrict bulky movements to set hours will turn a crew away outside those windows.",
+      },
+      {
+        question: "What happens to a sofa that is too damaged to reuse?",
+        answer:
+          "It is broken down at the sorting stage rather than tipped whole. Hardwood frames go to wood processing, steel springs and brackets go into scrap metal streams, and foam and mixed textile that cannot be recovered are routed to authorised waste facilities.",
+      },
+    ],
+    relatedSlugs: ["how-to-dispose-of-old-furniture-in-dubai", "where-to-donate-furniture-dubai", "furniture-removal-cost-dubai"],
+  },
+  {
+    slug: "how-to-dispose-of-a-mattress-in-dubai",
+    title: "How to Dispose of an Old Mattress in Dubai Without Community Fines",
+    excerpt:
+      "A mattress is the one bulky item almost nobody will take off your hands for free. Here is why, where you genuinely can send an old mattress in Dubai, and how to get it out of a tower without a fine.",
+    category: "Guides & Tips",
+    coverImage: mattressImg,
+    coverImageAlt: "Three uniformed crew members lifting a king-size mattress off the bed base in a high-rise Dubai bedroom",
+    publishedAt: "2026-09-07",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: [
+      "How to Dispose of a Mattress in Dubai",
+      "Where to Throw Old Mattress Dubai",
+      "Bulky Waste Dubai",
+      "Community Fines",
+      "Mattress Recycling",
+    ],
+    seoTitle: "How to Dispose of a Mattress in Dubai Without a Fine",
+    seoDescription:
+      "How to dispose of a mattress in Dubai the legal way: why charities refuse used mattresses, what community management fines, and how to book a wrapped pickup.",
+    keyTakeaways: [
+      "Used mattresses are refused by almost every UAE charity and resale channel on hygiene grounds, so plan for a disposal route rather than a donation one.",
+      "Mattresses cannot go down a chute or through a building compactor, and abandoning one in a bin room is the single most commonly fined bulky-waste offence in Dubai communities.",
+      "Dubai Municipality bulky waste collection can take an old mattress where your address qualifies, but the item must already be at the collection point and the wait can run past a handover date.",
+      "A mattress must be bagged or wrapped before it crosses a shared corridor or lift, both for hygiene and because building management will stop an unwrapped one.",
+      "King and California king mattresses will not stand upright in many apartment lifts, which decides whether the job runs through the service lift or the fire stairs.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of a mattress in Dubai",
+        paragraphs: [
+          "To dispose of a mattress in Dubai, either submit a bulky waste collection request to Dubai Municipality if your address is eligible and place the item at the agreed collection point, or book a licensed removal crew to bag it, carry it out, and take it to an authorised facility. Bin rooms, chutes, and community skips are not options.",
+          "Everything else you may have read about mattresses in this city runs into one of two walls: hygiene rules that close off donation, and building rules that close off the easy shortcut downstairs.",
+        ],
+      },
+      {
+        heading: "Why nobody takes a used mattress for free",
+        paragraphs: [
+          "This is the part that surprises people who have successfully donated sofas, wardrobes, and appliances. A mattress is treated differently.",
+          "Registered charities and thrift operations across the UAE decline used mattresses as a standing policy, not on a case-by-case basis. They cannot verify what a mattress has been exposed to, they cannot clean it to a standard they are willing to pass on, and a single bed bug incident would contaminate a warehouse of other donated goods. Even pristine, barely-slept-on mattresses get the same answer.",
+          "The private resale market is not much better. Local classifieds are full of listed mattresses and short of buyers, and the ones who do enquire tend to want the item for nothing and expect you to help load it. Villa and labour accommodation resale is a persistent rumour rather than a reliable route.",
+          "So the realistic question is not who will take it, but which of the two paid or municipal routes fits your deadline.",
+        ],
+      },
+      {
+        heading: "Where you cannot leave an old mattress",
+        paragraphs: [
+          "Community management sees more abandoned mattresses than any other single item, which is exactly why they watch for them.",
+        ],
+        bulletPoints: [
+          "Building bin rooms and chute rooms: a mattress blocks the room, jams the compactor if staff attempt to feed it, and obstructs a route that has to stay clear for fire safety.",
+          "Beside the community skip: leaving it neatly next to the bin is still dumping. Access logs and cameras make it straightforward to trace back to a unit.",
+          "Fire stairwells and service corridors: even temporarily parking a mattress here while you sort out transport gets flagged by building patrols.",
+          "Empty plots, desert edges, and industrial roadsides: fly-tipping carries the heaviest penalties of the lot and is actively enforced.",
+        ],
+        callout: {
+          type: "warning",
+          title: "The fine lands on the unit, not the mattress",
+          text: "Dumping penalties in Dubai communities typically start around AED 500 and are charged to the apartment or villa the item is traced to. During a move-out that amount comes straight out of the security deposit, which makes it a far more expensive choice than a booked collection.",
+        },
+      },
+      {
+        heading: "Using Dubai Municipality bulky waste collection",
+        paragraphs: [
+          "Dubai Municipality operates a bulky waste service that covers items like mattresses in eligible residential areas, and where it applies it is the cheapest legal route available.",
+          "The trade-offs are timing and labour. Requests are scheduled rather than immediate, and the window can stretch across a week or more depending on area and season. The crew collects from an agreed point outside, not from your bedroom, so a king mattress still has to get down eleven floors somehow. For anyone with a fixed handover date, that combination is usually the reason they end up booking a private pickup instead.",
+        ],
+      },
+      {
+        heading: "Wrapping and moving a mattress out of a Dubai building",
+        paragraphs: [
+          "Bag it first. Mattress disposal bags are sold cheaply at hardware shops across the city, and heavy-duty plastic sheeting with packing tape does the same job. An unwrapped mattress dragged through a marble lobby picks up whatever is on the floor and leaves whatever is on it, and plenty of building managers will simply refuse to let one through unwrapped.",
+          "Measure before you commit to a route. A king mattress is roughly two metres in both directions, and many apartment lift cars will not let it stand upright or lie flat with the doors closing. When it does not fit, the alternative is the fire stairs, which means two people, slow corners, and a very different plan on a July afternoon when the stairwell is unairconditioned.",
+          "Book the service lift and clear it with security in the same message you use to book the pickup. A crew that arrives to find the lift unbooked and no removal pass at the desk waits in the loading bay, and in most towers that wasted hour is charged to somebody.",
+          "Take the base into account too. Divan bases, storage ottomans, and slatted frames rarely fit through a doorway assembled, and a foam mattress that has been vacuum-compressed once will not compress again.",
+        ],
+        image: householdImg,
+        imageAlt: "Dubai apartment living room part-way through a move, with packed boxes stacked against the wall beside remaining furniture",
+        imageCaption: "Bulky items should leave before the deep clean, not after it, so the handover inspection sees an untouched floor.",
+      },
+      {
+        heading: "What actually happens to an old mattress after collection",
+        paragraphs: [
+          "A mattress is not one material, which is why responsible operators break it down rather than tip it whole. Each layer has a different destination.",
+        ],
+        table: {
+          caption: "Mattress components and their recovery routes",
+          headers: ["Component", "Typical share of the mattress", "Where it goes"],
+          rows: [
+            ["Steel springs and edge coils", "The bulk of the weight in a sprung mattress", "Ferrous scrap metal recycling"],
+            ["Polyurethane foam and toppers", "Most of the volume in a foam or hybrid mattress", "Shredded for reuse where clean, otherwise authorised waste processing"],
+            ["Cotton, felt, and textile covers", "Outer layers and quilting", "Textile recovery or energy recovery depending on condition"],
+            ["Timber frame in a divan base", "Base only", "Wood processing into board, mulch, or biomass"],
+          ],
+        },
+      },
+      {
+        heading: "Book a wrapped mattress pickup",
+        paragraphs: [
+          "Message a photo of the mattress with its size and your floor number. That is enough for a fixed price and tells the crew whether this is a lift job or a stairs job before they arrive.",
+          "The team brings bags, straps, and trolleys, deals with the security desk and lift booking, and takes the mattress and base together so the bedroom is genuinely clear in one visit.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can I donate a used mattress in the UAE?",
+        answer:
+          "In practice, no. Registered charities decline used mattresses as a blanket policy for hygiene and pest-control reasons, regardless of how good the condition is. Unused mattresses still in their factory wrapping are occasionally an exception, so it is worth asking if yours has genuinely never been slept on.",
+      },
+      {
+        question: "Do I need to take the mattress off the bed frame before the crew arrives?",
+        answer:
+          "No. Crews expect to strip and dismantle. It does help to have bedding removed and a clear path from the bedroom door to the entrance, since that is usually where the time goes on a mattress job rather than the lifting itself.",
+      },
+      {
+        question: "Can a mattress be collected from a high floor with no service lift access?",
+        answer:
+          "Yes, but it becomes a stairs carry and needs to be planned that way. Tell the team your floor number when you book. Older low-rise buildings in areas like Deira and Bur Dubai often have no service lift at all, and a summer stairs carry above the fourth floor is scheduled for early morning.",
+      },
+      {
+        question: "Is it safe to leave a mattress on the balcony until collection day?",
+        answer:
+          "Avoid it. Dubai humidity gets into foam quickly, and a mattress left outside for a few days can pick up mildew and attract pests. Some communities also prohibit storing bulky items on balconies where they are visible, which is a separate warning waiting to happen.",
+      },
+    ],
+    relatedSlugs: ["bulky-waste-collection-dubai-municipality", "dubai-waste-disposal-rules", "dubai-junk-removal-cost-guide"],
+  },
+  {
+    slug: "how-to-dispose-of-old-fridge-in-dubai",
+    title: "How to Dispose of Refrigerators & Large Home Appliances in Dubai",
+    excerpt:
+      "Fridges, washing machines, and ovens are the one category where what you do the day before collection decides whether the pickup happens at all. A practical disposal and preparation guide for Dubai homes.",
+    category: "Eco & Recycling",
+    coverImage: applianceImg,
+    coverImageAlt: "Technician wheeling a fridge and washing machine out of a Dubai kitchen on an appliance dolly",
+    publishedAt: "2026-09-07",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: [
+      "How to Dispose of Old Fridge in Dubai",
+      "Where to Dispose Washing Machine Dubai",
+      "Responsible Appliance Disposal Dubai",
+      "White Goods Recycling",
+      "Refrigerant Recovery",
+    ],
+    seoTitle: "How to Dispose of an Old Fridge in Dubai: Rules & Prep",
+    seoDescription:
+      "How to dispose of an old fridge in Dubai: defrosting and draining steps, refrigerant rules, what scrap dealers will and will not take, and where washing machines are recycled.",
+    keyTakeaways: [
+      "A fridge is legally different from other bulky waste because its sealed system holds refrigerant gas that has to be recovered by trained handlers, not released or punctured on site.",
+      "Preparation the day before decides whether a collection succeeds: 24 hours of defrosting for a fridge or freezer, and a drained drum, hose, and filter for a washing machine.",
+      "Scrap dealers across Dubai will happily take a working or repairable appliance, often for free, but lose interest in anything with a failed compressor, a cracked drum, or water damage.",
+      "Anything connected to gas, or a plumbed water heater, needs a qualified technician to disconnect rather than a removal crew or a resident.",
+      "Around three quarters of a typical white goods unit by weight is recoverable steel, aluminium, copper, and plastic, which is why responsible disposal routes them to sorting rather than landfill.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old fridge in Dubai",
+        paragraphs: [
+          "To dispose of an old fridge in Dubai, arrange collection through Dubai Municipality bulky waste where your address qualifies, hand a working unit to a scrap or second-hand dealer, ask the retailer delivering your replacement to take the old one, or book a licensed removal company that sends the unit for refrigerant recovery and metal recycling.",
+          "What you cannot do is leave it in a bin room, in the parking basement, or beside a community skip. A fridge left in the open is both a dumping violation and, once its gas circuit is damaged by rough handling, an environmental one.",
+        ],
+      },
+      {
+        heading: "Why a fridge is not just another bulky item",
+        paragraphs: [
+          "Wardrobes and sofas are inert. A refrigerator, freezer, or air conditioning unit is a sealed pressurised system holding refrigerant gas and compressor oil, and those have to come out under controlled conditions before the shell is scrapped.",
+          "The UAE regulates the handling of these substances, and the practical consequence for a resident is simple: your fridge needs to reach a facility equipped to recover the gas. That rules out the informal option of letting someone drag it to an empty plot and strip the copper out of it, which vents the refrigerant straight into the air and leaves the carcass behind.",
+          "It also changes how the unit is carried. Fridges are designed to travel upright. Laid flat for a long trip, compressor oil migrates into the cooling lines, and a unit someone hoped to sell on as working arrives at the buyer dead.",
+        ],
+      },
+      {
+        heading: "Prepare the appliance the day before collection",
+        paragraphs: [
+          "More appliance pickups get delayed by preparation than by access. Half an hour the evening before is what stops a crew standing in your kitchen watching ice melt.",
+        ],
+        bulletPoints: [
+          "Fridges and freezers: empty and unplug at least 24 hours ahead, prop the doors open, and lay towels along the base. A freezer that looks defrosted at the front is usually still holding a solid block behind the drawers, and that water ends up across the floor and into the lift.",
+          "Washing machines and dishwashers: run a drain or spin cycle, close the inlet valve, disconnect the fill hose into a bucket, and empty the pump filter at the front. A drum that still holds several litres soaks whoever tips it onto the trolley.",
+          "Transit bolts and loose parts: shelves, crisper drawers, and glass plates should be taped in place or removed and carried separately. Glass shelves shifting inside a fridge on a stair carry is how the door panel cracks.",
+          "Electric ovens and hobs: switch off at the isolator and let the unit cool completely. Built-in units are usually screwed into the cabinetry and need unfixing before they will slide out.",
+          "Gas cookers and plumbed water heaters: these need a qualified technician to cap the line or isolate the supply. It is not a job for a removal crew or a resident, and most building management teams require proof it was done properly.",
+        ],
+        callout: {
+          type: "tip",
+          title: "Ask the retailer before delivery day, not after",
+          text: "Many appliance retailers in the UAE will take your old unit away when they deliver the replacement, but it is arranged at the point of sale and loaded onto the delivery job sheet. Once the driver is at your door with a new fridge and no instruction, that option has gone.",
+        },
+      },
+      {
+        heading: "Where to dispose of a washing machine in Dubai",
+        paragraphs: [
+          "Washing machines split cleanly into two categories, and the split has nothing to do with age.",
+          "If the machine still runs, or has a fault a technician would call minor, it has real value. Second-hand dealers and scrap traders around the industrial areas will collect it, sometimes at no cost to you, because a repaired unit resells. Photos of the model plate and an honest description of the fault get you a straight answer within a day.",
+          "If the drum bearings have gone, the motor is dead, or the machine has been sitting in a damp storeroom, that market closes. At that point it is a recycling job, and the routes are municipality bulky waste collection or a licensed removal crew. Both treat it as scrap, which is the correct outcome: the case, drum, and counterweight are almost entirely recoverable material.",
+        ],
+      },
+      {
+        heading: "What is actually recovered from your old appliances",
+        paragraphs: [
+          "White goods are among the most recyclable things in a home. The value is in the metal, which is why a properly sorted appliance loses very little to landfill.",
+        ],
+        table: {
+          caption: "Main recoverable materials and handling requirements by appliance",
+          headers: ["Appliance", "Main recoverable materials", "Special handling"],
+          rows: [
+            ["Refrigerator or freezer", "Steel shell, aluminium, copper tubing, plastic liners", "Refrigerant and compressor oil recovered before dismantling; carried upright"],
+            ["Washing machine or dryer", "Steel drum and case, concrete counterweight, copper motor windings", "Fully drained before transport"],
+            ["Electric oven, hob, or microwave", "Steel, glass, wiring, control boards", "Cooled and isolated; boards separated as electronic waste"],
+            ["Water heater", "Steel tank, copper element, insulation", "Water supply isolated and tank drained by a technician"],
+          ],
+        },
+      },
+      {
+        heading: "What responsible appliance disposal looks like in practice",
+        paragraphs: [
+          "Responsible disposal is a chain, not a single decision. The unit is collected intact, staged at a sorting site rather than a tipping face, degassed where it holds refrigerant, then separated into metal, plastic, and electronic fractions that each go to their own processor.",
+          "The part worth asking about when you book any collection is where the item goes next. A company that can answer that question specifically, rather than saying the item will be disposed of properly, is the one whose fridge does not end up gutted on an empty plot.",
+        ],
+        image: warehouseImg,
+        imageAlt: "Collected goods stacked on pallets and shrink-wrapped inside an industrial sorting warehouse before being separated for recycling",
+        imageCaption: "Sorting at a staging facility is what separates recoverable metal and plastic from the small share that genuinely has to be disposed of.",
+      },
+      {
+        heading: "Book an appliance collection",
+        paragraphs: [
+          "Send a photo of each unit on WhatsApp with your floor number and whether the appliance is built in or freestanding. Built-in units, stacked washer-dryer columns, and American-style double-door fridges all need different equipment, and knowing in advance means one visit rather than two.",
+          "The crew brings appliance dollies and straps, protects the floor and lift, and takes the unit for degassing and metal recovery rather than straight disposal.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Will a scrap dealer in Dubai take my old fridge for free?",
+        answer:
+          "Usually only if it runs or is worth repairing. Dealers make their money on resale, so a fridge with a failed compressor, a damaged gas circuit, or rust and water damage tends to get declined. Send the model plate photo and describe the fault honestly to get a straight answer quickly.",
+      },
+      {
+        question: "Do I really need to defrost the fridge before it is collected?",
+        answer:
+          "Yes, and 24 hours is the realistic figure rather than an hour or two. A partly frozen unit drips through corridors and lift cars on the way out, which is exactly what building management holds move-out deposits against. Prop the doors open and lay towels underneath while it clears.",
+      },
+      {
+        question: "Can I put a microwave or kettle in the household bin in Dubai?",
+        answer:
+          "Small appliances are electronic waste, not general waste, because of their boards, wiring, and batteries. They should go to an electronics collection point or be added to a bulky pickup rather than the kitchen bin, where their materials are lost and their batteries are a genuine fire risk in a compactor.",
+      },
+      {
+        question: "Who disconnects a built-in oven or a water heater?",
+        answer:
+          "A qualified technician handles anything plumbed or connected to gas. Removal crews unfix and carry, but they should not be capping a gas line or breaking into a water supply. Book the disconnection for the morning of the collection so the appliance is loose and ready when the truck arrives.",
+      },
+    ],
+    relatedSlugs: ["how-to-recycle-in-dubai", "where-does-junk-go-after-removal-dubai", "dubai-waste-disposal-rules"],
+  },
 ];
 
 // Helper Functions
