@@ -2744,7 +2744,7 @@ export const blogPosts: BlogPost[] = [
     category: "Guides & Tips",
     coverImage: furnitureImg,
     coverImageAlt: "Two uniformed crew members carrying a brown leather sofa down a marble staircase inside a Dubai home",
-    publishedAt: "2026-09-07",
+    publishedAt: "2026-09-08",
     readingTime: "8 min read",
     author: defaultAuthor,
     tags: [
@@ -2875,7 +2875,7 @@ export const blogPosts: BlogPost[] = [
     category: "Guides & Tips",
     coverImage: mattressImg,
     coverImageAlt: "Three uniformed crew members lifting a king-size mattress off the bed base in a high-rise Dubai bedroom",
-    publishedAt: "2026-09-07",
+    publishedAt: "2026-09-08",
     readingTime: "7 min read",
     author: defaultAuthor,
     tags: [
@@ -3004,7 +3004,7 @@ export const blogPosts: BlogPost[] = [
     category: "Eco & Recycling",
     coverImage: applianceImg,
     coverImageAlt: "Technician wheeling a fridge and washing machine out of a Dubai kitchen on an appliance dolly",
-    publishedAt: "2026-09-07",
+    publishedAt: "2026-09-08",
     readingTime: "8 min read",
     author: defaultAuthor,
     tags: [
