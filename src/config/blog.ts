@@ -3124,6 +3124,420 @@ export const blogPosts: BlogPost[] = [
     ],
     relatedSlugs: ["how-to-recycle-in-dubai", "where-does-junk-go-after-removal-dubai", "dubai-waste-disposal-rules"],
   },
+  {
+    slug: "how-to-get-rid-of-old-ac-unit-dubai",
+    title: "How to Get Rid of an Old AC Unit & Water Heater in Dubai",
+    excerpt:
+      "Air conditioners and water heaters are the two appliances you cannot simply unplug and carry out. Both are usually fixtures, both need a technician before a truck, and both cause expensive damage when that order gets reversed.",
+    category: "Eco & Recycling",
+    coverImage: teamImg,
+    coverImageAlt: "Uniformed clearance crew standing beside a loaded box truck outside a Dubai property before an appliance collection",
+    publishedAt: "2026-09-09",
+    readingTime: "9 min read",
+    author: defaultAuthor,
+    tags: [
+      "How to Get Rid of Old AC Unit Dubai",
+      "Air Conditioner Disposal Dubai",
+      "Water Heater Removal Dubai",
+      "Refrigerant Recovery",
+      "Fixtures and Handover",
+    ],
+    seoTitle: "How to Get Rid of an Old AC Unit in Dubai: Rules & Steps",
+    seoDescription:
+      "How to get rid of an old AC unit in Dubai: who is allowed to disconnect it, why landlord approval comes first, refrigerant rules, and safe water heater removal.",
+    keyTakeaways: [
+      "In most Dubai tenancies the air conditioner and the water heater belong to the property, not to you, so written landlord or owners association approval comes before any removal is arranged.",
+      "A split air conditioner holds refrigerant under pressure and has to be pumped down by a qualified technician before the pipework is cut, which is a separate visit from the collection itself.",
+      "A water heater sitting in the ceiling void above a bathroom is the single most common source of avoidable move-out damage, and the fix is simply draining it and letting it cool before anyone lifts it.",
+      "The copper inside outdoor condensers and heater elements is what attracts informal collectors who cut lines on site, vent the gas, and leave the shell behind, which is a dumping offence traced back to your address.",
+      "Book the technician and the collection for the same morning so the unit is not left loose, live, or half dismantled overnight in a common area.",
+    ],
+    sections: [
+      {
+        heading: "How to get rid of an old AC unit in Dubai",
+        paragraphs: [
+          "To get rid of an old AC unit in Dubai, first confirm in writing that you are allowed to remove it, then have a qualified air conditioning technician recover the refrigerant and disconnect the indoor and outdoor units. Only after that is it a collection job for a licensed removal crew or a scrap metal recycler.",
+          "The same order applies to a water heater: isolate the power, close the supply, drain the cylinder, let it cool, then remove. Skipping straight to the removal step is what turns a routine job into a ceiling repair or a refrigerant leak.",
+        ],
+      },
+      {
+        heading: "Check who actually owns the unit before you touch it",
+        paragraphs: [
+          "This is the step people skip, and it is the one that costs money. Across most Dubai apartments and villas, the air conditioning system and the water heater are landlord fixtures listed in the tenancy contract, in the same category as built-in wardrobes and kitchen units. Removing one because it is old, noisy, or inefficient can be read as removing part of the property.",
+          "If your unit has failed and you want it replaced, the request goes to the landlord or the property manager, and the replacement is usually theirs to arrange. If you are the owner, or you installed a unit yourself and have the paperwork to show it, the decision is yours, but a building or community with an owners association will still expect notice before anything is carried through common areas or worked on at a facade.",
+          "Villas are simpler on ownership and harder on access. Roof-mounted units, ducted systems above a false ceiling, and condensers behind a service wall each need their own plan for getting the unit out, and that plan should exist before anyone books a truck.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Never remove a landlord fixture during a move-out",
+          text: "A missing AC unit or water heater at inspection is treated as a deduction, not a disagreement, and the amount is decided by the landlord getting a replacement quoted. If a unit genuinely has to go, get the approval in an email you can forward later.",
+        },
+      },
+      {
+        heading: "Why an air conditioner cannot just be unbolted",
+        paragraphs: [
+          "A window unit is a sealed box you can lift out once it is unfastened. A split system is not. It is two units joined by insulated copper lines carrying refrigerant under pressure, and that gas has to be pumped down into the condenser or recovered into a cylinder before anything is cut.",
+          "A technician does this in minutes with the right gauges. Someone with a hacksaw releases the refrigerant into the air, which is both an environmental problem and the reason a unit that might have been resold or reused is now scrap. It also makes a mess of the wall penetration, and repairing that is on you at handover.",
+          "Ducted and central systems add another layer, because the indoor coil sits above a ceiling and the drain line ties into the building. Those are dismantled section by section, and the access panels usually have to be reinstated afterwards.",
+        ],
+        table: {
+          caption: "What each type of unit needs before it can be collected",
+          headers: ["Unit type", "Who disconnects it", "The part that slows the job down"],
+          rows: [
+            ["Split system (wall unit plus outdoor condenser)", "AC technician: pump down, disconnect lines, isolate power", "Condenser access on a balcony ledge, facade bracket, or roof"],
+            ["Window or through-wall unit", "Electrician or competent handler; isolate at the breaker", "Sleeve fixings seized with age; the opening needs sealing after"],
+            ["Ducted or central indoor coil", "AC technician with building management notice", "Ceiling access panels and drain line disconnection"],
+            ["Electric storage water heater", "Plumber or technician: isolate power, close inlet, drain tank", "Ceiling void hatch size and the wait for the water to cool"],
+            ["Portable or floor-standing AC", "No technician needed for a self-contained unit", "Weight and stairs if a lift is unavailable"],
+          ],
+        },
+      },
+      {
+        heading: "Removing a water heater without flooding the ceiling",
+        paragraphs: [
+          "In most Dubai apartments the water heater is not in a cupboard. It sits in the ceiling void above the bathroom behind a small hatch, held on a bracket, full of water, directly above a tiled floor and a corridor. That geometry explains nearly every water heater job that goes wrong.",
+          "The preparation is unglamorous and takes about an hour of waiting, most of which is doing nothing while the tank cools.",
+        ],
+        bulletPoints: [
+          "Switch the heater off at the distribution board, not just at the wall switch, and label the breaker so nobody flips it back on mid-job.",
+          "Leave it several hours, or overnight, before anyone opens the tank. Stored water comes out hot enough to scald long after the power is off.",
+          "Close the inlet valve, then open a hot tap somewhere in the flat to break the vacuum. Without that step the tank drains slowly and unpredictably.",
+          "Drain through the outlet into a bucket or a hose run to the shower trap, and keep draining until it genuinely stops, not until it slows.",
+          "Lay sheeting on the bathroom floor and along the route out. A drained cylinder still holds residue, and the last of it always finds a carpet.",
+          "Have two people on the lift down from the hatch. A steel cylinder is awkward rather than heavy once empty, and it is dropped far more often than it is carried.",
+        ],
+        image: applianceImg,
+        imageAlt: "Removal crew wheeling large white goods out of a Dubai apartment kitchen on an appliance trolley",
+        imageCaption: "Once the technician has disconnected the unit, the collection itself is a straightforward trolley and lift job.",
+      },
+      {
+        heading: "The copper problem, and why it matters to you",
+        paragraphs: [
+          "Outdoor condensers, coils, and immersion elements contain copper, and copper has a scrap price. That is the reason an old outdoor unit sitting in a service yard tends to disappear, and the reason people offer to take it away at no charge without asking who you are.",
+          "The problem is what happens next. An informal collector strips the copper on the spot, vents whatever refrigerant is still in the circuit, and abandons the shell, the fan housing, and the mounting bracket somewhere convenient. The dumping report goes back to the last address associated with the unit, which is yours.",
+          "A licensed route does the same recovery, in the correct order, at a facility set up for it. The steel casing, aluminium fins, copper, and motor windings all get separated and sold on as material. Very little of a stripped air conditioner or water heater genuinely has to reach a landfill, which is the whole point of responsible appliance disposal in Dubai rather than a quiet arrangement in a car park.",
+        ],
+      },
+      {
+        heading: "Timing the job around a Dubai summer",
+        paragraphs: [
+          "Air conditioning work in Dubai is seasonal in a way that catches people out. From late spring through September, technicians are running breakdown calls, and a planned removal sits behind every emergency. Booking a disconnection for the same week you need it, in August, rarely works.",
+          "There is a practical consequence for anyone timing this against a tenancy. If your unit is being replaced before a handover, start the conversation with the landlord weeks ahead rather than days. If you are clearing a property completely, put the technician visit in the morning and the collection in the afternoon of the same day, so nothing sits disconnected in a corridor or on a landing overnight where building management will find it.",
+        ],
+        callout: {
+          type: "tip",
+          title: "One visit, two trades",
+          text: "Tell us at the quote stage that a unit still needs disconnecting. We can schedule the collection to land after the technician finishes rather than sending a crew to a unit that is still live, which is the most common reason an appliance pickup has to be repeated.",
+        },
+      },
+      {
+        heading: "Booking an AC or water heater collection",
+        paragraphs: [
+          "Send photos on WhatsApp of the indoor unit, the outdoor unit, and the access route, and tell us the floor and whether a service lift is available. Condensers on balcony brackets, roof-mounted units, and heaters above a ceiling hatch all change the equipment we bring.",
+          "Our appliance collection service covers the removal, the carry, and the onward routing for degassing and metal recovery. If the unit still needs a technician, say so and we will time the visit around it rather than around a guess.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can I remove the air conditioner in my rented apartment myself?",
+        answer:
+          "Not without written approval. In most Dubai tenancies the AC is a landlord fixture, and removing it without permission is treated as damage to the property at inspection. If the unit has failed, report it and let the landlord arrange the replacement, which is usually their obligation under the contract.",
+      },
+      {
+        question: "Is there any money in an old AC unit or water heater?",
+        answer:
+          "Sometimes, but less than people expect. A recent unit in working order has resale value to a second-hand dealer. An old, corroded, or gas-leaking one is scrap, worth only its metal content, and any offer of cash for it usually reflects the copper rather than the appliance.",
+      },
+      {
+        question: "What happens to the refrigerant when a split AC is scrapped?",
+        answer:
+          "It is recovered into a cylinder by the technician before the lines are cut, then handled by a facility equipped for it. It is never released deliberately. That recovery is the main reason air conditioner disposal in Dubai runs through a technician first rather than starting with a removal crew.",
+      },
+      {
+        question: "How long should the water heater be switched off before removal?",
+        answer:
+          "Several hours at minimum, and overnight is better. The tank holds its heat long after the breaker is off, and a cylinder opened too early scalds whoever is holding it. Switching it off the evening before a morning collection is the simplest way to get this right.",
+      },
+    ],
+    relatedSlugs: ["how-to-dispose-of-old-fridge-in-dubai", "move-out-checklist-dubai-tenants", "dubai-waste-disposal-rules"],
+  },
+  {
+    slug: "how-to-dispose-of-old-laptop-dubai",
+    title: "How to Dispose of Old Laptops & Computers Securely in Dubai",
+    excerpt:
+      "The hardware is the easy part. Sign-outs, activation locks, drive wipes and a swelling battery are what decide whether an old laptop leaves your home safely, or sits in a drawer for another three years.",
+    category: "Eco & Recycling",
+    coverImage: blogB13Cover,
+    coverImageAlt: "Laptop open on a desk beside a phone while someone checks account settings before disposing of an old device",
+    publishedAt: "2026-09-09",
+    readingTime: "9 min read",
+    author: defaultAuthor,
+    tags: [
+      "How to Dispose of Old Laptop Dubai",
+      "Where to Recycle Electronics in Dubai",
+      "Data Safe Electronics Disposal Dubai",
+      "E-Waste",
+      "Lithium Battery Safety",
+    ],
+    seoTitle: "How to Dispose of an Old Laptop in Dubai Without Data Risk",
+    seoDescription:
+      "How to dispose of an old laptop in Dubai: the sign-out and wipe order that actually matters, battery safety in summer heat, and where electronics are recycled.",
+    keyTakeaways: [
+      "Sign out of your accounts and switch off device tracking before you wipe, because an activation lock left on turns a reusable laptop into scrap nobody can refurbish.",
+      "How you erase depends on the drive: an encrypted solid state drive is effectively cleared by a reset, while an older mechanical drive needs a full overwrite or physical destruction.",
+      "Electronics are not general waste in Dubai, and a lithium battery in a bin chute or a compactor is a genuine fire risk rather than a technicality.",
+      "A swollen battery is the point at which the device stops being storable: it should not be charged, pressed, punctured, or left in a parked car in summer.",
+      "Businesses need more than a wipe. An asset list with serial numbers and a data destruction record is what makes an IT decommission auditable later.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old laptop in Dubai",
+        paragraphs: [
+          "To dispose of an old laptop in Dubai, back up anything you still need, sign out of your accounts and disable device tracking, erase the drive properly for its type, then hand the machine to an electronics recycling point, a retailer take-back scheme, a refurbisher, or a clearance crew that routes electronics to a licensed processor. What it must not go in is the household bin.",
+          "Most people get the sequence backwards. They wipe first, discover the device is still locked to an account, and end up with a laptop that no charity or refurbisher can do anything with.",
+        ],
+      },
+      {
+        heading: "Sign out before you wipe, not after",
+        paragraphs: [
+          "Modern laptops, phones, and tablets tie themselves to an account so a stolen device is worthless. That protection does exactly the same thing to a donated one. A factory reset performed while the device is still linked leaves the next owner staring at a login screen, and there is no way around it from the outside.",
+          "Work through this list first, with the device still logged in and connected:",
+        ],
+        bulletPoints: [
+          "Back up what you need, then check the backup actually opens before you rely on it. A finished backup and a working backup are not the same thing.",
+          "Turn off device tracking and activation lock in the account settings, and remove the machine from your list of trusted devices.",
+          "Sign out of the operating system account, the cloud storage client, the password manager, the browser profile, and any software licensed to that machine.",
+          "Deauthorise anything with a seat limit, including design suites, media apps, and two-factor authenticator apps that treat the device as a trusted second factor.",
+          "Pull out the SD card, the SIM tray on a laptop with cellular, and any second internal drive that came with the machine.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Check the authenticator before the device leaves",
+          text: "If your two-factor codes live only on the machine you are disposing of, wiping it can lock you out of the very accounts you need to sign out from. Move the codes to your phone and confirm they work before anything is erased.",
+        },
+      },
+      {
+        heading: "The wipe method depends on what kind of drive it is",
+        paragraphs: [
+          "A factory reset is not the same as an erase, and the difference matters more on some machines than others.",
+          "Solid state drives on current laptops are usually encrypted by default. Turning on full disk encryption if it is not already active, and then performing the built-in reset that removes the encryption key, leaves the remaining data unreadable. That is the practical standard for a home machine.",
+          "Older laptops with a spinning mechanical drive are different. Deleted files sit there until they are overwritten, so use a full overwrite tool rather than a quick format. If the machine is old enough that this is fiddly, the simpler answer is to take the drive out and keep it, and hand over the laptop without it. A missing drive lowers the resale value but removes the question entirely.",
+          "For anything that held client records, financial files, or medical information, physical destruction of the drive is the cleaner outcome, and any serious recycler will shred drives on request rather than just wipe them.",
+        ],
+      },
+      {
+        heading: "Is it illegal to throw electronics in the bin in Dubai?",
+        paragraphs: [
+          "Electronic waste is handled as a separate stream in Dubai rather than as general household rubbish, and it should be presented for collection or drop-off accordingly rather than dropped in a residential bin. Dumping waste outside the proper channel is an offence that carries fines, and building management in most towers will act on it well before the municipality does.",
+          "There is a physical reason behind the rule as well as a regulatory one. Lithium batteries that get crushed inside a bin chute or a compactor start fires, and a fire in a refuse room in a high-rise is a serious incident, not an inconvenience. That risk is why electronics stay out of the bin even when the device is small enough to fit.",
+        ],
+        image: blogB11Cover,
+        imageAlt: "Row of colour-coded general waste and recycling bins lined up against a wall at a residential building",
+        imageCaption: "Old electronics do not belong in any of these streams, including the recycling bin, and the batteries are the reason.",
+      },
+      {
+        heading: "The swollen battery nobody plans for",
+        paragraphs: [
+          "Laptops that have sat in a cupboard for a few years, especially in a villa storeroom or an unairconditioned garage, often come out with a lifted trackpad or a case that no longer closes flat. That is the battery expanding, and it changes the job.",
+          "A swollen cell should not be charged, squeezed, prised out with a screwdriver, or carried loose in a bag. Dubai summer makes it worse: a parked car in July reaches temperatures far beyond anything a lithium cell is rated for, so the boot is the last place to store a device you are taking somewhere for disposal.",
+          "Handle it as a single job. Put the laptop in a rigid box on its own, keep it somewhere cool and away from anything flammable, tell whoever collects it that the battery is swollen, and move it once, directly to a facility that handles batteries.",
+        ],
+      },
+      {
+        heading: "Where to recycle electronics in Dubai",
+        paragraphs: [
+          "There is no single answer, because what suits a working three-year-old laptop is wrong for a dead desktop tower. The routes below cover most situations, and the right one depends mainly on whether the device still works.",
+        ],
+        table: {
+          caption: "Disposal routes by device condition",
+          headers: ["Route", "Best for", "What to expect"],
+          rows: [
+            ["Municipal e-waste collection points", "Any device, working or not", "Drop-off locations for household electronics; confirm current sites and accepted items before travelling"],
+            ["Retailer and brand take-back", "Devices being replaced by a new purchase", "Arranged at the point of sale or through the brand support channel, often with a trade-in value"],
+            ["Licensed e-waste recyclers", "Bulk lots, business decommissions, dead hardware", "Weighed and processed for material recovery; can usually provide destruction records on request"],
+            ["Refurbishers and community reuse", "Working machines under roughly five years old", "Only viable once accounts are signed out and the device is unlocked"],
+            ["Clearance collection", "Households and offices clearing everything at once", "Electronics separated from the general load and routed to a processor rather than to disposal"],
+          ],
+        },
+      },
+      {
+        heading: "What a business decommission needs that a household does not",
+        paragraphs: [
+          "Clearing twenty laptops out of an office is a different exercise from clearing one out of a bedroom, and the difference is paperwork rather than logistics.",
+          "Build the asset list before anything is boxed: make, model, serial number, and the name of whoever last held the device. Serial numbers are what let you prove later that a specific machine was disposed of rather than lost, and they are the first thing an auditor or an insurer asks for. Devices leaving in an unlisted pile are the ones that reappear as a problem.",
+          "Ask for a data destruction record covering the drives, keep it with the asset list, and separate anything still under lease or finance before collection day, since leased hardware usually has to go back rather than out. If the decommission is part of a wider office clearance, the electronics should be handled as their own workstream inside it, not swept up with the furniture on the last afternoon.",
+        ],
+      },
+      {
+        heading: "Clearing electronics with the rest of a move",
+        paragraphs: [
+          "Most old laptops in Dubai are not disposed of on their own. They surface during a move-out, a downsizing, or an office relocation, in a drawer with three chargers and a dead external drive.",
+          "If that is your situation, deal with the accounts and the drives first, at your own pace, and let the collection happen with everything else. Send photos on WhatsApp of what you have, including anything with a swollen battery, and we will keep the electronics separate from the general load so they reach a processor rather than a tipping face.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "How do I dispose of a laptop that will not switch on?",
+        answer:
+          "Treat the drive as the risk, since a dead laptop usually has intact data on it. Have the drive removed and either kept or destroyed, then send the rest for recycling. If the machine will not power on because the battery has swollen, say so when arranging collection so it is handled as a battery job.",
+      },
+      {
+        question: "Can I donate an old laptop in Dubai instead of recycling it?",
+        answer:
+          "Yes, if it still runs reasonably and you have signed out of every account and removed the activation lock. Refurbishers and community programmes generally want machines under about five years old with a working screen and charger. Anything locked, cracked, or badly swollen is a recycling job rather than a donation.",
+      },
+      {
+        question: "What about old routers, printers, and phones?",
+        answer:
+          "All of them count as electronics. Routers store your Wi-Fi credentials and network settings, office printers often hold scanned documents in memory, and phones hold everything. Reset each one to factory settings before it leaves, and take the SIM and memory card out of any handset yourself.",
+      },
+      {
+        question: "Do I need to take the hard drive out before handing a laptop over?",
+        answer:
+          "Not usually, if the drive is encrypted and you have done a proper reset. Removing it is a reasonable extra step for machines that held sensitive work files, and it is the simplest option for older mechanical drives where a thorough overwrite is slow and hard to confirm.",
+      },
+    ],
+    relatedSlugs: ["how-to-recycle-in-dubai", "where-does-junk-go-after-removal-dubai", "what-to-do-with-junk-when-leaving-uae"],
+  },
+  {
+    slug: "how-to-clear-an-office-in-dubai",
+    title: "How to Safely Clear an Office & Decommission Commercial Furniture in Dubai",
+    excerpt:
+      "Clearing a Dubai office is a building management project before it is a furniture problem. Permits, lift bookings and reinstatement clauses decide your dates long before the first desk comes apart.",
+    category: "Commercial & Office",
+    coverImage: officeImg,
+    coverImageAlt: "Open plan Dubai office part packed into boxes with workstations and chairs waiting to be decommissioned",
+    publishedAt: "2026-09-09",
+    readingTime: "10 min read",
+    author: defaultAuthor,
+    tags: [
+      "How to Clear an Office in Dubai",
+      "Office Relocation Junk Removal Dubai",
+      "Cubicle Removal Dubai",
+      "Workplace Decluttering",
+      "Reinstatement and Handover",
+    ],
+    seoTitle: "How to Clear an Office in Dubai: Permits, Timing & Steps",
+    seoDescription:
+      "How to clear an office in Dubai: the lease clause that sets your scope, building permits and lift bookings, IT and record handling, and the order to work in.",
+    keyTakeaways: [
+      "Read the reinstatement clause before pricing anything, because it decides whether you are removing furniture or returning the unit to bare shell condition.",
+      "Building management approvals, contractor insurance certificates, and a booked service lift usually take longer to obtain than the clearance itself takes to perform.",
+      "Most towers restrict bulky removals to evenings or weekends, so the working assumption for a Dubai office clearance is out of hours rather than mid week at noon.",
+      "Sequence the work so the business keeps running: dead storage and archives first, unused workstations next, occupied desks and IT on the final two days.",
+      "Anything with a serial number or a signature on it, from servers to lease-financed printers, needs its own list and its own decision before collection day.",
+    ],
+    sections: [
+      {
+        heading: "How to clear an office in Dubai",
+        paragraphs: [
+          "To clear an office in Dubai, start by reading the lease to establish what condition the unit must be handed back in, then secure building management approval and a service lift booking for the removal dates. Work outwards from storage and unused areas, handle IT and records separately, and leave occupied desks until last so the business keeps operating.",
+          "The clearance itself is rarely the constraint. Approvals, access windows, and the reinstatement scope are what set the timeline, and all three are decided by other people.",
+        ],
+      },
+      {
+        heading: "Start with the lease, not the furniture",
+        paragraphs: [
+          "Commercial leases in Dubai commonly require the tenant to return the premises in the condition they were handed over, which for a fitted office frequently means shell and core. If that clause is in your contract, the job is not clearing desks. It is removing partitions, ceiling grids, floor boxes, data cabling, signage, pantry units, and glazing, then making good the surfaces underneath.",
+          "The gap between those two readings is enormous, and it is usually discovered late, when a landlord inspection lists items nobody costed. Get the clause read properly at the start, in writing, and confirm with the landlord which parts of the existing fit-out they want left in place. Landlords sometimes prefer to keep a good partition layout or a functioning pantry for the next tenant, and a short email can remove a large share of the scope.",
+          "The commercial consequence sits in the security deposit or the cheque the landlord holds. Reinstatement disputes are settled against that money, so the definition of done matters more than the price per truck.",
+        ],
+        callout: {
+          type: "info",
+          title: "Free zone offices follow their own process",
+          text: "Offices inside DMCC, DIFC, JAFZA and similar authorities usually run move-out approvals, contractor registration, and fit-out reinstatement sign-off through the free zone portal rather than the building alone. Start that application early, because the approval, not the labour, is what sets your date.",
+        },
+      },
+      {
+        heading: "The approvals that decide your dates",
+        paragraphs: [
+          "Every tower has its own version of this, but the shape is consistent. Building management wants to know who is coming in, when, what they are taking out, and who is liable if something is damaged on the way.",
+          "Expect to be asked for the contractor trade licence and insurance certificate, a list of crew names for security passes, a work permit or NOC application submitted a set number of working days ahead, a booked and padded service lift, and a refundable deposit against damage to common areas. Some buildings also require a clearance letter confirming service charges and utilities are settled before anything leaves the floor.",
+          "The practical lesson from doing these jobs is to apply earlier than feels necessary. A permit that takes three working days in a quiet week takes longer at month end, when every other tenant in the tower is moving on the same lease cycle.",
+        ],
+        table: {
+          caption: "Typical sequence and who controls each step",
+          headers: ["Stage", "Who controls it", "What to prepare"],
+          rows: [
+            ["Scope confirmation", "Landlord or property manager", "Lease reinstatement clause, handover condition report, written agreement on what stays"],
+            ["Access approval", "Building management or free zone authority", "Contractor licence, insurance, crew list, work permit application, lift booking"],
+            ["Asset decisions", "Your operations or finance team", "Inventory of furniture and IT, lease and finance flags, resale or donation choices"],
+            ["Data and records", "IT and compliance", "Drive wiping or destruction, archive retention check, confidential shredding"],
+            ["Clearance and reinstatement", "Clearance contractor", "Protection materials, dismantling tools, waste separation, disposal records"],
+            ["Final inspection", "Landlord", "Photographs, clearance completion sign off, deposit release"],
+          ],
+        },
+      },
+      {
+        heading: "Protecting the building on clearance day",
+        paragraphs: [
+          "Damage claims from office clearances almost never come from the office itself. They come from the route: lift car walls, lobby flooring, corridor corners, and the loading bay door. That is where a deposit gets spent.",
+          "Protection goes down before the first item moves. Floor coverings along the corridor and lobby run, blankets and boards in the lift car, corner guards on door frames, and a walked route agreed with security so trolleys are not crossing a client-facing reception at eleven in the morning. Photograph the common areas before starting, because a pre-existing scuff becomes your scuff otherwise.",
+        ],
+        image: blogB18Body,
+        imageAlt: "Uniformed crew moving packed boxes and wrapped furniture along a protected corridor with padded door guards in a Dubai building",
+        imageCaption: "Padded lift cars and protected corridors are what stand between an office clearance and a common area damage deduction.",
+      },
+      {
+        heading: "Sequence the clearance so the office keeps working",
+        paragraphs: [
+          "A clearance that stops the business for a week costs more than the clearance. Phasing it properly is the difference, and the order is fairly reliable across office sizes.",
+          "Start with dead storage: the archive room, the stationery cupboard nobody has audited since the last move, the stacked chairs behind the server room. None of it affects anyone working, and it is usually a third of the volume. Take the unused workstations next, consolidating the remaining staff into one zone so the crew has a clear working area instead of weaving between occupied desks.",
+          "Occupied desks and meeting rooms come in the final phase, ideally after hours on the last two days. IT goes last of all, because the moment the network room is stripped nobody can work, and that should happen once, at the end, not as an accident on day two.",
+          "There is a side benefit worth naming. Teams that clear properly rather than boxing everything and moving it tend to arrive at the new office with materially less, and the space they move into stays usable for longer. The productivity argument for workplace decluttering is usually made abstractly; in a relocation it is simply the difference between unpacking forty boxes and unpacking a hundred and forty.",
+        ],
+      },
+      {
+        heading: "IT, records, and anything with a serial number",
+        paragraphs: [
+          "Three categories need to leave the general clearance and become their own task, each with a named owner.",
+          "Hardware carrying data comes first: servers, desktops, laptops, network gear, and the office printers that quietly store scanned documents. These need wiping or drive destruction against an asset list before they go anywhere, which is a different exercise from disposing of a single home machine.",
+          "Paper records come second. UAE tax and company rules require accounting records to be retained for a defined period, so confirm the current retention requirement before anything reaches a shredder, and separate what must be archived from what can be destroyed. Confidential material should be shredded under supervision rather than dropped into a general waste stream in a loading bay.",
+          "Third is anything you do not actually own. Leased photocopiers, financed coffee machines, rented plants and water dispensers, and landlord fixtures all have their own return path, and each supplier needs its own collection booking. Furniture that turns out to be on a finance agreement is a genuinely awkward thing to discover after it has been dismantled.",
+        ],
+      },
+      {
+        heading: "What happens to desks, chairs, and cubicles",
+        paragraphs: [
+          "Office furniture divides sharply. Task chairs from a recognised brand in decent condition, height-adjustable desks, meeting tables, and modern storage units have a resale or donation route, and clearing them out early enough to be collected intact is what preserves that value. Schools, charities, and small startups will take usable furniture, but they need lead time and they will not take a broken flat pack.",
+          "Cubicle systems and older partitioned workstations are the opposite case. They are bolted, panelled assemblies that have to come apart panel by panel, they rarely resell, and they generate a surprising volume of material for their footprint. Budget more time for cubicle removal than for anything else on the floor, and expect the volume to be roughly double what the standing layout suggests.",
+          "Whatever the mix, the metal frames, laminate tops, glass, and cabling all separate into different streams, and a clearance company should be able to tell you where each one goes rather than describing the whole job as disposal.",
+        ],
+      },
+      {
+        heading: "Booking a commercial clearance",
+        paragraphs: [
+          "Send a floor plan or a short walkthrough video on WhatsApp along with your handover date and the building name. Those three things let us tell you what the tower typically requires, whether the work needs to run after hours, and how many nights it will take.",
+          "Our office and commercial clearance service covers dismantling, protected removal routes, waste separation, and the documentation landlords ask for at inspection. Where reinstatement to shell condition is in scope, it is worth having that conversation before the last month of the lease rather than during it.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "How long does clearing a typical Dubai office take?",
+        answer:
+          "A small fitted office is often a single night once approvals are in place. A full floor with cubicles, a server room, and reinstatement work runs across several nights or a weekend. The variable is rarely labour; it is how quickly building management issues the permit and releases the service lift.",
+      },
+      {
+        question: "Can an office clearance be done outside business hours?",
+        answer:
+          "In most Dubai towers it has to be. Building management commonly restricts bulky removals and noisy dismantling to evenings, weekends, or set overnight windows to avoid disturbing other tenants. Plan the schedule around the building's permitted hours rather than around your own team's availability.",
+      },
+      {
+        question: "Who removes partitions, carpet, and data cabling, the tenant or the landlord?",
+        answer:
+          "It depends entirely on the reinstatement clause in your lease. Where the unit was handed over as shell and core, the tenant usually removes the fit-out they installed, including cabling and partitions. Confirm it in writing with the landlord early, since this single question can double or halve the scope.",
+      },
+      {
+        question: "Does someone from our team need to be present during the clearance?",
+        answer:
+          "Yes, at least one authorised person. Security passes are issued against a named contact, decisions come up constantly about what stays and what goes, and the final walkthrough needs someone who can sign off. For after hours work, agree in advance who holds the keys and who closes the floor.",
+      },
+    ],
+    relatedSlugs: ["how-to-dispose-of-old-laptop-dubai", "junk-removal-for-landlords-dubai", "how-to-choose-a-junk-removal-company-dubai"],
+  },
 ];
 
 // Helper Functions
