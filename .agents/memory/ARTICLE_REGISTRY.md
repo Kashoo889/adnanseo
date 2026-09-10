@@ -2,8 +2,8 @@
 
 **Domain:** dubaijunkcollection.com
 **Total Target Articles:** 93
-**Published Articles:** 22 (23.7% of Total Roadmap)
-**Last Updated:** 2026-09-07
+**Published Articles:** 31 (33.3% of Total Roadmap)
+**Last Updated:** 2026-09-10
 
 ---
 
@@ -33,6 +33,15 @@
 | **B20** | *Seasonal Decluttering in Dubai: Ramadan, New Year & Post-Summer Cleanouts* | ramadan-home-clearing-dubai | ramadan home clearing dubai | 20 | I | Guides & Tips | 2026-09-07 | Live |
 | **B21** | *Downsizing Your Home in Dubai: Garage & Storeroom Decluttering Strategies* | downsizing-home-dubai-tips | downsizing home dubai tips | 20 | I / C | Moving & Tenancy | 2026-09-07 | Live |
 | **B22** | *How to Safely Dispose of Old Furniture & Broken Wardrobes in Dubai* | how-to-dispose-of-old-furniture-in-dubai | how to dispose of old furniture in dubai | 3 | Q | Guides & Tips | 2026-09-07 | Live |
+| **B23** | *Where to Dispose of an Old Sofa or Couch in Dubai* | where-to-dispose-old-sofa-in-dubai | where to dispose old sofa in dubai | 3 | Q | Guides & Tips | 2026-09-08 | Live |
+| **B24** | *How to Dispose of an Old Mattress in Dubai Without Community Fines* | how-to-dispose-of-a-mattress-in-dubai | how to dispose of a mattress in dubai | 10 | Q | Guides & Tips | 2026-09-08 | Live |
+| **B25** | *How to Dispose of Refrigerators & Large Home Appliances in Dubai* | how-to-dispose-of-old-fridge-in-dubai | how to dispose of old fridge in dubai | 4 | Q / I | Eco & Recycling | 2026-09-08 | Live |
+| **B26** | *How to Get Rid of an Old AC Unit & Water Heater in Dubai* | how-to-get-rid-of-old-ac-unit-dubai | how to get rid of old ac unit dubai | 4 | Q | Eco & Recycling | 2026-09-09 | Live |
+| **B27** | *How to Dispose of Old Laptops & Computers Securely in Dubai* | how-to-dispose-of-old-laptop-dubai | how to dispose of old laptop dubai | 5 | Q / I | Eco & Recycling | 2026-09-09 | Live |
+| **B28** | *How to Safely Clear an Office & Decommission Commercial Furniture in Dubai* | how-to-clear-an-office-in-dubai | how to clear an office in dubai | 6 | Q / I | Commercial & Office | 2026-09-09 | Live |
+| **B29** | *How to Dispose of Palm Fronds & Green Garden Waste in Dubai Villa Communities* | how-to-dispose-of-garden-waste-in-dubai | how to dispose of garden waste in dubai | 7 | Q / I | Guides & Tips | 2026-09-10 | Live |
+| **B30** | *How to Clean Up and Dispose of Construction & Renovation Debris in Dubai* | how-to-dispose-of-construction-waste-dubai | how to dispose of construction waste dubai | 11 | Q / I | Guides & Tips | 2026-09-10 | Live |
+| **B31** | *Room-by-Room Decluttering Checklist: Step-by-Step Home Cleanout Guide* | room-by-room-decluttering-checklist | room by room decluttering checklist | 2 | I / Q | Guides & Tips | 2026-09-10 | Live |
 
 ---
 
@@ -41,8 +50,8 @@
 * **Batch 1: Cost, Pricing Transparency & Free Intercepts (B01–B07):** 7/7 Completed (100%)
 * **Batch 2: Municipality Rules, Skip Comparisons & Sustainability (B08–B14):** 7/7 Completed (100%)
 * **Batch 3: Expat Move-Outs, Handover Checklists & Situational Guides (B15–B21):** 7/7 Completed (100%)
-* **Batch 4: Item-Specific How-To Dispose Snippet Series (B22–B31):** 1/10 (10%)
-* **Remaining Long-Tail & Cluster Articles (B32–B93):** 0/61 (0%)
+* **Batch 4: Item-Specific How-To Dispose Snippet Series (B22–B31):** 10/10 Completed (100%)
+* **Remaining Long-Tail & Cluster Articles (B32–B93):** 0/62 (0%)
 
 ---
 
@@ -225,3 +234,45 @@
 * **Angle:** Appliances are the category where day-before preparation (defrost, drain, isolate) decides whether the pickup happens; refrigerant recovery makes a fridge legally different.
 * **Images:** Cover: applianceImg, Body: warehouseImg
 * **Target Funnel:** /services/appliance-removal
+
+### B26: how-to-get-rid-of-old-ac-unit-dubai
+* **URL:** /blog/how-to-get-rid-of-old-ac-unit-dubai
+* **Primary Keyword:** how to get rid of old ac unit dubai
+* **Secondary Keywords:** air conditioner disposal dubai, water heater removal dubai
+* **Images:** Cover: teamImg, Body: warehouseImg
+* **Target Funnel:** /services/appliance-removal
+
+### B27: how-to-dispose-of-old-laptop-dubai
+* **URL:** /blog/how-to-dispose-of-old-laptop-dubai
+* **Primary Keyword:** how to dispose of old laptop dubai
+* **Secondary Keywords:** where to recycle electronics in dubai, is it illegal to throw electronics in the bin dubai, data safe electronics disposal dubai
+* **Images:** Cover: blogB13Cover, Body: blogB11Cover
+* **Target Funnel:** /services/e-waste-disposal
+
+### B28: how-to-clear-an-office-in-dubai
+* **URL:** /blog/how-to-clear-an-office-in-dubai
+* **Primary Keyword:** how to clear an office in dubai
+* **Secondary Keywords:** office relocation junk removal dubai, decluttering the workplace productivity, cubicle removal dubai
+* **Images:** Cover: officeImg, Body: blogB12Body
+* **Target Funnel:** /services/office-junk-removal
+
+### B29: how-to-dispose-of-garden-waste-in-dubai
+* **URL:** /blog/how-to-dispose-of-garden-waste-in-dubai
+* **Primary Keyword:** how to dispose of garden waste in dubai
+* **Secondary Keywords:** what to do with palm fronds dubai, green waste recycling dubai, garden rubbish removal dubai
+* **Images:** Cover: blogB29Cover (AI-generated), Body: blogB29Body (AI-generated)
+* **Target Funnel:** /services/garden-waste-removal
+
+### B30: how-to-dispose-of-construction-waste-dubai
+* **URL:** /blog/how-to-dispose-of-construction-waste-dubai
+* **Primary Keyword:** how to dispose of construction waste dubai
+* **Secondary Keywords:** renovation cleanup checklist dubai, building rubble removal dubai, demolition waste removal dubai
+* **Images:** Cover: blogB30Cover (AI-generated), Body: blogB30Body (AI-generated)
+* **Target Funnel:** /services/construction-waste-removal
+
+### B31: room-by-room-decluttering-checklist
+* **URL:** /blog/room-by-room-decluttering-checklist
+* **Primary Keyword:** room by room decluttering checklist
+* **Secondary Keywords:** how to declutter your home dubai, declutter before moving dubai, what to do with unwanted household items dubai
+* **Images:** Cover: blogB31Cover (AI-generated), Body: blogB31Body (AI-generated)
+* **Target Funnel:** /services/household-junk-removal
