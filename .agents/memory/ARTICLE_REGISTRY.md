@@ -2,8 +2,8 @@
 
 **Domain:** dubaijunkcollection.com
 **Total Target Articles:** 93
-**Published Articles:** 34 (36.6% of Total Roadmap)
-**Last Updated:** 2026-09-11
+**Published Articles:** 37 (39.8% of Total Roadmap)
+**Last Updated:** 2026-09-12
 
 ---
 
@@ -45,6 +45,9 @@
 | **B32** | *How to Declutter Your Home in Dubai: Apartment & Villa Strategies* | how-to-declutter-your-home-dubai | how to declutter your home dubai | 2 | I | Guides & Tips | 2026-09-11 | Live |
 | **B33** | *Declutter Before Moving in Dubai: Save Relocation Costs & Moving Day Stress* | declutter-before-moving-dubai | declutter before moving dubai | 2 | I | Moving & Tenancy | 2026-09-11 | Live |
 | **B34** | *What to Do with Unwanted Household Items in Dubai: Donate, Sell, Recycle, or Haul* | what-to-do-with-unwanted-household-items-dubai | what to do with unwanted household items dubai | 2 | Q | Eco & Recycling | 2026-09-11 | Live |
+| **B35** | *Garage Clearance Dubai: Villa Decluttering, Storage Racks & Bulk Junk Removal* | garage-clearance-dubai | garage clearance dubai | 20 | C | Guides & Tips | 2026-09-12 | Live |
+| **B36** | *Storeroom Clearance Dubai: How to Declutter Utility & Maid's Rooms* | storeroom-clearance-dubai | storeroom clearance dubai | 20 | C | Guides & Tips | 2026-09-12 | Live |
+| **B37** | *Junk Removal After Moving in Dubai: Fast Disposal for Boxes, Packaging & Leftover Clutter* | junk-removal-after-moving-dubai | junk removal after moving dubai | 20 | I | Moving & Tenancy | 2026-09-12 | Live |
 
 ---
 
@@ -54,8 +57,8 @@
 * **Batch 2: Municipality Rules, Skip Comparisons & Sustainability (B08–B14):** 7/7 Completed (100%)
 * **Batch 3: Expat Move-Outs, Handover Checklists & Situational Guides (B15–B21):** 7/7 Completed (100%)
 * **Batch 4: Item-Specific How-To Dispose Snippet Series (B22–B31):** 10/10 Completed (100%)
-* **Batch 5: Residential Decluttering & Relocation Clearance Series (B32–B34):** 3/10 Completed (30%)
-* **Remaining Long-Tail & Cluster Articles (B35–B93):** 0/59 (0%)
+* **Batch 5: Residential Decluttering, Storage & Post-Move Clearance (B32–B37):** 6/10 Completed (60%)
+* **Remaining Long-Tail & Cluster Articles (B38–B93):** 0/56 (0%)
 
 ---
 
@@ -301,4 +304,26 @@
 * **Secondary Keywords:** where to donate used items dubai, sell vs donate old furniture dubai, responsible appliance disposal dubai
 * **Images:** Cover: blogB34Cover (AI-generated), Body: blogB34Body (AI-generated)
 * **Target Funnel:** /services/household-junk-removal, /about
+
+### B35: garage-clearance-dubai
+* **URL:** /blog/garage-clearance-dubai
+* **Primary Keyword:** garage clearance dubai
+* **Secondary Keywords:** villa garage decluttering, dubai residential junk removal, bulk waste collection dubai, arabian ranches garage cleanout
+* **Images:** Cover: blogB35Cover (AI-generated), Body: blogB35Body (AI-generated)
+* **Target Funnel:** /services/household-junk-removal, /services
+
+### B36: storeroom-clearance-dubai
+* **URL:** /blog/storeroom-clearance-dubai
+* **Primary Keyword:** storeroom clearance dubai
+* **Secondary Keywords:** apartment storage room decluttering, maids room cleanout dubai, utility room junk removal, dubai high rise living storage
+* **Images:** Cover: blogB36Cover (AI-generated), Body: blogB36Body (AI-generated)
+* **Target Funnel:** /services/household-junk-removal, /services
+
+### B37: junk-removal-after-moving-dubai
+* **URL:** /blog/junk-removal-after-moving-dubai
+* **Primary Keyword:** junk removal after moving dubai
+* **Secondary Keywords:** post move box disposal dubai, cardboard recycling dubai moving, dubai relocation cleanout, packaging waste removal uae
+* **Images:** Cover: blogB37Cover (AI-generated), Body: blogB37Body (AI-generated)
+* **Target Funnel:** /services/household-junk-removal, /services/villa-apartment-cleanouts
+
 

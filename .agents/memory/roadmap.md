@@ -150,11 +150,23 @@ The 93 blog opportunities are organized into **6 thematic publishing tracks**. E
 
 ---
 
+### Track 8: Garage, Storeroom & Post-Move Junk Removal (Cluster 20)
+*Covers specialized space clearances including villa garages, apartment utility/maid's rooms, and post-relocation packaging removal.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B35** | *Garage Clearance Dubai: Villa Decluttering, Storage Racks & Bulk Junk Removal* | `garage clearance dubai` | `villa garage decluttering`, `dubai residential junk removal`, `bulk waste collection dubai`, `arabian ranches garage cleanout` | C | `/services/household-junk-removal`, `/services` |
+| **B36** | *Storeroom Clearance Dubai: How to Declutter Utility & Maid's Rooms* | `storeroom clearance dubai` | `apartment storage room decluttering`, `maids room cleanout dubai`, `utility room junk removal`, `dubai high rise living storage` | C | `/services/household-junk-removal`, `/services` |
+| **B37** | *Junk Removal After Moving in Dubai: Fast Disposal for Boxes, Packaging & Leftover Clutter* | `junk removal after moving dubai` | `post move box disposal dubai`, `cardboard recycling dubai moving`, `dubai relocation cleanout`, `packaging waste removal uae` | I | `/services/household-junk-removal`, `/services/villa-apartment-cleanouts` |
+
+---
+
 ## Publishing Cadence & Execution Plan
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
 2. **Batch 2 (Articles B08–B14):** Municipality Rules, Skip Comparisons & Sustainability (establishes trust & snippet dominance) — **100% Completed (7/7 Live)**.
 3. **Batch 3 (Articles B15–B21):** Expat Move-Outs, Handover Checklists & Situational Guides (high seasonal demand) — **100% Completed (7/7 Live)**.
 4. **Batch 4 (Articles B22–B31):** Item-Specific "How-To Dispose" Snippet Series (captures long-tail question traffic) — **100% Completed (10/10 Live)**.
-5. **Batch 5 (Articles B32–B34):** Residential Decluttering, Relocation Preparation & Surplus Items — **3/10 Staged (30%)**.
+5. **Batch 5 (Articles B32–B37):** Residential Decluttering, Storage & Post-Move Clearance — **6/10 Completed (60%)**.
+
 
