@@ -2,8 +2,8 @@
 
 **Domain:** dubaijunkcollection.com
 **Total Target Articles:** 93
-**Published Articles:** 31 (33.3% of Total Roadmap)
-**Last Updated:** 2026-09-10
+**Published Articles:** 34 (36.6% of Total Roadmap)
+**Last Updated:** 2026-09-11
 
 ---
 
@@ -42,6 +42,9 @@
 | **B29** | *How to Dispose of Palm Fronds & Green Garden Waste in Dubai Villa Communities* | how-to-dispose-of-garden-waste-in-dubai | how to dispose of garden waste in dubai | 7 | Q / I | Guides & Tips | 2026-09-10 | Live |
 | **B30** | *How to Clean Up and Dispose of Construction & Renovation Debris in Dubai* | how-to-dispose-of-construction-waste-dubai | how to dispose of construction waste dubai | 11 | Q / I | Guides & Tips | 2026-09-10 | Live |
 | **B31** | *Room-by-Room Decluttering Checklist: Step-by-Step Home Cleanout Guide* | room-by-room-decluttering-checklist | room by room decluttering checklist | 2 | I / Q | Guides & Tips | 2026-09-10 | Live |
+| **B32** | *How to Declutter Your Home in Dubai: Apartment & Villa Strategies* | how-to-declutter-your-home-dubai | how to declutter your home dubai | 2 | I | Guides & Tips | 2026-09-11 | Live |
+| **B33** | *Declutter Before Moving in Dubai: Save Relocation Costs & Moving Day Stress* | declutter-before-moving-dubai | declutter before moving dubai | 2 | I | Moving & Tenancy | 2026-09-11 | Live |
+| **B34** | *What to Do with Unwanted Household Items in Dubai: Donate, Sell, Recycle, or Haul* | what-to-do-with-unwanted-household-items-dubai | what to do with unwanted household items dubai | 2 | Q | Eco & Recycling | 2026-09-11 | Live |
 
 ---
 
@@ -51,7 +54,8 @@
 * **Batch 2: Municipality Rules, Skip Comparisons & Sustainability (B08–B14):** 7/7 Completed (100%)
 * **Batch 3: Expat Move-Outs, Handover Checklists & Situational Guides (B15–B21):** 7/7 Completed (100%)
 * **Batch 4: Item-Specific How-To Dispose Snippet Series (B22–B31):** 10/10 Completed (100%)
-* **Remaining Long-Tail & Cluster Articles (B32–B93):** 0/62 (0%)
+* **Batch 5: Residential Decluttering & Relocation Clearance Series (B32–B34):** 3/10 Completed (30%)
+* **Remaining Long-Tail & Cluster Articles (B35–B93):** 0/59 (0%)
 
 ---
 
@@ -276,3 +280,25 @@
 * **Secondary Keywords:** how to declutter your home dubai, declutter before moving dubai, what to do with unwanted household items dubai
 * **Images:** Cover: blogB31Cover (AI-generated), Body: blogB31Body (AI-generated)
 * **Target Funnel:** /services/household-junk-removal
+
+### B32: how-to-declutter-your-home-dubai
+* **URL:** /blog/how-to-declutter-your-home-dubai
+* **Primary Keyword:** how to declutter your home dubai
+* **Secondary Keywords:** decluttering high rise apartments dubai, villa storeroom clearance dubai, residential clutter removal uae
+* **Images:** Cover: blogB32Cover (AI-generated), Body: blogB32Body (AI-generated)
+* **Target Funnel:** /services/household-junk-removal
+
+### B33: declutter-before-moving-dubai
+* **URL:** /blog/declutter-before-moving-dubai
+* **Primary Keyword:** declutter before moving dubai
+* **Secondary Keywords:** moving house junk removal dubai, downsizing moving costs dubai, pre move home clearance
+* **Images:** Cover: blogB33Cover (AI-generated), Body: blogB33Body (AI-generated)
+* **Target Funnel:** /services/household-junk-removal, /services/villa-apartment-cleanouts
+
+### B34: what-to-do-with-unwanted-household-items-dubai
+* **URL:** /blog/what-to-do-with-unwanted-household-items-dubai
+* **Primary Keyword:** what to do with unwanted household items dubai
+* **Secondary Keywords:** where to donate used items dubai, sell vs donate old furniture dubai, responsible appliance disposal dubai
+* **Images:** Cover: blogB34Cover (AI-generated), Body: blogB34Body (AI-generated)
+* **Target Funnel:** /services/household-junk-removal, /about
+

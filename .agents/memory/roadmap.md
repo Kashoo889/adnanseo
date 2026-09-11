@@ -139,9 +139,22 @@ The 93 blog opportunities are organized into **6 thematic publishing tracks**. E
 
 ---
 
+### Track 7: Residential Decluttering, Moving Prep & Household Items (Cluster 2)
+*Covers comprehensive residential home decluttering, relocation preparation, and surplus item management.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :--- | :--- |
+| **B32** | *How to Declutter Your Home in Dubai: Apartment & Villa Strategies* | `how to declutter your home dubai` | `decluttering high rise apartments dubai`, `villa storeroom clearance dubai`, `residential clutter removal uae` | I | `/services/household-junk-removal` |
+| **B33** | *Declutter Before Moving in Dubai: Save Relocation Costs & Moving Day Stress* | `declutter before moving dubai` | `moving house junk removal dubai`, `downsizing moving costs dubai`, `pre move home clearance` | I | `/services/household-junk-removal`, `/services/villa-apartment-cleanouts` |
+| **B34** | *What to Do with Unwanted Household Items in Dubai: Donate, Sell, Recycle, or Haul* | `what to do with unwanted household items dubai` | `where to donate used items dubai`, `sell vs donate old furniture dubai`, `responsible appliance disposal dubai` | Q | `/services/household-junk-removal`, `/about` |
+
+---
+
 ## Publishing Cadence & Execution Plan
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
 2. **Batch 2 (Articles B08–B14):** Municipality Rules, Skip Comparisons & Sustainability (establishes trust & snippet dominance) — **100% Completed (7/7 Live)**.
 3. **Batch 3 (Articles B15–B21):** Expat Move-Outs, Handover Checklists & Situational Guides (high seasonal demand) — **100% Completed (7/7 Live)**.
 4. **Batch 4 (Articles B22–B31):** Item-Specific "How-To Dispose" Snippet Series (captures long-tail question traffic) — **100% Completed (10/10 Live)**.
+5. **Batch 5 (Articles B32–B34):** Residential Decluttering, Relocation Preparation & Surplus Items — **3/10 Staged (30%)**.
+
