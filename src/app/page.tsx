@@ -9,6 +9,8 @@ import { areaGroups, areas } from "@/config/areas";
 import { site, absoluteUrl, getWhatsAppHref } from "@/config/site";
 import { SectionHeader } from "@/components/site/SectionHeader";
 import { CTASection } from "@/components/site/CTASection";
+import { BlogPostCard } from "@/components/site/BlogPostCard";
+import { getAllPosts } from "@/config/blog";
 
 export const metadata: Metadata = {
   title: "Junk Removal Dubai | Premium Junk Removal Services in Dubai",
@@ -124,6 +126,8 @@ const faqLd = {
 };
 
 export default function Home() {
+  const recentPosts = getAllPosts().slice(0, 3);
+
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(localBusinessLd) }} />
@@ -433,6 +437,31 @@ export default function Home() {
         </div>
       </section>
 
+      {/* RECENT BLOGS */}
+      {recentPosts.length > 0 && (
+        <section className="bg-[color:var(--color-cream)] py-24">
+          <div className="container-x">
+            <div className="flex flex-col gap-6 sm:flex-row sm:items-end sm:justify-between">
+              <SectionHeader
+                eyebrow="From the blog"
+                title="Latest clearance guides & tips."
+                body="Practical advice from our Dubai crew — move-out checklists, disposal rules and decluttering know-how."
+              />
+              <Link
+                href="/blog"
+                className="link-underline inline-flex shrink-0 items-center gap-1 text-sm font-medium"
+              >
+                View all articles <ArrowUpRight className="h-4 w-4" />
+              </Link>
+            </div>
+            <div className="mt-12 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+              {recentPosts.map((post) => (
+                <BlogPostCard key={post.slug} post={post} headingLevel="h3" />
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
 
       <CTASection
         title="Ready for stress-free junk removal in Dubai?"
