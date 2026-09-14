@@ -2,8 +2,8 @@
 
 **Domain:** dubaijunkcollection.com
 **Total Target Articles:** 93
-**Published Articles:** 37 (39.8% of Total Roadmap)
-**Last Updated:** 2026-09-12
+**Published Articles:** 40 (43.0% of Total Roadmap)
+**Last Updated:** 2026-09-14
 
 ---
 
@@ -48,6 +48,9 @@
 | **B35** | *Garage Clearance Dubai: Villa Decluttering, Storage Racks & Bulk Junk Removal* | garage-clearance-dubai | garage clearance dubai | 20 | C | Guides & Tips | 2026-09-12 | Live |
 | **B36** | *Storeroom Clearance Dubai: How to Declutter Utility & Maid's Rooms* | storeroom-clearance-dubai | storeroom clearance dubai | 20 | C | Guides & Tips | 2026-09-12 | Live |
 | **B37** | *Junk Removal After Moving in Dubai: Fast Disposal for Boxes, Packaging & Leftover Clutter* | junk-removal-after-moving-dubai | junk removal after moving dubai | 20 | I | Moving & Tenancy | 2026-09-12 | Live |
+| **B38** | *Office Relocation Junk Removal Dubai: A No-Downtime Clearance Plan* | office-relocation-junk-removal-dubai | office relocation junk removal dubai | 6 | I | Commercial & Office | 2026-09-14 | Live |
+| **B39** | *Decluttering the Workplace for Productivity: A Practical Dubai Office Reset* | decluttering-the-workplace-productivity | decluttering the workplace productivity | 6 | I | Commercial & Office | 2026-09-14 | Live |
+| **B40** | *Renovation Cleanup Checklist Dubai: From Contractor Exit to Move-In* | renovation-cleanup-checklist-dubai | renovation cleanup checklist dubai | 11 | I | Guides & Tips | 2026-09-14 | Live |
 
 ---
 
@@ -58,7 +61,8 @@
 * **Batch 3: Expat Move-Outs, Handover Checklists & Situational Guides (B15–B21):** 7/7 Completed (100%)
 * **Batch 4: Item-Specific How-To Dispose Snippet Series (B22–B31):** 10/10 Completed (100%)
 * **Batch 5: Residential Decluttering, Storage & Post-Move Clearance (B32–B37):** 6/10 Completed (60%)
-* **Remaining Long-Tail & Cluster Articles (B38–B93):** 0/56 (0%)
+* **Batch 6: Office Workflow & Renovation Cleanup (B38–B40):** 3/3 Completed (100%)
+* **Remaining Long-Tail & Cluster Articles (B41–B93):** 0/53 (0%)
 
 ---
 
@@ -259,7 +263,7 @@
 ### B28: how-to-clear-an-office-in-dubai
 * **URL:** /blog/how-to-clear-an-office-in-dubai
 * **Primary Keyword:** how to clear an office in dubai
-* **Secondary Keywords:** office relocation junk removal dubai, decluttering the workplace productivity, cubicle removal dubai
+* **Secondary Keywords:** cubicle removal dubai, office furniture disposal dubai, office refit clearance dubai
 * **Images:** Cover: officeImg, Body: blogB12Body
 * **Target Funnel:** /services/office-junk-removal
 
@@ -273,7 +277,7 @@
 ### B30: how-to-dispose-of-construction-waste-dubai
 * **URL:** /blog/how-to-dispose-of-construction-waste-dubai
 * **Primary Keyword:** how to dispose of construction waste dubai
-* **Secondary Keywords:** renovation cleanup checklist dubai, building rubble removal dubai, demolition waste removal dubai
+* **Secondary Keywords:** building rubble removal dubai, demolition waste removal dubai, construction debris removal dubai
 * **Images:** Cover: blogB30Cover (AI-generated), Body: blogB30Body (AI-generated)
 * **Target Funnel:** /services/construction-waste-removal
 
@@ -326,4 +330,29 @@
 * **Images:** Cover: blogB37Cover (AI-generated), Body: blogB37Body (AI-generated)
 * **Target Funnel:** /services/household-junk-removal, /services/villa-apartment-cleanouts
 
+### B38: office-relocation-junk-removal-dubai
+* **URL:** /blog/office-relocation-junk-removal-dubai
+* **Primary Keyword:** office relocation junk removal dubai
+* **Intent:** Informational relocation workflow; distinct from the general office-clearance service intent.
+* **Angle:** Run relocation and clearance as separate workstreams so dead storage never reaches the new office and live IT stays operational until cutover.
+* **Secondary Keywords:** after hours office clearance dubai, office refit clearance dubai, office furniture disposal dubai, cubicle removal dubai
+* **Images:** Cover: blogB38Cover (AI-generated), Body: blogB38Body (AI-generated)
+* **Target Funnel:** /services/office-junk-removal
 
+### B39: decluttering-the-workplace-productivity
+* **URL:** /blog/decluttering-the-workplace-productivity
+* **Primary Keyword:** decluttering the workplace productivity
+* **Intent:** Informational workplace-improvement guide; distinct from relocation and full-clearance intent.
+* **Angle:** Remove repeated workplace friction in shared zones without forcing sterile desks or interrupting the workday.
+* **Secondary Keywords:** office chair disposal dubai, office furniture disposal dubai, commercial waste disposal dubai, business junk removal dubai
+* **Images:** Cover: blogB39Cover (AI-generated), Body: blogB39Body (AI-generated)
+* **Target Funnel:** /services/office-junk-removal
+
+### B40: renovation-cleanup-checklist-dubai
+* **URL:** /blog/renovation-cleanup-checklist-dubai
+* **Primary Keyword:** renovation cleanup checklist dubai
+* **Intent:** Informational workflow checklist; distinct from B30's legal construction-waste disposal intent.
+* **Angle:** Four gated stages—from snag closeout through sorted debris removal and fine-dust inspection—prevent repeat cleaning and damage to new finishes.
+* **Secondary Keywords:** after renovation cleanup dubai, renovation waste removal dubai, renovation debris disposal dubai, building rubble removal dubai
+* **Images:** Cover: blogB40Cover (AI-generated), Body: blogB40Body (AI-generated)
+* **Target Funnel:** /services, /contact

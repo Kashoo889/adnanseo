@@ -56,7 +56,7 @@ graph TD
 
 ## Phase 4: Structured Blog & Topical Authority Engine
 
-The 93 blog opportunities are organized into **6 thematic publishing tracks**. Each article targets a primary keyword and multiple secondary keywords from the research, answering specific intent before funneling readers to the relevant service or community page.
+The 93 blog opportunities are organized into thematic publishing tracks. Each article targets a primary keyword and multiple secondary keywords from the research, answering specific intent before funneling readers to the relevant service or community page.
 
 ---
 
@@ -132,9 +132,9 @@ The 93 blog opportunities are organized into **6 thematic publishing tracks**. E
 | **B25** | *How to Dispose of Refrigerators & Large Home Appliances in Dubai* | `how to dispose of old fridge in dubai` | `where to dispose washing machine dubai`, `responsible appliance disposal dubai` | Q / I | `/services/appliance-removal` |
 | **B26** | *How to Get Rid of an Old AC Unit & Water Heater in Dubai* | `how to get rid of old ac unit dubai` | `air conditioner disposal dubai`, `water heater removal dubai` | Q | `/services/appliance-removal` |
 | **B27** | *How to Dispose of Old Laptops & Computers Securely in Dubai* | `how to dispose of old laptop dubai` | `where to recycle electronics in dubai`, `is it illegal to throw electronics in the bin dubai`, `data safe electronics disposal dubai` | Q / I | `/services/e-waste-disposal` |
-| **B28** | *How to Safely Clear an Office & Decommission Commercial Furniture in Dubai* | `how to clear an office in dubai` | `office relocation junk removal dubai`, `decluttering the workplace productivity`, `cubicle removal dubai` | Q / I | `/services/office-junk-removal` |
+| **B28** | *How to Safely Clear an Office & Decommission Commercial Furniture in Dubai* | `how to clear an office in dubai` | `cubicle removal dubai`, `office furniture disposal dubai`, `office refit clearance dubai` | Q / I | `/services/office-junk-removal` |
 | **B29** | *How to Dispose of Palm Fronds & Green Garden Waste in Dubai Villa Communities* | `how to dispose of garden waste in dubai` | `what to do with palm fronds dubai`, `green waste recycling dubai` | Q / I | `/services/garden-waste-removal` |
-| **B30** | *How to Clean Up and Dispose of Construction & Renovation Debris in Dubai* | `how to dispose of construction waste dubai` | `renovation cleanup checklist dubai`, `building rubble removal dubai` | Q / I | `/services/construction-waste-removal` |
+| **B30** | *How to Clean Up and Dispose of Construction & Renovation Debris in Dubai* | `how to dispose of construction waste dubai` | `building rubble removal dubai`, `demolition waste removal dubai`, `construction debris removal dubai` | Q / I | `/services/construction-waste-removal` |
 | **B31** | *Room-by-Room Decluttering Checklist: Step-by-Step Home Cleanout Guide* | `room by room decluttering checklist` | `how to declutter your home dubai`, `declutter before moving dubai`, `what to do with unwanted household items dubai` | I / Q | `/services/household-junk-removal` |
 
 ---
@@ -161,6 +161,17 @@ The 93 blog opportunities are organized into **6 thematic publishing tracks**. E
 
 ---
 
+### Track 9: Office Workflow & Renovation Cleanup (Clusters 6 & 11)
+*Separates operational office-move and workplace-reset intent from service-page clearance terms, and separates post-renovation handover workflow from construction-waste disposal rules.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B38** | *Office Relocation Junk Removal Dubai: A No-Downtime Clearance Plan* | `office relocation junk removal dubai` | `after hours office clearance dubai`, `office refit clearance dubai`, `office furniture disposal dubai`, `cubicle removal dubai` | I | `/services/office-junk-removal` |
+| **B39** | *Decluttering the Workplace for Productivity: A Practical Dubai Office Reset* | `decluttering the workplace productivity` | `office chair disposal dubai`, `office furniture disposal dubai`, `commercial waste disposal dubai`, `business junk removal dubai` | I | `/services/office-junk-removal` |
+| **B40** | *Renovation Cleanup Checklist Dubai: From Contractor Exit to Move-In* | `renovation cleanup checklist dubai` | `after renovation cleanup dubai`, `renovation waste removal dubai`, `renovation debris disposal dubai`, `building rubble removal dubai` | I | `/services`, `/contact` |
+
+---
+
 ## Publishing Cadence & Execution Plan
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -168,5 +179,4 @@ The 93 blog opportunities are organized into **6 thematic publishing tracks**. E
 3. **Batch 3 (Articles B15–B21):** Expat Move-Outs, Handover Checklists & Situational Guides (high seasonal demand) — **100% Completed (7/7 Live)**.
 4. **Batch 4 (Articles B22–B31):** Item-Specific "How-To Dispose" Snippet Series (captures long-tail question traffic) — **100% Completed (10/10 Live)**.
 5. **Batch 5 (Articles B32–B37):** Residential Decluttering, Storage & Post-Move Clearance — **6/10 Completed (60%)**.
-
-
+6. **Batch 6 (Articles B38–B40):** Office Workflow & Renovation Cleanup — **100% Completed (3/3 Live)**.
