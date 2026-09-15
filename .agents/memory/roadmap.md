@@ -79,7 +79,7 @@ The 93 blog opportunities are organized into thematic publishing tracks. Each ar
 | :-: | :--- | :--- | :--- | :---: | :--- |
 | **B05** | *Free vs Paid Junk Removal in Dubai: What Free Services Won't Tell You* | `free vs paid junk removal dubai` | `free junk removal dubai`, `free junk collection dubai`, `is junk removal free in dubai` | I / Q | `/about`, `/services` |
 | **B06** | *Where and How to Donate Used Furniture & Household Items in Dubai* | `where to donate furniture in dubai` | `donate old furniture dubai`, `charities that collect furniture dubai`, `where to donate used items dubai`, `furniture donation pickup dubai` | Q / I | `/services/furniture-removal` |
-| **B07** | *Free Furniture Removal in Dubai: Which Items Qualify and Which Don't?* | `free furniture removal dubai` | `free furniture pickup dubai`, `sell vs donate old furniture dubai` | C / I | `/services/furniture-removal` |
+| **B07** | *Free Furniture Removal in Dubai: Which Items Qualify and Which Don't?* | `free furniture removal dubai` | `free furniture pickup dubai` | C / I | `/services/furniture-removal` |
 
 ---
 
@@ -100,7 +100,7 @@ The 93 blog opportunities are organized into thematic publishing tracks. Each ar
 
 | # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
 | :-: | :--- | :--- | :--- | :---: | :--- |
-| **B12** | *Junk Removal vs. Skip Hire in Dubai: Which Is Faster, Cheaper, and Permit-Free?* | `junk removal vs skip hire dubai` | `skip hire dubai alternatives`, `diy junk removal vs hiring dubai` | I | `/services`, `/services/construction-waste-removal` |
+| **B12** | *Junk Removal vs. Skip Hire in Dubai: Which Is Faster, Cheaper, and Permit-Free?* | `junk removal vs skip hire dubai` | `skip hire dubai alternatives` | I | `/services`, `/services/construction-waste-removal` |
 | **B13** | *How to Choose a Junk Removal Company in Dubai: 7 Critical Questions to Ask* | `how to choose a junk removal company dubai` | `what to look for in a junk removal service`, `questions to ask a junk removal company`, `best junk removal companies dubai` | Q / I | `/about`, `/contact` |
 | **B14** | *Same-Day vs. Next-Day Junk Removal in Dubai: Managing Urgent Building Handover Timelines* | `same day vs next day junk removal dubai` | `same day junk removal dubai`, `junk removal company reviews dubai` | I / N | `/contact`, `/services` |
 
@@ -113,7 +113,7 @@ The 93 blog opportunities are organized into thematic publishing tracks. Each ar
 | :-: | :--- | :--- | :--- | :---: | :--- |
 | **B15** | *The Ultimate Move-Out Checklist for Dubai Tenants: Getting Your Security Deposit Back* | `move out checklist dubai tenants` | `how to get security deposit back dubai`, `moving house junk removal dubai`, `clearing a rental property dubai` | I / Q | `/services/villa-apartment-cleanouts` |
 | **B16** | *Leaving Dubai? What to Do with Unwanted Furniture, Electronics & Household Junk* | `what to do with junk when leaving uae` | `expat leaving dubai furniture disposal`, `moving abroad furniture disposal dubai` | Q / I | `/services/furniture-removal`, `/services/villa-apartment-cleanouts` |
-| **B17** | *Villa Handover Guide for Dubai Landlords & Tenants: Avoiding Penalty Deductions* | `villa handover guide dubai` | `villa handover clearance dubai`, `decluttering before selling your home dubai` | I | `/services/villa-apartment-cleanouts` |
+| **B17** | *Villa Handover Guide for Dubai Landlords & Tenants: Avoiding Penalty Deductions* | `villa handover guide dubai` | `villa handover clearance dubai` | I | `/services/villa-apartment-cleanouts` |
 | **B18** | *Property Clearance for Landlords & Real Estate Agents in Dubai* | `junk removal for landlords dubai` | `junk removal for real estate agents dubai`, `pre-sale property clearance dubai`, `tenant move out junk removal dubai` | L / C | `/services/villa-apartment-cleanouts` |
 | **B19** | *Compassionate Deceased Estate & Hoarder Clearance in Dubai* | `hoarder cleanup dubai` | `deceased estate clearance dubai`, `junk removal after death in family dubai` | C / I | `/services/villa-apartment-cleanouts` |
 | **B20** | *Seasonal Decluttering in Dubai: Ramadan, New Year & Post-Summer Cleanouts* | `ramadan home clearing dubai` | `new year decluttering dubai`, `end of summer villa clearout dubai`, `spring cleaning junk removal dubai` | I | `/services/household-junk-removal` |
@@ -146,7 +146,7 @@ The 93 blog opportunities are organized into thematic publishing tracks. Each ar
 | :-: | :--- | :--- | :--- | :--- | :--- |
 | **B32** | *How to Declutter Your Home in Dubai: Apartment & Villa Strategies* | `how to declutter your home dubai` | `decluttering high rise apartments dubai`, `villa storeroom clearance dubai`, `residential clutter removal uae` | I | `/services/household-junk-removal` |
 | **B33** | *Declutter Before Moving in Dubai: Save Relocation Costs & Moving Day Stress* | `declutter before moving dubai` | `moving house junk removal dubai`, `downsizing moving costs dubai`, `pre move home clearance` | I | `/services/household-junk-removal`, `/services/villa-apartment-cleanouts` |
-| **B34** | *What to Do with Unwanted Household Items in Dubai: Donate, Sell, Recycle, or Haul* | `what to do with unwanted household items dubai` | `where to donate used items dubai`, `sell vs donate old furniture dubai`, `responsible appliance disposal dubai` | Q | `/services/household-junk-removal`, `/about` |
+| **B34** | *What to Do with Unwanted Household Items in Dubai: Donate, Sell, Recycle, or Haul* | `what to do with unwanted household items dubai` | `where to donate used items dubai`, `responsible appliance disposal dubai` | Q | `/services/household-junk-removal`, `/about` |
 
 ---
 
@@ -172,6 +172,17 @@ The 93 blog opportunities are organized into thematic publishing tracks. Each ar
 
 ---
 
+### Track 10: Furniture Decisions, DIY Comparison & Pre-Sale Preparation (Clusters 3, 8 & 18)
+*Adds focused decision tools without duplicating the existing donation directory, skip-hire comparison, or tenancy-handover guides.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B41** | *Sell vs Donate Old Furniture in Dubai: Which Route Fits Your Timeline?* | `sell vs donate old furniture dubai` | `furniture removal dubai`, `sofa removal dubai`, `wardrobe removal dubai`, `furniture collection dubai` | I | `/services/furniture-removal` |
+| **B42** | *DIY Junk Removal vs Hiring a Crew in Dubai: A Practical Cost Test* | `diy junk removal vs hiring dubai` | `skip hire dubai alternatives`, `what to look for in a junk removal service`, `questions to ask a junk removal company` | I | `/services`, `/contact` |
+| **B43** | *Decluttering Before Selling Your Home in Dubai: A Two-Pass Plan* | `decluttering before selling your home dubai` | `pre-sale property clearance dubai`, `full house clearance dubai`, `villa handover clearance dubai`, `moving house junk removal dubai` | I | `/services/villa-apartment-cleanouts`, `/contact` |
+
+---
+
 ## Publishing Cadence & Execution Plan
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -180,3 +191,4 @@ The 93 blog opportunities are organized into thematic publishing tracks. Each ar
 4. **Batch 4 (Articles B22–B31):** Item-Specific "How-To Dispose" Snippet Series (captures long-tail question traffic) — **100% Completed (10/10 Live)**.
 5. **Batch 5 (Articles B32–B37):** Residential Decluttering, Storage & Post-Move Clearance — **6/10 Completed (60%)**.
 6. **Batch 6 (Articles B38–B40):** Office Workflow & Renovation Cleanup — **100% Completed (3/3 Live)**.
+7. **Batch 7 (Articles B41–B43):** Decision Support & Pre-Sale Preparation — **100% Completed (3/3 Live)**.

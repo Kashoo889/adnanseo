@@ -392,6 +392,14 @@ export default async function SingleBlogPostPage({ params }: { params: Promise<P
             >
               Call {site.phone}
             </a>
+            {post.serviceLink && (
+              <Link
+                href={post.serviceLink.href}
+                className="link-underline inline-flex px-2 py-3 text-sm font-medium"
+              >
+                {post.serviceLink.label} →
+              </Link>
+            )}
           </div>
         </div>
 

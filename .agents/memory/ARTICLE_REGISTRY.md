@@ -2,8 +2,8 @@
 
 **Domain:** dubaijunkcollection.com
 **Total Target Articles:** 93
-**Published Articles:** 40 (43.0% of Total Roadmap)
-**Last Updated:** 2026-09-14
+**Published Articles:** 43 (46.2% of Total Roadmap)
+**Last Updated:** 2026-09-15
 
 ---
 
@@ -51,6 +51,9 @@
 | **B38** | *Office Relocation Junk Removal Dubai: A No-Downtime Clearance Plan* | office-relocation-junk-removal-dubai | office relocation junk removal dubai | 6 | I | Commercial & Office | 2026-09-14 | Live |
 | **B39** | *Decluttering the Workplace for Productivity: A Practical Dubai Office Reset* | decluttering-the-workplace-productivity | decluttering the workplace productivity | 6 | I | Commercial & Office | 2026-09-14 | Live |
 | **B40** | *Renovation Cleanup Checklist Dubai: From Contractor Exit to Move-In* | renovation-cleanup-checklist-dubai | renovation cleanup checklist dubai | 11 | I | Guides & Tips | 2026-09-14 | Live |
+| **B41** | *Sell vs Donate Old Furniture in Dubai: Which Route Fits Your Timeline?* | sell-vs-donate-old-furniture-dubai | sell vs donate old furniture dubai | 3 | I | Guides & Tips | 2026-09-15 | Live |
+| **B42** | *DIY Junk Removal vs Hiring a Crew in Dubai: A Practical Cost Test* | diy-junk-removal-vs-hiring-dubai | diy junk removal vs hiring dubai | 18 | I | Guides & Tips | 2026-09-15 | Live |
+| **B43** | *Decluttering Before Selling Your Home in Dubai: A Two-Pass Plan* | decluttering-before-selling-your-home-dubai | decluttering before selling your home dubai | 8 | I | Moving & Tenancy | 2026-09-15 | Live |
 
 ---
 
@@ -62,7 +65,8 @@
 * **Batch 4: Item-Specific How-To Dispose Snippet Series (B22–B31):** 10/10 Completed (100%)
 * **Batch 5: Residential Decluttering, Storage & Post-Move Clearance (B32–B37):** 6/10 Completed (60%)
 * **Batch 6: Office Workflow & Renovation Cleanup (B38–B40):** 3/3 Completed (100%)
-* **Remaining Long-Tail & Cluster Articles (B41–B93):** 0/53 (0%)
+* **Batch 7: Decision Support & Pre-Sale Preparation (B41–B43):** 3/3 Completed (100%)
+* **Remaining Long-Tail & Cluster Articles (B44–B93):** 0/50 (0%)
 
 ---
 
@@ -113,7 +117,7 @@
 ### B07: free-furniture-removal-dubai
 * **URL:** /blog/free-furniture-removal-dubai
 * **Primary Keyword:** free furniture removal dubai
-* **Secondary Keywords:** free furniture pickup dubai, sell vs donate old furniture dubai
+* **Secondary Keywords:** free furniture pickup dubai
 * **Images:** Cover: furnitureImg, Body: teamImg
 * **Target Funnel:** /services/furniture-removal
 
@@ -148,7 +152,7 @@
 ### B12: junk-removal-vs-skip-hire-dubai
 * **URL:** /blog/junk-removal-vs-skip-hire-dubai
 * **Primary Keyword:** junk removal vs skip hire dubai
-* **Secondary Keywords:** skip hire dubai alternatives, diy junk removal vs hiring dubai
+* **Secondary Keywords:** skip hire dubai alternatives
 * **Images:** Cover: blogB12Cover, Body: blogB12Body
 * **Target Funnel:** /services, /services/construction-waste-removal
 
@@ -305,7 +309,7 @@
 ### B34: what-to-do-with-unwanted-household-items-dubai
 * **URL:** /blog/what-to-do-with-unwanted-household-items-dubai
 * **Primary Keyword:** what to do with unwanted household items dubai
-* **Secondary Keywords:** where to donate used items dubai, sell vs donate old furniture dubai, responsible appliance disposal dubai
+* **Secondary Keywords:** where to donate used items dubai, responsible appliance disposal dubai
 * **Images:** Cover: blogB34Cover (AI-generated), Body: blogB34Body (AI-generated)
 * **Target Funnel:** /services/household-junk-removal, /about
 
@@ -356,3 +360,30 @@
 * **Secondary Keywords:** after renovation cleanup dubai, renovation waste removal dubai, renovation debris disposal dubai, building rubble removal dubai
 * **Images:** Cover: blogB40Cover (AI-generated), Body: blogB40Body (AI-generated)
 * **Target Funnel:** /services, /contact
+
+### B41: sell-vs-donate-old-furniture-dubai
+* **URL:** /blog/sell-vs-donate-old-furniture-dubai
+* **Primary Keyword:** sell vs donate old furniture dubai
+* **Intent:** Informational decision guide; distinct from B06's donation directory and B34's broad unwanted-item routing guide.
+* **Angle:** A deadline-first matrix compares condition, likely value, effort, access, and pickup certainty, with a preselected fallback date.
+* **Secondary Keywords:** furniture removal dubai, sofa removal dubai, wardrobe removal dubai, furniture collection dubai
+* **Images:** Cover: blogB41Cover (AI-generated), Body: blogB41Body (AI-generated)
+* **Target Funnel:** /services/furniture-removal
+
+### B42: diy-junk-removal-vs-hiring-dubai
+* **URL:** /blog/diy-junk-removal-vs-hiring-dubai
+* **Primary Keyword:** diy junk removal vs hiring dubai
+* **Intent:** Informational comparison guide; distinct from B12's full-service removal versus skip-hire decision.
+* **Angle:** A whole-job cost and effort test covers destination, vehicle space, access, lifting, repeat trips, quote scope, and deadline risk.
+* **Secondary Keywords:** skip hire dubai alternatives, what to look for in a junk removal service, questions to ask a junk removal company
+* **Images:** Cover: blogB42Cover (AI-generated), Body: blogB42Body (AI-generated)
+* **Target Funnel:** /services, /contact
+
+### B43: decluttering-before-selling-your-home-dubai
+* **URL:** /blog/decluttering-before-selling-your-home-dubai
+* **Primary Keyword:** decluttering before selling your home dubai
+* **Intent:** Informational pre-sale preparation guide; distinct from B17's tenancy handover and B18's landlord turnover-clearance intent.
+* **Angle:** Two passes separate photo-and-viewing readiness from the final clearance after sale inclusions are documented.
+* **Secondary Keywords:** pre-sale property clearance dubai, full house clearance dubai, villa handover clearance dubai, moving house junk removal dubai
+* **Images:** Cover: blogB43Cover (AI-generated), Body: blogB43Body (AI-generated)
+* **Target Funnel:** /services/villa-apartment-cleanouts, /contact
