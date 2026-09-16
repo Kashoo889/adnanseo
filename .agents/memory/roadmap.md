@@ -88,7 +88,7 @@ The 93 blog opportunities are organized into thematic publishing tracks. Each ar
 
 | # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
 | :-: | :--- | :--- | :--- | :---: | :--- |
-| **B08** | *Dubai Waste Disposal Rules & Fines for Illegal Dumping: The Complete Resident Guide* | `dubai waste disposal rules` | `fines for illegal dumping dubai`, `how to dispose of junk in dubai`, `hazardous waste disposal dubai` | I | `/services` |
+| **B08** | *Dubai Waste Disposal Rules & Fines for Illegal Dumping: The Complete Resident Guide* | `dubai waste disposal rules` | `fines for illegal dumping dubai`, `how to dispose of junk in dubai` | I | `/services` |
 | **B09** | *Dubai Municipality Bulky Waste Collection: How It Works & Private Crew Alternatives* | `bulky waste collection dubai municipality` | `dubai municipality junk removal`, `where to throw away furniture in dubai` | I | `/services/mattress-bulky-item-removal` |
 | **B10** | *How and Where to Recycle Household Goods in Dubai (Drop-off Centers & Pickups)* | `how to recycle in dubai` | `recycling centres in dubai`, `what can you recycle in dubai`, `landfill vs recycling dubai` | Q / I | `/about`, `/services` |
 | **B11** | *Where Does Your Junk Actually Go After Removal in Dubai?* | `where does junk go after removal dubai` | `eco friendly junk disposal dubai`, `sustainable decluttering tips dubai` | Q / I | `/about` |
@@ -116,7 +116,7 @@ The 93 blog opportunities are organized into thematic publishing tracks. Each ar
 | **B17** | *Villa Handover Guide for Dubai Landlords & Tenants: Avoiding Penalty Deductions* | `villa handover guide dubai` | `villa handover clearance dubai` | I | `/services/villa-apartment-cleanouts` |
 | **B18** | *Property Clearance for Landlords & Real Estate Agents in Dubai* | `junk removal for landlords dubai` | `junk removal for real estate agents dubai`, `pre-sale property clearance dubai`, `tenant move out junk removal dubai` | L / C | `/services/villa-apartment-cleanouts` |
 | **B19** | *Compassionate Deceased Estate & Hoarder Clearance in Dubai* | `hoarder cleanup dubai` | `deceased estate clearance dubai`, `junk removal after death in family dubai` | C / I | `/services/villa-apartment-cleanouts` |
-| **B20** | *Seasonal Decluttering in Dubai: Ramadan, New Year & Post-Summer Cleanouts* | `ramadan home clearing dubai` | `new year decluttering dubai`, `end of summer villa clearout dubai`, `spring cleaning junk removal dubai` | I | `/services/household-junk-removal` |
+| **B20** | *Seasonal Decluttering in Dubai: Ramadan, New Year & Post-Summer Cleanouts* | `ramadan home clearing dubai` | `new year decluttering dubai`, `end of summer villa clearout dubai` | I | `/services/household-junk-removal` |
 | **B21** | *Downsizing Your Home in Dubai: Garage & Storeroom Decluttering Strategies* | `downsizing home dubai tips` | `garage clearance dubai`, `storeroom clearance dubai`, `junk removal after moving dubai` | I / C | `/services/household-junk-removal` |
 
 ---
@@ -131,7 +131,7 @@ The 93 blog opportunities are organized into thematic publishing tracks. Each ar
 | **B24** | *How to Dispose of an Old Mattress in Dubai Without Community Fines* | `how to dispose of a mattress in dubai` | `where to throw old mattress dubai`, `mattress disposal dubai` | Q | `/services/mattress-bulky-item-removal` |
 | **B25** | *How to Dispose of Refrigerators & Large Home Appliances in Dubai* | `how to dispose of old fridge in dubai` | `where to dispose washing machine dubai`, `responsible appliance disposal dubai` | Q / I | `/services/appliance-removal` |
 | **B26** | *How to Get Rid of an Old AC Unit & Water Heater in Dubai* | `how to get rid of old ac unit dubai` | `air conditioner disposal dubai`, `water heater removal dubai` | Q | `/services/appliance-removal` |
-| **B27** | *How to Dispose of Old Laptops & Computers Securely in Dubai* | `how to dispose of old laptop dubai` | `where to recycle electronics in dubai`, `is it illegal to throw electronics in the bin dubai`, `data safe electronics disposal dubai` | Q / I | `/services/e-waste-disposal` |
+| **B27** | *How to Dispose of Old Laptops & Computers Securely in Dubai* | `how to dispose of old laptop dubai` | `is it illegal to throw electronics in the bin dubai`, `data safe electronics disposal dubai` | Q / I | `/services/e-waste-disposal` |
 | **B28** | *How to Safely Clear an Office & Decommission Commercial Furniture in Dubai* | `how to clear an office in dubai` | `cubicle removal dubai`, `office furniture disposal dubai`, `office refit clearance dubai` | Q / I | `/services/office-junk-removal` |
 | **B29** | *How to Dispose of Palm Fronds & Green Garden Waste in Dubai Villa Communities* | `how to dispose of garden waste in dubai` | `what to do with palm fronds dubai`, `green waste recycling dubai` | Q / I | `/services/garden-waste-removal` |
 | **B30** | *How to Clean Up and Dispose of Construction & Renovation Debris in Dubai* | `how to dispose of construction waste dubai` | `building rubble removal dubai`, `demolition waste removal dubai`, `construction debris removal dubai` | Q / I | `/services/construction-waste-removal` |
@@ -143,7 +143,7 @@ The 93 blog opportunities are organized into thematic publishing tracks. Each ar
 *Covers comprehensive residential home decluttering, relocation preparation, and surplus item management.*
 
 | # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
-| :-: | :--- | :--- | :--- | :--- | :--- |
+| :-: | :--- | :--- | :--- | :---: | :--- |
 | **B32** | *How to Declutter Your Home in Dubai: Apartment & Villa Strategies* | `how to declutter your home dubai` | `decluttering high rise apartments dubai`, `villa storeroom clearance dubai`, `residential clutter removal uae` | I | `/services/household-junk-removal` |
 | **B33** | *Declutter Before Moving in Dubai: Save Relocation Costs & Moving Day Stress* | `declutter before moving dubai` | `moving house junk removal dubai`, `downsizing moving costs dubai`, `pre move home clearance` | I | `/services/household-junk-removal`, `/services/villa-apartment-cleanouts` |
 | **B34** | *What to Do with Unwanted Household Items in Dubai: Donate, Sell, Recycle, or Haul* | `what to do with unwanted household items dubai` | `where to donate used items dubai`, `responsible appliance disposal dubai` | Q | `/services/household-junk-removal`, `/about` |
@@ -183,6 +183,17 @@ The 93 blog opportunities are organized into thematic publishing tracks. Each ar
 
 ---
 
+### Track 11: Seasonal Reset, Electronics Recycling & Special Waste (Clusters 2, 5 & 14)
+*Adds a finish-line-led seasonal reset, a current device-by-device recycling directory, and a safety-first specialist route for restricted household material.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B44** | *Spring Cleaning Junk Removal Dubai: A One-Weekend Reset* | `spring cleaning junk removal dubai` | — | I | `/services/household-junk-removal` |
+| **B45** | *Where to Recycle Electronics in Dubai: Devices, Batteries & Drop-Offs* | `where to recycle electronics in dubai` | `e-waste recycling centres dubai` | Q / I | `/services` |
+| **B46** | *Hazardous Waste Disposal Dubai: A Safe Household Guide* | `hazardous waste disposal dubai` | — | I | `/services` |
+
+---
+
 ## Publishing Cadence & Execution Plan
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -192,3 +203,4 @@ The 93 blog opportunities are organized into thematic publishing tracks. Each ar
 5. **Batch 5 (Articles B32–B37):** Residential Decluttering, Storage & Post-Move Clearance — **6/10 Completed (60%)**.
 6. **Batch 6 (Articles B38–B40):** Office Workflow & Renovation Cleanup — **100% Completed (3/3 Live)**.
 7. **Batch 7 (Articles B41–B43):** Decision Support & Pre-Sale Preparation — **100% Completed (3/3 Live)**.
+8. **Batch 8 (Articles B44–B46):** Seasonal Reset, Electronics Recycling & Special Waste — **100% Completed (3/3 Live)**.

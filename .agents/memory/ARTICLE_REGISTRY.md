@@ -2,8 +2,8 @@
 
 **Domain:** dubaijunkcollection.com
 **Total Target Articles:** 93
-**Published Articles:** 43 (46.2% of Total Roadmap)
-**Last Updated:** 2026-09-15
+**Published Articles:** 46 (49.5% of Total Roadmap)
+**Last Updated:** 2026-09-16
 
 ---
 
@@ -54,6 +54,9 @@
 | **B41** | *Sell vs Donate Old Furniture in Dubai: Which Route Fits Your Timeline?* | sell-vs-donate-old-furniture-dubai | sell vs donate old furniture dubai | 3 | I | Guides & Tips | 2026-09-15 | Live |
 | **B42** | *DIY Junk Removal vs Hiring a Crew in Dubai: A Practical Cost Test* | diy-junk-removal-vs-hiring-dubai | diy junk removal vs hiring dubai | 18 | I | Guides & Tips | 2026-09-15 | Live |
 | **B43** | *Decluttering Before Selling Your Home in Dubai: A Two-Pass Plan* | decluttering-before-selling-your-home-dubai | decluttering before selling your home dubai | 8 | I | Moving & Tenancy | 2026-09-15 | Live |
+| **B44** | *Spring Cleaning Junk Removal Dubai: A One-Weekend Reset* | spring-cleaning-junk-removal-dubai | spring cleaning junk removal dubai | 2 | I | Guides & Tips | 2026-09-16 | Live |
+| **B45** | *Where to Recycle Electronics in Dubai: Devices, Batteries & Drop-Offs* | where-to-recycle-electronics-in-dubai | where to recycle electronics in dubai | 5 | Q / I | Eco & Recycling | 2026-09-16 | Live |
+| **B46** | *Hazardous Waste Disposal Dubai: A Safe Household Guide* | hazardous-waste-disposal-dubai | hazardous waste disposal dubai | 14 | I | Eco & Recycling | 2026-09-16 | Live |
 
 ---
 
@@ -66,7 +69,8 @@
 * **Batch 5: Residential Decluttering, Storage & Post-Move Clearance (B32–B37):** 6/10 Completed (60%)
 * **Batch 6: Office Workflow & Renovation Cleanup (B38–B40):** 3/3 Completed (100%)
 * **Batch 7: Decision Support & Pre-Sale Preparation (B41–B43):** 3/3 Completed (100%)
-* **Remaining Long-Tail & Cluster Articles (B44–B93):** 0/50 (0%)
+* **Batch 8: Seasonal Reset, Electronics Recycling & Special Waste (B44–B46):** 3/3 Completed (100%)
+* **Remaining Long-Tail & Cluster Articles (B47–B93):** 0/47 (0%)
 
 ---
 
@@ -124,7 +128,7 @@
 ### B08: dubai-waste-disposal-rules
 * **URL:** /blog/dubai-waste-disposal-rules
 * **Primary Keyword:** dubai waste disposal rules
-* **Secondary Keywords:** fines for illegal dumping dubai, how to dispose of junk in dubai, hazardous waste disposal dubai
+* **Secondary Keywords:** fines for illegal dumping dubai, how to dispose of junk in dubai
 * **Images:** Cover: dubaiSkylineImg, Body: warehouseImg
 * **Target Funnel:** /services, /about
 
@@ -208,7 +212,7 @@
 ### B20: ramadan-home-clearing-dubai
 * **URL:** /blog/ramadan-home-clearing-dubai
 * **Primary Keyword:** ramadan home clearing dubai
-* **Secondary Keywords:** new year decluttering dubai, end of summer villa clearout dubai, spring cleaning junk removal dubai
+* **Secondary Keywords:** new year decluttering dubai, end of summer villa clearout dubai
 * **Images:** Cover: householdImg, Body: gardenImg
 * **Target Funnel:** /services/household-junk-removal
 
@@ -260,7 +264,7 @@
 ### B27: how-to-dispose-of-old-laptop-dubai
 * **URL:** /blog/how-to-dispose-of-old-laptop-dubai
 * **Primary Keyword:** how to dispose of old laptop dubai
-* **Secondary Keywords:** where to recycle electronics in dubai, is it illegal to throw electronics in the bin dubai, data safe electronics disposal dubai
+* **Secondary Keywords:** is it illegal to throw electronics in the bin dubai, data safe electronics disposal dubai
 * **Images:** Cover: blogB13Cover, Body: blogB11Cover
 * **Target Funnel:** /services/e-waste-disposal
 
@@ -387,3 +391,32 @@
 * **Secondary Keywords:** pre-sale property clearance dubai, full house clearance dubai, villa handover clearance dubai, moving house junk removal dubai
 * **Images:** Cover: blogB43Cover (AI-generated), Body: blogB43Body (AI-generated)
 * **Target Funnel:** /services/villa-apartment-cleanouts, /contact
+
+### B44: spring-cleaning-junk-removal-dubai
+* **URL:** /blog/spring-cleaning-junk-removal-dubai
+* **Primary Keyword:** spring cleaning junk removal dubai
+* **Intent:** Informational seasonal-reset guide; distinct from B20's broad seasonal overview and B31's complete room-by-room checklist.
+* **Angle:** A fixed collection cutoff and four exit routes turn a two-day sort into a genuinely finished one-weekend reset.
+* **Secondary Keywords:** —
+* **Images:** Cover: blogB44Cover (AI-generated), Body: blogB44Body (AI-generated)
+* **Target Funnel:** /services/household-junk-removal
+
+### B45: where-to-recycle-electronics-in-dubai
+* **URL:** /blog/where-to-recycle-electronics-in-dubai
+* **Primary Keyword:** where to recycle electronics in dubai
+* **Intent:** Question-led local recycling guide; distinct from B27's laptop data-erasure and battery-preparation workflow.
+* **Angle:** Match each device and condition to a current drop-off, take-back, or authorised collection route, with a verified municipal-centre list.
+* **Secondary Keywords:** e-waste recycling centres dubai
+* **Images:** Cover: blogB45Cover (AI-generated), Body: blogB45Body (AI-generated)
+* **Target Funnel:** /services
+* **Sources:** Dubai Municipality Recycle Centres, contact page, and recyclable-materials collection guidance
+
+### B46: hazardous-waste-disposal-dubai
+* **URL:** /blog/hazardous-waste-disposal-dubai
+* **Primary Keyword:** hazardous waste disposal dubai
+* **Intent:** Informational household-safety guide; distinct from B08's general resident rules and illegal-dumping overview.
+* **Angle:** Stop, separate, and verify gives residents a safe boundary while current municipal guidance and approved specialists determine the route.
+* **Secondary Keywords:** —
+* **Images:** Cover: blogB46Cover (AI-generated), Body: blogB46Body (AI-generated)
+* **Target Funnel:** /services (non-hazardous remainder only)
+* **Sources:** Dubai Municipality Hazardous Waste Guideline No. 8, Waste Department circulars and technical guidelines, and RASID

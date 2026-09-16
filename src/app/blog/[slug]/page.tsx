@@ -342,6 +342,31 @@ export default async function SingleBlogPostPage({ params }: { params: Promise<P
           ))}
         </div>
 
+        {post.sources && post.sources.length > 0 && (
+          <div className="mt-12 rounded-2xl border border-border bg-[color:var(--color-cream)] p-6 sm:p-7">
+            <h2
+              className="text-xl font-semibold tracking-tight text-foreground"
+              style={{ fontFamily: "var(--font-display)" }}
+            >
+              Official sources
+            </h2>
+            <ul className="mt-4 space-y-2 text-sm leading-relaxed">
+              {post.sources.map((source) => (
+                <li key={source.href}>
+                  <a
+                    href={source.href}
+                    target="_blank"
+                    rel="noreferrer"
+                    className="link-underline text-foreground/85 hover:text-foreground"
+                  >
+                    {source.label} ↗
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+
         {/* FREQUENTLY ASKED QUESTIONS */}
         {post.faqs && post.faqs.length > 0 && (
           <div className="mt-16 space-y-6">

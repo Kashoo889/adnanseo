@@ -52,6 +52,12 @@ import blogB42Cover from "@/assets/blog-b42-diy-vs-professional-removal-cover.we
 import blogB42Body from "@/assets/blog-b42-bulky-load-access-body.webp";
 import blogB43Cover from "@/assets/blog-b43-presale-decluttering-cover.webp";
 import blogB43Body from "@/assets/blog-b43-viewing-ready-clearance-body.webp";
+import blogB44Cover from "@/assets/blog-b44-spring-cleaning-reset-cover.webp";
+import blogB44Body from "@/assets/blog-b44-spring-cleaning-collection-body.webp";
+import blogB45Cover from "@/assets/blog-b45-electronics-recycling-cover.webp";
+import blogB45Body from "@/assets/blog-b45-ewaste-dropoff-body.webp";
+import blogB46Cover from "@/assets/blog-b46-hazardous-waste-sorting-cover.webp";
+import blogB46Body from "@/assets/blog-b46-specialist-waste-collection-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -92,6 +98,11 @@ export type BlogServiceLink = {
   label: string;
 };
 
+export type BlogSourceLink = {
+  href: string;
+  label: string;
+};
+
 export type BlogPost = {
   slug: string;
   title: string;
@@ -109,6 +120,7 @@ export type BlogPost = {
   faqs?: BlogFaq[];
   relatedSlugs?: string[];
   serviceLink?: BlogServiceLink;
+  sources?: BlogSourceLink[];
   seoTitle?: string;
   seoDescription?: string;
 };
@@ -895,21 +907,21 @@ export const blogPosts: BlogPost[] = [
     slug: "dubai-waste-disposal-rules",
     title: "Dubai Waste Disposal Rules & Fines for Illegal Dumping: The Complete Resident Guide",
     excerpt:
-      "A comprehensive guide to Dubai Municipality waste disposal regulations. Understand resident legal obligations, fine schedules from AED 500 to AED 50,000 for improper disposal, hazardous waste restrictions, and how to stay fully compliant.",
+      "A comprehensive guide to Dubai Municipality waste disposal regulations. Understand resident obligations, prohibited items, specialist waste categories, and compliant clearance routes.",
     category: "Guides & Tips",
     coverImage: dubaiSkylineImg,
     coverImageAlt: "Dubai urban residential cityscape under municipal environmental and waste management regulations",
     publishedAt: "2026-09-02",
     readingTime: "8 min read",
     author: defaultAuthor,
-    tags: ["Dubai Waste Rules", "Illegal Dumping Fines", "Waste Disposal Dubai", "Hazardous Waste", "Dubai Municipality Regulations"],
+    tags: ["Dubai Waste Rules", "Illegal Dumping Fines", "Waste Disposal Dubai", "Bulky Waste", "Dubai Municipality Regulations"],
     seoTitle: "Dubai Waste Disposal Rules & Fines for Illegal Dumping (2026)",
     seoDescription:
       "Understand Dubai waste disposal rules and avoid fines up to AED 50,000 for illegal dumping. Resident guide to bulky waste, hazardous items, and legal clearance.",
     keyTakeaways: [
       "Dubai Municipality Order No. 11/2003 and Local Order No. 58/1995 impose strict fines from AED 500 to AED 50,000 for illegal waste dumping and open desert fly-tipping.",
       "Bulky household items (furniture, appliances, mattresses) are strictly forbidden in standard domestic wheelie bins and residential chute rooms.",
-      "Hazardous waste — including paints, chemical solvents, lead-acid batteries, and commercial coolant — must be routed to specialized treatment facilities in Warsan or Jebel Ali.",
+      "Paints, solvents, oils, batteries, pressurised containers, and unknown chemicals stay out of general rubbish and need a route confirmed for the specific material.",
       "Building security surveillance cameras routinely trace abandoned corridor waste back to individual tenants, resulting in tenancy deposit deductions.",
     ],
     sections: [
@@ -954,10 +966,10 @@ export const blogPosts: BlogPost[] = [
         imageCaption: "Official Dubai Municipality waste handling facilities require commercial tipping permits and material classification manifests.",
       },
       {
-        heading: "How to handle hazardous waste safely in Dubai",
+        heading: "Stop when a load contains chemicals or other special waste",
         paragraphs: [
-          "Hazardous waste poses immediate environmental risks to ground soil, local water tables, and sanitation personnel. Leftover paint tins, chemical strippers, motor oil, and commercial pesticides cannot simply be placed on the curb.",
-          "Residential quantities of liquid chemicals and paint should be dried out using absorbent sand before disposal or handed to certified hazardous waste collectors who transfer materials to the specialized Warsan Treatment Plant or the Jebel Ali Hazardous Waste Treatment Complex.",
+          "Leftover paint, solvents, motor oil, pesticides, batteries, aerosols, gas cylinders, and unlabelled liquids do not belong in an ordinary household or bulky-item load. Keep each product in its original sealed container where possible, do not combine materials, and confirm the correct route with Dubai Municipality or an approved specialist before moving it.",
+          "This general rules guide does not replace material-specific instructions. The dedicated household hazardous-waste guide explains how to separate categories, what information a specialist needs, and why ordinary junk crews should decline an unverified chemical container.",
         ],
         callout: {
           type: "warning",
@@ -992,9 +1004,9 @@ export const blogPosts: BlogPost[] = [
           "No. Building regulations across Dubai prohibit bulky items like mattresses and sofas in residential garbage rooms. Violations are tracked via CCTV and result in building fines or disposal charges deducted from your rental deposit.",
       },
       {
-        question: "How do I legally dispose of paint tins and chemical solvents in Dubai?",
+        question: "What should I do when I cannot identify an item in a clearance pile?",
         answer:
-          "Small amounts of residual paint must be solidified with sand or cat litter before disposal. Liquid chemicals, solvents, and motor oils must be handed to licensed hazardous waste handlers for processing at the Warsan or Jebel Ali municipal treatment plants.",
+          "Leave it sealed and separate from the ordinary load. Photograph the container without opening, smelling, mixing, or transferring it, then ask Dubai Municipality or an approved specialist to identify the appropriate route. A missing label is a reason to slow down, not permission to treat the contents as general waste.",
       },
       {
         question: "Does Dubai Municipality collect renovation waste from residential apartments?",
@@ -1002,7 +1014,7 @@ export const blogPosts: BlogPost[] = [
           "No. Dubai Municipality does not collect building rubble, tiles, or fitout debris from residential apartments. Renovation waste must be removed by a licensed commercial junk clearance company or disposed of in permitted skips.",
       },
     ],
-    relatedSlugs: ["bulky-waste-collection-dubai-municipality", "how-to-recycle-in-dubai"],
+    relatedSlugs: ["hazardous-waste-disposal-dubai", "bulky-waste-collection-dubai-municipality", "how-to-recycle-in-dubai"],
   },
   {
     slug: "bulky-waste-collection-dubai-municipality",
@@ -1229,7 +1241,7 @@ export const blogPosts: BlogPost[] = [
           "Yes. Glass bottles and jars can be recycled at Smart Sustainability Oasis drop-off points. However, mirrors, ceramic dishes, and window pane glass cannot go into glass recycling bins because they have different melting temperatures.",
       },
     ],
-    relatedSlugs: ["dubai-waste-disposal-rules", "bulky-waste-collection-dubai-municipality"],
+    relatedSlugs: ["where-to-recycle-electronics-in-dubai", "dubai-waste-disposal-rules", "bulky-waste-collection-dubai-municipality"],
   },
   {
     slug: "where-does-junk-go-after-removal-dubai",
@@ -2430,7 +2442,6 @@ export const blogPosts: BlogPost[] = [
       "Ramadan Home Clearing Dubai",
       "New Year Decluttering Dubai",
       "End of Summer Villa Clearout Dubai",
-      "Spring Cleaning Junk Removal Dubai",
       "Seasonal Decluttering UAE",
     ],
     seoTitle: "Seasonal Decluttering in Dubai: Ramadan, New Year & Summer Cleanouts",
@@ -2483,7 +2494,7 @@ export const blogPosts: BlogPost[] = [
         imageCaption: "Post-summer outdoor cleanouts prepare Dubai villa gardens, patios, and pergolas for winter outdoor entertaining.",
       },
       {
-        heading: "New Year and spring decluttering: annual resets and lease reviews",
+        heading: "New Year decluttering: annual resets and lease reviews",
         paragraphs: [
           "January brings cooler weather and the classic 'fresh start' mindset, coinciding with the busiest lease renewal cycle in Dubai:",
         ],
@@ -2531,7 +2542,7 @@ export const blogPosts: BlogPost[] = [
           "Dubai Junk Collection partners with licensed UAE materials recovery facilities. Unusable wood, metals, plastics, and paper are segregated at our sorting transfer depot and directed into secondary raw material processing streams.",
       },
     ],
-    relatedSlugs: ["move-out-checklist-dubai-tenants", "where-to-donate-furniture-dubai", "free-vs-paid-junk-removal-dubai"],
+    relatedSlugs: ["spring-cleaning-junk-removal-dubai", "move-out-checklist-dubai-tenants", "where-to-donate-furniture-dubai"],
   },
   {
     slug: "downsizing-home-dubai-tips",
@@ -3311,7 +3322,6 @@ export const blogPosts: BlogPost[] = [
     author: defaultAuthor,
     tags: [
       "How to Dispose of Old Laptop Dubai",
-      "Where to Recycle Electronics in Dubai",
       "Data Safe Electronics Disposal Dubai",
       "E-Waste",
       "Lithium Battery Safety",
@@ -3381,21 +3391,11 @@ export const blogPosts: BlogPost[] = [
         ],
       },
       {
-        heading: "Where to recycle electronics in Dubai",
+        heading: "Choose reuse or recycling after the device is prepared",
         paragraphs: [
-          "There is no single answer, because what suits a working three-year-old laptop is wrong for a dead desktop tower. The routes below cover most situations, and the right one depends mainly on whether the device still works.",
+          "Once accounts, storage, and batteries are handled, judge the device on function. An unlocked working laptop with a charger may suit resale, trade-in, or refurbishment. A dead, damaged, or obsolete unit belongs in an electronics recycling stream, not a household bin.",
+          "For current municipal collection points, device categories, and trip preparation, use the dedicated electronics recycling guide. This article stays focused on the data and battery work that must happen before any handoff.",
         ],
-        table: {
-          caption: "Disposal routes by device condition",
-          headers: ["Route", "Best for", "What to expect"],
-          rows: [
-            ["Municipal e-waste collection points", "Any device, working or not", "Drop-off locations for household electronics; confirm current sites and accepted items before travelling"],
-            ["Retailer and brand take-back", "Devices being replaced by a new purchase", "Arranged at the point of sale or through the brand support channel, often with a trade-in value"],
-            ["Licensed e-waste recyclers", "Bulk lots, business decommissions, dead hardware", "Weighed and processed for material recovery; can usually provide destruction records on request"],
-            ["Refurbishers and community reuse", "Working machines under roughly five years old", "Only viable once accounts are signed out and the device is unlocked"],
-            ["Clearance collection", "Households and offices clearing everything at once", "Electronics separated from the general load and routed to a processor rather than to disposal"],
-          ],
-        },
       },
       {
         heading: "What a business decommission needs that a household does not",
@@ -3435,7 +3435,7 @@ export const blogPosts: BlogPost[] = [
           "Not usually, if the drive is encrypted and you have done a proper reset. Removing it is a reasonable extra step for machines that held sensitive work files, and it is the simplest option for older mechanical drives where a thorough overwrite is slow and hard to confirm.",
       },
     ],
-    relatedSlugs: ["how-to-recycle-in-dubai", "where-does-junk-go-after-removal-dubai", "what-to-do-with-junk-when-leaving-uae"],
+    relatedSlugs: ["where-to-recycle-electronics-in-dubai", "how-to-recycle-in-dubai", "where-does-junk-go-after-removal-dubai"],
   },
   {
     slug: "how-to-clear-an-office-in-dubai",
@@ -3835,7 +3835,6 @@ export const blogPosts: BlogPost[] = [
       "How to Declutter Your Home Dubai",
       "Declutter Before Moving Dubai",
       "What to Do with Unwanted Household Items Dubai",
-      "Spring Cleaning Junk Removal Dubai",
     ],
     seoTitle: "Room-by-Room Decluttering Checklist: Step-by-Step Dubai Home Guide",
     seoDescription:
@@ -3949,7 +3948,7 @@ export const blogPosts: BlogPost[] = [
           "Yes. While service lifts make transport faster, our fit, trained clearance crews are fully equipped to safely carry heavy furniture, wardrobes, and boxed clutter down internal stairwells with zero damage to walls or railings.",
       },
     ],
-    relatedSlugs: ["downsizing-home-dubai-tips", "how-to-dispose-of-old-furniture-in-dubai", "where-to-donate-furniture-dubai"],
+    relatedSlugs: ["spring-cleaning-junk-removal-dubai", "downsizing-home-dubai-tips", "how-to-dispose-of-old-furniture-in-dubai"],
   },
   {
     slug: "how-to-declutter-your-home-dubai",
@@ -5028,7 +5027,7 @@ export const blogPosts: BlogPost[] = [
           "There is no single waiting period. Return furniture only after snag work and dust cleaning are complete and after paints, coatings, sealants, and adhesives have cured according to their manufacturers' instructions. Confirm ventilation, surface protection, and appliance testing with the contractor before occupying the space.",
       },
     ],
-    relatedSlugs: ["how-to-dispose-of-construction-waste-dubai", "junk-removal-vs-skip-hire-dubai", "room-by-room-decluttering-checklist"],
+    relatedSlugs: ["hazardous-waste-disposal-dubai", "how-to-dispose-of-construction-waste-dubai", "junk-removal-vs-skip-hire-dubai"],
   },
   {
     slug: "sell-vs-donate-old-furniture-dubai",
@@ -5405,6 +5404,407 @@ export const blogPosts: BlogPost[] = [
       href: "/services/villa-apartment-cleanouts",
       label: "Explore home cleanout services",
     },
+  },
+  {
+    slug: "spring-cleaning-junk-removal-dubai",
+    title: "Spring Cleaning Junk Removal Dubai: A One-Weekend Reset",
+    excerpt:
+      "Turn a spring clean into a finished reset with one collection cutoff, four clear exit routes, and a practical two-day plan for a Dubai home.",
+    category: "Guides & Tips",
+    coverImage: blogB44Cover,
+    coverImageAlt: "Dubai apartment resident sorting spring-cleaning items into four organised exit zones",
+    publishedAt: "2026-09-16",
+    readingTime: "9 min read",
+    author: defaultAuthor,
+    tags: [
+      "Spring Cleaning Junk Removal Dubai",
+      "Weekend Home Reset Dubai",
+      "Household Junk Collection Dubai",
+      "Decluttering Plan Dubai",
+    ],
+    seoTitle: "Spring Cleaning Junk Removal Dubai: One-Weekend Plan",
+    seoDescription:
+      "Plan spring cleaning junk removal in Dubai in one weekend. Sort items into four exit routes, arrange access, and finish with a scheduled collection.",
+    keyTakeaways: [
+      "Choose a collection cutoff before sorting so unwanted items do not become a new pile that lingers for weeks.",
+      "Use four exit zones—keep elsewhere, sell or donate, recycle, and remove—rather than making a separate pile for every possible destination.",
+      "Start with visible, high-traffic areas and leave detailed cupboards or sentimental categories for a later session if they threaten the deadline.",
+      "Confirm lift, loading-bay, parking, and community access before moving bulky items into a shared corridor.",
+      "Close every route on day two: hand over confirmed donations, prepare recycling, and collect the remaining household junk.",
+    ],
+    sections: [
+      {
+        heading: "Finish spring cleaning junk removal in one weekend",
+        paragraphs: [
+          "Spring cleaning junk removal in Dubai is easier when the weekend has one finish line: everything leaving the home must have a confirmed route by a collection time. Use the first day to make decisions and the second to close each route. This keeps the reset from becoming bags and furniture waiting by the door.",
+          "Do not set out to inspect every possession. Pick the areas that affect daily life most, decide how much material your building and vehicle access can handle, and reserve the final hours for collection and a simple clean. A smaller finished reset is more valuable than a perfect plan that stops halfway.",
+        ],
+        callout: {
+          type: "tip",
+          title: "Set the collection cutoff first",
+          text: "Choose the latest time items can leave without disrupting your evening or building rules. Work backwards from that cutoff and stop opening new cupboards when the remaining time is needed for packing, access, and handover.",
+        },
+      },
+      {
+        heading: "Define the finish line before opening cupboards",
+        paragraphs: [
+          "Write one sentence that describes the result you want, such as clearing the entrance, living room, kitchen counters, and storeroom floor. Add a visible limit for the outgoing load: a measured furniture list, a marked floor area, or a photographed group of bags and boxes. This makes it possible to obtain a realistic collection scope while you sort.",
+          "Keep one small tray for decisions that genuinely need another person, a document check, or a valuation. Give that tray a review time on day two. If it grows into a holding area for every difficult choice, stop adding to it and return to obvious rubbish, duplicates, broken items, and things already rejected by a recipient.",
+        ],
+      },
+      {
+        heading: "Use four exit zones, not dozens of piles",
+        paragraphs: [
+          "Place the zones close enough to use but away from doors, stairs, fire equipment, and shared corridors. Label bags or boxes as you close them, and keep fragile, sharp, wet, or heavy material in suitable containers. Do not combine batteries, paint, chemicals, gas cylinders, medical sharps, or unknown liquids with ordinary household junk.",
+        ],
+        table: {
+          caption: "Four routes for a fast home reset",
+          headers: ["Exit zone", "What belongs there", "Rule that keeps it moving"],
+          rows: [
+            ["Keep elsewhere", "Items staying in the home but stored in the wrong room", "Move them to their permanent place immediately"],
+            ["Sell or donate", "Clean, complete, usable items with a realistic recipient", "Set a response or collection deadline and a removal fallback"],
+            ["Recycle", "Clean accepted materials and prepared electronic items", "Separate by the requirements of the confirmed facility"],
+            ["Remove", "Broken, rejected, unsuitable, or deadline-sensitive household items", "Photograph the complete load and book its collection"],
+          ],
+        },
+      },
+      {
+        heading: "Day one: work through high-impact areas",
+        paragraphs: [
+          "Begin at the entrance because it gives you a clear staging boundary and an immediate sense of progress. Continue through the living area, removing delivery cartons, duplicate side furniture, damaged decor, unused equipment, and anything that blocks circulation. In the kitchen, focus on expired goods, duplicate utensils, unused small appliances, and counter overflow rather than emptying every cabinet.",
+          "Finish the first day in the storeroom, garage, balcony store, or utility area where bulky material tends to accumulate. Clear enough floor to see what remains and photograph large pieces with scale and access visible. Keep items inside the property and away from communal areas until a vehicle, building permission, and collection time are confirmed.",
+        ],
+        bulletPoints: [
+          "Use short timed rounds and close each bag or box before starting the next area.",
+          "Measure bulky furniture, doorways, lift openings, and tight turns before promising it to anyone.",
+          "Photograph sale or donation items honestly, including damage, dimensions, and whether dismantling is required.",
+          "Stop detailed sorting early enough to send the complete removal load for quotation.",
+        ],
+      },
+      {
+        heading: "Day two: close every exit route",
+        paragraphs: [
+          "Start by reviewing the small decision tray, then close the sell-or-donate route. Confirm who is collecting, the time window, and what happens if they do not arrive. Move recycling into suitable containers and verify the receiving point before travelling. Anything without a credible destination by the deadline moves to the removal route rather than back into storage.",
+          "For a household collection, send clear photos of the whole load plus the property type, floor, lift or stair access, parking distance, community, and preferred time. Ask what is included, what is excluded, and whether dismantling is needed. Keep pathways clear and have one person available to confirm what goes and what stays.",
+        ],
+        image: blogB44Body,
+        imageAlt: "Junk removal crew moving a wrapped chair and sealed bags through a protected Dubai apartment service corridor",
+        imageCaption: "A confirmed collection window turns the final pile into a completed reset while protecting the building route.",
+      },
+      {
+        heading: "Protect the result with a 30-minute final reset",
+        paragraphs: [
+          "After the load leaves, walk the cleared areas once. Return tools and cleaning supplies, wipe the newly exposed surfaces, and photograph any damage that was hidden by stored items. Flatten only clean cartons that have a confirmed recycling route and keep building corridors clear throughout the final sweep.",
+          "Choose one small rule for the next month: keep the entrance floor clear, use one outgoing-items basket, review the storeroom shelf every Friday, or require a destination before buying a replacement. If your weekend load includes furniture, appliances, bags, and boxes, share the complete photo set with Dubai Junk Collection for a scoped household pickup.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "How do I handle sentimental items without losing the weekend?",
+        answer:
+          "Limit sentimental review to one container and schedule it for a quiet session after the main reset. Keep obvious family records and meaningful objects safe, but do not pause the whole project to revisit every photograph or letter. Label the container with a review date so postponement remains deliberate rather than permanent.",
+      },
+      {
+        question: "Should I rent storage for items I cannot decide about?",
+        answer:
+          "Storage is useful for a defined transition, not as an automatic destination for uncertainty. List what will be stored, its value, the monthly cost, retrieval date, and reason for keeping it. If you cannot name when an item will return or be used, compare the storage cost with selling, donating, or replacing it later.",
+      },
+      {
+        question: "Will a cleaning company take bulky unwanted furniture?",
+        answer:
+          "Do not assume it is included in a cleaning booking. General cleaners may move light objects within a room but often lack the crew, vehicle, building access, and receiving route for bulky disposal. Ask for the scope in writing and arrange a separate collection before the final deep clean when necessary.",
+      },
+      {
+        question: "What records should I keep after a junk collection?",
+        answer:
+          "Keep the written scope, price confirmation, collection date, provider details, and completion photos. For electronics or business material, retain any receipt or transfer record supplied by the receiving party. Never photograph confidential documents or device screens merely to prove that ordinary household items were removed.",
+      },
+    ],
+    relatedSlugs: ["room-by-room-decluttering-checklist", "how-to-declutter-your-home-dubai", "what-to-do-with-unwanted-household-items-dubai"],
+    serviceLink: {
+      href: "/services/household-junk-removal",
+      label: "Book household junk removal",
+    },
+  },
+  {
+    slug: "where-to-recycle-electronics-in-dubai",
+    title: "Where to Recycle Electronics in Dubai: Devices, Batteries & Drop-Offs",
+    excerpt:
+      "Choose the right Dubai recycling route for phones, laptops, cables, batteries, appliances, and business electronics—and prepare each item before handover.",
+    category: "Eco & Recycling",
+    coverImage: blogB45Cover,
+    coverImageAlt: "Dubai resident sorting phones, a laptop, router, cables, and batteries for electronics recycling",
+    publishedAt: "2026-09-16",
+    readingTime: "10 min read",
+    author: defaultAuthor,
+    tags: [
+      "Where to Recycle Electronics in Dubai",
+      "E-Waste Recycling Centres Dubai",
+      "Electronics Disposal Dubai",
+      "Battery Recycling Dubai",
+    ],
+    seoTitle: "Where to Recycle Electronics in Dubai: Safety Guide",
+    seoDescription:
+      "Find where to recycle electronics in Dubai, from phones and laptops to batteries and appliances. See current centres, preparation steps, and safe routes.",
+    keyTakeaways: [
+      "Match the route to the device, condition, battery type, quantity, and whether the material comes from a home or business.",
+      "Dubai Municipality lists 13 Recycle Centres, but accepted streams can vary; check the selected location or call 800900 before travelling.",
+      "Remove accounts, SIM cards, and memory cards and complete any required data backup or destruction before handing over a device.",
+      "Keep batteries separate, protect exposed terminals, and ask for specialist instructions if a battery is swollen, hot, leaking, or damaged.",
+      "For large appliances or business quantities, confirm collection access and request documentation from an authorised recycling route.",
+    ],
+    sections: [
+      {
+        heading: "Where to recycle electronics in Dubai",
+        paragraphs: [
+          "To recycle electronics in Dubai, use a current Dubai Municipality Recycle Centre, a verified retailer take-back programme, or an authorised e-waste collector suited to the item and quantity. Prepare personal data first, keep batteries separate, and confirm the location accepts your exact device before making the trip—especially for large appliances or damaged batteries.",
+          "The correct route depends on more than whether an item has a plug. A working phone may be suitable for reuse after a secure reset, while a broken television needs a collection route sized for its screen and weight. Office computers and larger business batches may also need inventory, data-destruction, and transfer records that a household drop-off does not provide.",
+        ],
+        callout: {
+          type: "info",
+          title: "Check before you travel",
+          text: "The centre list below was checked on 16 September 2026. Opening conditions and accepted materials can change, so confirm the selected centre and waste stream on the official Dubai Municipality page or through 800900 before loading your vehicle.",
+        },
+      },
+      {
+        heading: "Choose a route for the device and its condition",
+        paragraphs: [
+          "Test only devices that are safe to power on. Do not charge, open, compress, or attempt to repair a battery that is swollen, unusually hot, leaking, damaged, or producing an odour. Isolate it from ordinary recyclables and obtain current instructions from Dubai Municipality or a qualified specialist.",
+        ],
+        table: {
+          caption: "Practical electronics recycling routes",
+          headers: ["Item or condition", "Likely route", "Prepare before handover"],
+          rows: [
+            ["Working phone, tablet, or laptop", "Verified reuse, trade-in, or an e-waste route", "Back up, sign out, remove SIM or memory card, and securely erase data"],
+            ["Dead small electronics and cables", "Confirmed Recycle Centre, take-back point, or authorised collector", "Keep dry, group accessories, and avoid dismantling components"],
+            ["Loose dry-cell batteries", "A location that specifically confirms battery acceptance", "Separate by type and protect exposed terminals against contact"],
+            ["Large television or appliance", "Retailer take-back or pre-arranged e-waste collection", "Share dimensions, weight estimate, access, and whether dismantling is required"],
+            ["Office computers or a bulk batch", "Authorised commercial e-waste processor", "Create an asset list and agree data and transfer documentation in advance"],
+          ],
+        },
+      },
+      {
+        heading: "Current Dubai Municipality Recycle Centres",
+        paragraphs: [
+          "Dubai Municipality's current help page lists Recycle Centres at Mirdif Park, Quranic Park, Al Rashidiya Park, Nadd Al Hamar Park, Hatta Centre, Al Karama Park, Al Satwa Park, Al Manara Centre, Umm Suqaim Park, Al Barsha 2 Pond Park, Al Tawar Centre, Muhaisnah 1 Park, and Al Nahda 2 Pond Park.",
+          "That list identifies locations, not a guarantee that every centre will accept every electronic item at the time you arrive. Check the map and current information on the official page, then confirm your device category, size, battery condition, hours, and any quantity limit. Dubai Municipality's published material also identifies discarded electronic devices, used phones, and dry batteries among recyclable streams collected through its facilities.",
+        ],
+        bulletPoints: [
+          "Choose the centre that you can reach without leaving electronics unattended in a vehicle or public area.",
+          "Ask separately about loose batteries, lamps, printer consumables, large screens, and appliances.",
+          "Keep the device inside your control until the receiving point confirms the handover.",
+          "If a listed point cannot take the item, ask for the current approved alternative rather than placing it beside a bin.",
+        ],
+      },
+      {
+        heading: "Prepare phones, computers, and batteries",
+        paragraphs: [
+          "Complete backups and account transfers while the device still works. Sign out of manufacturer and cloud accounts, disable activation locks, remove SIM and memory cards, and use the manufacturer's supported erase process. For a device containing sensitive or business data, agree the required destruction or erasure evidence before collection rather than assuming recycling automatically proves data was destroyed.",
+          "Pack screens so they cannot flex or strike other items, and keep cables tidy without tying them around fragile equipment. Separate removable batteries where the manufacturer permits it; do not force open a sealed device. Cover exposed terminals on loose batteries with non-conductive tape and prevent batteries from moving against metal objects during transport.",
+        ],
+      },
+      {
+        heading: "At the drop-off, keep streams separated",
+        paragraphs: [
+          "Follow the signs and staff instructions at the selected facility. Hand over devices, accessories, and accepted batteries in their correct streams rather than tipping one mixed box into the first opening. If an item is refused, take it away and verify another route; never leave it on the ground or beside a collection container.",
+          "Record the location and date if you need a household receipt. For a business batch, use the agreed asset list and count items at transfer. A clean handover protects devices from breakage, keeps batteries out of unsuitable loads, and makes it easier for the receiving operator to route reusable equipment and recyclable material correctly.",
+        ],
+        image: blogB45Body,
+        imageAlt: "Staffed Dubai electronics recycling drop-off with devices and batteries kept in separate collection streams",
+        imageCaption: "Confirm acceptance first, then keep devices, accessories, and batteries in the streams specified by the receiving facility.",
+      },
+      {
+        heading: "Arrange collection for appliances and larger batches",
+        paragraphs: [
+          "A refrigerator, washing machine, large television, server cabinet, or office clear-out needs more planning than a bag of cables. Share an itemised photo set, dimensions, approximate quantity, floor, lift or stair access, loading distance, and building requirements. Ask whether the crew accepts the exact equipment and how batteries, refrigerants, screens, or storage media will be handled.",
+          "Businesses should verify the provider and agree what documentation will be supplied, particularly when devices contain company data or asset tags. For a mixed household electronics load, Dubai Junk Collection can scope the access and collection route after reviewing photos and item details; restricted or damaged batteries may still require a separate specialist.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can I recycle charging cables and adapters in Dubai?",
+        answer:
+          "Many e-waste routes accept cables and adapters, but confirm the specific drop-off or collector first. Keep them dry, untangled, and separate from loose batteries. If an adapter is damaged, do not plug it in to test it; show the receiving party its condition before handover.",
+      },
+      {
+        question: "Where should printer cartridges go?",
+        answer:
+          "Printer cartridges are often handled through manufacturer, retailer, or specialist return programmes rather than a general electronics container. Keep the cartridge sealed to prevent toner or ink leakage, check the brand's current take-back route, and ask Dubai Municipality for a current alternative if no programme is available.",
+      },
+      {
+        question: "Can a broken smart television be recycled?",
+        answer:
+          "It may be accepted by a large-item e-waste collector or retailer take-back service, but confirm before moving it. Protect a cracked screen, do not dismantle the unit, and share its size, floor, lift, and loading access. Two-person handling or specialist equipment may be required for a large screen.",
+      },
+      {
+        question: "What should I do with old CDs, DVDs, and data tapes?",
+        answer:
+          "Do not assume they belong in an electronics container. Ask the selected facility whether it accepts that media type. If the media contains confidential information, use an appropriate secure-destruction service and agree the evidence required before surrendering it for material recovery or disposal.",
+      },
+    ],
+    relatedSlugs: ["how-to-dispose-of-old-laptop-dubai", "how-to-recycle-in-dubai", "where-does-junk-go-after-removal-dubai"],
+    serviceLink: {
+      href: "/services",
+      label: "View electronics collection options",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/help-and-support/",
+        label: "Dubai Municipality — Recycle Centres and locations",
+      },
+      {
+        href: "https://www.dm.gov.ae/contact/",
+        label: "Dubai Municipality — Contact channels and 800900",
+      },
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-designs-recyclable-materials-collection-center-using-cargo-shipping-containers/",
+        label: "Dubai Municipality — Recyclable materials collection guidance",
+      },
+    ],
+  },
+  {
+    slug: "hazardous-waste-disposal-dubai",
+    title: "Hazardous Waste Disposal Dubai: A Safe Household Guide",
+    excerpt:
+      "Identify household material that needs a specialist route, keep it sealed and separated, and verify an approved Dubai collection option before moving it.",
+    category: "Eco & Recycling",
+    coverImage: blogB46Cover,
+    coverImageAlt: "Dubai resident keeping paint, cleaners, aerosols, batteries, and oil in separate labelled trays",
+    publishedAt: "2026-09-16",
+    readingTime: "10 min read",
+    author: defaultAuthor,
+    tags: [
+      "Hazardous Waste Disposal Dubai",
+      "Household Chemical Disposal Dubai",
+      "Safe Waste Sorting Dubai",
+      "Approved Waste Transporter Dubai",
+    ],
+    seoTitle: "Hazardous Waste Disposal Dubai: Safe Household Guide",
+    seoDescription:
+      "Handle hazardous waste disposal in Dubai safely. Identify special household waste, keep it sealed and separate, and verify an approved collection route.",
+    keyTakeaways: [
+      "Do not pour, burn, puncture, mix, or place suspected hazardous material in an ordinary household or junk-removal load.",
+      "Keep products in sound original containers where possible, upright and sealed, with labels visible and incompatible materials separated.",
+      "Use Dubai Municipality's current guidance and approved-company information to verify the route before booking transport.",
+      "Treat leaking, heating, fuming, bulging, or unidentified material as a stop signal and seek specialist or emergency direction without handling it further.",
+      "A normal clearance crew can remove the non-hazardous remainder after restricted material has been identified and routed separately.",
+    ],
+    sections: [
+      {
+        heading: "Handle hazardous waste disposal in Dubai with three steps",
+        paragraphs: [
+          "For hazardous waste disposal in Dubai, stop ordinary clearing, keep the material sealed and separate, and verify the route with Dubai Municipality or an approved specialist. Do not mix chemicals, pour liquids away, puncture aerosols, or hide restricted material in a general load. The product, condition, quantity, and source determine who can transport it.",
+          "Household cupboards can contain paints, solvents, oils, pesticides, concentrated cleaners, batteries, aerosols, and unidentified containers that need more care than ordinary rubbish. You do not need to identify every chemical yourself. Preserve the label, avoid opening or testing it, photograph the container from a safe position, and describe what you know when requesting instructions.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Stop if the material is unstable",
+          text: "If a container is leaking, hot, swollen, fuming, badly corroded, or giving off a strong unknown odour, keep people away and do not move it. Contact building management and the appropriate specialist or emergency service for situation-specific instructions.",
+        },
+      },
+      {
+        heading: "Which household items may need a specialist route?",
+        paragraphs: [
+          "A familiar retail product is not automatically suitable for a general bin once it is unwanted. Read the original label and safety warnings without opening the container. When the identity or condition is uncertain, describe it as unknown rather than guessing; a wrong label can expose the collector and receiving facility to an incompatible material.",
+        ],
+        table: {
+          caption: "Household materials to separate for route confirmation",
+          headers: ["Material group", "Examples", "Safe first action"],
+          rows: [
+            ["Paints, solvents, and adhesives", "Part-used paint, thinner, stripper, strong glue", "Keep the lid closed and retain the original label"],
+            ["Oils and automotive fluids", "Engine oil, brake fluid, coolant, contaminated fuel", "Keep different fluids in separate compatible containers"],
+            ["Pressurised products", "Aerosols, camping gas, cylinders, extinguishers", "Do not puncture, vent, crush, or expose to heat"],
+            ["Batteries", "Lead-acid, lithium, damaged rechargeable packs", "Prevent terminal contact and report swelling, heat, or damage"],
+            ["Pesticides and concentrated cleaners", "Pool chemicals, insecticides, acids, strong alkalis", "Do not combine products or transfer them into drink bottles"],
+            ["Unknown or unlabelled material", "Old workshop jars, powders, residues, corroded cans", "Do not smell, test, open, or guess the contents"],
+          ],
+        },
+      },
+      {
+        heading: "Stop, separate, and verify before collection",
+        paragraphs: [
+          "First, stop adding material to the general clearance pile. Second, separate each known product in its closed container without combining substances. Third, verify the current route by sharing the product name, label, condition, approximate quantity, property type, and access details with Dubai Municipality or a provider authorised for that waste type.",
+          "Ask the provider to confirm acceptance in writing and state who will collect, how the material should be presented, and what documentation applies. Never place containers in a corridor, loading bay, pavement, desert area, drain, or beside communal bins while waiting. Keep them under the property holder's control until the confirmed party takes possession.",
+        ],
+        bulletPoints: [
+          "Photograph labels without opening or cleaning a damaged container.",
+          "List each product and quantity instead of describing the job only as mixed chemicals.",
+          "Confirm whether packaging or secondary containment must be supplied by the specialist.",
+          "Recheck the provider's approval because waste categories and company status can change.",
+        ],
+      },
+      {
+        heading: "Store material temporarily without creating a new risk",
+        paragraphs: [
+          "Until you receive instructions, leave sound products in their original compatible containers with caps closed and labels readable. Keep containers upright in separate stable trays or other suitable secondary containment, in a secure shaded area away from children, pets, food, drains, ignition sources, and vehicle traffic. Follow the manufacturer's storage instructions where they remain available.",
+          "Do not put incompatible materials into the same tray merely to make one compact box, and do not repackage chemicals into unlabelled jars or beverage bottles. Avoid prolonged storage: verification and prompt specialist collection are safer than building a permanent household chemical cupboard. If the container itself is failing, do not improvise a transfer; ask the specialist how it must be overpacked.",
+        ],
+      },
+      {
+        heading: "Use Dubai's current official framework",
+        paragraphs: [
+          "Dubai Municipality publishes waste technical guidelines and current circulars through its Waste Department pages. Its November 2025 hazardous-waste guideline requires suitable leak-free containers, prohibits mixing incompatible wastes, and directs hazardous material through approved transport and disposal routes. The official approved-company information should be checked at the time of booking rather than copied from an old list.",
+          "Dubai Municipality's RASID system is designed to register and monitor waste-management companies and vehicles. Use official contact channels when the waste category or provider status is unclear. A logo, social profile, or promise of general junk collection is not evidence that a company is authorised to handle a particular hazardous material.",
+        ],
+      },
+      {
+        heading: "Keep specialist material out of the general clearance",
+        paragraphs: [
+          "Tell every person working on the property which area is restricted and which items must not be loaded. The specialist should collect the confirmed hazardous material using the agreed containers, equipment, vehicle, and records. Do not ask a normal moving or junk crew to make a disposal decision at the door or to transport an undeclared container.",
+          "Once the restricted material has been removed or secured under specialist instructions, a general crew can scope ordinary furniture, cartons, household items, and other accepted contents separately. Dubai Junk Collection can review photos of that non-hazardous remainder and provide a clear service scope, while excluded material stays with its approved route.",
+        ],
+        image: blogB46Body,
+        imageAlt: "Trained specialist collecting sealed household chemical containers with a trolley beside an unbranded Dubai service vehicle",
+        imageCaption: "A specialist collection begins with declared contents, secure containers, and a route approved for the material—not an ordinary mixed load.",
+      },
+    ],
+    faqs: [
+      {
+        question: "Can an empty chemical or paint container go into normal recycling?",
+        answer:
+          "Do not assume that visually empty means residue-free or recyclable. Follow the product label and ask the receiving facility whether it accepts that exact container and residue type. Do not rinse chemical residue into a sink or drain, burn the container, or mix its contents with another product to empty it.",
+      },
+      {
+        question: "How should fluorescent tubes and lamps be discarded?",
+        answer:
+          "Keep them intact, dry, and protected from impact, and confirm a lamp or hazardous-material route before transport. Do not break a tube to fit a bin or box. If one is already broken, keep people away from the area and obtain current clean-up and collection instructions rather than sweeping it into ordinary rubbish.",
+      },
+      {
+        question: "Do medicines and medical sharps use the same route?",
+        answer:
+          "They require healthcare-specific advice, not an ordinary household chemical or junk collection. Keep medicines in their original packaging and sharps in an appropriate puncture-resistant container without recapping or handling loose needles. Contact the relevant healthcare provider, pharmacy, or authority for the current approved return route.",
+      },
+      {
+        question: "Can a small business use a household hazardous-waste option?",
+        answer:
+          "Do not rely on a household route for commercial waste. Business material may require classification, a Waste Disposal Service application, an approved transporter, and formal records based on the waste and activity. Use Dubai Municipality's current Waste Department guidance and verify the provider for the exact category and quantity.",
+      },
+    ],
+    relatedSlugs: ["dubai-waste-disposal-rules", "renovation-cleanup-checklist-dubai", "how-to-recycle-in-dubai"],
+    serviceLink: {
+      href: "/services",
+      label: "View non-hazardous clearance services",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2025/11/Technical-Guideline-No-8-Hazardous-Waste-Disposal-November-2025.pdf",
+        label: "Dubai Municipality — Hazardous Waste Disposal Technical Guideline No. 8",
+      },
+      {
+        href: "https://www.dm.gov.ae/municipality-business/waste-department-2/",
+        label: "Dubai Municipality — Waste Department circulars and approved companies",
+      },
+      {
+        href: "https://www.dm.gov.ae/municipality-business/waste-department-technical-guidelines-2/",
+        label: "Dubai Municipality — Waste technical guidelines",
+      },
+      {
+        href: "https://www.dm.gov.ae/rasid/",
+        label: "Dubai Municipality — RASID waste-sector monitoring system",
+      },
+    ],
   },
 ];
 
