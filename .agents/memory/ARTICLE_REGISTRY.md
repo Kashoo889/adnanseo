@@ -2,8 +2,8 @@
 
 **Domain:** dubaijunkcollection.com
 **Total Target Articles:** 93
-**Published Articles:** 46 (49.5% of Total Roadmap)
-**Last Updated:** 2026-09-16
+**Published Articles:** 49 (52.7% of Total Roadmap)
+**Last Updated:** 2026-09-17
 
 ---
 
@@ -35,7 +35,7 @@
 | **B22** | *How to Safely Dispose of Old Furniture & Broken Wardrobes in Dubai* | how-to-dispose-of-old-furniture-in-dubai | how to dispose of old furniture in dubai | 3 | Q | Guides & Tips | 2026-09-07 | Live |
 | **B23** | *Where to Dispose of an Old Sofa or Couch in Dubai* | where-to-dispose-old-sofa-in-dubai | where to dispose old sofa in dubai | 3 | Q | Guides & Tips | 2026-09-08 | Live |
 | **B24** | *How to Dispose of an Old Mattress in Dubai Without Community Fines* | how-to-dispose-of-a-mattress-in-dubai | how to dispose of a mattress in dubai | 10 | Q | Guides & Tips | 2026-09-08 | Live |
-| **B25** | *How to Dispose of Refrigerators & Large Home Appliances in Dubai* | how-to-dispose-of-old-fridge-in-dubai | how to dispose of old fridge in dubai | 4 | Q / I | Eco & Recycling | 2026-09-08 | Live |
+| **B25** | *How to Dispose of an Old Fridge in Dubai Safely* | how-to-dispose-of-old-fridge-in-dubai | how to dispose of old fridge in dubai | 4 | Q / I | Eco & Recycling | 2026-09-08 | Live |
 | **B26** | *How to Get Rid of an Old AC Unit & Water Heater in Dubai* | how-to-get-rid-of-old-ac-unit-dubai | how to get rid of old ac unit dubai | 4 | Q | Eco & Recycling | 2026-09-09 | Live |
 | **B27** | *How to Dispose of Old Laptops & Computers Securely in Dubai* | how-to-dispose-of-old-laptop-dubai | how to dispose of old laptop dubai | 5 | Q / I | Eco & Recycling | 2026-09-09 | Live |
 | **B28** | *How to Safely Clear an Office & Decommission Commercial Furniture in Dubai* | how-to-clear-an-office-in-dubai | how to clear an office in dubai | 6 | Q / I | Commercial & Office | 2026-09-09 | Live |
@@ -57,6 +57,9 @@
 | **B44** | *Spring Cleaning Junk Removal Dubai: A One-Weekend Reset* | spring-cleaning-junk-removal-dubai | spring cleaning junk removal dubai | 2 | I | Guides & Tips | 2026-09-16 | Live |
 | **B45** | *Where to Recycle Electronics in Dubai: Devices, Batteries & Drop-Offs* | where-to-recycle-electronics-in-dubai | where to recycle electronics in dubai | 5 | Q / I | Eco & Recycling | 2026-09-16 | Live |
 | **B46** | *Hazardous Waste Disposal Dubai: A Safe Household Guide* | hazardous-waste-disposal-dubai | hazardous waste disposal dubai | 14 | I | Eco & Recycling | 2026-09-16 | Live |
+| **B47** | *Where to Dispose of a Washing Machine in Dubai: 4 Safe Routes* | where-to-dispose-washing-machine-dubai | where to dispose washing machine dubai | 4 | Q | Eco & Recycling | 2026-09-17 | Live |
+| **B48** | *Mattress Disposal Cost Dubai: What Changes the Quote?* | mattress-disposal-cost-dubai | mattress disposal cost dubai | 10, 12 | C | Guides & Tips | 2026-09-17 | Live |
+| **B49** | *Sustainable Decluttering Tips Dubai: A Low-Waste Plan* | sustainable-decluttering-tips-dubai | sustainable decluttering tips dubai | 14 | I | Eco & Recycling | 2026-09-17 | Live |
 
 ---
 
@@ -70,7 +73,8 @@
 * **Batch 6: Office Workflow & Renovation Cleanup (B38–B40):** 3/3 Completed (100%)
 * **Batch 7: Decision Support & Pre-Sale Preparation (B41–B43):** 3/3 Completed (100%)
 * **Batch 8: Seasonal Reset, Electronics Recycling & Special Waste (B44–B46):** 3/3 Completed (100%)
-* **Remaining Long-Tail & Cluster Articles (B47–B93):** 0/47 (0%)
+* **Batch 9: Appliance Routes, Bulky Pricing & Low-Waste Clearing (B47–B49):** 3/3 Completed (100%)
+* **Remaining Long-Tail & Cluster Articles (B50–B93):** 0/44 (0%)
 
 ---
 
@@ -86,7 +90,7 @@
 ### B02: furniture-removal-cost-dubai
 * **URL:** /blog/furniture-removal-cost-dubai
 * **Primary Keyword:** furniture removal cost dubai
-* **Secondary Keywords:** mattress disposal cost dubai, furniture disposal dubai
+* **Secondary Keywords:** furniture disposal dubai
 * **Images:** Cover: furnitureImg, Body: teamImg
 * **Target Funnel:** /services/furniture-removal
 
@@ -149,7 +153,7 @@
 ### B11: where-does-junk-go-after-removal-dubai
 * **URL:** /blog/where-does-junk-go-after-removal-dubai
 * **Primary Keyword:** where does junk go after removal dubai
-* **Secondary Keywords:** eco friendly junk disposal dubai, sustainable decluttering tips dubai
+* **Secondary Keywords:** eco friendly junk disposal dubai
 * **Images:** Cover: blogB11Cover, Body: blogB11Body
 * **Target Funnel:** /about, /services
 
@@ -249,7 +253,7 @@
 ### B25: how-to-dispose-of-old-fridge-in-dubai
 * **URL:** /blog/how-to-dispose-of-old-fridge-in-dubai
 * **Primary Keyword:** how to dispose of old fridge in dubai
-* **Secondary Keywords:** where to dispose washing machine dubai, responsible appliance disposal dubai, white goods recycling
+* **Secondary Keywords:** responsible appliance disposal dubai, white goods recycling
 * **Angle:** Appliances are the category where day-before preparation (defrost, drain, isolate) decides whether the pickup happens; refrigerant recovery makes a fridge legally different.
 * **Images:** Cover: applianceImg, Body: warehouseImg
 * **Target Funnel:** /services/appliance-removal
@@ -420,3 +424,32 @@
 * **Images:** Cover: blogB46Cover (AI-generated), Body: blogB46Body (AI-generated)
 * **Target Funnel:** /services (non-hazardous remainder only)
 * **Sources:** Dubai Municipality Hazardous Waste Guideline No. 8, Waste Department circulars and technical guidelines, and RASID
+
+### B47: where-to-dispose-washing-machine-dubai
+* **URL:** /blog/where-to-dispose-washing-machine-dubai
+* **Primary Keyword:** where to dispose washing machine dubai
+* **Intent:** Question-led appliance route guide; distinct from B25's refrigerator defrosting and refrigerant-handling focus.
+* **Angle:** Decide the route before disconnection, then drain the machine and treat building access as part of the disposal job.
+* **Secondary Keywords:** —
+* **Images:** Cover: blogB47Cover (AI-generated), Body: blogB47Body (AI-generated)
+* **Target Funnel:** /services/appliance-removal
+* **Sources:** Dubai Municipality household-appliance service directory, service portal, and contact page
+
+### B48: mattress-disposal-cost-dubai
+* **URL:** /blog/mattress-disposal-cost-dubai
+* **Primary Keyword:** mattress disposal cost dubai
+* **Intent:** Commercial-research cost guide; distinct from B24's route-and-building-rules disposal guide and B02's furniture pricing.
+* **Angle:** The quote follows the complete carry route and vehicle journey, not mattress size alone, with September 2026 planning ranges.
+* **Secondary Keywords:** —
+* **Images:** Cover: blogB48Cover (AI-generated), Body: blogB48Body (AI-generated)
+* **Target Funnel:** /services/mattress-bulky-item-removal
+
+### B49: sustainable-decluttering-tips-dubai
+* **URL:** /blog/sustainable-decluttering-tips-dubai
+* **Primary Keyword:** sustainable decluttering tips dubai
+* **Intent:** Informational low-waste workflow; distinct from B11's post-collection journey and B34's broad item-routing guide.
+* **Angle:** A value hierarchy and destination test preserve reuse value before a timed, separated collection.
+* **Secondary Keywords:** —
+* **Images:** Cover: blogB49Cover (AI-generated), Body: blogB49Body (AI-generated)
+* **Target Funnel:** /services/household-junk-removal
+* **Sources:** Dubai Municipality Circle Dubai programme, Recycle Centres, and reusable-materials exchange initiative

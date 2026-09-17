@@ -58,6 +58,12 @@ import blogB45Cover from "@/assets/blog-b45-electronics-recycling-cover.webp";
 import blogB45Body from "@/assets/blog-b45-ewaste-dropoff-body.webp";
 import blogB46Cover from "@/assets/blog-b46-hazardous-waste-sorting-cover.webp";
 import blogB46Body from "@/assets/blog-b46-specialist-waste-collection-body.webp";
+import blogB47Cover from "@/assets/blog-b47-washing-machine-disposal-cover.webp";
+import blogB47Body from "@/assets/blog-b47-washing-machine-collection-body.webp";
+import blogB48Cover from "@/assets/blog-b48-mattress-quote-cover.webp";
+import blogB48Body from "@/assets/blog-b48-mattress-lift-access-body.webp";
+import blogB49Cover from "@/assets/blog-b49-sustainable-decluttering-cover.webp";
+import blogB49Body from "@/assets/blog-b49-sorted-collection-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -271,7 +277,7 @@ export const blogPosts: BlogPost[] = [
     publishedAt: "2026-08-31",
     readingTime: "7 min read",
     author: defaultAuthor,
-    tags: ["Furniture Removal Cost", "Sofa Disposal", "Mattress Disposal Cost", "Dubai Pricing Guide", "Furniture Clearance"],
+    tags: ["Furniture Removal Cost", "Sofa Disposal", "Dubai Pricing Guide", "Furniture Clearance"],
     seoTitle: "How Much Does Furniture Removal Cost in Dubai? (2026)",
     seoDescription:
       "Furniture removal cost in Dubai explained: real price ranges for sofas, beds, wardrobes, and full-home clearances, plus what pushes a quote up or down.",
@@ -322,10 +328,10 @@ export const blogPosts: BlogPost[] = [
         },
       },
       {
-        heading: "Mattress disposal cost in Dubai",
+        heading: "Bundle bedroom furniture when it reduces the truck share",
         paragraphs: [
-          "Mattress disposal in Dubai usually costs AED 100 to AED 180 for a single and AED 150 to AED 250 for a king, whether it goes on its own or with other items. Most communities will not let you leave a mattress beside the bins, and management fines for doing so often cost more than the pickup.",
-          "If a mattress is the only thing you need gone, it falls under single bulky-item collection. When it comes out with a bed frame and wardrobe, it is simply folded into the bedroom-set price rather than charged twice. Our mattress and bulky-item removal service covers both.",
+          "A bed frame, bedside tables, and wardrobe often use the same crew, access slot, and vehicle journey. Photographing the complete bedroom group lets the provider price the space and labour once instead of treating each item as a separate visit.",
+          "Keep mattresses visible in the photos but use the dedicated mattress-pricing guide for the pickup factors unique to size, hygiene, wrapping, and stair access. This article remains focused on furniture and sofa removal costs.",
         ],
         image: teamImg,
         imageAlt: "Uniformed crew wrapping a large sofa in protective blankets before carrying it down a Dubai apartment stairwell",
@@ -368,7 +374,7 @@ export const blogPosts: BlogPost[] = [
           "If a piece is clean, current, and assembles easily, selling or donating it is worth the effort. Once furniture is marked, broken, or a discontinued flat-pack, resale interest drops fast and paid removal is usually the quicker route. Crews still separate anything usable for donation.",
       },
     ],
-    relatedSlugs: ["dubai-junk-removal-cost-guide", "villa-clearance-cost-dubai"],
+    relatedSlugs: ["mattress-disposal-cost-dubai", "dubai-junk-removal-cost-guide", "villa-clearance-cost-dubai"],
   },
   {
     slug: "villa-clearance-cost-dubai",
@@ -1257,7 +1263,6 @@ export const blogPosts: BlogPost[] = [
     tags: [
       "Where Does Junk Go in Dubai",
       "Eco Friendly Junk Disposal Dubai",
-      "Sustainable Decluttering Tips Dubai",
       "Dubai Recycling",
       "Waste Diversion Dubai",
     ],
@@ -1339,18 +1344,6 @@ export const blogPosts: BlogPost[] = [
         },
       },
       {
-        heading: "Sustainable decluttering tips for Dubai villa and apartment residents",
-        paragraphs: [
-          "Practicing eco friendly junk disposal in Dubai begins well before our removal crew arrives at your door. With a few thoughtful preparation steps, you can significantly increase the percentage of your belongings diverted into recycling and charity channels:",
-        ],
-        bulletPoints: [
-          "Schedule Clearance 3–5 Days Before Move-Out: Rushing clearance on the final tenancy lease day often results in mixed refuse bags. Planning ahead gives crews time to inspect and protect reusable pieces.",
-          "Keep Electrical Cables & Remotes with Appliances: Functional electronics are twice as likely to be accepted by charities if their original remote controls, power cords, and mounting brackets are taped together.",
-          "Separate Wet Waste from Dry Bulk: Never mix domestic kitchen garbage, food scraps, or half-empty paint tins with dry furniture. Wet contamination ruins clean cardboard and textile batches at the sorting yard.",
-          "Request Disposal Accountability: Ask your clearance provider whether they hold an active DED trade license and confirm their sorting and recycling protocols.",
-        ],
-      },
-      {
         heading: "Transparent, eco-friendly property clearance across Dubai",
         paragraphs: [
           "Dubai Junk Collection operates under strict municipal compliance. Every load we collect from residential villas, high-rise apartments, and commercial offices is cataloged, consolidated, and routed through verified recycling depots and humanitarian partners.",
@@ -1380,7 +1373,7 @@ export const blogPosts: BlogPost[] = [
           "Refrigerators and AC units contain ozone-depleting refrigerants (CFCs/HFCs) and compressor oils. They are transported to specialized UAE recycling plants where gases are evacuated in closed-loop recovery systems before copper and steel scrap is sheared and melted.",
       },
     ],
-    relatedSlugs: ["how-to-recycle-in-dubai", "dubai-waste-disposal-rules", "bulky-waste-collection-dubai-municipality"],
+    relatedSlugs: ["sustainable-decluttering-tips-dubai", "how-to-recycle-in-dubai", "dubai-waste-disposal-rules"],
   },
   {
     slug: "junk-removal-vs-skip-hire-dubai",
@@ -3045,9 +3038,9 @@ export const blogPosts: BlogPost[] = [
   },
   {
     slug: "how-to-dispose-of-old-fridge-in-dubai",
-    title: "How to Dispose of Refrigerators & Large Home Appliances in Dubai",
+    title: "How to Dispose of an Old Fridge in Dubai Safely",
     excerpt:
-      "Fridges, washing machines, and ovens are the one category where what you do the day before collection decides whether the pickup happens at all. A practical disposal and preparation guide for Dubai homes.",
+      "A practical Dubai guide to defrosting, disconnecting, carrying, and routing an old refrigerator without releasing refrigerant or delaying collection.",
     category: "Eco & Recycling",
     coverImage: applianceImg,
     coverImageAlt: "Technician wheeling a fridge and washing machine out of a Dubai kitchen on an appliance dolly",
@@ -3056,17 +3049,16 @@ export const blogPosts: BlogPost[] = [
     author: defaultAuthor,
     tags: [
       "How to Dispose of Old Fridge in Dubai",
-      "Where to Dispose Washing Machine Dubai",
       "Responsible Appliance Disposal Dubai",
       "White Goods Recycling",
       "Refrigerant Recovery",
     ],
     seoTitle: "How to Dispose of an Old Fridge in Dubai: Rules & Prep",
     seoDescription:
-      "How to dispose of an old fridge in Dubai: defrosting and draining steps, refrigerant rules, what scrap dealers will and will not take, and where washing machines are recycled.",
+      "How to dispose of an old fridge in Dubai: defrosting steps, refrigerant handling, collection routes, building access, and responsible material recovery.",
     keyTakeaways: [
       "A fridge is legally different from other bulky waste because its sealed system holds refrigerant gas that has to be recovered by trained handlers, not released or punctured on site.",
-      "Preparation the day before decides whether a collection succeeds: 24 hours of defrosting for a fridge or freezer, and a drained drum, hose, and filter for a washing machine.",
+      "Preparation the day before decides whether collection succeeds: empty the unit, defrost it fully, contain meltwater, and secure loose shelves.",
       "Scrap dealers across Dubai will happily take a working or repairable appliance, often for free, but lose interest in anything with a failed compressor, a cracked drum, or water damage.",
       "Anything connected to gas, or a plumbed water heater, needs a qualified technician to disconnect rather than a removal crew or a resident.",
       "Around three quarters of a typical white goods unit by weight is recoverable steel, aluminium, copper, and plastic, which is why responsible disposal routes them to sorting rather than landfill.",
@@ -3094,7 +3086,6 @@ export const blogPosts: BlogPost[] = [
         ],
         bulletPoints: [
           "Fridges and freezers: empty and unplug at least 24 hours ahead, prop the doors open, and lay towels along the base. A freezer that looks defrosted at the front is usually still holding a solid block behind the drawers, and that water ends up across the floor and into the lift.",
-          "Washing machines and dishwashers: run a drain or spin cycle, close the inlet valve, disconnect the fill hose into a bucket, and empty the pump filter at the front. A drum that still holds several litres soaks whoever tips it onto the trolley.",
           "Transit bolts and loose parts: shelves, crisper drawers, and glass plates should be taped in place or removed and carried separately. Glass shelves shifting inside a fridge on a stair carry is how the door panel cracks.",
           "Electric ovens and hobs: switch off at the isolator and let the unit cool completely. Built-in units are usually screwed into the cabinetry and need unfixing before they will slide out.",
           "Gas cookers and plumbed water heaters: these need a qualified technician to cap the line or isolate the supply. It is not a job for a removal crew or a resident, and most building management teams require proof it was done properly.",
@@ -3106,14 +3097,6 @@ export const blogPosts: BlogPost[] = [
         },
       },
       {
-        heading: "Where to dispose of a washing machine in Dubai",
-        paragraphs: [
-          "Washing machines split cleanly into two categories, and the split has nothing to do with age.",
-          "If the machine still runs, or has a fault a technician would call minor, it has real value. Second-hand dealers and scrap traders around the industrial areas will collect it, sometimes at no cost to you, because a repaired unit resells. Photos of the model plate and an honest description of the fault get you a straight answer within a day.",
-          "If the drum bearings have gone, the motor is dead, or the machine has been sitting in a damp storeroom, that market closes. At that point it is a recycling job, and the routes are municipality bulky waste collection or a licensed removal crew. Both treat it as scrap, which is the correct outcome: the case, drum, and counterweight are almost entirely recoverable material.",
-        ],
-      },
-      {
         heading: "What is actually recovered from your old appliances",
         paragraphs: [
           "White goods are among the most recyclable things in a home. The value is in the metal, which is why a properly sorted appliance loses very little to landfill.",
@@ -3123,7 +3106,6 @@ export const blogPosts: BlogPost[] = [
           headers: ["Appliance", "Main recoverable materials", "Special handling"],
           rows: [
             ["Refrigerator or freezer", "Steel shell, aluminium, copper tubing, plastic liners", "Refrigerant and compressor oil recovered before dismantling; carried upright"],
-            ["Washing machine or dryer", "Steel drum and case, concrete counterweight, copper motor windings", "Fully drained before transport"],
             ["Electric oven, hob, or microwave", "Steel, glass, wiring, control boards", "Cooled and isolated; boards separated as electronic waste"],
             ["Water heater", "Steel tank, copper element, insulation", "Water supply isolated and tank drained by a technician"],
           ],
@@ -3169,7 +3151,7 @@ export const blogPosts: BlogPost[] = [
           "A qualified technician handles anything plumbed or connected to gas. Removal crews unfix and carry, but they should not be capping a gas line or breaking into a water supply. Book the disconnection for the morning of the collection so the appliance is loose and ready when the truck arrives.",
       },
     ],
-    relatedSlugs: ["how-to-recycle-in-dubai", "where-does-junk-go-after-removal-dubai", "dubai-waste-disposal-rules"],
+    relatedSlugs: ["where-to-dispose-washing-machine-dubai", "how-to-recycle-in-dubai", "where-does-junk-go-after-removal-dubai"],
   },
   {
     slug: "how-to-get-rid-of-old-ac-unit-dubai",
@@ -5803,6 +5785,404 @@ export const blogPosts: BlogPost[] = [
       {
         href: "https://www.dm.gov.ae/rasid/",
         label: "Dubai Municipality — RASID waste-sector monitoring system",
+      },
+    ],
+  },
+  {
+    slug: "where-to-dispose-washing-machine-dubai",
+    title: "Where to Dispose of a Washing Machine in Dubai: 4 Safe Routes",
+    excerpt:
+      "Choose the right route for a working, repairable, or broken washing machine, then drain it properly and confirm Dubai building access before collection.",
+    category: "Eco & Recycling",
+    coverImage: blogB47Cover,
+    coverImageAlt: "Dubai apartment resident draining an unplugged washing machine into a shallow tray before collection",
+    publishedAt: "2026-09-17",
+    readingTime: "9 min read",
+    author: defaultAuthor,
+    tags: [
+      "Where to Dispose Washing Machine Dubai",
+      "Washing Machine Recycling Dubai",
+      "Appliance Collection Dubai",
+      "White Goods Preparation",
+    ],
+    seoTitle: "Where to Dispose of a Washing Machine in Dubai Safely",
+    seoDescription:
+      "Find where to dispose of a washing machine in Dubai. Compare reuse, retailer, municipal, and collection routes, plus safe draining and access steps.",
+    keyTakeaways: [
+      "Use repair, resale, or donation only when the machine is complete, dry, honestly described, and accepted by a confirmed recipient.",
+      "Ask the retailer about take-back before replacement delivery because the old-unit collection usually needs to be added to the delivery order.",
+      "Dubai Municipality lists a bulky household-appliance service for eligible addresses, while investment zones are excluded; verify eligibility before relying on it.",
+      "Run the drain cycle, close the water valve, unplug the machine, empty the filter, and secure the hoses before the crew arrives.",
+      "Share the model, dimensions, fault, floor, lift, parking distance, and whether the unit is freestanding or built in when requesting collection.",
+    ],
+    sections: [
+      {
+        heading: "Where to dispose of a washing machine in Dubai",
+        paragraphs: [
+          "Dispose of a washing machine in Dubai through a confirmed repair or reuse buyer, retailer take-back, Dubai Municipality's eligible bulky-waste service, or a licensed appliance collector. Choose by condition and deadline, drain the unit fully, and verify building access before moving it. Never leave it beside communal bins or in a loading bay.",
+          "The route should be decided before anyone disconnects or carries the machine. A working unit may retain reuse value; a failed, rusted, or water-damaged unit is usually a recovery job for steel, wiring, electronics, and other components. A promised free pickup is not a route until the recipient confirms the model, condition, address, and time.",
+        ],
+        callout: {
+          type: "info",
+          title: "Municipal details checked on 17 September 2026",
+          text: "Dubai Municipality's service directory says its household-appliance and furniture service is free for eligible citizens, aims to complete collection within three working days, and excludes investment zones. Check your address and current eligibility in the official service portal or through 800900 before planning around it.",
+        },
+      },
+      {
+        heading: "Match the machine to one of four routes",
+        paragraphs: [
+          "Describe the fault honestly. A machine that powers on but will not spin is different from one with a cracked drum, burned wiring, severe corrosion, or a missing door. Do not run repeated test cycles when there is a leak, electrical smell, abnormal heat, or damaged cable; isolate it safely and seek technician advice.",
+        ],
+        table: {
+          caption: "Washing-machine routes by condition and timing",
+          headers: ["Route", "Best fit", "Confirm before moving"],
+          rows: [
+            ["Repair, resale, or reuse", "Complete machine with a known minor fault or reliable operation", "Recipient accepts the model, fault, floor, and collection responsibility"],
+            ["Retailer take-back", "Old unit being replaced by a new machine", "Take-back appears on the delivery order and includes removal from your floor"],
+            ["Municipal bulky-item service", "Eligible household address with a flexible deadline", "Address eligibility, collection point, timing, and who carries the unit"],
+            ["Licensed appliance collection", "Broken unit, urgent deadline, stairs, or removal from inside the home", "Written scope covers carrying, access, transport, and the receiving route"],
+          ],
+        },
+      },
+      {
+        heading: "Check the municipal service against your exact address",
+        paragraphs: [
+          "Dubai Municipality currently lists a service called Dispose of Household Appliances and Furniture. Its public directory describes bulky furniture and electronics collection, gives a three-working-day service target, and notes that investment zones are outside the service. The summary uses specific eligibility wording, so residents should not assume every Dubai address or development qualifies.",
+          "Open the current service entry or call 800900 with the location, property type, appliance, and preferred date. Ask where the machine must be presented and whether collection is from inside the home or a designated point. If your building prohibits unattended items in service areas, keep the machine inside until a confirmed crew is present.",
+        ],
+      },
+      {
+        heading: "Drain and disconnect the machine without flooding the floor",
+        paragraphs: [
+          "Finish the last wash, remove all clothing, and run the drain or spin programme while the machine is still connected normally. Turn it off, unplug it with dry hands, and close the appliance's water-supply valve. Place a shallow tray and towels below the pump-filter access, then open it slowly because residual water can exceed what the small cover suggests.",
+          "Lower the drain hose into a tray or bucket and let the remaining water clear. Disconnect the inlet hose only after the valve is closed, keep both hose ends upright, and cap or bag them for the carry. Secure the power cable and hoses to the back without kinking them. If the valve is seized, the connection leaks, or the unit is built into plumbing or cabinetry, use a qualified technician rather than forcing it.",
+        ],
+        bulletPoints: [
+          "Locate the manufacturer's transit bolts if the machine may be reused; they stabilise the drum during transport.",
+          "Photograph the connections before removal if a replacement will use the same inlet and drain points.",
+          "Do not tilt a water-filled machine onto a trolley and expect the crew to contain the spill in a corridor or lift.",
+          "Keep the door closed for carrying but leave it slightly open while the dry machine waits indoors to prevent odour.",
+        ],
+      },
+      {
+        heading: "Plan the route from the utility room to the vehicle",
+        paragraphs: [
+          "Measure the appliance and the narrowest doorway, then check tight corners, thresholds, lift dimensions, and the loading-bay route. A washing machine is dense and top-heavy once tilted; a standard luggage trolley and one helper are not substitutes for an appliance dolly, securing strap, and a controlled two-person route.",
+          "Reserve the service lift where required and ask management what identification, vehicle registration, padding, or access permit security needs. Protect finished floors before the machine moves, not after the first wheel leaves a mark. Keep the unit upright and never stage it in a fire route or shared corridor while waiting for the vehicle.",
+        ],
+        image: blogB47Body,
+        imageAlt: "Two-person crew moving an upright washing machine on a secured appliance dolly toward a padded Dubai service lift",
+        imageCaption: "A drained machine, secured appliance dolly, and protected lift route prevent water damage and last-minute access delays.",
+      },
+      {
+        heading: "Ask where the machine goes after collection",
+        paragraphs: [
+          "A reusable unit should remain complete, with hoses, transit bolts, manual, and known fault information kept together. A non-reusable machine can be separated into ferrous metal, copper-bearing components, wiring, plastics, concrete counterweights, and electronic controls through an appropriate recovery route. Do not dismantle the casing at home to extract parts.",
+          "Before accepting a collection quote, ask whether the provider accepts the exact unit, where it will be taken, and whether any item is excluded at the door. For a time-sensitive apartment collection, send Dubai Junk Collection full photos plus the floor, lift, doorway, parking distance, and building requirements for a written appliance-removal scope.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can a landlord require the washing machine to stay in the property?",
+        answer:
+          "Yes, if it belongs to the landlord or is recorded as part of the furnished inventory. Check the tenancy documents, move-in inventory, and written instructions before arranging removal. Photograph the model and condition and obtain approval when ownership is uncertain; replacing or discarding an included appliance can become a handover dispute.",
+      },
+      {
+        question: "Can a stacked washer-dryer be collected as one unit?",
+        answer:
+          "It depends on whether the appliances are separate machines joined by a stacking kit or a single combined unit. Share a full-height photo and model labels. A technician may need to disconnect or unstack them before the removal crew arrives, and the lift and trolley capacity must suit the individual weights.",
+      },
+      {
+        question: "Should I remove the washing-machine door before collection?",
+        answer:
+          "No. Keep the machine complete unless the confirmed recipient specifically instructs otherwise. The door helps protect the drum and may be needed for repair or reuse. Close it for the carry after the machine is dry, secure loose detergent drawers, and avoid taping directly onto a delicate painted finish.",
+      },
+      {
+        question: "Can a tumble dryer use the same disposal route?",
+        answer:
+          "Often, but declare it separately. A vented, condenser, or heat-pump dryer has different preparation and components, and a stacked installation may require unfastening. Empty lint and water containers, unplug the unit, preserve its accessories, and confirm acceptance, dimensions, access, and any refrigerant-related handling for a heat-pump model.",
+      },
+    ],
+    relatedSlugs: ["how-to-dispose-of-old-fridge-in-dubai", "where-to-recycle-electronics-in-dubai", "bulky-waste-collection-dubai-municipality"],
+    serviceLink: {
+      href: "/services/appliance-removal",
+      label: "Explore appliance removal",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-services/",
+        label: "Dubai Municipality — Household appliance and furniture disposal service",
+      },
+      {
+        href: "https://hub.dm.gov.ae/link/servicedetails?ServiceCode=3006",
+        label: "Dubai Municipality service portal — Dispose of bulky waste",
+      },
+      {
+        href: "https://www.dm.gov.ae/contact/",
+        label: "Dubai Municipality — Contact channels and 800900",
+      },
+    ],
+  },
+  {
+    slug: "mattress-disposal-cost-dubai",
+    title: "Mattress Disposal Cost Dubai: What Changes the Quote?",
+    excerpt:
+      "Understand the planning ranges for single and king mattresses—and why size, stairs, carry distance, timing, and bundled furniture change a Dubai pickup quote.",
+    category: "Guides & Tips",
+    coverImage: blogB48Cover,
+    coverImageAlt: "Dubai resident photographing and measuring a queen mattress before requesting a disposal quote",
+    publishedAt: "2026-09-17",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: [
+      "Mattress Disposal Cost Dubai",
+      "Mattress Pickup Quote",
+      "Bulky Item Removal Cost",
+      "Dubai Building Access",
+    ],
+    seoTitle: "Mattress Disposal Cost Dubai: Quote Factors & Ranges",
+    seoDescription:
+      "See mattress disposal cost in Dubai planning ranges and learn how size, lift access, stairs, carry distance, urgency, and bundled items change your quote.",
+    keyTakeaways: [
+      "As a September 2026 planning range, an ordinary single mattress often falls around AED 100–180 and a king around AED 150–250 with straightforward access.",
+      "Size matters, but stairs, long carries, loading restrictions, hygiene condition, and a dedicated vehicle journey can affect the quote more.",
+      "A mattress added to an already-booked bedroom or household load usually costs less than arranging a separate trip later.",
+      "Send one wide photo, the size, floor, lift status, parking distance, condition, and deadline to receive a useful fixed quote.",
+      "Do not move the mattress into a corridor or bin room before the collection team and building access are confirmed.",
+    ],
+    sections: [
+      {
+        heading: "What does mattress disposal cost in Dubai?",
+        paragraphs: [
+          "Mattress disposal cost in Dubai commonly starts around AED 100–180 for a single and AED 150–250 for a king with straightforward lift and vehicle access. Treat these as September 2026 planning ranges, not a universal tariff: stairs, long carries, restricted loading, condition, urgency, and whether the trip includes other items can change the fixed quote.",
+          "The price is not simply a charge for the mattress material. It covers the crew reaching the property, protecting and carrying an awkward flexible item, using the building's approved route, loading it safely, transporting it, and paying for the appropriate receiving route. A clear photo and honest access description prevent most price changes on arrival.",
+        ],
+        callout: {
+          type: "info",
+          title: "Ranges are for planning",
+          text: "There is no single Dubai mattress tariff. Ask for a written fixed quote based on current photos and access. If a provider gives a very low number without asking about size, floor, lift, parking, or condition, the scope is not complete yet.",
+        },
+      },
+      {
+        heading: "Use the range that matches the real job",
+        paragraphs: [
+          "The scenarios below explain why two mattresses of the same size can produce different quotes. Prices should be confirmed from current job details; the planning ranges assume an ordinary dry household mattress without contamination or specialist handling requirements.",
+        ],
+        table: {
+          caption: "Indicative mattress pickup scenarios in Dubai",
+          headers: ["Scenario", "Planning range or effect", "Why"],
+          rows: [
+            ["Single mattress, booked lift, short carry", "About AED 100–180", "Small footprint and predictable access"],
+            ["Queen or king, booked lift, short carry", "About AED 150–250", "Larger flexible item usually needs two controlled carriers"],
+            ["Mattress added to a bedroom clearance", "Often a lower marginal cost", "Crew, access slot, and vehicle journey are already shared"],
+            ["Upper-floor stairs or long basement carry", "Quoted above the simple-access range", "Additional crew time, fatigue control, and route protection"],
+            ["Urgent solo trip or narrow time window", "May cost more than a flexible booking", "Vehicle routing and crew schedule cannot be shared as easily"],
+          ],
+        },
+      },
+      {
+        heading: "Six details move the quote",
+        paragraphs: [
+          "Size is the obvious factor, but it is not always the largest. A king mattress beside a service lift can be simpler than a single mattress carried down five tight floors. Give the provider the facts that determine labour and vehicle time rather than only sending a close-up of the fabric.",
+        ],
+        bulletPoints: [
+          "Dimensions and type: single, queen, king, deep pillow-top, folding foam, or a heavy hybrid with springs.",
+          "Floor and route: service lift, passenger-lift permission, stairs, doorway turns, and distance to the loading point.",
+          "Building conditions: access permit, security registration, loading-bay booking, protective padding, and approved movement hours.",
+          "Condition: dry and intact, torn, pest-affected, wet, mouldy, or contaminated material must be declared before booking.",
+          "Timing: flexible route scheduling is easier to combine than an immediate dedicated journey or a narrow handover slot.",
+          "Load context: bed bases, frames, headboards, bedroom furniture, or other bulky items may use the same crew and truck space.",
+        ],
+      },
+      {
+        heading: "A bundle can cost less than two visits",
+        paragraphs: [
+          "If a bed base, headboard, wardrobe, bedside tables, or packed household items are also leaving, photograph the whole group before requesting the quote. The provider can plan dismantling, labour, and truck space as one job. Booking the mattress alone and discovering the frame later creates a second minimum trip and another building-access window.",
+          "Do not add unphotographed items after the crew arrives and expect the original price to remain unchanged. Send an updated image before collection. A clear scope protects both sides and lets the team bring tools for a bed frame, wrapping for the mattress, and enough vehicle capacity for the complete load.",
+        ],
+      },
+      {
+        heading: "Lift, stairs, and parking explain many price differences",
+        paragraphs: [
+          "A service lift reduces carrying distance only when it is booked, padded, and available during the collection window. If security redirects the crew to a distant basement bay or the mattress must turn through a fire stair, the job changes. Measure narrow doors and mention low ceilings, sharp turns, or a lift that cannot take the mattress flat or upright.",
+          "Keep the route empty and leave the mattress in the room until the crew is ready. Standing it in a corridor can block neighbours, violate building rules, and expose it to damage. On stairs, two carriers need space to control the flexible load without twisting it against walls, rails, sprinklers, or light fittings.",
+        ],
+        image: blogB48Body,
+        imageAlt: "Two-person crew carrying a protected queen mattress toward a padded service lift in a Dubai tower",
+        imageCaption: "The quote reflects the complete route—lift booking, protection, carrying distance, and safe loading—not only mattress size.",
+      },
+      {
+        heading: "Send the quote details in one message",
+        paragraphs: [
+          "Photograph the full mattress from the doorway so its size and route are visible, then include the size, quantity, condition, community, property type, floor, lift status, parking distance, preferred date, and any bed furniture leaving with it. State whether management has approved the movement window and whether the mattress must be removed before cleaners or handover inspection arrive.",
+          "Ask for one fixed written scope covering carrying, normal wrapping, transport, agreed related items, and the receiving route. Dubai Junk Collection can price a mattress or bundled bulky-item pickup from that complete photo set, with exclusions declared before the booking rather than at the door.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Does a mattress protector reduce the disposal price?",
+        answer:
+          "Not usually, but it keeps a clean, dry mattress from picking up dirt during the carry and protects walls and lift surfaces. Use a suitable cover if available and declare the actual condition underneath. A protector does not make a wet, mouldy, pest-affected, or contaminated mattress suitable for an ordinary collection.",
+      },
+      {
+        question: "Is the bed base included in a mattress quote?",
+        answer:
+          "Only when it appears in the agreed scope. Send separate photos of the mattress, divan or slatted base, headboard, and frame, and state whether dismantling is needed. A base can take more truck space than the flexible mattress, so the provider must include it before confirming a fixed price.",
+      },
+      {
+        question: "Will a same-day mattress pickup always cost more?",
+        answer:
+          "Not always. If a suitable crew and vehicle are already working nearby, the price may remain within the normal range. A premium is more likely when the request needs a dedicated journey, after-hours building access, extra carriers, or a narrow deadline. Share the time window before accepting the quote.",
+      },
+      {
+        question: "Can I get a quote without knowing the mattress size?",
+        answer:
+          "Yes, but provide a full photo and measure the approximate width and length if possible. Show the bed frame and doorway for scale. Labels are not always reliable after years of use, and deep hybrid mattresses can be heavier than their footprint suggests, so dimensions and construction both help the crew plan.",
+      },
+    ],
+    relatedSlugs: ["how-to-dispose-of-a-mattress-in-dubai", "bulky-waste-collection-dubai-municipality", "furniture-removal-cost-dubai"],
+    serviceLink: {
+      href: "/services/mattress-bulky-item-removal",
+      label: "View mattress and bulky-item removal",
+    },
+  },
+  {
+    slug: "sustainable-decluttering-tips-dubai",
+    title: "Sustainable Decluttering Tips Dubai: A Low-Waste Plan",
+    excerpt:
+      "Reduce waste before collection by protecting reuse value, repairing simple faults, matching items to confirmed recipients, and separating recyclable material.",
+    category: "Eco & Recycling",
+    coverImage: blogB49Cover,
+    coverImageAlt: "Dubai resident repairing a table lamp beside separated textiles, electronics, and flattened cardboard",
+    publishedAt: "2026-09-17",
+    readingTime: "9 min read",
+    author: defaultAuthor,
+    tags: [
+      "Sustainable Decluttering Tips Dubai",
+      "Low-Waste Home Clearout",
+      "Reuse Before Recycling",
+      "Responsible Junk Collection",
+    ],
+    seoTitle: "Sustainable Decluttering Tips Dubai: Low-Waste Plan",
+    seoDescription:
+      "Use sustainable decluttering tips in Dubai to reduce waste, preserve reuse value, separate recycling, and plan a lower-waste household collection.",
+    keyTakeaways: [
+      "Preventing an unwanted purchase and keeping a useful item in service usually saves more material than deciding how to discard it later.",
+      "Work down a route hierarchy: keep, repair, rehome, donate, recycle, then use general removal only for the remainder.",
+      "Protect reuse value by keeping furniture dry, matching accessories to appliances, and describing faults honestly before offering an item.",
+      "Separate clean cardboard, electronics, textiles, metals, and residual material before food, liquids, or outdoor storage can contaminate them.",
+      "A confirmed recipient, deadline, and fallback route are more sustainable than hopeful piles that eventually become an urgent mixed load.",
+    ],
+    sections: [
+      {
+        heading: "Start sustainable decluttering before the discard pile",
+        paragraphs: [
+          "Sustainable decluttering in Dubai starts by reducing what enters the home, repairing simple faults, and keeping usable items complete. For everything leaving, work through reuse, donation, recycling, and only then residual removal. Set confirmed destinations and deadlines early, because a rushed mixed load at move-out loses the most reuse and recovery value.",
+          "The goal is not to keep every object or turn the home into a recycling depot. It is to preserve the highest realistic value of each item without missing the deadline. A chair someone will collect this week has a reuse route; a chair offered indefinitely while it deteriorates on a balcony does not.",
+        ],
+        callout: {
+          type: "tip",
+          title: "Use a destination test",
+          text: "A route counts only when you can name who accepts the item, what condition they require, when it leaves, and what happens if they decline. Without those four answers, the object is still undecided clutter.",
+        },
+      },
+      {
+        heading: "Work down the value hierarchy",
+        paragraphs: [
+          "Start with the option that keeps the most useful life in the item, then move down only when it is impractical. This avoids the common mistake of sending a repairable appliance straight to material recycling or spending weeks trying to donate something no recipient will accept.",
+        ],
+        table: {
+          caption: "Low-waste route hierarchy for household items",
+          headers: ["Route", "Use it when", "Proof the route is real"],
+          rows: [
+            ["Keep or avoid replacing", "The item still meets the need", "It has a defined place and regular use"],
+            ["Repair", "A safe, simple repair restores useful life", "Parts, technician, cost, and repair date are confirmed"],
+            ["Sell or give directly", "The item is clean, complete, and desirable", "Recipient and collection time are agreed"],
+            ["Donate", "A named organisation confirms the category and condition", "Photo approval and handover requirements are clear"],
+            ["Recycle", "Reuse is not viable and a facility accepts the material", "The exact stream and receiving point are confirmed"],
+            ["Remove as residual", "The item is rejected, contaminated, composite, or deadline-sensitive", "Collector states the accepted scope and destination"],
+          ],
+        },
+      },
+      {
+        heading: "Preserve value before finding a recipient",
+        paragraphs: [
+          "Keep manuals, power cords, remote controls, shelves, fittings, and mounting hardware with the correct item. Photograph furniture in daylight, show damage, add dimensions, and state the floor and lifting requirement. A complete honest listing attracts the right recipient and prevents a rejected pickup after the item has already blocked the hallway.",
+          "Clean only with methods suitable for the material and let everything dry. Tighten a loose handle, replace an ordinary approved bulb, or attach a missing foot when the repair is safe and proportionate. Do not improvise repairs to gas appliances, refrigerant systems, swollen batteries, damaged mains cables, or structural furniture; those need qualified assessment or a specialist route.",
+        ],
+        bulletPoints: [
+          "Keep upholstered furniture indoors and dry while waiting for its confirmed collection.",
+          "Bag hardware and tape the bag to the matching dismantled item without damaging the finish.",
+          "Remove personal data and accounts from electronics before reuse or recycling.",
+          "Cancel an unproductive sale or donation attempt at the fallback date rather than carrying it into handover day.",
+        ],
+      },
+      {
+        heading: "Sort by destination after making decisions",
+        paragraphs: [
+          "Declutter room by room if that makes decisions easier, but consolidate outgoing items by destination. Keep confirmed donations together, clean recycling separated by stream, electronics dry and intact, and residual material contained. Never add food, wet waste, paint, chemicals, batteries, medical sharps, or unknown liquids to a general household pile.",
+          "Use containers you already own before buying a new set of organising products. Reusable crates, existing cartons, old towels for protection, and clearly tied hardware bags are often enough. Flatten only clean cardboard with a confirmed route; boxes contaminated by food, oil, or moisture may not remain recyclable.",
+        ],
+      },
+      {
+        heading: "Give every route enough time to close",
+        paragraphs: [
+          "Start valuable resale items first, donation items next, and recycling or removal bookings before the final cleaning day. Direct reuse can take longer because buyers and recipients ask questions, reschedule, or reject an item on condition. A written cutoff prevents the most hopeful route from consuming the entire move-out window.",
+          "Dubai Municipality's Circle Dubai programme promotes reducing waste at source, source sorting, recycling, and circular-economy behaviour across residential and other sectors. The Municipality also publishes a current list of Recycle Centres. Those policies support the hierarchy, but each household still needs to confirm which local point accepts the exact material before travelling.",
+        ],
+      },
+      {
+        heading: "Ask a collector how the separated load will be handled",
+        paragraphs: [
+          "Send photos that show the groups separately rather than one dark pile. Ask which reusable items remain intact, which recyclable streams are kept apart, which materials are excluded, and what happens to the residual fraction. A credible answer should match the actual contents; vague promises that everything will be recycled are not useful.",
+          "Keep the separated groups inside the property until the vehicle and access are confirmed. At handover, point out the reusable chair, electronics crate, clean cardboard, textiles, and residual bags so they are not recombined by mistake. For a mixed household reset, Dubai Junk Collection can scope the accepted load and building route from a complete photo set.",
+        ],
+        image: blogB49Body,
+        imageAlt: "Separated chair, cardboard, electronics, textiles, and residual bags ready for collection at a Dubai loading bay",
+        imageCaption: "Clear separation and a documented handover give reusable and recyclable items a better chance of reaching the intended route.",
+      },
+    ],
+    faqs: [
+      {
+        question: "Is it sustainable to use storage instead of removing items?",
+        answer:
+          "Only when storage has a defined purpose and end date. Moving undecided items into a paid unit adds transport, space, and eventual handling without resolving the decision. List what is stored, why it will be used again, its retrieval date, and the monthly cost; otherwise choose a realistic reuse or removal route now.",
+      },
+      {
+        question: "What should I do with damaged flat-pack furniture?",
+        answer:
+          "Check whether a safe replacement fitting or panel can restore it. If the board is swollen, split, mouldy, or no longer structurally stable, do not advertise it as usable. Keep metal fittings separate only when the receiving route requests it, and arrange bulky removal rather than leaving dismantled panels beside communal bins.",
+      },
+      {
+        question: "Can unwanted plants and pots be added to a household load?",
+        answer:
+          "Declare them separately. Healthy plants may suit direct rehoming, while soil, roots, ceramic pots, plastic nursery pots, and dead green material can require different routes. Drain excess water, do not mix soil into clean cardboard or textiles, and confirm what the collector or garden-waste service accepts before loading.",
+      },
+      {
+        question: "How do I handle opened toiletries and cleaning products?",
+        answer:
+          "Do not donate leaking, expired, unlabelled, or partly used products unless a named recipient explicitly accepts them. Keep each product closed in its original container and follow label instructions. Concentrated cleaners, aerosols, solvents, and unknown liquids may need a specialist route and must stay out of ordinary donation, recycling, and junk loads.",
+      },
+    ],
+    relatedSlugs: ["what-to-do-with-unwanted-household-items-dubai", "where-does-junk-go-after-removal-dubai", "how-to-recycle-in-dubai"],
+    serviceLink: {
+      href: "/services/household-junk-removal",
+      label: "Plan a household collection",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-launches-circle-dubai-project/",
+        label: "Dubai Municipality — Circle Dubai waste-reduction programme",
+      },
+      {
+        href: "https://www.dm.gov.ae/help-and-support/",
+        label: "Dubai Municipality — Current Recycle Centres",
+      },
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-launches-electronic-platform-for-exchange-of-recyclable-or-reusable-materials/",
+        label: "Dubai Municipality — Reusable and recyclable materials exchange initiative",
       },
     ],
   },

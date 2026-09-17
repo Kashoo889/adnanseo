@@ -66,7 +66,7 @@ The 93 blog opportunities are organized into thematic publishing tracks. Each ar
 | # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
 | :-: | :--- | :--- | :--- | :---: | :--- |
 | **B01** | *Dubai Junk Removal Cost Guide: Realistic Pricing & Truck Load Rates* | `junk removal cost dubai` | `junk removal price dubai`, `junk removal prices dubai`, `how much does junk removal cost in dubai`, `junk removal cost per truck load dubai`, `is junk removal expensive in dubai` | C / Q | `/services`, `/contact` |
-| **B02** | *How Much Does Old Furniture & Sofa Removal Cost in Dubai?* | `furniture removal cost dubai` | `mattress disposal cost dubai`, `furniture disposal dubai` | C | `/services/furniture-removal` |
+| **B02** | *How Much Does Old Furniture & Sofa Removal Cost in Dubai?* | `furniture removal cost dubai` | `furniture disposal dubai` | C | `/services/furniture-removal` |
 | **B03** | *Villa Cleanout & Handover Clearance Cost Breakdown in Dubai* | `villa clearance cost dubai` | `villa cleanout dubai`, `end of tenancy clearance dubai` | C | `/services/villa-apartment-cleanouts` |
 | **B04** | *How to Book Same-Day Junk Removal via WhatsApp in Dubai* | `whatsapp junk removal dubai` | `book junk removal dubai`, `same day junk pickup booking dubai`, `junk removal quote dubai` | C | `/contact` |
 
@@ -91,7 +91,7 @@ The 93 blog opportunities are organized into thematic publishing tracks. Each ar
 | **B08** | *Dubai Waste Disposal Rules & Fines for Illegal Dumping: The Complete Resident Guide* | `dubai waste disposal rules` | `fines for illegal dumping dubai`, `how to dispose of junk in dubai` | I | `/services` |
 | **B09** | *Dubai Municipality Bulky Waste Collection: How It Works & Private Crew Alternatives* | `bulky waste collection dubai municipality` | `dubai municipality junk removal`, `where to throw away furniture in dubai` | I | `/services/mattress-bulky-item-removal` |
 | **B10** | *How and Where to Recycle Household Goods in Dubai (Drop-off Centers & Pickups)* | `how to recycle in dubai` | `recycling centres in dubai`, `what can you recycle in dubai`, `landfill vs recycling dubai` | Q / I | `/about`, `/services` |
-| **B11** | *Where Does Your Junk Actually Go After Removal in Dubai?* | `where does junk go after removal dubai` | `eco friendly junk disposal dubai`, `sustainable decluttering tips dubai` | Q / I | `/about` |
+| **B11** | *Where Does Your Junk Actually Go After Removal in Dubai?* | `where does junk go after removal dubai` | `eco friendly junk disposal dubai` | Q / I | `/about` |
 
 ---
 
@@ -129,7 +129,7 @@ The 93 blog opportunities are organized into thematic publishing tracks. Each ar
 | **B22** | *How to Safely Dispose of Old Furniture & Broken Wardrobes in Dubai* | `how to dispose of old furniture in dubai` | `can you throw away furniture in dubai`, `broken furniture disposal dubai` | Q | `/services/furniture-removal` |
 | **B23** | *Where to Dispose of an Old Sofa or Couch in Dubai* | `where to dispose old sofa in dubai` | `what to do with old sofa dubai`, `sofa disposal dubai` | Q | `/services/furniture-removal` |
 | **B24** | *How to Dispose of an Old Mattress in Dubai Without Community Fines* | `how to dispose of a mattress in dubai` | `where to throw old mattress dubai`, `mattress disposal dubai` | Q | `/services/mattress-bulky-item-removal` |
-| **B25** | *How to Dispose of Refrigerators & Large Home Appliances in Dubai* | `how to dispose of old fridge in dubai` | `where to dispose washing machine dubai`, `responsible appliance disposal dubai` | Q / I | `/services/appliance-removal` |
+| **B25** | *How to Dispose of an Old Fridge in Dubai Safely* | `how to dispose of old fridge in dubai` | `responsible appliance disposal dubai` | Q / I | `/services/appliance-removal` |
 | **B26** | *How to Get Rid of an Old AC Unit & Water Heater in Dubai* | `how to get rid of old ac unit dubai` | `air conditioner disposal dubai`, `water heater removal dubai` | Q | `/services/appliance-removal` |
 | **B27** | *How to Dispose of Old Laptops & Computers Securely in Dubai* | `how to dispose of old laptop dubai` | `is it illegal to throw electronics in the bin dubai`, `data safe electronics disposal dubai` | Q / I | `/services/e-waste-disposal` |
 | **B28** | *How to Safely Clear an Office & Decommission Commercial Furniture in Dubai* | `how to clear an office in dubai` | `cubicle removal dubai`, `office furniture disposal dubai`, `office refit clearance dubai` | Q / I | `/services/office-junk-removal` |
@@ -194,6 +194,17 @@ The 93 blog opportunities are organized into thematic publishing tracks. Each ar
 
 ---
 
+### Track 12: Appliance Routes, Bulky Pricing & Low-Waste Clearing (Clusters 4, 10, 12 & 14)
+*Separates washing-machine preparation from fridge handling, gives mattresses their own access-led cost guide, and turns sustainability into a practical route hierarchy.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B47** | *Where to Dispose of a Washing Machine in Dubai: 4 Safe Routes* | `where to dispose washing machine dubai` | — | Q | `/services/appliance-removal` |
+| **B48** | *Mattress Disposal Cost Dubai: What Changes the Quote?* | `mattress disposal cost dubai` | — | C | `/services/mattress-bulky-item-removal` |
+| **B49** | *Sustainable Decluttering Tips Dubai: A Low-Waste Plan* | `sustainable decluttering tips dubai` | — | I | `/services/household-junk-removal` |
+
+---
+
 ## Publishing Cadence & Execution Plan
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -204,3 +215,4 @@ The 93 blog opportunities are organized into thematic publishing tracks. Each ar
 6. **Batch 6 (Articles B38–B40):** Office Workflow & Renovation Cleanup — **100% Completed (3/3 Live)**.
 7. **Batch 7 (Articles B41–B43):** Decision Support & Pre-Sale Preparation — **100% Completed (3/3 Live)**.
 8. **Batch 8 (Articles B44–B46):** Seasonal Reset, Electronics Recycling & Special Waste — **100% Completed (3/3 Live)**.
+9. **Batch 9 (Articles B47–B49):** Appliance Routes, Bulky Pricing & Low-Waste Clearing — **100% Completed (3/3 Live)**.
