@@ -205,6 +205,17 @@ The 93 blog opportunities are organized into thematic publishing tracks. Each ar
 
 ---
 
+### Track 13: Tenancy Handover, Rental Clearance & Move-Out Logistics (Clusters 8 & 20)
+*Covers practical tenant security deposit recovery, complete end-of-tenancy rental clearances, and separating movers from bulk junk haulers.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B50** | *How to Get Your Security Deposit Back in Dubai: Move-Out Clearance & Snagging Guide* | `how to get security deposit back dubai` | `move out clearance dubai`, `dubai tenancy handover inspection`, `rera deposit dispute dubai`, `ejari move out cleanout` | Q | `/services/villa-apartment-cleanouts`, `/services/household-junk-removal` |
+| **B51** | *Clearing a Rental Property in Dubai: Complete End-of-Tenancy Cleanout Guide* | `clearing a rental property dubai` | `end of tenancy cleanout dubai`, `landlord property clearance`, `abandoned furniture removal dubai`, `apartment handover junk removal` | I | `/services/villa-apartment-cleanouts`, `/services` |
+| **B52** | *Moving House Junk Removal in Dubai: What Movers Won't Take & How to Clear It* | `moving house junk removal dubai` | `relocation clutter clearance`, `pre move furniture purge`, `dubai moving day checklist`, `movers and junk removal uae` | I | `/services/household-junk-removal`, `/services/villa-apartment-cleanouts` |
+
+---
+
 ## Publishing Cadence & Execution Plan
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -216,3 +227,5 @@ The 93 blog opportunities are organized into thematic publishing tracks. Each ar
 7. **Batch 7 (Articles B41–B43):** Decision Support & Pre-Sale Preparation — **100% Completed (3/3 Live)**.
 8. **Batch 8 (Articles B44–B46):** Seasonal Reset, Electronics Recycling & Special Waste — **100% Completed (3/3 Live)**.
 9. **Batch 9 (Articles B47–B49):** Appliance Routes, Bulky Pricing & Low-Waste Clearing — **100% Completed (3/3 Live)**.
+10. **Batch 10 (Articles B50–B52):** Tenancy Handover, Rental Clearance & Move-Out Logistics — **100% Completed (3/3 Live)**.
+
