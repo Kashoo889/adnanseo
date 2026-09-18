@@ -64,6 +64,12 @@ import blogB48Cover from "@/assets/blog-b48-mattress-quote-cover.webp";
 import blogB48Body from "@/assets/blog-b48-mattress-lift-access-body.webp";
 import blogB49Cover from "@/assets/blog-b49-sustainable-decluttering-cover.webp";
 import blogB49Body from "@/assets/blog-b49-sorted-collection-body.webp";
+import blogB50Cover from "@/assets/blog-b50-security-deposit-cover.jpg";
+import blogB50Body from "@/assets/blog-b50-apartment-inspection-body.jpg";
+import blogB51Cover from "@/assets/blog-b51-rental-property-clearance-cover.jpg";
+import blogB51Body from "@/assets/blog-b51-balcony-clearance-body.jpg";
+import blogB52Cover from "@/assets/blog-b52-moving-house-junk-cover.jpg";
+import blogB52Body from "@/assets/blog-b52-relocation-sorting-body.jpg";
 
 export type BlogAuthor = {
   name: string;
@@ -6183,6 +6189,393 @@ export const blogPosts: BlogPost[] = [
       {
         href: "https://www.dm.gov.ae/dubai-municipality-launches-electronic-platform-for-exchange-of-recyclable-or-reusable-materials/",
         label: "Dubai Municipality — Reusable and recyclable materials exchange initiative",
+      },
+    ],
+  },
+  {
+    slug: "how-to-get-security-deposit-back-dubai",
+    title: "How to Get Your Security Deposit Back in Dubai: Move-Out Clearance & Snagging Guide",
+    excerpt:
+      "Worried about landlord deductions? Discover how a complete cleanout, wall de-nailing, deep cleaning, and Ejari clearance guarantee 100% of your deposit returned.",
+    category: "Moving & Tenancy",
+    coverImage: blogB50Cover,
+    coverImageAlt: "Dubai tenant and landlord conducting a final move-out handover inspection in a spotless, completely empty luxury high-rise apartment",
+    publishedAt: "2026-09-18",
+    readingTime: "9 min read",
+    author: defaultAuthor,
+    tags: [
+      "How to Get Security Deposit Back Dubai",
+      "Move Out Clearance Dubai",
+      "Dubai Tenancy Handover Inspection",
+      "RERA Deposit Dispute Dubai",
+      "Ejari Move Out Cleanout",
+    ],
+    seoTitle: "How to Get Your Security Deposit Back in Dubai: Move-Out Guide",
+    seoDescription:
+      "Master your Dubai tenancy handover. Avoid hefty landlord deposit deductions with complete property clearance, minor repair checklists, and RERA rights.",
+    keyTakeaways: [
+      "Under Dubai Law No. 26 of 2007, security deposits (typically 5% for unfurnished, 10% for furnished) must be refunded upon lease expiry minus fair wear and tear.",
+      "Leftover furniture, curtains, balcony pots, and storeroom junk are the single most common justification landlords use to claim AED 1,500 to AED 3,500 in cleanout deductions.",
+      "Patching wall anchor holes from wall-mounted TVs, filling picture nails, and restoring the original paint shade prevents agencies from charging for full-apartment repainting.",
+      "Conducting a joint walkthrough with a timestamped video inspection on move-out day provides indisputable evidence against unjustified deposit withholdings.",
+      "Booking an insured professional clearance crew ensures all rejected belongings, mattresses, and balcony debris are hauled away prior to the landlord inspection.",
+    ],
+    sections: [
+      {
+        heading: "Security deposit recovery in Dubai: understanding your tenant rights under Law No. 26",
+        paragraphs: [
+          "To get your full security deposit back in Dubai, tenants must return the property in its original handover condition, remove every piece of personal property and bulk junk, patch wall anchors and restore approved neutral paint, settle all final utility bills with DEWA and district cooling providers, and document the vacant premises with timestamped video evidence during a joint inspection.",
+          "Securing the return of a residential security deposit—typically equivalent to 5% of annual rent for unfurnished units or 10% for furnished properties—is one of the most contentious milestones in Dubai renting. With annual rents often running from AED 80,000 to AED 250,000+, a held deposit represents thousands of dirhams that tenants need for their next home.",
+        ],
+      },
+      {
+        heading: "The 4 major handover traps that trigger heavy deposit deductions",
+        paragraphs: [
+          "Landlords and property management agencies routinely retain external maintenance contractors who bill inflated rates for minor handover deficiencies:",
+        ],
+        bulletPoints: [
+          "Trap 1: Abandoned Furniture & Balcony Clutter: Leaving behind a broken wardrobe, old sofa, outdoor wicker chair, or heavy planter pots gives landlords legal grounds to hire emergency clearance teams, docking AED 1,500 to AED 3,500 directly from your deposit.",
+          "Trap 2: TV Wall Bracket Anchor Holes: Drilling heavy steel anchors into concrete block walls for 65-inch television brackets requires multi-stage patching, sanding, and repainting. Unfilled bracket holes frequently lead to a deduction for painting the entire living room.",
+          "Trap 3: Unsettled Utility Disconnections: Failing to obtain final green disconnection certificates from DEWA and district cooling providers (Empower, Tabreed, or Emicool) halts deposit processing until final bills are cleared.",
+          "Trap 4: Missing Move-In Comparison Documentation: Without the original check-in condition report and move-in photographs, tenants have little defense when landlords attribute pre-existing scratches or stains to current tenancy wear.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Fair Wear and Tear vs. Tenant Damage",
+          text: "Dubai Law No. 26 Article 21 explicitly states that tenants are not responsible for natural wear and tear resulting from normal residential use. However, leaving rubbish, furniture, or unpatched holes is classified as property neglect, not wear and tear.",
+        },
+      },
+      {
+        heading: "Room-by-room move-out clearance and restoration checklist",
+        paragraphs: [
+          "Execute this systematic checklist across every zone before handing back the apartment or villa keys:",
+        ],
+        bulletPoints: [
+          "Living & Dining Areas: Remove all wall-mounted brackets, fill screw holes with quality filler compound, sand smooth, and touch up with matching emulsion. Ensure ceiling light fixtures are intact with functioning bulbs.",
+          "Kitchen: Defrost and dry the refrigerator, wipe down oven grease, empty all pantry shelving completely, and disconnect washing machine hoses without leaving water pooling.",
+          "Bathrooms: Clear shampoo bottles, personal toiletries, and medicine cabinets. Remove limescale from shower glass and ensure silicon seals are unbroken.",
+          "Balcony & Terraces: Dismantle interlocking wooden floor decking tiles, remove sun-cracked ceramic pots, and sweep sand buildup out of sliding door drainage tracks.",
+          "Storerooms & Maid's Quarters: Empty every single cardboard box, old suitcase, and unused appliance. Storerooms must be 100% empty and swept clean.",
+        ],
+        image: blogB50Body,
+        imageAlt: "A property manager holding a digital checklist tablet inspecting a freshly patched and repainted white wall in an empty Dubai apartment corridor",
+        imageCaption: "Property managers inspect wall surfaces, fixtures, and vacant storage zones during move-out snagging walks.",
+      },
+      {
+        heading: "Contractor deduction costs vs. proactive clearance savings",
+        paragraphs: [
+          "Understanding the financial difference between landlord contractor charges and arranging your own clearance demonstrates why proactive preparation is essential:",
+        ],
+        table: {
+          caption: "Handover Rectification Costs in Dubai: Landlord Charges vs. Proactive Solutions",
+          headers: ["Handover Issue", "Typical Landlord Deduction", "Proactive Self/Crew Action", "Potential Tenant Saving"],
+          rows: [
+            ["Abandoned Sofa & Mattress", "AED 1,500 – AED 2,500", "AED 300 – AED 500 (Dedicated Junk Crew)", "Save AED 1,200 – AED 2,000"],
+            ["Balcony Decking & Planters Left Behind", "AED 1,200 – AED 2,000", "AED 250 – AED 450 (Bulk Disposal)", "Save AED 950 – AED 1,550"],
+            ["TV Bracket Holes (Unfilled)", "AED 800 – AED 1,600 (Full Wall Repaint)", "AED 80 – AED 150 (DIY Filler & Paint)", "Save AED 720 – AED 1,450"],
+            ["Kitchen Grease & Deep Cleaning Deficit", "AED 1,000 – AED 1,800", "AED 350 – AED 600 (Professional Move-Out Clean)", "Save AED 650 – AED 1,200"],
+          ],
+        },
+      },
+      {
+        heading: "Guaranteed vacant handover with Dubai Junk Collection",
+        paragraphs: [
+          "Don't risk losing thousands of dirhams from your security deposit over unwanted furniture, dusty balcony planters, or packed storeroom clutter.",
+          "Dubai Junk Collection specializes in comprehensive move-out property clearances across all Dubai communities. Our teams clear unwanted furniture, mattresses, broken electronics, and outdoor debris in a single visit, coordinating building security permits and service elevator access so your property is handed over 100% vacant and snagging-ready. Contact us on WhatsApp for an immediate flat quote.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "What is the legal timeline for a Dubai landlord to return a security deposit?",
+        answer:
+          "While Dubai tenancy laws mandate deposit refunds upon contract expiry minus justified deductions, standard practice gives landlords 14 to 30 days after key handover and utility clearance to complete account settlements.",
+      },
+      {
+        question: "Can a landlord deduct money for ordinary wear and tear in Dubai?",
+        answer:
+          "No. Under Law No. 26 of 2007, tenants are not liable for ordinary deterioration from normal daily living, such as minor paint fading or slight carpet traffic wear. Deductions are only permitted for actual damage, unapproved alterations, or abandoned items requiring removal.",
+      },
+      {
+        question: "What should I do if my landlord refuses to return my deposit without valid invoices?",
+        answer:
+          "Request itemized official VAT invoices for any claimed repair work. If the landlord fails to provide evidence or withholds funds unreasonably, you can file a formal dispute with the Dubai Rental Dispute Center (RDC) at Dubai Land Department.",
+      },
+      {
+        question: "Can Dubai Junk Collection clear unwanted furniture on moving day?",
+        answer:
+          "Yes. We offer rapid same-day and scheduled cleanouts across Dubai. We coordinate around your moving trucks to collect all rejected items directly from your door, ensuring the property is completely vacant for your landlord inspection.",
+      },
+    ],
+    relatedSlugs: ["move-out-checklist-dubai-tenants", "villa-handover-guide-dubai", "clearing-a-rental-property-dubai"],
+    serviceLink: {
+      href: "/services/villa-apartment-cleanouts",
+      label: "Book a move-out cleanout",
+    },
+    sources: [
+      {
+        href: "https://dubailand.gov.ae/en/eservices/rental-dispute-center/",
+        label: "Dubai Land Department — Rental Dispute Center (RDC) Guidelines",
+      },
+      {
+        href: "https://www.dm.gov.ae/community/public-cleanliness/",
+        label: "Dubai Municipality — Residential Move-Out Waste Directives",
+      },
+    ],
+  },
+  {
+    slug: "clearing-a-rental-property-dubai",
+    title: "Clearing a Rental Property in Dubai: Complete End-of-Tenancy Cleanout Guide",
+    excerpt:
+      "Whether you are a tenant vacating an apartment or a landlord dealing with abandoned goods, learn how to clear rental properties quickly, legally, and cost-effectively.",
+    category: "Moving & Tenancy",
+    coverImage: blogB51Cover,
+    coverImageAlt: "A professional junk removal team in tidy blue uniforms clearing old left-behind furniture from a spacious modern Dubai villa living room",
+    publishedAt: "2026-09-18",
+    readingTime: "9 min read",
+    author: defaultAuthor,
+    tags: [
+      "Clearing a Rental Property Dubai",
+      "End of Tenancy Cleanout Dubai",
+      "Landlord Property Clearance",
+      "Abandoned Furniture Removal Dubai",
+      "Apartment Handover Junk Removal",
+    ],
+    seoTitle: "Clearing a Rental Property in Dubai: End-of-Tenancy Cleanout Guide",
+    seoDescription:
+      "Complete guide to clearing rental properties in Dubai for landlords and tenants. Manage abandoned items, move-out permits, and rapid apartment turnaround.",
+    keyTakeaways: [
+      "Unreturned rental properties with leftover items delay new tenant occupancy, costing landlords an estimated AED 200 to AED 500 in lost rental income per vacant day.",
+      "When an expat tenant leaves the UAE leaving personal belongings behind, landlords must follow RERA protocols and police/court notices before discarding high-value assets.",
+      "Balconies, maid's quarters, and private villa garden sheds are the most frequent locations where unauthorized items and weathered rubbish are discovered.",
+      "Arranging building security Move-Out NOCs requires booking freight elevator slots in advance, especially in master communities like Downtown Dubai, JBR, and Dubai Marina.",
+      "A full-service clearance team strips the property bare within hours, sorting recoverable items for donation and hauling damaged goods to licensed UAE disposal hubs.",
+    ],
+    sections: [
+      {
+        heading: "Clearing rental properties in Dubai: avoiding costly tenancy turnover delays",
+        paragraphs: [
+          "To clear a rental property in Dubai efficiently, property owners and departing tenants should establish an inventory of items to be removed, obtain necessary master community gate passes and building elevator approvals, clear secondary spaces like balconies and storage rooms first, and partner with a licensed bulk removal service to complete full evacuation in a single morning.",
+          "In Dubai's high-velocity real estate market, vacancy days between tenancies represent direct revenue losses for landlords and property management companies. For tenants, failing to clear every piece of non-inventoried furniture delays security deposit returns. Streamlining the end-of-tenancy cleanout ensures a seamless, frictionless transition.",
+        ],
+      },
+      {
+        heading: "Landlord legal protocols for abandoned tenant belongings in Dubai",
+        paragraphs: [
+          "When tenants vacate unexpectedly or repatriate without completing formal handovers, landlords must observe key regulatory standards:",
+        ],
+        bulletPoints: [
+          "Distinguishing Rubbish from Personal Property: Broken chipboard furniture, worn mattresses, and cardboard rubbish can generally be cleared under standard health and sanitation directives. High-value electronics, jewelry, or official documents require formal legal documentation.",
+          "RERA Eviction and Abandonment Filing: If a tenant has stopped paying rent and left possessions behind without surrendering keys, landlords must file an urgent abandonment petition through the Rental Dispute Center (RDC) before entering the premises.",
+          "Documentary Evidence: Take comprehensive, high-resolution photographs and videos of all abandoned items in situ with timestamps before any clearance team begins loading.",
+        ],
+        callout: {
+          type: "info",
+          title: "Security NOC Clearance",
+          text: "In master developments managed by Emaar, Nakheel, Dubai Properties, or DAMAC, security teams require a valid Move-Out permit and clearance contractor registration before commercial clearance trucks are admitted through community gates.",
+        },
+      },
+      {
+        heading: "High-risk zones in rental property cleanouts",
+        paragraphs: [
+          "Cleanout projects frequently uncover accumulated clutter in overlooked areas of the residence:",
+        ],
+        bulletPoints: [
+          "Balconies & Terraces: Weathered artificial grass turf, rotted bamboo screening, rusted barbecue grills, and sun-baked ceramic planters that crack upon lifting.",
+          "Maid's Rooms & Utility Storerooms: Old suitcases, forgotten ironing boards, broken vacuum cleaners, and duplicate mop buckets that accumulate over multiple leases.",
+          "Built-in Wardrobes & Cupboards: High wardrobe shelves frequently harbor forgotten international travel gear, extra pillows, and obsolete telecom modem cables.",
+          "Kitchen Pantries & Under-Sink Cabinets: Half-empty cleaning bottles, leaking detergents, expired spices, and non-working small appliances.",
+        ],
+        image: blogB51Body,
+        imageAlt: "A spacious balcony of a Dubai rental apartment overlooking high-rise towers being cleared of sun-bleached outdoor furniture, abandoned ceramic flower pots, and wooden decking panels by a clearance worker",
+        imageCaption: "Clearing private balconies of weathered decking, heavy ceramic pots, and sun-damaged loungers restores required building handover aesthetics.",
+      },
+      {
+        heading: "The end-of-tenancy clearance timeline for Dubai residences",
+        paragraphs: [
+          "Following a structured countdown prevents the frantic last-minute scramble that leads to landlord disputes:",
+        ],
+        table: {
+          caption: "Structured End-of-Tenancy Clearance Countdown",
+          headers: ["Timeline Milestone", "Primary Action Items", "Responsible Party", "Success Verification"],
+          rows: [
+            ["14 Days Before Handover", "Audit property, identify unwanted furniture, request building move-out NOC", "Tenant / Landlord", "Move-out permit approved by building management"],
+            ["7 Days Before Handover", "Sell or donate mid-value items, schedule junk removal crew appointment", "Tenant / Property Manager", "Collection truck slot confirmed with security"],
+            ["48 Hours Before Handover", "Complete junk clearance, empty storeroom and balcony, patch wall holes", "Dedicated Clearance Crew", "Property completely empty of all non-original furnishings"],
+            ["Handover Day", "Final joint snagging walkthrough, utility readings verification, key exchange", "Tenant & Landlord", "Signed handover report and full deposit refund approval"],
+          ],
+        },
+      },
+      {
+        heading: "Fast, full-service property clearing with Dubai Junk Collection",
+        paragraphs: [
+          "Whether you are preparing an apartment for new incoming tenants or finishing your tenancy lease, Dubai Junk Collection provides turnkey end-of-tenancy clearances.",
+          "Our experienced crews dismantle built-in custom shelving, remove heavy outdoor planters, haul away broken white goods, and ensure all recyclable materials are diverted from landfills. We work directly with property managers and individual landlords to ensure quick, professional turnarounds. WhatsApp our team photos of the property for an immediate, upfront flat quote.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can a landlord immediately throw away furniture left by an absconding tenant?",
+        answer:
+          "If the tenancy agreement has legally expired and the tenant officially surrendered the unit, landlords can clear discarded rubbish. If the tenant disappeared mid-lease, landlords should file an abandonment case with RDC to obtain an official clearance order protecting them from liability.",
+      },
+      {
+        question: "Does your team dismantle fitted wardrobes and kitchen cabinets?",
+        answer:
+          "Yes. Our professional crews carry battery power tools, hex keys, and hand tools to safely dismantle custom tenant-installed wardrobes, shelving units, wall mirrors, and curtain rods without damaging walls or tiled floors.",
+      },
+      {
+        question: "How does Dubai Junk Collection handle building Move-Out permits and elevator bookings?",
+        answer:
+          "We provide our trade license, vehicle registration, and crew Emirates ID copies for fast security clearance. We ask clients to coordinate the service elevator reservation window with building management so our loading proceeds without delay.",
+      },
+      {
+        question: "Can you remove heavy items from high-floor penthouses with service elevator restrictions?",
+        answer:
+          "Yes. Our teams are experienced in high-rise tower logistics across Downtown Dubai, Dubai Marina, and Business Bay. We use commercial flatbed trolleys and protective blankets to safely navigate high-rise freight elevators and underground service docks.",
+      },
+    ],
+    relatedSlugs: ["how-to-get-security-deposit-back-dubai", "villa-handover-guide-dubai", "junk-removal-for-landlords-dubai"],
+    serviceLink: {
+      href: "/services/villa-apartment-cleanouts",
+      label: "Schedule rental property cleanout",
+    },
+    sources: [
+      {
+        href: "https://dubailand.gov.ae/en/eservices/ejari-system/",
+        label: "Dubai Land Department — Ejari Tenancy Procedures",
+      },
+      {
+        href: "https://www.dm.gov.ae/help-and-support/",
+        label: "Dubai Municipality — Bulky Residential Waste Guidelines",
+      },
+    ],
+  },
+  {
+    slug: "moving-house-junk-removal-dubai",
+    title: "Moving House Junk Removal in Dubai: What Movers Won't Take & How to Clear It",
+    excerpt:
+      "Hiring movers in Dubai? Discover the critical items professional moving companies refuse to transport, and how coordinating a separate junk removal crew saves thousands.",
+    category: "Moving & Tenancy",
+    coverImage: blogB52Cover,
+    coverImageAlt: "A residential relocation scene in a sunny Dubai villa driveway with a moving van and a junk removal truck parked",
+    publishedAt: "2026-09-18",
+    readingTime: "9 min read",
+    author: defaultAuthor,
+    tags: [
+      "Moving House Junk Removal Dubai",
+      "Relocation Clutter Clearance",
+      "Pre Move Furniture Purge",
+      "Dubai Moving Day Checklist",
+      "Movers and Junk Removal UAE",
+    ],
+    seoTitle: "Moving House Junk Removal Dubai: Movers Won't Take It? Clear It Fast",
+    seoDescription:
+      "Coordinate moving house junk removal in Dubai. Learn what professional movers refuse to carry, how to cut relocation cubic volume, and purge clutter before moving day.",
+    keyTakeaways: [
+      "Dubai moving companies quote based on truck cubic volume (CBM) and manpower; hauling unwanted items inflates relocation invoices by 25% to 40%.",
+      "Standard relocation companies strictly refuse hazardous liquids (paint tins, barbecue gas cylinders, garden fertilizers), stained mattresses, and unsanitary broken goods.",
+      "Booking dedicated junk removal 2 to 4 days BEFORE your movers arrive prevents moving-day congestion and stops discarded items from being packed accidentally.",
+      "Gated villa communities (The Springs, Arabian Ranches, DAMAC Hills) enforce strict move-out security gate passes and truck size restrictions.",
+      "Professional junk removal crews carry tools to dismantle oversized units and haul unwanted loads directly into commercial recycling and charity streams.",
+    ],
+    sections: [
+      {
+        heading: "Moving house in Dubai: why relocation requires two separate specialist teams",
+        paragraphs: [
+          "To manage moving house junk removal in Dubai smoothly, residents should conduct an aggressive pre-move audit at least two weeks before relocation, tag items that do not fit the new floor plan, book a dedicated junk removal pickup 2 to 4 days prior to moving day, and let professional movers focus exclusively on transport and protection of high-value belongings.",
+          "When moving between properties in Dubai, many residents assume their primary moving company will handle everything in the home—including old broken furniture, storeroom clutter, and balcony planters. However, professional movers are specialists in careful transport and packing, not waste disposal. Expecting movers to dispose of unwanted junk leads to unexpected surcharge fees or items being left behind on the curb.",
+        ],
+      },
+      {
+        heading: "What Dubai moving companies refuse to transport",
+        paragraphs: [
+          "Due to insurance policies, UAE transport regulations, and vehicle cleanliness standards, moving companies routinely reject several categories of household items:",
+        ],
+        bulletPoints: [
+          "Flammable & Hazardous Chemicals: Half-used paint cans, thinners, pool chemicals, automotive lubricants, and barbecue LPG gas cylinders cannot be legally transported in closed moving trucks.",
+          "Damaged & Unsanitary Goods: Heavily stained mattresses, mold-damaged outdoor furniture, broken chipboard wardrobes that cannot withstand reassembly, and dirty pet enclosures.",
+          "Garden Waste & Heavy Soil: Large ceramic planters filled with wet garden soil, broken landscaping rocks, and unbagged palm fronds that soil moving blankets and delicate furnishings.",
+          "Renovation Leftovers: Excess floor tiles, gypsum board cutoffs, bags of grout, and construction rubble from minor tenant alterations.",
+        ],
+        callout: {
+          type: "tip",
+          title: "The Two-Truck Strategy",
+          text: "Never let your movers load items you intend to discard 'just to get them out of the house.' You will pay double the labor to pack, transport, and unpack junk at your new property.",
+        },
+      },
+      {
+        heading: "The 3-stage pre-move sorting system: Move, Donate, Discard",
+        paragraphs: [
+          "Organizing your home with clear visual cues prevents movers from boxing items meant for the bin:",
+        ],
+        bulletPoints: [
+          "Stage 1 (Red Tag - Junk & Disposal): Tag every broken piece of furniture, sun-rotted patio chair, and damaged appliance with bright red tape. Have these cleared 3 days before moving day.",
+          "Stage 2 (Yellow Tag - Charity & Donation): Group functional outgrown children's clothing, operational small kitchen gadgets, and clean spare dining chairs for registered charity drop-off.",
+          "Stage 3 (Green Tag - Keep & Relocate): Items that have a verified spot in your upcoming floor plan. These are the only goods your relocation crew should pack and wrap.",
+        ],
+        image: blogB52Body,
+        imageAlt: "A homeowner inside a Dubai villa garage attaching bright red JUNK / DISPOSE stickers and green MOVE labels to assorted furniture, flatpack desks, and stacked boxes before moving day",
+        imageCaption: "Applying clear visual tags to furniture and packed crates ensures relocation teams and junk crews never mix up loads.",
+      },
+      {
+        heading: "Financial breakdown: moving clutter vs. purging before relocation",
+        paragraphs: [
+          "Purging unwanted items before your movers quote or arrive produces substantial cash savings:",
+        ],
+        table: {
+          caption: "Cost Comparison: Moving Everything vs. Pre-Move Junk Clearance in Dubai",
+          headers: ["Moving Scenario", "Truck Requirements", "Moving Company Quote", "Junk Removal Cost", "Net Financial Outcome"],
+          rows: [
+            ["Move Everything (Including 30% Clutter)", "Two 3-Ton Trucks + 6 Crew", "AED 3,200 – AED 4,500", "AED 0 (Immediate)", "Total Cost: AED 3,200 – AED 4,500"],
+            ["Pre-Move Junk Purge (Clear 30% First)", "Single 3-Ton Truck + 4 Crew", "AED 1,800 – AED 2,400", "AED 400 – AED 600", "Total Cost: AED 2,200 – AED 3,000 (Save up to AED 1,500!)"],
+          ],
+        },
+      },
+      {
+        heading: "Smooth moving-day clearance with Dubai Junk Collection",
+        paragraphs: [
+          "Don't let unwanted junk complicate your Dubai relocation. Dubai Junk Collection works alongside homeowners and tenants across all 49 Dubai communities to eliminate unwanted goods before your movers arrive.",
+          "Our crew handles all heavy lifting, disassembles unwanted wardrobes, and hauls everything away cleanly so your movers only handle what you truly value. WhatsApp our team for a fast, guaranteed fixed quote.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Should I book junk removal on the exact same day as my movers?",
+        answer:
+          "It is far better to schedule junk removal 2 to 4 days prior to your moving day. This prevents traffic congestion in your driveway or building loading bay and eliminates the risk of movers accidentally boxing discard items.",
+      },
+      {
+        question: "What happens if my movers pack something I intended to throw away?",
+        answer:
+          "Once items are boxed, wrapped, and loaded, you will have to pay for their transport to your new home. Clear visual tagging with red tape and clearing junk beforehand guarantees complete separation.",
+      },
+      {
+        question: "Will Dubai Junk Collection dispose of barbecue propane cylinders and paint?",
+        answer:
+          "We can collect empty barbecue cylinders and sealed leftover paints for proper diversion to specialized municipal hazardous processing stations. Please declare these items when requesting your WhatsApp quote.",
+      },
+      {
+        question: "Can you provide a certificate or disposal receipt for building management?",
+        answer:
+          "Yes. Upon request, we provide waste collection invoices and disposal receipts demonstrating that your move-out clearance was conducted by a licensed Dubai commercial entity.",
+      },
+    ],
+    relatedSlugs: ["declutter-before-moving-dubai", "junk-removal-after-moving-dubai", "how-to-get-security-deposit-back-dubai"],
+    serviceLink: {
+      href: "/services/household-junk-removal",
+      label: "Book pre-move junk removal",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/community/public-cleanliness/",
+        label: "Dubai Municipality — Bulky Waste and Environmental Safety Standards",
+      },
+      {
+        href: "https://www.dcd.gov.ae/portal/en/services/",
+        label: "Dubai Civil Defense — Residential Safety Guidelines",
       },
     ],
   },

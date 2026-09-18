@@ -2,8 +2,8 @@
 
 **Domain:** dubaijunkcollection.com
 **Total Target Articles:** 93
-**Published Articles:** 49 (52.7% of Total Roadmap)
-**Last Updated:** 2026-09-17
+**Published Articles:** 52 (55.9% of Total Roadmap)
+**Last Updated:** 2026-09-18
 
 ---
 
@@ -60,6 +60,9 @@
 | **B47** | *Where to Dispose of a Washing Machine in Dubai: 4 Safe Routes* | where-to-dispose-washing-machine-dubai | where to dispose washing machine dubai | 4 | Q | Eco & Recycling | 2026-09-17 | Live |
 | **B48** | *Mattress Disposal Cost Dubai: What Changes the Quote?* | mattress-disposal-cost-dubai | mattress disposal cost dubai | 10, 12 | C | Guides & Tips | 2026-09-17 | Live |
 | **B49** | *Sustainable Decluttering Tips Dubai: A Low-Waste Plan* | sustainable-decluttering-tips-dubai | sustainable decluttering tips dubai | 14 | I | Eco & Recycling | 2026-09-17 | Live |
+| **B50** | *How to Get Your Security Deposit Back in Dubai: Move-Out Clearance & Snagging Guide* | how-to-get-security-deposit-back-dubai | how to get security deposit back dubai | 8 | Q | Moving & Tenancy | 2026-09-18 | Live |
+| **B51** | *Clearing a Rental Property in Dubai: Complete End-of-Tenancy Cleanout Guide* | clearing-a-rental-property-dubai | clearing a rental property dubai | 8, 20 | I | Moving & Tenancy | 2026-09-18 | Live |
+| **B52** | *Moving House Junk Removal in Dubai: What Movers Won't Take & How to Clear It* | moving-house-junk-removal-dubai | moving house junk removal dubai | 8 | I | Moving & Tenancy | 2026-09-18 | Live |
 
 ---
 
@@ -74,7 +77,8 @@
 * **Batch 7: Decision Support & Pre-Sale Preparation (B41–B43):** 3/3 Completed (100%)
 * **Batch 8: Seasonal Reset, Electronics Recycling & Special Waste (B44–B46):** 3/3 Completed (100%)
 * **Batch 9: Appliance Routes, Bulky Pricing & Low-Waste Clearing (B47–B49):** 3/3 Completed (100%)
-* **Remaining Long-Tail & Cluster Articles (B50–B93):** 0/44 (0%)
+* **Batch 10: Tenancy Handover, Rental Clearance & Move-Out Logistics (B50–B52):** 3/3 Completed (100%)
+* **Remaining Long-Tail & Cluster Articles (B53–B93):** 0/41 (0%)
 
 ---
 
@@ -453,3 +457,34 @@
 * **Images:** Cover: blogB49Cover (AI-generated), Body: blogB49Body (AI-generated)
 * **Target Funnel:** /services/household-junk-removal
 * **Sources:** Dubai Municipality Circle Dubai programme, Recycle Centres, and reusable-materials exchange initiative
+
+### B50: how-to-get-security-deposit-back-dubai
+* **URL:** /blog/how-to-get-security-deposit-back-dubai
+* **Primary Keyword:** how to get security deposit back dubai
+* **Intent:** Informational / Question guide to recovering tenant security deposits under Dubai Law No. 26 of 2007.
+* **Angle:** Leftover furniture and unpatched walls trigger inflated contractor deductions; proactive total clearance guarantees 100% deposit return.
+* **Secondary Keywords:** move out clearance dubai, dubai tenancy handover inspection, rera deposit dispute dubai, ejari move out cleanout
+* **Images:** Cover: blogB50Cover (AI-generated), Body: blogB50Body (AI-generated)
+* **Target Funnel:** /services/villa-apartment-cleanouts, /services/household-junk-removal
+* **Sources:** Dubai Land Department Rental Dispute Center (RDC), Dubai Municipality Residential Cleanliness Directives
+
+### B51: clearing-a-rental-property-dubai
+* **URL:** /blog/clearing-a-rental-property-dubai
+* **Primary Keyword:** clearing a rental property dubai
+* **Intent:** Informational operational guide for landlords, property managers, and departing tenants on full end-of-tenancy cleanouts.
+* **Angle:** Turning over rental units rapidly to stop daily vacancy losses; legal protocols for abandoned expat goods; master community gate approvals.
+* **Secondary Keywords:** end of tenancy cleanout dubai, landlord property clearance, abandoned furniture removal dubai, apartment handover junk removal
+* **Images:** Cover: blogB51Cover (AI-generated), Body: blogB51Body (AI-generated)
+* **Target Funnel:** /services/villa-apartment-cleanouts, /services
+* **Sources:** Dubai Land Department Ejari Procedures, Dubai Municipality Bulky Residential Waste Guidelines
+
+### B52: moving-house-junk-removal-dubai
+* **URL:** /blog/moving-house-junk-removal-dubai
+* **Primary Keyword:** moving house junk removal dubai
+* **Intent:** Informational / Commercial decision guide separating transport movers from waste clearance haulers.
+* **Angle:** Moving companies charge for cubic volume and reject hazardous, stained, or broken items; pre-move junk clearance cuts moving invoices by 25–40%.
+* **Secondary Keywords:** relocation clutter clearance, pre move furniture purge, dubai moving day checklist, movers and junk removal uae
+* **Images:** Cover: blogB52Cover (AI-generated), Body: blogB52Body (AI-generated)
+* **Target Funnel:** /services/household-junk-removal, /services/villa-apartment-cleanouts
+* **Sources:** Dubai Municipality Bulky Waste Directives, Dubai Civil Defense Residential Safety Guidelines
+
