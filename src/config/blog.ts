@@ -70,6 +70,12 @@ import blogB51Cover from "@/assets/blog-b51-rental-property-clearance-cover.jpg"
 import blogB51Body from "@/assets/blog-b51-balcony-clearance-body.jpg";
 import blogB52Cover from "@/assets/blog-b52-moving-house-junk-cover.jpg";
 import blogB52Body from "@/assets/blog-b52-relocation-sorting-body.jpg";
+import blogB53Cover from "@/assets/blog-b18-tenant-moveout-loading.jpg";
+import blogB53Body from "@/assets/blog-b24-mattress-sorting-body.jpg";
+import blogB54Cover from "@/assets/blog-b35-garage-sorting-body.jpg";
+import blogB54Body from "@/assets/blog-b42-bulky-load-access-body.webp";
+import blogB55Cover from "@/assets/blog-b49-sorted-collection-body.webp";
+import blogB55Body from "@/assets/blog-b45-ewaste-dropoff-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -3040,7 +3046,7 @@ export const blogPosts: BlogPost[] = [
           "Avoid it. Dubai humidity gets into foam quickly, and a mattress left outside for a few days can pick up mildew and attract pests. Some communities also prohibit storing bulky items on balconies where they are visible, which is a separate warning waiting to happen.",
       },
     ],
-    relatedSlugs: ["bulky-waste-collection-dubai-municipality", "dubai-waste-disposal-rules", "dubai-junk-removal-cost-guide"],
+    relatedSlugs: ["bulky-waste-collection-dubai-municipality", "how-to-dispose-of-old-carpet-in-dubai", "dubai-waste-disposal-rules", "dubai-junk-removal-cost-guide"],
   },
   {
     slug: "how-to-dispose-of-old-fridge-in-dubai",
@@ -4410,7 +4416,7 @@ export const blogPosts: BlogPost[] = [
           "Yes. Dubai Junk Collection operates 7 days a week, including Saturdays and Sundays, so you can easily coordinate your garage cleanout around your family schedule.",
       },
     ],
-    relatedSlugs: ["room-by-room-decluttering-checklist", "how-to-declutter-your-home-dubai", "downsizing-home-dubai-tips"],
+    relatedSlugs: ["how-to-dispose-of-gym-equipment-in-dubai", "room-by-room-decluttering-checklist", "how-to-declutter-your-home-dubai", "downsizing-home-dubai-tips"],
   },
   {
     slug: "storeroom-clearance-dubai",
@@ -5632,7 +5638,7 @@ export const blogPosts: BlogPost[] = [
           "Do not assume they belong in an electronics container. Ask the selected facility whether it accepts that media type. If the media contains confidential information, use an appropriate secure-destruction service and agree the evidence required before surrendering it for material recovery or disposal.",
       },
     ],
-    relatedSlugs: ["how-to-dispose-of-old-laptop-dubai", "how-to-recycle-in-dubai", "where-does-junk-go-after-removal-dubai"],
+    relatedSlugs: ["how-to-dispose-of-old-tv-in-dubai", "how-to-dispose-of-old-laptop-dubai", "how-to-recycle-in-dubai", "where-does-junk-go-after-removal-dubai"],
     serviceLink: {
       href: "/services",
       label: "View electronics collection options",
@@ -6576,6 +6582,532 @@ export const blogPosts: BlogPost[] = [
       {
         href: "https://www.dcd.gov.ae/portal/en/services/",
         label: "Dubai Civil Defense — Residential Safety Guidelines",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-old-carpet-in-dubai",
+    title: "How to Dispose of Old Carpets & Rugs in Dubai Without Blocking a Service Lift",
+    excerpt:
+      "Rolled carpet is the most awkward shape in a Dubai tower. Measure it, bind it, pick the right route for wool, synthetic broadloom or underlay, and clear it in one trip.",
+    category: "Guides & Tips",
+    coverImage: blogB53Cover,
+    coverImageAlt:
+      "Uniformed clearance crew moving wrapped items on a flat trolley along a padded corridor outside a Dubai apartment door",
+    publishedAt: "2026-09-19",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: [
+      "Carpet Removal Dubai",
+      "Rug Disposal",
+      "Bulky Item Removal Dubai",
+      "End of Tenancy Clearance",
+      "Building Access",
+    ],
+    seoTitle: "How to Dispose of Old Carpet in Dubai: 4 Practical Routes",
+    seoDescription:
+      "How to dispose of old carpet in Dubai: roll and measure it properly, pick the right route for wool, synthetic broadloom or underlay, and clear it in one trip.",
+    keyTakeaways: [
+      "A rolled 3 x 4 metre carpet is frequently longer than the internal diagonal of a passenger lift, which is why these pickups fail at the lift door rather than inside the flat.",
+      "Roll face-in, bind in three places, then measure the rolled length and diameter before anyone books a lift slot or a collection window.",
+      "Clean wool and hand-knotted rugs have a genuine resale or donation route; foam-backed synthetic broadloom and used underlay almost never do.",
+      "Gripper rods, tack strips and dried adhesive are part of an end-of-tenancy carpet job, and leaving them behind is a routine deposit deduction.",
+      "Damp, mouldy or pest-affected carpet must be declared before booking, because it needs wrapping and a different receiving route.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an old carpet in Dubai?",
+        paragraphs: [
+          "Roll the carpet face-in, bind it in three places, and measure the rolled length. Then choose a route: resell or donate a clean wool or hand-knotted rug, send natural-fibre carpet to material recovery, book Dubai Municipality bulky waste collection, or arrange a licensed pickup for fitted carpet and underlay.",
+          "The order matters. Most residents decide the route first and discover the measurement problem on collection day, when a crew is standing in a corridor with a roll that will not turn into the lift. Five minutes with a tape measure at the start changes which routes are even available to you.",
+        ],
+      },
+      {
+        heading: "Why a rolled carpet is harder to move than a sofa",
+        paragraphs: [
+          "A sofa is heavy but compact, and a crew can pivot it through a doorway. A rolled carpet is the opposite: light per metre, but rigid and long. A three-by-four-metre room carpet rolls to roughly four metres, and very few residential lifts in Dubai towers have an internal diagonal that takes that standing up. The roll then goes down the fire stairs, which is a different conversation with building management and a different labour cost.",
+          "Weight is underestimated too. Carpet that has been down for three or four years in Dubai holds a surprising amount of fine desert dust deep in the pile, and jute or latex backing adds more than people expect. A rug that two people carried in when it was new is often a genuine two-person lift on the way out, and a wet one can be close to immovable.",
+          "Fringed and hand-knotted rugs add a third problem. They cannot be folded hard without creasing the foundation, and dragging them across interlock or a lift threshold shreds the fringe. If a rug has resale value, how it leaves the property directly affects what it is worth when the buyer sees it.",
+        ],
+      },
+      {
+        heading: "Roll it, bind it, measure it — in that order",
+        paragraphs: [
+          "Do this before you contact anyone. It takes one person about ten minutes per room, and it is the difference between a single clean pickup and a rescheduled job.",
+        ],
+        bulletPoints: [
+          "Vacuum the surface first. Dust that is not removed now ends up in the corridor, in the lift, and in your handover conversation.",
+          "Roll face-in from the short edge. Face-in protects the pile and puts the backing on the outside, where scuffs do not matter.",
+          "Bind at both ends and at the centre with rope, strapping or wide tape. An unbound roll unwinds on a staircase turn and becomes a two-person wrestle.",
+          "Measure the rolled length and the diameter, then photograph the roll standing against a doorway so the crew can judge scale.",
+          "Bag the underlay separately. Foam underlay compresses into sacks and should never be rolled inside the carpet, where it hides both weight and moisture.",
+          "Leave the roll inside the apartment or villa until access is confirmed. A roll parked in a shared corridor is a fire-route obstruction, and buildings do act on it.",
+        ],
+        callout: {
+          type: "tip",
+          title: "Measure the lift, not just the carpet",
+          text: "Ask building management for the service lift's internal depth and height, or measure the diagonal yourself. If the rolled length exceeds it, say so when you request the quote — the crew will plan a stair carry and price it honestly instead of arriving unprepared.",
+        },
+      },
+      {
+        heading: "Four routes for an old carpet or rug in Dubai",
+        paragraphs: [
+          "Condition and construction decide the route more than size does. A clean wool rug and a water-damaged foam-backed broadloom are the same shape and completely different problems.",
+        ],
+        table: {
+          caption: "Carpet and rug disposal routes compared",
+          headers: ["Route", "Best suited to", "Check before committing"],
+          rows: [
+            [
+              "Resale or rehoming",
+              "Clean wool, silk or hand-knotted rugs with no odour or pet damage",
+              "Photograph the pile, fringes and any repairs in daylight; buyer collection needs supervising and often stalls near move-out dates",
+            ],
+            [
+              "Charity donation",
+              "Loose rugs that are dry, clean and still usable",
+              "Call the branch first. Most accept loose rugs but decline fitted broadloom, cut sections and used underlay",
+            ],
+            [
+              "Material recovery",
+              "Natural-fibre carpet and clean offcuts",
+              "Backing and underlay usually have to be separated, and you still need transport to the receiving site",
+            ],
+            [
+              "Municipality bulky waste booking",
+              "One or two rolls on a flexible timeline",
+              "Booking confirmation, the agreed placement point and the collection day — it is scheduled, not same-day",
+            ],
+            [
+              "Licensed clearance pickup",
+              "Fitted carpet, underlay, gripper rods, multiple rooms or a handover deadline",
+              "Fixed quote, access window and receiving route; priced by volume and access rather than by square metre",
+            ],
+          ],
+        },
+        image: blogB53Body,
+        imageAlt:
+          "Workers at a Dubai recovery facility separating foam, textiles and steel coils into labelled recycling streams",
+        imageCaption:
+          "Natural-fibre carpet enters the textile recovery stream, but foam underlay and synthetic backing are separated out first.",
+      },
+      {
+        heading: "Underlay, gripper rods and adhesive: the part tenants forget",
+        paragraphs: [
+          "Lifting the carpet is the easy half. Underneath a fitted carpet you will find gripper rods nailed or glued around the perimeter, a layer of foam or felt underlay, and in many Dubai apartments a stripe of dried contact adhesive where the installer bonded the edges to screed or tile.",
+          "Gripper rods come up with a pry bar and leave two things behind: small nail holes in the screed, and a line of sharp, nail-studded timber that must not go loose into a bin bag. Turn the points inward and tape the bundle. Crews do this by habit; residents doing it themselves regularly cut a hand on the last strip.",
+          "Adhesive residue is the item most likely to cost money at handover. It scrapes off tile with a floor scraper and patience, but on screed it often needs a skim before the next floor finish goes down. If you are vacating, photograph the exposed floor the day the carpet comes up, so there is a record of what was underneath rather than an argument three weeks later.",
+        ],
+      },
+      {
+        heading: "Damp, mouldy or pest-affected carpet has to be declared",
+        paragraphs: [
+          "Dubai produces two very specific carpet failures. The first is an air-conditioning condensate leak that soaks a section of carpet slowly while nobody notices, usually near a bedroom or corridor FCU. The second is a home closed up for a summer with the cooling off or set high, where humidity and residual moisture do the rest. Both leave carpet that looks passable and smells wrong.",
+          "Wet carpet is roughly double the weight, it drips through a lift and a corridor, and it is not suitable for the same receiving route as dry material. Wrap it in plastic sheeting before it moves, photograph the damage, and say so when you request the quote. A crew told in advance brings sheeting and a lined truck bed; a crew that finds out on arrival cannot always take it that day.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Do not cut mouldy carpet indoors",
+          text: "Cutting mould-affected carpet releases spores and fine fibre into a sealed, air-conditioned space. Keep it rolled and wrapped, move it whole, and ventilate the room afterwards. Where an area is extensively affected, fix the underlying leak before any new floor covering goes down.",
+        },
+      },
+      {
+        heading: "Book a one-trip carpet and rug pickup",
+        paragraphs: [
+          "If the rolls are bound and measured, most apartment carpet jobs are a single visit. Send one photo of each roll standing against a doorway, the rolled lengths, the floor, whether the service lift is bookable, and the distance from the lift to where a truck can park. Add anything else leaving at the same time — underlay sacks, gripper rods, a rug pad, the sofa that was sitting on it.",
+          "Dubai Junk Collection prices that as one fixed job across Dubai communities, including the stair carries that lift dimensions sometimes force. If a rug is clean enough to be worth rehoming, say so and we will keep it out of the general load.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can I leave a rolled carpet in my building's bin room?",
+        answer:
+          "No. Bin rooms in Dubai towers are sized for bagged domestic waste, and a roll blocks the chute area and the cleaners' route. Buildings commonly charge the removal back to the unit and, at handover, to the deposit. Book a collection and keep the roll inside the property until the crew arrives.",
+      },
+      {
+        question: "Do charities in Dubai accept used carpets and rugs?",
+        answer:
+          "Some branches accept loose rugs that are clean, dry and free of odour or pet damage. Fitted broadloom, cut-to-fit sections and used underlay are almost always declined, because there is no practical way to reuse them. Call the specific branch before transporting anything, as acceptance varies by location.",
+      },
+      {
+        question: "How much does carpet removal cost in Dubai?",
+        answer:
+          "It is priced by volume and access rather than by square metre, so two bound rolls with lift access sit at the low end, and multi-room fitted carpet with a stair carry sits well above it. Adding rolls to an already-booked clearance is consistently cheaper than arranging a separate trip later.",
+      },
+      {
+        question: "Should I cut a large carpet into smaller sections?",
+        answer:
+          "Only when the rolled length genuinely will not clear the stairwell or doorway, and ideally ask the crew first. Cutting releases loose fibre indoors, turns one manageable roll into several loose pieces, and destroys any resale value. If it is unavoidable, cut in a garage or outdoors and bind each piece.",
+      },
+      {
+        question: "What do I do with the underlay and gripper rods?",
+        answer:
+          "Bag foam or felt underlay separately, so its bulk and any hidden moisture are visible in your photos. Pry up gripper rods in full lengths, turn the nail points inward, and tape the bundle before it goes near a bag. Both leave with the carpet in the same collection when declared in advance.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-a-mattress-in-dubai",
+      "bulky-waste-collection-dubai-municipality",
+      "how-to-get-security-deposit-back-dubai",
+    ],
+    serviceLink: {
+      href: "/services/mattress-bulky-item-removal",
+      label: "See bulky and awkward item removal",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/community/public-cleanliness/",
+        label: "Dubai Municipality — Public cleanliness and bulky waste guidance",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-gym-equipment-in-dubai",
+    title: "How to Get Rid of Home Gym Equipment in Dubai: Treadmills, Weights & Multi-Gyms",
+    excerpt:
+      "Home gym gear is a weight problem, not a volume problem. Work out what each piece weighs, prepare the treadmill properly, and choose between resale, scrap and collection.",
+    category: "Guides & Tips",
+    coverImage: blogB54Cover,
+    coverImageAlt:
+      "Clearance crew carrying an elliptical cross-trainer and packed boxes from a Dubai villa garage to a waiting truck",
+    publishedAt: "2026-09-19",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: [
+      "Gym Equipment Removal Dubai",
+      "Treadmill Disposal",
+      "Heavy Item Removal Dubai",
+      "Villa Garage Clearance",
+    ],
+    seoTitle: "How to Dispose of Gym Equipment in Dubai: Safe Routes",
+    seoDescription:
+      "How to dispose of gym equipment in Dubai: the weight limits that stop a pickup, preparing a treadmill, moving plates safely, and picking the right route.",
+    keyTakeaways: [
+      "A motorised treadmill usually outweighs a two-seater sofa and concentrates that weight in one rigid frame, so it is a two- or three-person carry rather than a one-person drag.",
+      "Cast-iron plates and dumbbell sets move in small batches; one crate of plates can exceed what a building's flat trolley is rated to carry.",
+      "Unplug the treadmill, remove the safety key and lock the folding deck with its transport pin the night before, not on collection morning.",
+      "Working cardio machines and adjustable dumbbells have a real resale market in Dubai; seized, rusted or heat-damaged garage equipment generally does not.",
+      "Quote accurately by listing piece count and approximate weights — total mass changes crew size far more than the number of items does.",
+    ],
+    sections: [
+      {
+        heading: "How do you get rid of old gym equipment in Dubai?",
+        paragraphs: [
+          "Start with weight, not size. List every piece with its approximate mass, then split the lot: resell or rehome working cardio machines and adjustable weights, send seized steel frames to scrap, and book a licensed pickup for the rest. Fold and lock treadmills, and move plates in small batches.",
+          "Home gyms built during the last few years are now reaching their clear-out point across Dubai, usually at a lease change or when a spare bedroom is needed back. The equipment is rarely broken; it is simply heavier than any other household item and gets left until the last week, which is the worst possible time to discover what it takes to move it.",
+        ],
+      },
+      {
+        heading: "Weight, not bulk, is what actually stops the job",
+        paragraphs: [
+          "Every other clearance item is priced mentally by how much room it takes. Gym equipment inverts that. A rack of plates occupies less floor space than a bedside table and can weigh more than a full wardrobe of clothes, and the load is concentrated rather than spread.",
+          "Two limits bite first. Building flat trolleys have a rated capacity, and stacking a full plate set on one exceeds it long before the trolley looks full — the wheels, not the deck, are what fail. Lifts have a stated load in kilograms too, and a crew that respects it will make several trips rather than one. Both of those are time, and time is what the quote is actually made of.",
+          "Stairs change the arithmetic completely. A treadmill that two people manage on flat ground needs three on a stair descent, because the person below is taking most of the load and needs a hand free for the rail. If the equipment is above ground floor and the lift is out of service, say so before booking rather than on the day.",
+        ],
+      },
+      {
+        heading: "Prepare a treadmill or cross-trainer the day before",
+        paragraphs: [
+          "A treadmill is not one object. It is a motor housing, a rigid deck, a folding upright frame and a console, held together by bolts that have been vibrating for years. Preparation is what keeps it in one piece and keeps fingers out of the fold.",
+        ],
+        bulletPoints: [
+          "Unplug it and let the motor housing cool if it has been used that day.",
+          "Remove the magnetic safety key and keep it with the console so a buyer receives a complete machine.",
+          "Fold the deck and engage the transport pin or latch. An unlocked deck swinging on a stair turn is the most common injury on these jobs.",
+          "Check the manual before removing the console or uprights. Some models are designed to split for transport; others carry the wiring loom through the upright and should not be separated.",
+          "Lift the rubber floor mat, roll it and set it aside — it goes in the same load but not under the machine.",
+          "Clear the route, including the door stop that always catches a treadmill's front roller.",
+        ],
+        callout: {
+          type: "tip",
+          title: "Photograph the bolt set",
+          text: "If anything is dismantled, bag the bolts and take a photo of where they came from before the crew arrives. A multi-gym reassembles easily with a labelled bag and a photo, and is near-worthless to a buyer without them.",
+        },
+      },
+      {
+        heading: "Free weights, plates and racks need their own plan",
+        paragraphs: [
+          "Plates and dumbbells are the part most people get wrong, usually by bagging them. A plastic sack holding four ten-kilogram plates will tear on the first lift, and a plate dropped on a lift threshold or a marble lobby floor causes damage that is charged to the unit.",
+        ],
+        bulletPoints: [
+          "Move plates in small batches in a rigid crate or a sturdy box, never stacked loose on a trolley.",
+          "Keep Olympic bars as a two-person carry with the ends wrapped; a bar end will gouge a lift wall at head height.",
+          "Dismantle dumbbell racks rather than carrying them loaded — the rack's welds are designed to hold static weight, not to be lifted with it.",
+          "Separate rubber-coated plates from bare cast iron. Coated plates mark walls and skirting in summer heat, and the marks do not wipe off easily.",
+          "Set kettlebells and loose small weights on the floor against a wall, not on a shelf or a windowsill where a knock sends them through something.",
+        ],
+        image: blogB54Body,
+        imageAlt:
+          "Two crew members wheeling a large item on a flat trolley past wrapped furniture toward a removal truck at a Dubai tower entrance",
+        imageCaption:
+          "Apartment gym gear leaves through the same booked service route as any other heavy load, in batches that stay within the trolley's rating.",
+      },
+      {
+        heading: "Resale, rehoming, scrap or pickup: choose by condition",
+        paragraphs: [
+          "Condition and brand decide this more than age does. A five-year-old commercial-grade bike in working order is worth listing; a two-year-old budget treadmill with a slipping belt usually is not.",
+        ],
+        table: {
+          caption: "Routes for used home gym equipment in Dubai",
+          headers: ["Route", "Best suited to", "Reality check"],
+          rows: [
+            [
+              "Resale on classifieds or community groups",
+              "Working treadmills, spin bikes, rowers and adjustable dumbbells",
+              "The buyer must arrange collection and building access; no-shows cluster around move-out season, so leave a buffer",
+            ],
+            [
+              "Rehoming or donation",
+              "Mats, benches, resistance equipment and light weights in usable condition",
+              "Confirm the receiving party can physically collect a heavy item before promising it",
+            ],
+            [
+              "Scrap metal",
+              "Seized frames, bent racks, rusted plates and dead motors",
+              "Steel carries value, but you still need transport and someone to load it",
+            ],
+            [
+              "Licensed clearance pickup",
+              "Mixed garage lots, heat-damaged machines, or anything on a handover deadline",
+              "One trip with the crew and tools already on board; priced by weight, volume and access",
+            ],
+          ],
+        },
+      },
+      {
+        heading: "Why villa garage equipment ages faster here",
+        paragraphs: [
+          "Garage gyms are the norm in communities like Arabian Ranches, The Springs and Dubai Hills, and a closed garage in July sits far above the temperature any of this equipment was designed for. The damage is predictable and it is why so much of it never resells.",
+          "Rubber goes first. Dumbbell coatings and floor tiles soften, then take a permanent set and start to smell. Upholstery on benches cracks along the seams. Belt lubricant on a treadmill migrates, and the belt starts slipping on the first cold-ish morning in November. Near the coast, humidity finishes the job on bare cast iron and chrome bars, which pit even under a cover.",
+          "If equipment has sat through two Dubai summers unused, price it as scrap or clearance rather than resale and save yourself the listing cycle. If it is still in use, a wall-mounted fan and a cover over the console genuinely extend its life, and keeping plates off bare concrete slows the rust.",
+        ],
+      },
+      {
+        heading: "Book a heavy-item collection",
+        paragraphs: [
+          "Send a wide photo of the whole setup, then a list: each machine, the approximate total weight of the free weights, the floor, lift availability, and how far a truck can get from the door. For villas, mention whether the garage door opens fully and whether the driveway takes a three-tonne vehicle.",
+          "Dubai Junk Collection brings the tools to break down racks and multi-gyms, and prices the job as one fixed quote rather than renegotiating on arrival. If part of the set is still worth using, flag it and we will keep it separate from the rest of the load.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Will a crew dismantle a multi-gym or power rack?",
+        answer:
+          "Yes, that is standard on these jobs. Bolted racks, cable towers and functional trainers come apart with socket sets and are carried out in sections. Mention it when booking so the right tools and crew size are scheduled, and clear a working area of about two metres around the frame beforehand.",
+      },
+      {
+        question: "Can I put dumbbells and plates in the household waste?",
+        answer:
+          "No. Loose weights in bags injure collection staff and split the sacks, and most buildings will not accept them in a bin room. They also have genuine scrap value. Keep them crated and include them in a booked collection, or take them to a scrap dealer if you can transport them safely.",
+      },
+      {
+        question: "Is a broken treadmill worth anything?",
+        answer:
+          "Very little as a machine, but the steel frame and motor have scrap value, so it does not need to be treated as pure waste. Selling a non-working treadmill rarely succeeds and usually costs you two weeks of messages. Declare it as non-working when you book and it goes out with the rest.",
+      },
+      {
+        question: "How many people are needed to move a treadmill down stairs?",
+        answer:
+          "Two is the minimum on flat ground with a lift; three for a stair descent of more than one floor. The person below carries most of the weight and needs a free hand for the rail. Attempting it with two on a long flight is where nearly all treadmill damage and injury happens.",
+      },
+    ],
+    relatedSlugs: [
+      "garage-clearance-dubai",
+      "sell-vs-donate-old-furniture-dubai",
+      "how-to-dispose-of-old-furniture-in-dubai",
+    ],
+    serviceLink: {
+      href: "/services/mattress-bulky-item-removal",
+      label: "See heavy and bulky item removal",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/community/public-cleanliness/",
+        label: "Dubai Municipality — Public cleanliness and bulky waste guidance",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-old-tv-in-dubai",
+    title: "How to Dispose of an Old TV in Dubai: Screens, Wall Brackets & Safe Handling",
+    excerpt:
+      "A television is two jobs in one: a fragile panel and an anchored wall bracket. Here is how to reset it, take it down without cracking it, and pick a disposal route.",
+    category: "Eco & Recycling",
+    coverImage: blogB55Cover,
+    coverImageAlt:
+      "Separated items staged for collection outside a Dubai apartment building, including a flat screen and cables in a crate, folded textiles and flattened cardboard",
+    publishedAt: "2026-09-19",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: [
+      "TV Disposal Dubai",
+      "Screen Recycling",
+      "Wall Bracket Removal",
+      "Bulky Item Removal Dubai",
+    ],
+    seoTitle: "How to Dispose of an Old TV in Dubai: Safe Routes",
+    seoDescription:
+      "How to dispose of an old TV in Dubai without cracking the panel or the wall: reset, bracket removal, packing without a box, and four routes that work.",
+    keyTakeaways: [
+      "A flat panel is structurally weakest across its centre: carry it upright by the frame edges, never flat and never with a hand on the screen.",
+      "The bracket, not the television, is what usually costs money at handover — anchors in block walls leave holes that need patching and a repaint.",
+      "Factory reset a smart TV while it is still mounted and powered, because it holds streaming sign-ins and your Wi-Fi credentials.",
+      "Retailer take-back on delivery of a new set is the cheapest route when the timing lines up, but it is arranged with the delivery, not afterwards.",
+      "A cracked panel is a sharps and fine-dust hazard: tape it, photograph it, and declare the damage before anyone lifts it.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an old TV in Dubai?",
+        paragraphs: [
+          "Sign out of the apps and factory reset a smart TV, then unmount it with two people. Choose a route from there: retailer take-back when the new set is delivered, resale or rehoming if it still works, or an e-waste drop-off or licensed collection. Never leave a screen in a bin room.",
+          "Televisions get left to last because they are light for their size, which fools people into treating them as a one-person job. The two things that actually go wrong are a panel cracked during the carry and a wall left with four anchor holes and a shadow where the bracket was. Both are avoidable in about twenty minutes of preparation.",
+        ],
+      },
+      {
+        heading: "Take the accounts off the television before it leaves the wall",
+        paragraphs: [
+          "A smart TV stores more than people assume: signed-in streaming accounts, your home Wi-Fi password, sometimes a stored payment method for in-app purchases, and a viewing history. Run the factory reset from the settings menu while the set is still mounted and powered, and confirm it reboots to the initial setup screen before you unplug it.",
+          "Do it in that order for a practical reason. Once the set is face-down on a bed with the cables off, nobody goes back to reset it, and it leaves the building with your accounts on it. If the television is being sold or rehomed, a reset set is also what a buyer expects; our guide on disposing of old laptops covers the equivalent steps for computers, which are stricter again.",
+        ],
+      },
+      {
+        heading: "Unmounting: two people, and the bracket comes off too",
+        paragraphs: [
+          "Most wall mounts hold the television on two arms with a release catch or a pull-cord at the bottom. The set lifts vertically off the arms; it does not pull forward. Trying to pull it away from the wall while it is still seated is what bends the arms and puts a hand through the panel.",
+          "Have one person at each end, hands on the frame, and lift straight up on a count. Set it down upright against a padded wall or a sofa, never flat on a floor where someone will put something on it. A modern panel flexes visibly if it is carried flat and unsupported, and that flex is what cracks the layer under the glass, often without an obvious mark until it is powered on again.",
+          "Then take the bracket down. The arms unbolt from the back of the set, and the wall plate unbolts from the anchors. Keep every bolt and spacer in one bag taped to the bracket, because a bracket without its hardware is not reusable and not worth listing.",
+        ],
+      },
+      {
+        heading: "Packing a screen that has no original box",
+        paragraphs: [
+          "Almost nobody still has the carton. A television survives a Dubai move or clearance perfectly well without one, provided it is protected on both faces and transported upright.",
+        ],
+        bulletPoints: [
+          "Blanket both faces, not just the screen. Pressure on the back panel transfers straight through to the glass.",
+          "Protect the four corners separately with folded card or foam; corners are where impact damage starts.",
+          "Tape the power cable and any loose HDMI leads into a bundle on the back rather than letting them swing.",
+          "Bag the stand feet and their screws and tape the bag to the back panel, so the set is complete if it is resold.",
+          "Load and transport it upright and strapped against a flat surface. A panel laid flat in a truck bed will flex over every speed bump in the community.",
+          "Keep it out of a hot car boot. Sustained heat is not kind to the panel layers or the capacitors.",
+        ],
+        callout: {
+          type: "tip",
+          title: "One photo saves an argument",
+          text: "Photograph the screen powered on before you unmount it, and again once it is wrapped. If the set is being sold or handed to a buyer later, that pair of images settles any dispute about when a crack appeared.",
+        },
+      },
+      {
+        heading: "Four routes for an old television in Dubai",
+        paragraphs: [
+          "The route depends on whether the set works, how big it is, and whether a new one is arriving. Sort that out before you take it off the wall, because a television standing in a hallway for three weeks tends to get knocked.",
+        ],
+        table: {
+          caption: "Television disposal routes compared",
+          headers: ["Route", "Best suited to", "Check before you commit"],
+          rows: [
+            [
+              "Retailer take-back on delivery",
+              "Any set being directly replaced by a new one",
+              "Ask at the point of sale. Where it is offered it is arranged with the delivery slot, and it cannot usually be added afterwards",
+            ],
+            [
+              "Resale or rehoming",
+              "Working sets, especially smart TVs that still receive app updates",
+              "Reset it first, and agree who carries it down. Buyer collection from an upper floor needs the same lift booking any bulky item does",
+            ],
+            [
+              "Municipality e-waste drop-off",
+              "Smaller screens you can transport safely yourself",
+              "Site opening hours, and whether that location accepts large screens as well as small devices",
+            ],
+            [
+              "Licensed collection",
+              "Large panels, cracked screens, wall-mounted sets, or several devices at once",
+              "A fixed quote with the damage declared, the bracket included, and the receiving route confirmed",
+            ],
+          ],
+        },
+        image: blogB55Body,
+        imageAlt:
+          "Dubai resident handing a box of small electronics and cables to an attendant at an e-waste drop-off counter with labelled collection bins",
+        imageCaption:
+          "Drop-off points suit devices you can carry; a large panel or a cracked screen is usually better handled as a booked collection.",
+      },
+      {
+        heading: "A cracked panel is handled differently",
+        paragraphs: [
+          "A cracked screen is not simply a broken television. The glass layers hold fine fragments that travel, and a panel that is already split will continue to open along the crack every time it is flexed or set down hard.",
+          "Tape over the crack in a grid pattern with wide tape before it moves, so fragments stay put. Wrap the whole face, keep it upright, and tell whoever is collecting it that it is damaged. Crews carry heavier sheeting and gloves for it, and the receiving route for a broken screen is not always the same as for an intact one.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Never put a screen in a bin room or skip",
+          text: "Televisions contain electronic components that belong in a recovery stream, not in general waste, and a panel broken inside a bin room leaves glass for the cleaning staff. Building management routinely charges these removals back to the unit.",
+        },
+      },
+      {
+        heading: "The wall is the part that costs a deposit",
+        paragraphs: [
+          "Behind a 55- or 65-inch set there are usually four heavy anchors driven into block or concrete. Pulling the plugs out leaves holes wider than the screw, and filling them with a dab of white filler is what produces the visible patch a handover inspector circles.",
+          "Do it properly in two passes: fill, let it cure, sand flush, then fill any shrinkage before painting. The other half of the problem is colour. A wall that has carried a television for three years has faded unevenly around the rectangle, so spot-painting the patches leaves a ghost. Painting the full wall face, corner to corner, is the only finish that reads as clean.",
+          "Time it before the professional clean rather than after. Sanding filler dust across a freshly cleaned apartment means paying for the clean twice, and it is the same ordering mistake that catches people with curtain rails and shelf brackets at move-out.",
+        ],
+      },
+      {
+        heading: "Book a screen and electronics pickup",
+        paragraphs: [
+          "Send a photo of the television on the wall or standing upright, the screen size, whether it works, whether the panel is damaged, the floor, and whether the service lift can be booked. Add the bracket, the old soundbar, the receiver and the drawer of cables — they travel in the same collection and cost almost nothing extra once a crew is on site.",
+          "Dubai Junk Collection unmounts, wraps and removes televisions along with the rest of an electronics clear-out, with the route declared upfront. If the set still works and you would rather it was reused, say so when you send the photos.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can I throw a television in my building's bin room?",
+        answer:
+          "No. Screens belong in an electronics recovery route, and a panel left in a bin room is both a waste-stream breach and a glass hazard for the cleaning team. Most Dubai buildings charge the removal back to the unit. Book a collection or take a smaller set to a drop-off point yourself.",
+      },
+      {
+        question: "Do I have to remove the TV bracket before leaving a rental?",
+        answer:
+          "In most tenancies, yes. A bracket is a tenant alteration, and it is expected to come down with the holes filled and the wall repainted. Check your contract, and where the landlord has agreed in writing that it can stay, keep that message with your handover file so it is not raised at inspection.",
+      },
+      {
+        question: "Are old plasma and CRT televisions treated differently?",
+        answer:
+          "They are far heavier for their size and need more carriers, and a CRT contains leaded glass, so it must go to a route equipped for it rather than a general drop-off. Declare the type when booking. A 32-inch CRT can weigh more than a modern 65-inch panel and is much harder to grip.",
+      },
+      {
+        question: "Can a cracked screen still be recycled?",
+        answer:
+          "Yes. A damaged panel still contains recoverable metals, plastics and circuit boards, and it is processed as electronic waste rather than as rubble. It simply has to be handled as damaged goods: taped, wrapped, kept upright, and declared in advance so the crew brings the right protection.",
+      },
+      {
+        question: "Will the crew take the soundbar, receiver and cables too?",
+        answer:
+          "Yes, as long as they are in the agreed scope. Gather the soundbar, media box, games console, remotes and the cable drawer into one crate and photograph it with the television. Adding them to an existing pickup costs far less than arranging a second visit for a box of accessories.",
+      },
+    ],
+    relatedSlugs: [
+      "where-to-recycle-electronics-in-dubai",
+      "how-to-dispose-of-old-laptop-dubai",
+      "how-to-get-security-deposit-back-dubai",
+    ],
+    serviceLink: {
+      href: "/services/appliance-removal",
+      label: "See appliance and electronics collection",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/help-and-support/",
+        label: "Dubai Municipality — Recycle Centres and locations",
+      },
+      {
+        href: "https://www.dm.gov.ae/community/public-cleanliness/",
+        label: "Dubai Municipality — Public cleanliness and bulky waste guidance",
       },
     ],
   },

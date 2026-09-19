@@ -2,7 +2,7 @@
 
 > **Full Documentation Location:** [`docs/seo/roadmap.md`](file:///d:/Projects/Dubai/rasheed/docs/seo/roadmap.md)  
 > **Objective:** Systematically establish topical authority, capture high-intent commercial and informational searches, and funnel organic traffic to WhatsApp/Call conversions across Dubai.  
-> **Based on:** 298 Target Keywords & 20 Topic Clusters.
+> **Based on:** 301 Target Keywords & 20 Topic Clusters.
 
 ---
 
@@ -12,7 +12,7 @@
 graph TD
     A["Phase 1: Core Service & Homepage Optimization (Clusters 1–4, 6–10)"] --> B["Phase 2: New Commercial Service Expansion (Clusters 5, 11)"]
     B --> C["Phase 3: Per-Community Local Authority (Clusters 15–17 / 49 Areas)"]
-    C --> D["Phase 4: High-Velocity Blog & Knowledge Engine (93 Blog Topics)"]
+    C --> D["Phase 4: High-Velocity Blog & Knowledge Engine (96 Blog Topics)"]
 ```
 
 ---
@@ -56,7 +56,7 @@ graph TD
 
 ## Phase 4: Structured Blog & Topical Authority Engine
 
-The 93 blog opportunities are organized into thematic publishing tracks. Each article targets a primary keyword and multiple secondary keywords from the research, answering specific intent before funneling readers to the relevant service or community page.
+The blog opportunities are organized into thematic publishing tracks. Each article targets a primary keyword and multiple secondary keywords from the research, answering specific intent before funneling readers to the relevant service or community page.
 
 ---
 
@@ -216,6 +216,19 @@ The 93 blog opportunities are organized into thematic publishing tracks. Each ar
 
 ---
 
+### Track 14: Oversized & Awkward Single-Item Disposal (Clusters 5 & 10)
+*Closes the remaining gaps in the item-specific disposal series. Each article owns a Q-intent item query whose commercial counterpart already sits on `/services/mattress-bulky-item-removal`, and each is built around a physical constraint (shape, mass, fragility) rather than a repeat of the general disposal-route guides.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B53** | *How to Dispose of Old Carpets & Rugs in Dubai Without Blocking a Service Lift* | `how to dispose of old carpet in dubai` | `carpet removal dubai`, `bulky item removal dubai`, `single item junk removal dubai`, `heavy item removal dubai` | Q | `/services/mattress-bulky-item-removal` |
+| **B54** | *How to Get Rid of Home Gym Equipment in Dubai: Treadmills, Weights & Multi-Gyms* | `how to dispose of gym equipment in dubai` | `gym equipment removal dubai`, `treadmill disposal dubai`, `heavy item removal dubai`, `bulky item removal dubai` | Q | `/services/mattress-bulky-item-removal` |
+| **B55** | *How to Dispose of an Old TV in Dubai: Screens, Wall Brackets & Safe Handling* | `how to dispose of old tv in dubai` | `bulky item removal dubai`, `single item junk removal dubai`, `e-waste recycling centres dubai` | Q | `/services/appliance-removal` |
+
+**Overlap check (content-rules §16):** B53 is distinguished from B22/B23 (indoor furniture) and B09 (municipality bulky pickup) by rolled-length vs lift-diagonal access and the underlay/gripper-rod handover problem. B54 is distinguished from B35 (garage clearance as a space) by treating mass and trolley/lift load limits as the subject. B55 is distinguished from B45 (electronics recycling directory) and B27 (laptop data security) by panel fragility, unmounting, and wall reinstatement.
+
+---
+
 ## Publishing Cadence & Execution Plan
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -228,4 +241,5 @@ The 93 blog opportunities are organized into thematic publishing tracks. Each ar
 8. **Batch 8 (Articles B44–B46):** Seasonal Reset, Electronics Recycling & Special Waste — **100% Completed (3/3 Live)**.
 9. **Batch 9 (Articles B47–B49):** Appliance Routes, Bulky Pricing & Low-Waste Clearing — **100% Completed (3/3 Live)**.
 10. **Batch 10 (Articles B50–B52):** Tenancy Handover, Rental Clearance & Move-Out Logistics — **100% Completed (3/3 Live)**.
+11. **Batch 11 (Articles B53–B55):** Oversized & Awkward Single-Item Disposal — **100% Completed (3/3 Live)**.
 

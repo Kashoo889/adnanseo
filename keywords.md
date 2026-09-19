@@ -1,7 +1,7 @@
 # Dubai Junk Collection — Master Keyword Database
 
 > **Full Documentation Location:** [`docs/seo/keywords.md`](file:///d:/Projects/Dubai/rasheed/docs/seo/keywords.md)  
-> **Source:** SEO Keyword Research Report (298 Target Keywords across 20 Clusters)  
+> **Source:** SEO Keyword Research Report (301 Target Keywords across 20 Clusters)  
 > **Rule:** Every keyword has a single designated destination URL/page type to prevent cannibalization.
 
 ---
@@ -12,12 +12,12 @@
 - [Cluster 2: Household Junk Removal (18)](#2-household-junk-removal)
 - [Cluster 3: Furniture Removal & Disposal (22)](#3-furniture-removal--disposal)
 - [Cluster 4: Appliance & White-Goods Removal (18)](#4-appliance--white-goods-removal)
-- [Cluster 5: E-Waste & Electronics Disposal (12)](#5-e-waste--electronics-disposal-new-service-opportunity)
+- [Cluster 5: E-Waste & Electronics Disposal (13)](#5-e-waste--electronics-disposal-new-service-opportunity)
 - [Cluster 6: Office & Commercial Junk Removal (16)](#6-office--commercial-junk-removal)
 - [Cluster 7: Garden & Green Waste Removal (14)](#7-garden--green-waste-removal)
 - [Cluster 8: Villa & Apartment Cleanouts / Handover (18)](#8-villa--apartment-cleanouts--handover)
 - [Cluster 9: Warehouse & Industrial Clearance (11)](#9-warehouse--industrial-clearance)
-- [Cluster 10: Mattress & Bulky Item Removal (13)](#10-mattress--bulky-item-removal)
+- [Cluster 10: Mattress & Bulky Item Removal (15)](#10-mattress--bulky-item-removal)
 - [Cluster 11: Construction & Renovation Debris (10)](#11-construction--renovation-debris-new-service-opportunity)
 - [Cluster 12: Pricing, Cost & Booking (14)](#12-pricing-cost--booking)
 - [Cluster 13: Free Junk Removal & Donation (11)](#13-free-junk-removal--donation)
@@ -164,6 +164,7 @@
 | 94 | e-waste recycling centres dubai | I | Blog Article |
 | 95 | is it illegal to throw electronics in the bin dubai | Q | Blog Article |
 | 96 | data safe electronics disposal dubai | I | Blog Article |
+| 301 | how to dispose of old tv in dubai | Q | Blog Article |
 
 ---
 
@@ -276,6 +277,8 @@
 | 166 | carpet removal dubai | C | Service Page (`/services/mattress-bulky-item-removal`) |
 | 167 | how to dispose of a mattress in dubai | Q | Blog Article |
 | 168 | where to throw old mattress dubai | Q | Blog Article |
+| 299 | how to dispose of old carpet in dubai | Q | Blog Article |
+| 300 | how to dispose of gym equipment in dubai | Q | Blog Article |
 
 ---
 
