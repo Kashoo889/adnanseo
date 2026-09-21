@@ -1,7 +1,7 @@
 # Dubai Junk Collection — Master Keyword Database
 
 > **Full Documentation Location:** [`docs/seo/keywords.md`](file:///d:/Projects/Dubai/rasheed/docs/seo/keywords.md)  
-> **Source:** SEO Keyword Research Report (301 Target Keywords across 20 Clusters)  
+> **Source:** SEO Keyword Research Report (307 Target Keywords across 20 Clusters)  
 > **Rule:** Every keyword has a single designated destination URL/page type to prevent cannibalization.
 
 ---
@@ -10,17 +10,17 @@
 
 - [Cluster 1: Core Junk Removal — Head & Commercial Terms (26)](#1-core-junk-removal--head--commercial-terms)
 - [Cluster 2: Household Junk Removal (18)](#2-household-junk-removal)
-- [Cluster 3: Furniture Removal & Disposal (22)](#3-furniture-removal--disposal)
+- [Cluster 3: Furniture Removal & Disposal (24)](#3-furniture-removal--disposal)
 - [Cluster 4: Appliance & White-Goods Removal (18)](#4-appliance--white-goods-removal)
 - [Cluster 5: E-Waste & Electronics Disposal (13)](#5-e-waste--electronics-disposal-new-service-opportunity)
 - [Cluster 6: Office & Commercial Junk Removal (16)](#6-office--commercial-junk-removal)
 - [Cluster 7: Garden & Green Waste Removal (14)](#7-garden--green-waste-removal)
 - [Cluster 8: Villa & Apartment Cleanouts / Handover (18)](#8-villa--apartment-cleanouts--handover)
-- [Cluster 9: Warehouse & Industrial Clearance (11)](#9-warehouse--industrial-clearance)
+- [Cluster 9: Warehouse & Industrial Clearance (12)](#9-warehouse--industrial-clearance)
 - [Cluster 10: Mattress & Bulky Item Removal (15)](#10-mattress--bulky-item-removal)
 - [Cluster 11: Construction & Renovation Debris (10)](#11-construction--renovation-debris-new-service-opportunity)
 - [Cluster 12: Pricing, Cost & Booking (14)](#12-pricing-cost--booking)
-- [Cluster 13: Free Junk Removal & Donation (11)](#13-free-junk-removal--donation)
+- [Cluster 13: Free Junk Removal & Donation (14)](#13-free-junk-removal--donation)
 - [Cluster 14: Recycling, Disposal Rules & Sustainability (14)](#14-recycling-disposal-rules--sustainability)
 - [Cluster 15: Service Areas — Premium & Waterfront (15)](#15-service-areas--premium--waterfront-communities)
 - [Cluster 16: Service Areas — Villa Communities (15)](#16-service-areas--villa-communities)
@@ -118,6 +118,8 @@
 | 64 | can you throw away furniture in dubai | Q | Blog Article |
 | 65 | sell vs donate old furniture dubai | I | Blog Article |
 | 66 | what to do with old sofa dubai | Q | Blog Article |
+| 306 | how to dispose of garden furniture in dubai | Q | Blog Article |
+| 307 | outdoor furniture disposal dubai | Q | Blog Article |
 
 ---
 
@@ -256,6 +258,7 @@
 | 153 | bulk commercial waste removal dubai | C | Service Page (`/services/warehouse-commercial-junk-removal`) |
 | 154 | scrap removal dubai | C | Service Page (`/services/warehouse-commercial-junk-removal`) |
 | 155 | al quoz junk removal | L | Service Page (`/services/warehouse-commercial-junk-removal`) |
+| 302 | how to clear a warehouse in dubai | Q | Blog Article |
 
 ---
 
@@ -338,6 +341,9 @@
 | 201 | charities that collect furniture dubai | I | Blog Article |
 | 202 | where to donate used items dubai | Q | Blog Article |
 | 203 | free vs paid junk removal dubai | I | Blog Article |
+| 303 | where to donate clothes in dubai | Q | Blog Article |
+| 304 | clothes donation bins dubai | L | Blog Article |
+| 305 | textile recycling dubai | I | Blog Article |
 
 ---
 

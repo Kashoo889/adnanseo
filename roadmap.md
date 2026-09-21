@@ -2,7 +2,7 @@
 
 > **Full Documentation Location:** [`docs/seo/roadmap.md`](file:///d:/Projects/Dubai/rasheed/docs/seo/roadmap.md)  
 > **Objective:** Systematically establish topical authority, capture high-intent commercial and informational searches, and funnel organic traffic to WhatsApp/Call conversions across Dubai.  
-> **Based on:** 301 Target Keywords & 20 Topic Clusters.
+> **Based on:** 307 Target Keywords & 20 Topic Clusters.
 
 ---
 
@@ -227,6 +227,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B53 is distinguished from B22/B23 (indoor furniture) and B09 (municipality bulky pickup) by rolled-length vs lift-diagonal access and the underlay/gripper-rod handover problem. B54 is distinguished from B35 (garage clearance as a space) by treating mass and trolley/lift load limits as the subject. B55 is distinguished from B45 (electronics recycling directory) and B27 (laptop data security) by panel fragility, unmounting, and wall reinstatement.
 
+### Track 15: Industrial Unit Handover, Textile Routes & Outdoor Furniture (Clusters 3, 9 & 13)
+*Closes the three remaining structural gaps in the plan: Cluster 9 had no informational article at all, Cluster 13 had no route for textiles as opposed to furniture, and outdoor furniture had never been separated from indoor furniture disposal despite behaving completely differently in this climate.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B56** | *How to Clear a Warehouse in Dubai: Racking, Stock and Unit Handover* | `how to clear a warehouse in dubai` | `racking removal dubai`, `pallet disposal dubai`, `stock clearance disposal dubai`, `scrap removal dubai`, `industrial junk removal dubai`, `al quoz junk removal` | Q / I | `/services/warehouse-commercial-junk-removal` |
+| **B57** | *Where to Donate or Recycle Old Clothes in Dubai: Bins, Bags and What Gets Refused* | `where to donate clothes in dubai` | `clothes donation bins dubai`, `textile recycling dubai`, `where to donate used items dubai` | Q | `/services/household-junk-removal` |
+| **B58** | *How to Dispose of Sun-Damaged Outdoor and Balcony Furniture in Dubai* | `how to dispose of garden furniture in dubai` | `outdoor furniture disposal dubai`, `broken furniture disposal dubai` | Q | `/services/furniture-removal` |
+
+**Overlap check (content-rules §16):** B56 is distinguished from B28 (office clearance in a tower) and B40 (post-renovation cleanup) by loading-bay throughput, racking dismantling sequence and industrial reinstatement clauses. B57 is distinguished from B06 (furniture donation directory) and B34 (the four-pathway decision for household goods) by textile-specific condition thresholds, collection-box capacity and fibre recovery. B58 is distinguished from B22 (indoor furniture) and B29 (organic green waste) by UV and salt degradation, material separation for scrap, and the balcony route-down constraint.
+
 ---
 
 ## Publishing Cadence & Execution Plan
@@ -242,4 +253,5 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 9. **Batch 9 (Articles B47–B49):** Appliance Routes, Bulky Pricing & Low-Waste Clearing — **100% Completed (3/3 Live)**.
 10. **Batch 10 (Articles B50–B52):** Tenancy Handover, Rental Clearance & Move-Out Logistics — **100% Completed (3/3 Live)**.
 11. **Batch 11 (Articles B53–B55):** Oversized & Awkward Single-Item Disposal — **100% Completed (3/3 Live)**.
+12. **Batch 12 (Articles B56–B58):** Industrial Unit Handover, Textile Routes & Outdoor Furniture — **100% Completed (3/3 Live)**.
 

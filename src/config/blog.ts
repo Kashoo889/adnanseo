@@ -76,6 +76,12 @@ import blogB54Cover from "@/assets/blog-b35-garage-sorting-body.jpg";
 import blogB54Body from "@/assets/blog-b42-bulky-load-access-body.webp";
 import blogB55Cover from "@/assets/blog-b49-sorted-collection-body.webp";
 import blogB55Body from "@/assets/blog-b45-ewaste-dropoff-body.webp";
+import blogB56Cover from "@/assets/service-warehouse.jpg";
+import blogB56Body from "@/assets/blog-b30-rubble-sorting-body.jpg";
+import blogB57Cover from "@/assets/blog-b32-wardrobe-storage-body.jpg";
+import blogB57Body from "@/assets/blog-b34-charity-sorting-body.jpg";
+import blogB58Cover from "@/assets/blog-b51-balcony-clearance-body.jpg";
+import blogB58Body from "@/assets/blog-b17-villa-patio-clearance.jpg";
 
 export type BlogAuthor = {
   name: string;
@@ -808,7 +814,7 @@ export const blogPosts: BlogPost[] = [
           "Yes. Charities operate designated donation drop-off centers across Dubai. Smaller items like lamps and home goods can be dropped off at community donation boxes, while larger furniture must be coordinated through charity logistics warehouses in areas like Al Quoz.",
       },
     ],
-    relatedSlugs: ["sell-vs-donate-old-furniture-dubai", "free-vs-paid-junk-removal-dubai", "free-furniture-removal-dubai"],
+    relatedSlugs: ["where-to-donate-clothes-in-dubai", "sell-vs-donate-old-furniture-dubai", "free-vs-paid-junk-removal-dubai"],
   },
   {
     slug: "free-furniture-removal-dubai",
@@ -3565,7 +3571,7 @@ export const blogPosts: BlogPost[] = [
           "Yes, at least one authorised person. Security passes are issued against a named contact, decisions come up constantly about what stays and what goes, and the final walkthrough needs someone who can sign off. For after hours work, agree in advance who holds the keys and who closes the floor.",
       },
     ],
-    relatedSlugs: ["office-relocation-junk-removal-dubai", "decluttering-the-workplace-productivity", "how-to-dispose-of-old-laptop-dubai"],
+    relatedSlugs: ["how-to-clear-a-warehouse-in-dubai", "office-relocation-junk-removal-dubai", "decluttering-the-workplace-productivity"],
   },
   {
     slug: "how-to-dispose-of-garden-waste-in-dubai",
@@ -3688,7 +3694,7 @@ export const blogPosts: BlogPost[] = [
           "Yes. In addition to organic green foliage, our teams remove broken concrete planters, ceramic pots, soil bags, synthetic grass roll-offs, and damaged outdoor patio furniture in a single visit.",
       },
     ],
-    relatedSlugs: ["villa-handover-guide-dubai", "ramadan-home-clearing-dubai", "how-to-dispose-of-old-furniture-in-dubai"],
+    relatedSlugs: ["how-to-dispose-of-garden-furniture-in-dubai", "villa-handover-guide-dubai", "ramadan-home-clearing-dubai"],
   },
   {
     slug: "how-to-dispose-of-construction-waste-dubai",
@@ -7108,6 +7114,559 @@ export const blogPosts: BlogPost[] = [
       {
         href: "https://www.dm.gov.ae/community/public-cleanliness/",
         label: "Dubai Municipality — Public cleanliness and bulky waste guidance",
+      },
+    ],
+  },
+  {
+    slug: "how-to-clear-a-warehouse-in-dubai",
+    title: "How to Clear a Warehouse in Dubai: Racking, Stock and Unit Handover",
+    excerpt:
+      "A warehouse clearance is limited by the loading bay, not by truck size. Here is the order to strip an industrial unit in Al Quoz, DIP or Jebel Ali without losing the deposit.",
+    category: "Commercial & Office",
+    coverImage: blogB56Cover,
+    coverImageAlt:
+      "Interior of a Dubai warehouse unit with pallet racking, stacked wooden pallets and shrink-wrapped loads being moved on a pallet truck",
+    publishedAt: "2026-09-21",
+    readingTime: "9 min read",
+    author: defaultAuthor,
+    tags: [
+      "Warehouse Clearance Dubai",
+      "Racking Removal",
+      "Industrial Unit Handover",
+      "Scrap and Pallet Disposal",
+    ],
+    seoTitle: "How to Clear a Warehouse in Dubai: Handover Guide",
+    seoDescription:
+      "How to clear a warehouse in Dubai in the right order: stock, racking, scrap and mezzanine, plus the loading bay and handover checks that decide your deposit.",
+    keyTakeaways: [
+      "A warehouse clearance is paced by the loading bay, not by headcount. One shutter and one forklift set the speed, so sequence matters more than crew size.",
+      "Read the reinstatement clause first. Most industrial leases expect the unit back as handed over, which covers racking anchors, mezzanine, partitions and signage as well as stock.",
+      "Keep one forklift, one operator and the racking spanners on site until the steel is down. Hiring equipment back for the final week costs more than holding it.",
+      "Steel racking, machinery and cable carry weight-based scrap value that can offset part of the job, but only if it is separated before it is mixed with general waste.",
+      "Branded, expired or customer-owned stock is a paperwork job before it is a disposal job. Agree what evidence is needed before anything is loaded.",
+    ],
+    sections: [
+      {
+        heading: "How do you clear a warehouse in Dubai?",
+        paragraphs: [
+          "Clear a warehouse in four passes: stock first, then loose equipment and packaging, then racking and mezzanine, then fixings and floor. Keep the forklift until the steel is down, hold the loading bay for the trucks, and separate scrap metal, timber and cardboard before anything gets mixed.",
+          "Industrial units across Al Quoz, Ras Al Khor, Al Qusais, Dubai Investments Park and the Jebel Ali free zones are variations on the same shape: a roller shutter or dock, a concrete slab, high bays, and a mezzanine office tucked in one corner. Every clearance looks like a volume problem at first and turns out to be a sequencing problem. Twelve people cannot help you if there is one shutter and one truck standing under it.",
+        ],
+      },
+      {
+        heading: "Start with the reinstatement clause, not the stock",
+        paragraphs: [
+          "The lease, not the amount of junk, defines the finish line. Industrial tenancies in Dubai generally require the unit returned in the condition it was handed over, and the landlord or the free zone authority runs an inspection before a deposit is released or a lease is formally closed. Ask for that handover checklist in writing at least a month out, because it is the only reliable list of what counts as yours to undo.",
+          "If you still have the inbound condition report and photographs from the day you took the unit, put them in the handover file now. Slab stains, shutter dents and existing anchor holes are the usual arguments, and a dated photograph settles them in a sentence.",
+        ],
+        bulletPoints: [
+          "Mezzanine platforms, staircases and any structure added after handover.",
+          "Racking anchor bolts, and the holes left in the slab once they are out.",
+          "Internal partitions, the office fit-out and any added flooring.",
+          "Signage, vinyl and branding on the shutter, the facade and the internal walls.",
+          "Air-conditioning, extraction or compressed-air lines added for the operation.",
+          "Additional power drops, sockets and machine isolators fitted for equipment.",
+          "Anything stored outside the unit: pallets, drums, cages, a shade structure in the yard.",
+        ],
+        callout: {
+          type: "info",
+          title: "Ask for the checklist early",
+          text: "Request the handover or reinstatement checklist from the landlord's facilities team or the free zone authority before your final month. Finding out at inspection that the mezzanine had to come out is a two-week problem discovered on the wrong day.",
+        },
+      },
+      {
+        heading: "The bay sets the pace, so work towards it",
+        paragraphs: [
+          "Before anything moves, mark staging lanes on the slab with tape or spare pallets: one for scrap metal, one for timber and pallets, one for cardboard and film, one for genuine waste, and one for whatever is leaving with the business. Sorting as you go is the difference between four clean loads and one expensive mixed one.",
+          "Keep the fire lane and the approach to the shutter clear at all times. A stack that creeps in front of the dock adds a carry to every single item that follows, and on a 15,000 square foot unit that is measured in hours. Where several units share a turning area, agree an arrival window with the neighbours: two trucks reversing into the same service road is the most common reason a clearance day starts an hour late.",
+        ],
+      },
+      {
+        heading: "Stock is the only part of the job with real decisions in it",
+        paragraphs: [
+          "Everything else is logistics. Stock is where money, contracts and liability sit, so it is worth an afternoon of sorting before a single pallet is touched. Split what remains into five piles and deal with each on its own terms.",
+        ],
+        bulletPoints: [
+          "Saleable stock: clear it through your own channels or a bulk buyer while you still have the racking to store it on.",
+          "Returnable stock: supplier returns almost always have a window and a form. Check both before the last month.",
+          "Customer-owned or consignment goods: not yours to dispose of. Get written instructions and a signed transfer note.",
+          "Branded goods: many brands and distributors require certified destruction rather than resale, and want evidence of it.",
+          "Expired or damaged goods: food, cosmetics and regulated products have their own handling rules and cannot ride out with general waste.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Destruction evidence is agreed before the truck arrives",
+          text: "If a brand owner, insurer or auditor will need proof that stock was destroyed rather than resold, arrange the witnessing and documentation in advance. Nobody can issue meaningful evidence for a load that has already left the unit.",
+        },
+      },
+      {
+        heading: "Racking comes down from the top, level by level",
+        paragraphs: [
+          "Empty every beam level before touching the structure, working from the highest level down. Beams are held by safety pins or clips that have to come out by hand, and an upright still carrying a loaded level at the top is the single most dangerous thing in an industrial clearance.",
+          "Uprights come last, with two people to each frame and nobody climbing the structure. Once the frames are out, the anchor bolts remain: cut or grind them flush with the slab and fill the holes rather than leaving studs standing. Protruding anchors are a trip hazard for the next tenant and the first thing a handover inspector points at.",
+        ],
+        table: {
+          caption: "How a warehouse strip-out separates",
+          headers: ["Material", "Where it comes from", "Route", "Watch for"],
+          rows: [
+            [
+              "Steel racking and shelving",
+              "Beams, uprights, mesh decking, cantilever arms",
+              "Scrap metal recovery, weighed",
+              "Value follows weight, so keep it clean and out of mixed loads",
+            ],
+            [
+              "Machinery, compressors and cable",
+              "Production lines, compressors, cable drums, conduit",
+              "Scrap or resale once drained",
+              "Oil, coolant and hydraulic fluid come out first and go to a specialist route",
+            ],
+            [
+              "Pallets and timber crates",
+              "Stock movement and one-way export crates",
+              "Reuse while sound, wood recovery when broken",
+              "Sound pallets hold resale value; broken ones hide nails and steel banding",
+            ],
+            [
+              "Cardboard, shrink wrap and strapping",
+              "Packing bench and inbound goods",
+              "Paper and plastic recovery, baled or bagged",
+              "Keep it dry and separate; wet or contaminated material gets downgraded",
+            ],
+            [
+              "Mezzanine, partitions and office fit-out",
+              "Tenant-installed structure",
+              "Construction and demolition route",
+              "The part most often missing from a clearance quote",
+            ],
+            [
+              "Contaminated and general waste",
+              "Sweepings, oil-soaked rags, damaged goods",
+              "Licensed disposal facility",
+              "Contaminated material cannot travel with recyclables",
+            ],
+          ],
+        },
+        image: blogB56Body,
+        imageAlt:
+          "Segregated bays at a Dubai waste recovery yard holding concrete rubble, scrap metal and timber with the city skyline behind",
+        imageCaption:
+          "Materials separated at the unit stay separated at the yard, which is what keeps scrap value and recycling rates intact.",
+      },
+      {
+        heading: "The equipment that leaves before you need it",
+        paragraphs: [
+          "Here is the mistake that turns a three-day clearance into a week. The forklift, the pallet trucks, the scissor lift and the spanner sets are the valuable, easily moved assets, so they get sold, returned to the lease company or sent ahead to the new unit first. The racking then has to come down by hand, at height, with no way to move a tonne of steel across the slab.",
+          "Hold one forklift and a licensed operator until the last beam is on the truck. The same applies to power. If the utility account is closed the week before, you are stripping a high-bay unit with no lighting, no power for grinders and no air-conditioning in the office, working to whatever daylight comes through the open shutter. Time the disconnection after the clearance, not before it.",
+        ],
+      },
+      {
+        heading: "The corner nobody costs into the quote",
+        paragraphs: [
+          "Every unit has one: broken pallets, empty drums, a shelf of part-used oils and paints, aerosols, an old fire extinguisher, spent batteries, and the forklift traction battery that was replaced two years ago and never left. None of it is difficult, but none of it belongs in a general load either.",
+          "Lead-acid traction batteries are heavy, contain acid and are handled as a specialist item rather than as scrap steel. Oils, solvents and part-used chemicals follow the same logic as a household chemical cupboard, only in larger containers, and our guide to hazardous household waste explains how that separation works. Flag all of it when you request the quote so the right containers arrive on the first visit.",
+        ],
+        callout: {
+          type: "tip",
+          title: "Clear the mezzanine office in the same window",
+          text: "Desks, chairs, the server cabinet, the printer and years of filing all sit above the slab and have to come down the same staircase. Route records for secure shredding and wipe or destroy drives before the machines leave, the same way you would for laptops.",
+        },
+      },
+      {
+        heading: "Book an industrial unit clearance",
+        paragraphs: [
+          "Send photographs from the shutter looking in, from the back of the unit looking out, and of the mezzanine and any remaining stock. With those, plus the unit's square footage, the number and height of racking bays, whether a forklift stays on site and until when, and the access hours for the estate or free zone, a fixed quote is straightforward.",
+          "Dubai Junk Collection clears industrial units across Al Quoz, Ras Al Khor, Dubai Investments Park and the Jebel Ali area, with scrap value quoted separately from the clearance fee so you can see both numbers. Disposal goes to licensed facilities, and the documentation goes into your handover file rather than disappearing with the truck.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "How long does it take to clear a warehouse in Dubai?",
+        answer:
+          "A small unit of two to three thousand square feet with light shelving is usually a one or two day job. Multi-level racking, a mezzanine office and remaining stock push it to a week or more, and the limiting factor is almost always how many truck loads the single loading bay can turn around each day.",
+      },
+      {
+        question: "Can I leave the racking for the next tenant?",
+        answer:
+          "Only with written agreement from the landlord, and ideally from the incoming tenant too. Without it, racking is treated as a tenant alteration that should be removed, and the anchor bolts and slab holes come with it. Get any agreement in the handover file rather than relying on a conversation.",
+      },
+      {
+        question: "Is old warehouse racking worth anything as scrap?",
+        answer:
+          "Steel racking, machinery and cable are valued by weight, so a full bay system can offset a meaningful part of the clearance cost. Ask for the scrap figure to be quoted separately rather than folded into a headline discount, and keep the metal out of mixed loads so it can actually be weighed.",
+      },
+      {
+        question: "Can a warehouse clearance run outside normal working hours?",
+        answer:
+          "Often yes, since industrial estates rarely have the noise restrictions that towers do. The constraints are gate hours, security passes and whether the free zone authority permits after-hours movements. Confirm access with the estate management before scheduling, and name the authorised person who will hold keys and sign off.",
+      },
+      {
+        question: "What happens to leftover stock that cannot be sold?",
+        answer:
+          "It depends on what it is. Ordinary unsold goods can often be donated or recycled by material. Branded, expired or regulated stock usually needs certified destruction with documentation. Decide the route before collection day, because once a mixed load has left the unit, no one can issue evidence about what was in it.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-clear-an-office-in-dubai",
+      "how-to-dispose-of-construction-waste-dubai",
+      "junk-removal-vs-skip-hire-dubai",
+    ],
+    serviceLink: {
+      href: "/services/warehouse-commercial-junk-removal",
+      label: "See warehouse and commercial clearance",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/municipality-business/waste-department-2/",
+        label: "Dubai Municipality — Waste Management Department",
+      },
+      {
+        href: "https://www.dm.gov.ae/municipality-business/waste-department-technical-guidelines-2/",
+        label: "Dubai Municipality — Waste Department technical guidelines",
+      },
+    ],
+  },
+  {
+    slug: "where-to-donate-clothes-in-dubai",
+    title: "Where to Donate or Recycle Old Clothes in Dubai: Bins, Bags and What Gets Refused",
+    excerpt:
+      "Clean, dry and bagged is most of the rule. The rest is knowing which route takes a wearable jacket, which takes a torn one, and what to do when a whole wardrobe comes out at once.",
+    category: "Eco & Recycling",
+    coverImage: blogB57Cover,
+    coverImageAlt:
+      "Walk-in wardrobe in a Dubai apartment with hanging clothes, folded knitwear in labelled boxes and shoes on open shelving, city towers visible through the window",
+    publishedAt: "2026-09-21",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: [
+      "Clothes Donation Dubai",
+      "Textile Recycling",
+      "Charity Collection Boxes",
+      "Wardrobe Clearance",
+    ],
+    seoTitle: "Where to Donate Clothes in Dubai: Bins and Bags Guide",
+    seoDescription:
+      "Where to donate clothes in Dubai, what condition collection boxes accept, how to handle a full wardrobe at move-out, and where unwearable textiles really go.",
+    keyTakeaways: [
+      "Charity collection boxes at malls, petrol stations and mosques suit a bag or two of wearable clothing; a full wardrobe needs a receiving centre or a booked collection.",
+      "Clean and dry is not a nicety. One wet or soiled bag can spoil the wearable clothing packed beside it, because sorting is done by hand and nothing gets laundered first.",
+      "Shoes should be paired and tied together. A single shoe is waste, no matter how good it is.",
+      "Torn, stained or perished textiles still have a route, but it is fibre recovery rather than donation — bag them separately and label them.",
+      "Leaving bags on the ground beside a full box counts as dumping, and the contents are usually ruined by sun, wind or moisture before anyone collects them.",
+    ],
+    sections: [
+      {
+        heading: "Where can you donate clothes in Dubai?",
+        paragraphs: [
+          "Wearable clothing goes to charity collection boxes sited at malls, petrol stations and mosques, to registered charity receiving centres that accept larger quantities, to charity thrift shops, or to municipal recycling centres that take textiles. Condition decides the route more than location does.",
+          "Emirates Red Crescent operates the branded donation boxes most residents recognise, and organisations such as Beit Al Khair Society and Dar Al Ber Society accept household donations directly at their premises. Several Dubai Municipality recycling centres, including the Al Barsha 2 Oasis site, accept textiles alongside paper, plastics and metals. Check current opening hours before driving across town with a boot full of bags.",
+        ],
+      },
+      {
+        heading: "Clean, dry and bagged is most of the rule",
+        paragraphs: [
+          "Everything donated in this city is sorted by hand, usually in a warehouse, usually in heat. Nobody along that chain washes anything. A damp towel or a bag left in a car boot for a fortnight in August will bloom with mildew and take the clothes packed around it with it, which is how a donation of good items becomes a bag of waste before it reaches a sorting table.",
+          "The practical test is simple and slightly uncomfortable: would you hand this item directly to someone you know, in person, without explaining it first? If yes, it is a donation. If no, it is a textile recycling item — still worth diverting, just not through the same door.",
+        ],
+        callout: {
+          type: "tip",
+          title: "Bag for the person lifting it",
+          text: "Pack into bags a person can lift one-handed into a chest-high slot, roughly eight to ten kilos, and tape them shut. Cardboard boxes will not go through a box aperture, and an overloaded bag splits at the worst moment.",
+        },
+      },
+      {
+        heading: "What collection boxes take, and what comes back out",
+        paragraphs: [
+          "Acceptance policies vary between operators, so treat the table below as the general pattern rather than a guarantee. When something is borderline, bag it separately and ask at a receiving centre instead of posting it into a box and hoping.",
+        ],
+        table: {
+          caption: "Typical acceptance by item type",
+          headers: ["Item", "Usually accepted", "What matters"],
+          rows: [
+            ["Everyday clothing in wearable condition", "Yes", "Clean, dry, no missing fastenings"],
+            ["Abayas, kanduras and formal wear", "Yes", "High demand; keep on a hanger or folded flat to avoid creasing"],
+            ["Shoes and sandals", "Yes", "Paired and tied together, soles intact"],
+            ["Bags, belts and scarves", "Yes", "Clean and structurally sound"],
+            ["Bed linen and towels", "Usually", "Clean and dry; heavily worn towels are recycling rather than donation"],
+            ["Winter coats and knitwear", "Yes", "Redistributed where the need exists, so do not assume Dubai has no use for them"],
+            ["Underwear and socks", "Rarely", "Generally only when new and still packaged"],
+            ["Branded workwear and school uniform", "Depends", "Company logos are often removed first; uniforms are usually best given to school drives"],
+            ["Stained, torn or mouldy textiles", "Not as donation", "Bag separately for fibre recovery and label the bag"],
+          ],
+        },
+      },
+      {
+        heading: "A whole wardrobe does not fit in a collection box",
+        paragraphs: [
+          "The move-out clear-out is where this goes wrong. A three-bedroom apartment emptied properly produces six to ten bags of clothing and linen in an afternoon, and a collection box holds a fraction of that. Residents drive over, find the box full, leave the bags at its base, and drive away. Within a day the bags have been opened by the wind, sun-bleached on one side, and are no longer usable by anyone.",
+          "For that volume there are three routes that actually work. Take the bags to a charity receiving centre in person, where staff can accept the lot at once. Book a charity collection ahead, allowing one to two weeks because these run on the charity's logistics schedule, not yours. Or fold the textiles into a property clearance, where the crew separates donation-grade bags from the rest before anything is loaded.",
+        ],
+        image: blogB57Body,
+        imageAlt:
+          "Volunteers in high-visibility vests inspecting, sorting and boxing donated household goods at a Dubai charity donation sorting centre",
+        imageCaption:
+          "Donations are inspected and sorted by hand, which is why condition and packing matter more than quantity.",
+      },
+      {
+        heading: "Where unwearable textiles actually go",
+        paragraphs: [
+          "A torn shirt is not landfill by default. Textile recovery sorts material by fibre and condition: the strongest cottons become industrial wiping cloths, mixed fibres are shredded into filling and insulation, and some material is baled for reuse markets abroad. What genuinely cannot be recovered goes to disposal, which is the honest end of the answer.",
+          "This is why labelling matters. A bag marked for recycling gets routed straight to the right stream, while the same bag posted unmarked into a donation box has to be opened, assessed and re-sorted by a volunteer who was expecting wearable clothes. If you want a fuller picture of how sorting works after collection, our explainer on where junk goes after removal follows the same path for household loads.",
+        ],
+      },
+      {
+        heading: "Sell, swap or donate: decide once and move on",
+        paragraphs: [
+          "Luxury pieces with proof of purchase are worth listing with a consignment service, and occasion wear tends to sell in the weeks before the season rather than after it. Everything else is usually worth less than the afternoon it takes to photograph and list it, and the pile you set aside to sell has a way of migrating back into the wardrobe.",
+          "Set a simple cut-off before you start: anything you would not price above a couple of hundred dirhams goes to donation or recycling immediately. Our guide to selling versus donating furniture applies the same arithmetic to larger items, where the gap between the two routes is wider.",
+        ],
+      },
+      {
+        heading: "Clearing a wardrobe at move-out",
+        paragraphs: [
+          "If the wardrobe is coming out alongside the furniture, the linen cupboard and whatever is in the storeroom, sorting it in the middle of a handover week is not realistic. Send photographs of what is coming out and say which bags are donation-grade.",
+          "Dubai Junk Collection separates wearable clothing and linen for charity routing, sends recoverable textiles to recycling, and disposes of the rest legally, all in a single fixed-price visit. If you would rather deliver the donation bags yourself and only need the remainder taken, say so when you send the photographs and the quote will reflect it.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can I put clothes in my building's recycling bin?",
+        answer:
+          "No. Building recycling bins are set up for paper, plastics, metals and glass, and textiles contaminate those streams and jam sorting equipment. Use a charity collection box, a recycling centre that lists textiles, or a booked collection instead. Wet or mixed textiles are the most common contamination problem building management reports.",
+      },
+      {
+        question: "Do charities in Dubai collect clothes from your home?",
+        answer:
+          "Small quantities are normally expected to go to a collection box or a receiving centre. Home collection is usually reserved for larger donations, including furniture, and is booked in advance on the charity's own schedule. Allow one to two weeks, and confirm what they will and will not take before the date.",
+      },
+      {
+        question: "Should clothes be washed before donating them?",
+        answer:
+          "Yes. Nothing is laundered after collection, so anything that arrives dirty is downgraded to recycling at best. Wash, dry completely, and bag items the same day rather than letting a bag sit in a hot car or on a balcony, where humidity will undo the work before anyone opens it.",
+      },
+      {
+        question: "Is it acceptable to leave bags beside a full donation box?",
+        answer:
+          "No. It is treated as dumping, it can attract a fine, and in practice the bags split, scatter or spoil long before anyone returns to empty the box. Try another location, take the bags to a receiving centre, or hold them until the box is cleared.",
+      },
+      {
+        question: "What about a single shoe, or one of a pair of curtains?",
+        answer:
+          "Unpaired items are waste for donation purposes, though the material can still go to fibre recovery. Tie shoes together at the laces before they go in the bag, and keep curtain sets, duvet covers and their pillowcases packed as complete sets so a sorter does not have to guess what belongs with what.",
+      },
+    ],
+    relatedSlugs: [
+      "where-to-donate-furniture-dubai",
+      "what-to-do-with-unwanted-household-items-dubai",
+      "how-to-declutter-your-home-dubai",
+    ],
+    serviceLink: {
+      href: "/services/household-junk-removal",
+      label: "See household clearance with donation sorting",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/help-and-support/",
+        label: "Dubai Municipality — Recycling centres and locations",
+      },
+      {
+        href: "https://www.emiratesrc.ae/",
+        label: "Emirates Red Crescent — donations and collection points",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-garden-furniture-in-dubai",
+    title: "How to Dispose of Sun-Damaged Outdoor and Balcony Furniture in Dubai",
+    excerpt:
+      "Two summers is usually enough to finish a patio set here. What is left is a sorting job by material, plus a handful of items that are genuinely dangerous to lift.",
+    category: "Villa & Garden",
+    coverImage: blogB58Cover,
+    coverImageAlt:
+      "Worker lifting weathered decking tiles on a Dubai apartment balcony surrounded by faded rattan seating, a rusted table and cracked planters, with the skyline behind",
+    publishedAt: "2026-09-21",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: [
+      "Outdoor Furniture Disposal",
+      "Balcony Clearance Dubai",
+      "Patio and Garden Clearance",
+      "Scrap Metal Routes",
+    ],
+    seoTitle: "How to Dispose of Garden Furniture in Dubai Safely",
+    seoDescription:
+      "How to dispose of garden furniture in Dubai once sun and salt have finished it: what breaks when lifted, which parts are scrap, and how to clear a balcony.",
+    keyTakeaways: [
+      "Sort outdoor furniture by material before you sort it by item: aluminium and steel go to scrap, sound hardwood has resale value, and perished resin, foam and canvas are waste.",
+      "Sun-perished plastic and synthetic rattan fail when lifted rather than when used, so carry from the frame base and never stack brittle chairs to move them.",
+      "Glass table tops travel separately, taped and carried on edge by two people. They are the most common injury on an outdoor clearance.",
+      "A barbecue gas cylinder never goes in a clearance truck. Disconnect it and return it to the supplier or an exchange point.",
+      "Book the clearance in the shoulder months and take a morning slot. Balcony and garden work in an August afternoon is slower, hotter and less safe for everyone.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of old garden furniture in Dubai?",
+        paragraphs: [
+          "Separate it by material first. Aluminium and steel frames go to scrap metal, sound hardwood is worth reselling or rehoming, and perished resin wicker, foam cushions and torn canvas are waste. Then either take it to a recycling centre yourself or book a collection. It never goes beside a community bin.",
+          "Outdoor furniture is the one category where people wait too long. Indoors, a sofa is replaced because tastes change. Outdoors, a set is used until the afternoon a chair leg gives way, and by then nothing in the set is donatable, resaleable or safe to stack.",
+        ],
+      },
+      {
+        heading: "Sun does not fade outdoor furniture here, it finishes it",
+        paragraphs: [
+          "Surface temperatures on an unshaded terrace in July sit far above air temperature, and the ultraviolet load runs year round. Synthetic rattan dries out and snaps at the weave, usually starting on the side that faces west. Moulded resin chairs whiten, then crack at the leg joints without warning. Powder coating lifts at the welds and steel corrodes outward from underneath, which is why a table can look sound and still fail at the base.",
+          "On the coast, in the Marina, JBR, Palm Jumeirah and Dubai Creek Harbour, add salt to that, and it takes stainless fixings and untreated fasteners apart faster than anything inland. Shamal dust packs into the weave of rattan and into cushion seams, holds moisture from irrigation and dew, and mildews from the inside.",
+          "One material survives this: teak and similar dense hardwoods go silver-grey on the surface but stay structurally sound for years. If the joints are still tight, a sand and an oil brings a teak set back, and it has real resale value in the shoulder season. It is almost always worth separating the hardwood before the rest is cleared.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Brittle furniture fails when you lift it",
+          text: "A resin or synthetic rattan chair that held someone all winter can split at the leg when it is carried by the armrest. Lift from the frame base with two hands, move perished chairs one at a time, and keep children and pets clear of the staging area.",
+        },
+      },
+      {
+        heading: "Sort by material, not by item",
+        paragraphs: [
+          "A patio set is rarely one material. A typical dining set is an aluminium frame, a glass or ceramic top, synthetic weave, foam cushions and a polyester cover, and each of those has a different destination. You do not need to dismantle anything yourself — a crew will cut weave from frames on site — but knowing what is in the pile makes the quote and the sorting faster.",
+        ],
+        table: {
+          caption: "Outdoor furniture by material and route",
+          headers: ["Material", "Typical items", "Route", "Notes"],
+          rows: [
+            [
+              "Aluminium",
+              "Lounger frames, dining chair frames, umbrella poles",
+              "Scrap metal",
+              "Light to carry and the best value per kilo in the pile",
+            ],
+            [
+              "Steel and wrought iron",
+              "Table bases, bistro sets, pergola brackets, BBQ bodies",
+              "Scrap metal",
+              "Heavy and rust-sharp; two people and gloves, not one person and optimism",
+            ],
+            [
+              "Synthetic rattan over a frame",
+              "Sofa sets, corner units, egg chairs",
+              "Weave to waste, frame to scrap",
+              "Separated on site so the metal is not lost inside the plastic",
+            ],
+            [
+              "Teak and dense hardwood",
+              "Dining tables, benches, steamer chairs",
+              "Resale, rehoming or timber recovery",
+              "Check the joints before writing it off; the grey surface is cosmetic",
+            ],
+            [
+              "Glass and ceramic",
+              "Table tops, fire pit surrounds",
+              "Handled separately, never in a mixed load",
+              "Tape, wrap and carry on edge; see the section below",
+            ],
+            [
+              "Foam, canvas and fabric",
+              "Cushions, parasol canopies, sun bed covers",
+              "Waste once mildewed or perished",
+              "Charities decline outdoor cushioning; it holds damp and dust",
+            ],
+            [
+              "Artificial grass and decking tiles",
+              "Balcony turf, interlocking deck panels",
+              "Bulk waste, by weight",
+              "Both hold kilos of trapped sand, so weight always surprises people",
+            ],
+          ],
+        },
+      },
+      {
+        heading: "Glass tops, umbrella bases and the things that hurt people",
+        paragraphs: [
+          "Tempered glass table tops are the most common injury on this kind of job. They chip at the edge during a carry, and a chipped tempered panel can let go later, all at once, into small fragments. Tape a grid across the face before it moves, wrap the edges, and carry it vertically on its edge with a person at each end. Never lean a top unsupported against a wall while you fetch something else.",
+          "Parasol bases are the other one. A granite or concrete base weighs a great deal for its size and has no useful grip, so it goes on a trolley or gets carried low between two people, and it never gets rolled down a step. If the parasol itself is intact and the base is sound, the base is often worth keeping for the next set.",
+          "Then there is the barbecue. Detach the gas cylinder before anything else, cap it, and return it to your supplier or an exchange point. Cylinders are not accepted in a clearance truck under any circumstances, full or empty, and a crew will refuse one on sight.",
+        ],
+        image: blogB58Body,
+        imageAlt:
+          "Uniformed clearance crew lifting rattan patio furniture and moving planters on trolleys from a Dubai villa terrace under a pergola",
+        imageCaption:
+          "Trolleys and a clear route out matter more than crew size when a terrace set has to cross paving and a garden gate.",
+      },
+      {
+        heading: "On a balcony, the route down is the constraint",
+        paragraphs: [
+          "Nothing goes over the rail. That should not need saying, but a sun lounger dropped from the fourteenth floor is a serious offence as well as an obvious danger, and building management will act on it immediately.",
+          "Everything therefore travels through the apartment, into the lift lobby and down the service lift, which means booking the lift with building management, laying protection across the floor, and accepting that a corner sofa unit may need the weave cut before it will pass a doorway. Sweep and bag the sand trapped under decking tiles and turf before anything moves through the flat, or it redistributes itself across a freshly cleaned apartment and a lift lobby you will hear about.",
+          "Check the house rules too. Many Dubai towers prohibit storing broken or unsightly items on a balcony, so the collapsed rattan sofa waiting for a decision is itself a notice risk. If you are at the end of a tenancy, clearing the balcony properly is part of getting the deposit back, not an optional extra.",
+        ],
+      },
+      {
+        heading: "Villa gardens, community notices and timing",
+        paragraphs: [
+          "In villa communities the equivalent problem is visibility. Broken furniture stacked down the side return or against a boundary wall is usually covered by community guidelines on external appearance, and a notice from the developer or owners association follows. It is worth clearing before it becomes correspondence.",
+          "Timing matters more than most people expect. Everyone in Dubai rediscovers their garden in the same fortnight in October, so collection slots and landscaping crews are busiest exactly when you want them. Book earlier than feels necessary, take a morning slot, and pair the furniture clearance with the green waste from the same tidy-up, since palm fronds, prunings and a dead patio set travel perfectly well in one load.",
+        ],
+      },
+      {
+        heading: "What buyers and charities will genuinely take",
+        paragraphs: [
+          "Be realistic about resale. A sun-perished set has no market here, and listing it produces messages rather than buyers. Good aluminium sets and sound hardwood do sell, particularly in the cooler months when people are furnishing terraces rather than emptying them. Registered charities accept outdoor furniture only when it is clean and structurally sound, and they consistently decline mildewed cushions and cracked plastic, for the same reasons they decline used mattresses.",
+          "If some of it is worth saving and some is not, split the pile before anyone arrives. Our comparison of selling against donating furniture covers where that line usually sits, and the donation directory lists which organisations collect larger items.",
+        ],
+      },
+      {
+        heading: "Book an outdoor furniture pickup",
+        paragraphs: [
+          "Photograph the terrace or balcony as it stands, from a distance rather than item by item, and mention the glass tops, how many parasol bases there are, whether it is a balcony or a garden, the floor and lift situation, and whether a gas cylinder is involved.",
+          "Dubai Junk Collection clears terraces, balconies and villa gardens with the metal separated for scrap, hardwood set aside for reuse where it is worth saving, and the rest disposed of legally. Message the photographs and you will get a fixed price back, with the awkward items priced in rather than discovered on the day.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can I leave old patio furniture beside the community bin?",
+        answer:
+          "No. Bin points handle bagged household waste, not bulky items, and leaving a sun lounger beside one is treated as illegal dumping with a fine attached. It also blocks the collection vehicle. Arrange a bulky collection or book a private pickup instead, which takes the whole set in one visit.",
+      },
+      {
+        question: "Is it worth restoring teak outdoor furniture in Dubai?",
+        answer:
+          "Often, yes. Check whether the joints are still tight and the bolts sound. If they are, a sand and a coat of oil restores the surface, and a restored teak set holds real value here. If the joints have opened or the timber is splitting along the grain, it has reached the end and the wood goes to recovery.",
+      },
+      {
+        question: "What do I do with the gas cylinder from my old barbecue?",
+        answer:
+          "Return it to the supplier or an authorised exchange point. Disconnect it at the regulator, cap the valve, and transport it upright and secured. Clearance crews cannot take cylinders whether they are full or empty, so an unremoved cylinder will simply mean the barbecue is left behind on the day.",
+      },
+      {
+        question: "Will a crew take artificial grass and decking tiles as well?",
+        answer:
+          "Yes, and they are worth mentioning when you request the quote because of weight. Balcony turf and interlocking deck panels trap a surprising quantity of sand, so a small terrace can produce several hundred kilos. Roll turf inward, tape the rolls, and stack tiles in bundles that one person can lift.",
+      },
+      {
+        question: "When is the best time of year to clear a Dubai balcony or garden?",
+        answer:
+          "Between October and March, and preferably in the morning. Paving, metal and glass reach temperatures in a summer afternoon that make carrying anything unsafe, and the work simply takes longer. If the clearance cannot wait, take the earliest slot available and keep the route out shaded where you can.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-old-furniture-in-dubai",
+      "how-to-dispose-of-garden-waste-in-dubai",
+      "clearing-a-rental-property-dubai",
+    ],
+    serviceLink: {
+      href: "/services/furniture-removal",
+      label: "See furniture and bulky item collection",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/community/public-cleanliness/",
+        label: "Dubai Municipality — Public cleanliness and bulky waste guidance",
+      },
+      {
+        href: "https://www.dm.gov.ae/help-and-support/",
+        label: "Dubai Municipality — Recycling centres and locations",
       },
     ],
   },
