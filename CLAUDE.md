@@ -35,9 +35,9 @@ npm run build
 
 All contact details across the website must **always** read from [`src/config/site.ts`](file:///d:/Projects/Dubai/rasheed/src/config/site.ts). Never hardcode contact numbers elsewhere.
 
-- **Phone Number:** `+971 56 725 6386` (Local: `0567256386`)
-- **Direct Call Link (`tel:`):** `tel:+971567256386` (`site.phoneHref`)
-- **WhatsApp Link:** `https://wa.me/971567256386` (`site.whatsappHref`)
+- **Phone Number:** `+971 56 205 5872` (Local: `0562055872`)
+- **Direct Call Link (`tel:`):** `tel:+971562055872` (`site.phoneHref`)
+- **WhatsApp Link:** `https://wa.me/971562055872` (`site.whatsappHref`)
 - **Dynamic WhatsApp Helper:** `getWhatsAppHref("custom pre-filled greeting")`
 - **Location:** Al Quoz Industrial 3, Dubai, United Arab Emirates
 - **Operating Hours:** Every day · 7:00 – 22:00
