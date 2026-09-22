@@ -2,7 +2,7 @@
 
 > **Full Documentation Location:** [`docs/seo/roadmap.md`](file:///d:/Projects/Dubai/rasheed/docs/seo/roadmap.md)  
 > **Objective:** Systematically establish topical authority, capture high-intent commercial and informational searches, and funnel organic traffic to WhatsApp/Call conversions across Dubai.  
-> **Based on:** 298 Target Keywords & 20 Topic Clusters.
+> **Based on:** 307 Target Keywords & 20 Topic Clusters.
 
 ---
 
@@ -12,7 +12,7 @@
 graph TD
     A["Phase 1: Core Service & Homepage Optimization (Clusters 1–4, 6–10)"] --> B["Phase 2: New Commercial Service Expansion (Clusters 5, 11)"]
     B --> C["Phase 3: Per-Community Local Authority (Clusters 15–17 / 49 Areas)"]
-    C --> D["Phase 4: High-Velocity Blog & Knowledge Engine (93 Blog Topics)"]
+    C --> D["Phase 4: High-Velocity Blog & Knowledge Engine (96 Blog Topics)"]
 ```
 
 ---
@@ -56,7 +56,7 @@ graph TD
 
 ## Phase 4: Structured Blog & Topical Authority Engine
 
-The 93 blog opportunities are organized into thematic publishing tracks. Each article targets a primary keyword and multiple secondary keywords from the research, answering specific intent before funneling readers to the relevant service or community page.
+The blog opportunities are organized into thematic publishing tracks. Each article targets a primary keyword and multiple secondary keywords from the research, answering specific intent before funneling readers to the relevant service or community page.
 
 ---
 
@@ -216,6 +216,42 @@ The 93 blog opportunities are organized into thematic publishing tracks. Each ar
 
 ---
 
+### Track 14: Oversized & Awkward Single-Item Disposal (Clusters 5 & 10)
+*Closes the remaining gaps in the item-specific disposal series. Each article owns a Q-intent item query whose commercial counterpart already sits on `/services/mattress-bulky-item-removal`, and each is built around a physical constraint (shape, mass, fragility) rather than a repeat of the general disposal-route guides.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B53** | *How to Dispose of Old Carpets & Rugs in Dubai Without Blocking a Service Lift* | `how to dispose of old carpet in dubai` | `carpet removal dubai`, `bulky item removal dubai`, `single item junk removal dubai`, `heavy item removal dubai` | Q | `/services/mattress-bulky-item-removal` |
+| **B54** | *How to Get Rid of Home Gym Equipment in Dubai: Treadmills, Weights & Multi-Gyms* | `how to dispose of gym equipment in dubai` | `gym equipment removal dubai`, `treadmill disposal dubai`, `heavy item removal dubai`, `bulky item removal dubai` | Q | `/services/mattress-bulky-item-removal` |
+| **B55** | *How to Dispose of an Old TV in Dubai: Screens, Wall Brackets & Safe Handling* | `how to dispose of old tv in dubai` | `bulky item removal dubai`, `single item junk removal dubai`, `e-waste recycling centres dubai` | Q | `/services/appliance-removal` |
+
+**Overlap check (content-rules §16):** B53 is distinguished from B22/B23 (indoor furniture) and B09 (municipality bulky pickup) by rolled-length vs lift-diagonal access and the underlay/gripper-rod handover problem. B54 is distinguished from B35 (garage clearance as a space) by treating mass and trolley/lift load limits as the subject. B55 is distinguished from B45 (electronics recycling directory) and B27 (laptop data security) by panel fragility, unmounting, and wall reinstatement.
+
+### Track 15: Industrial Unit Handover, Textile Routes & Outdoor Furniture (Clusters 3, 9 & 13)
+*Closes the three remaining structural gaps in the plan: Cluster 9 had no informational article at all, Cluster 13 had no route for textiles as opposed to furniture, and outdoor furniture had never been separated from indoor furniture disposal despite behaving completely differently in this climate.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B56** | *How to Clear a Warehouse in Dubai: Racking, Stock and Unit Handover* | `how to clear a warehouse in dubai` | `racking removal dubai`, `pallet disposal dubai`, `stock clearance disposal dubai`, `scrap removal dubai`, `industrial junk removal dubai`, `al quoz junk removal` | Q / I | `/services/warehouse-commercial-junk-removal` |
+| **B57** | *Where to Donate or Recycle Old Clothes in Dubai: Bins, Bags and What Gets Refused* | `where to donate clothes in dubai` | `clothes donation bins dubai`, `textile recycling dubai`, `where to donate used items dubai` | Q | `/services/household-junk-removal` |
+| **B58** | *How to Dispose of Sun-Damaged Outdoor and Balcony Furniture in Dubai* | `how to dispose of garden furniture in dubai` | `outdoor furniture disposal dubai`, `broken furniture disposal dubai` | Q | `/services/furniture-removal` |
+
+**Overlap check (content-rules §16):** B56 is distinguished from B28 (office clearance in a tower) and B40 (post-renovation cleanup) by loading-bay throughput, racking dismantling sequence and industrial reinstatement clauses. B57 is distinguished from B06 (furniture donation directory) and B34 (the four-pathway decision for household goods) by textile-specific condition thresholds, collection-box capacity and fibre recovery. B58 is distinguished from B22 (indoor furniture) and B29 (organic green waste) by UV and salt degradation, material separation for scrap, and the balcony route-down constraint.
+
+
+### Track 16: Expat Relocation Liquidation, Bulky Dumping Legality & E-Waste Bans (Clusters 3, 5 & 20)
+*Addresses high-stakes departure logistics, the universal question of chute/dumpster legality in Dubai towers, and the legal ban and battery hazards of throwing electronics in general bins.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B59** | *Moving Abroad from Dubai: Furniture Disposal, Shipping Math & Handover Deadlines* | `moving abroad furniture disposal dubai` | `expat leaving dubai furniture disposal`, `leaving uae furniture clearout`, `relocation furniture purge`, `tenancy security deposit` | I | `/services/villa-apartment-cleanouts`, `/services/furniture-removal` |
+| **B60** | *Can You Throw Away Furniture in Dubai? Chute Rooms, Fines & Legal Bulky Routes* | `can you throw away furniture in dubai` | `where to throw away furniture in dubai`, `fines for illegal dumping dubai`, `dubai waste disposal rules`, `bulky waste collection` | Q | `/services/furniture-removal`, `/services/household-junk-removal` |
+| **B61** | *Is It Illegal to Throw Electronics in the Bin in Dubai? Laws, Risks & Safe Drop-Offs* | `is it illegal to throw electronics in the bin dubai` | `data safe electronics disposal dubai`, `e-waste recycling centres dubai`, `electronic waste disposal dubai`, `hazardous waste dubai` | Q | `/services/household-junk-removal`, `/services` |
+
+**Overlap check (content-rules §16):** B59 is distinguished from B16 (general departure framework) and B52 (domestic move junk) by focusing specifically on international container volume arithmetic vs local replacement costs and the critical 72-hour handover window. B60 is distinguished from B08 (general waste rules) and B22 (furniture dismantling) by directly resolving the high-volume binary query about chute rooms, dumpster abandonment, CCTV security enforcement, and municipal fines. B61 is distinguished from B45 (drop-off directory) and B27 (laptop security) by detailing UAE Federal Law No. 12 of 2018, municipal compactor fire hazards from lithium batteries, and electronic scrap segregation.
+
+---
+
 ## Publishing Cadence & Execution Plan
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -228,4 +264,8 @@ The 93 blog opportunities are organized into thematic publishing tracks. Each ar
 8. **Batch 8 (Articles B44–B46):** Seasonal Reset, Electronics Recycling & Special Waste — **100% Completed (3/3 Live)**.
 9. **Batch 9 (Articles B47–B49):** Appliance Routes, Bulky Pricing & Low-Waste Clearing — **100% Completed (3/3 Live)**.
 10. **Batch 10 (Articles B50–B52):** Tenancy Handover, Rental Clearance & Move-Out Logistics — **100% Completed (3/3 Live)**.
+11. **Batch 11 (Articles B53–B55):** Oversized & Awkward Single-Item Disposal — **100% Completed (3/3 Live)**.
+12. **Batch 12 (Articles B56–B58):** Industrial Unit Handover, Textile Routes & Outdoor Furniture — **100% Completed (3/3 Live)**.
+13. **Batch 13 (Articles B59–B61):** Expat Relocation Liquidation, Bulky Dumping Legality & E-Waste Bans — **100% Completed (3/3 Live)**.
+
 

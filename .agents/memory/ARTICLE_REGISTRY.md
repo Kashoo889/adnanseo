@@ -2,8 +2,8 @@
 
 **Domain:** dubaijunkcollection.com
 **Total Target Articles:** 93
-**Published Articles:** 52 (55.9% of Total Roadmap)
-**Last Updated:** 2026-09-18
+**Published Articles:** 61 (63.5% of Total Roadmap)
+**Last Updated:** 2026-09-22
 
 ---
 
@@ -63,6 +63,15 @@
 | **B50** | *How to Get Your Security Deposit Back in Dubai: Move-Out Clearance & Snagging Guide* | how-to-get-security-deposit-back-dubai | how to get security deposit back dubai | 8 | Q | Moving & Tenancy | 2026-09-18 | Live |
 | **B51** | *Clearing a Rental Property in Dubai: Complete End-of-Tenancy Cleanout Guide* | clearing-a-rental-property-dubai | clearing a rental property dubai | 8, 20 | I | Moving & Tenancy | 2026-09-18 | Live |
 | **B52** | *Moving House Junk Removal in Dubai: What Movers Won't Take & How to Clear It* | moving-house-junk-removal-dubai | moving house junk removal dubai | 8 | I | Moving & Tenancy | 2026-09-18 | Live |
+| **B53** | *How to Dispose of Old Carpets & Rugs in Dubai Without Blocking a Service Lift* | how-to-dispose-of-old-carpet-in-dubai | how to dispose of old carpet in dubai | 10 | Q | Guides & Tips | 2026-09-19 | Live |
+| **B54** | *How to Get Rid of Home Gym Equipment in Dubai: Treadmills, Weights & Multi-Gyms* | how-to-dispose-of-gym-equipment-in-dubai | how to dispose of gym equipment in dubai | 10 | Q | Guides & Tips | 2026-09-19 | Live |
+| **B55** | *How to Dispose of an Old TV in Dubai: Screens, Wall Brackets & Safe Handling* | how-to-dispose-of-old-tv-in-dubai | how to dispose of old tv in dubai | 5 | Q | Eco & Recycling | 2026-09-19 | Live |
+| **B56** | *How to Clear a Warehouse in Dubai: Racking, Stock and Unit Handover* | how-to-clear-a-warehouse-in-dubai | how to clear a warehouse in dubai | 9 | Q / I | Commercial & Office | 2026-09-21 | Live |
+| **B57** | *Where to Donate or Recycle Old Clothes in Dubai: Bins, Bags and What Gets Refused* | where-to-donate-clothes-in-dubai | where to donate clothes in dubai | 13 | Q | Eco & Recycling | 2026-09-21 | Live |
+| **B58** | *How to Dispose of Sun-Damaged Outdoor and Balcony Furniture in Dubai* | how-to-dispose-of-garden-furniture-in-dubai | how to dispose of garden furniture in dubai | 3 | Q | Guides & Tips | 2026-09-21 | Live |
+| **B59** | *Moving Abroad from Dubai: Furniture Disposal, Shipping Math & Handover Deadlines* | moving-abroad-furniture-disposal-dubai | moving abroad furniture disposal dubai | 20 | I | Moving & Tenancy | 2026-09-22 | Live |
+| **B60** | *Can You Throw Away Furniture in Dubai? Chute Rooms, Fines & Legal Bulky Routes* | can-you-throw-away-furniture-in-dubai | can you throw away furniture in dubai | 3 | Q | Guides & Tips | 2026-09-22 | Live |
+| **B61** | *Is It Illegal to Throw Electronics in the Bin in Dubai? Laws, Risks & Safe Drop-Offs* | is-it-illegal-to-throw-electronics-in-the-bin-dubai | is it illegal to throw electronics in the bin dubai | 5 | Q | Eco & Recycling | 2026-09-22 | Live |
 
 ---
 
@@ -78,7 +87,10 @@
 * **Batch 8: Seasonal Reset, Electronics Recycling & Special Waste (B44–B46):** 3/3 Completed (100%)
 * **Batch 9: Appliance Routes, Bulky Pricing & Low-Waste Clearing (B47–B49):** 3/3 Completed (100%)
 * **Batch 10: Tenancy Handover, Rental Clearance & Move-Out Logistics (B50–B52):** 3/3 Completed (100%)
-* **Remaining Long-Tail & Cluster Articles (B53–B93):** 0/41 (0%)
+* **Batch 11: Oversized & Awkward Single-Item Disposal (B53–B55):** 3/3 Completed (100%)
+* **Batch 12: Industrial Unit Handover, Textile Routes & Outdoor Furniture (B56–B58):** 3/3 Completed (100%)
+* **Batch 13: Expat Relocation Liquidation, Bulky Dumping Legality & E-Waste Bans (B59–B61):** 3/3 Completed (100%)
+* **Remaining Long-Tail & Cluster Articles (B62–B96):** 0/35 (0%)
 
 ---
 
@@ -487,4 +499,59 @@
 * **Images:** Cover: blogB52Cover (AI-generated), Body: blogB52Body (AI-generated)
 * **Target Funnel:** /services/household-junk-removal, /services/villa-apartment-cleanouts
 * **Sources:** Dubai Municipality Bulky Waste Directives, Dubai Civil Defense Residential Safety Guidelines
+### B53: how-to-dispose-of-old-carpet-in-dubai
+* **URL:** /blog/how-to-dispose-of-old-carpet-in-dubai
+* **Primary Keyword:** how to dispose of old carpet in dubai
+* **Secondary Keywords:** carpet removal dubai, bulky item removal dubai, single item junk removal dubai, heavy item removal dubai
+* **Target Funnel:** /services/mattress-bulky-item-removal
 
+### B54: how-to-dispose-of-gym-equipment-in-dubai
+* **URL:** /blog/how-to-dispose-of-gym-equipment-in-dubai
+* **Primary Keyword:** how to dispose of gym equipment in dubai
+* **Secondary Keywords:** gym equipment removal dubai, treadmill disposal dubai, heavy item removal dubai, bulky item removal dubai
+* **Target Funnel:** /services/mattress-bulky-item-removal
+
+### B55: how-to-dispose-of-old-tv-in-dubai
+* **URL:** /blog/how-to-dispose-of-old-tv-in-dubai
+* **Primary Keyword:** how to dispose of old tv in dubai
+* **Secondary Keywords:** bulky item removal dubai, single item junk removal dubai, e-waste recycling centres dubai
+* **Target Funnel:** /services/appliance-removal
+
+### B56: how-to-clear-a-warehouse-in-dubai
+* **URL:** /blog/how-to-clear-a-warehouse-in-dubai
+* **Primary Keyword:** how to clear a warehouse in dubai
+* **Secondary Keywords:** racking removal dubai, pallet disposal dubai, stock clearance disposal dubai, industrial junk removal dubai
+* **Target Funnel:** /services/warehouse-commercial-junk-removal
+
+### B57: where-to-donate-clothes-in-dubai
+* **URL:** /blog/where-to-donate-clothes-in-dubai
+* **Primary Keyword:** where to donate clothes in dubai
+* **Secondary Keywords:** clothes donation bins dubai, textile recycling dubai, where to donate used items dubai
+* **Target Funnel:** /services/household-junk-removal
+
+### B58: how-to-dispose-of-garden-furniture-in-dubai
+* **URL:** /blog/how-to-dispose-of-garden-furniture-in-dubai
+* **Primary Keyword:** how to dispose of garden furniture in dubai
+* **Secondary Keywords:** outdoor furniture disposal dubai, broken furniture disposal dubai
+* **Target Funnel:** /services/furniture-removal
+
+### B59: moving-abroad-furniture-disposal-dubai
+* **URL:** /blog/moving-abroad-furniture-disposal-dubai
+* **Primary Keyword:** moving abroad furniture disposal dubai
+* **Secondary Keywords:** expat leaving dubai furniture disposal, leaving uae furniture clearout, relocation furniture purge, selling furniture before leaving dubai
+* **Images:** Cover: blogB59Cover, Body: blogB59Body
+* **Target Funnel:** /services/villa-apartment-cleanouts, /services/furniture-removal
+
+### B60: can-you-throw-away-furniture-in-dubai
+* **URL:** /blog/can-you-throw-away-furniture-in-dubai
+* **Primary Keyword:** can you throw away furniture in dubai
+* **Secondary Keywords:** where to throw away furniture in dubai, fines for illegal dumping dubai, dubai waste disposal rules, apartment dumpster rules dubai
+* **Images:** Cover: blogB60Cover, Body: blogB60Body
+* **Target Funnel:** /services/furniture-removal, /services/household-junk-removal
+
+### B61: is-it-illegal-to-throw-electronics-in-the-bin-dubai
+* **URL:** /blog/is-it-illegal-to-throw-electronics-in-the-bin-dubai
+* **Primary Keyword:** is it illegal to throw electronics in the bin dubai
+* **Secondary Keywords:** data safe electronics disposal dubai, e-waste recycling centres dubai, electronic waste disposal dubai, hazardous waste dubai
+* **Images:** Cover: blogB61Cover, Body: blogB61Body
+* **Target Funnel:** /services/household-junk-removal, /services

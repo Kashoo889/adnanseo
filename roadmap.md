@@ -238,6 +238,18 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B56 is distinguished from B28 (office clearance in a tower) and B40 (post-renovation cleanup) by loading-bay throughput, racking dismantling sequence and industrial reinstatement clauses. B57 is distinguished from B06 (furniture donation directory) and B34 (the four-pathway decision for household goods) by textile-specific condition thresholds, collection-box capacity and fibre recovery. B58 is distinguished from B22 (indoor furniture) and B29 (organic green waste) by UV and salt degradation, material separation for scrap, and the balcony route-down constraint.
 
+
+### Track 16: Expat Relocation Liquidation, Bulky Dumping Legality & E-Waste Bans (Clusters 3, 5 & 20)
+*Addresses high-stakes departure logistics, the universal question of chute/dumpster legality in Dubai towers, and the legal ban and battery hazards of throwing electronics in general bins.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B59** | *Moving Abroad from Dubai: Furniture Disposal, Shipping Math & Handover Deadlines* | `moving abroad furniture disposal dubai` | `expat leaving dubai furniture disposal`, `leaving uae furniture clearout`, `relocation furniture purge`, `tenancy security deposit` | I | `/services/villa-apartment-cleanouts`, `/services/furniture-removal` |
+| **B60** | *Can You Throw Away Furniture in Dubai? Chute Rooms, Fines & Legal Bulky Routes* | `can you throw away furniture in dubai` | `where to throw away furniture in dubai`, `fines for illegal dumping dubai`, `dubai waste disposal rules`, `bulky waste collection` | Q | `/services/furniture-removal`, `/services/household-junk-removal` |
+| **B61** | *Is It Illegal to Throw Electronics in the Bin in Dubai? Laws, Risks & Safe Drop-Offs* | `is it illegal to throw electronics in the bin dubai` | `data safe electronics disposal dubai`, `e-waste recycling centres dubai`, `electronic waste disposal dubai`, `hazardous waste dubai` | Q | `/services/household-junk-removal`, `/services` |
+
+**Overlap check (content-rules §16):** B59 is distinguished from B16 (general departure framework) and B52 (domestic move junk) by focusing specifically on international container volume arithmetic vs local replacement costs and the critical 72-hour handover window. B60 is distinguished from B08 (general waste rules) and B22 (furniture dismantling) by directly resolving the high-volume binary query about chute rooms, dumpster abandonment, CCTV security enforcement, and municipal fines. B61 is distinguished from B45 (drop-off directory) and B27 (laptop security) by detailing UAE Federal Law No. 12 of 2018, municipal compactor fire hazards from lithium batteries, and electronic scrap segregation.
+
 ---
 
 ## Publishing Cadence & Execution Plan
@@ -254,4 +266,6 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 10. **Batch 10 (Articles B50–B52):** Tenancy Handover, Rental Clearance & Move-Out Logistics — **100% Completed (3/3 Live)**.
 11. **Batch 11 (Articles B53–B55):** Oversized & Awkward Single-Item Disposal — **100% Completed (3/3 Live)**.
 12. **Batch 12 (Articles B56–B58):** Industrial Unit Handover, Textile Routes & Outdoor Furniture — **100% Completed (3/3 Live)**.
+13. **Batch 13 (Articles B59–B61):** Expat Relocation Liquidation, Bulky Dumping Legality & E-Waste Bans — **100% Completed (3/3 Live)**.
+
 
