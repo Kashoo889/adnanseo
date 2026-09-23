@@ -2,7 +2,7 @@
 
 > **Full Documentation Location:** [`docs/seo/roadmap.md`](file:///d:/Projects/Dubai/rasheed/docs/seo/roadmap.md)  
 > **Objective:** Systematically establish topical authority, capture high-intent commercial and informational searches, and funnel organic traffic to WhatsApp/Call conversions across Dubai.  
-> **Based on:** 307 Target Keywords & 20 Topic Clusters.
+> **Based on:** 310 Target Keywords & 20 Topic Clusters.
 
 ---
 
@@ -250,6 +250,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B59 is distinguished from B16 (general departure framework) and B52 (domestic move junk) by focusing specifically on international container volume arithmetic vs local replacement costs and the critical 72-hour handover window. B60 is distinguished from B08 (general waste rules) and B22 (furniture dismantling) by directly resolving the high-volume binary query about chute rooms, dumpster abandonment, CCTV security enforcement, and municipal fines. B61 is distinguished from B45 (drop-off directory) and B27 (laptop security) by detailing UAE Federal Law No. 12 of 2018, municipal compactor fire hazards from lithium batteries, and electronic scrap segregation.
 
+### Track 17: Fragile & Specialist Bulky Items (Cluster 10)
+*Extends the item-specific series into objects whose material, balance or construction makes ordinary furniture handling unsafe.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B62** | *How to Dispose of a Large Mirror or Glass Tabletop in Dubai* | `how to dispose of a large mirror in dubai` | `glass tabletop removal dubai`, `fragile bulky item removal`, `large mirror disposal dubai` | Q | `/services/mattress-bulky-item-removal` |
+| **B63** | *How to Dispose of a Pool Table in Dubai Without Damaging Slate or Floors* | `how to dispose of a pool table in dubai` | `pool table removal dubai`, `slate pool table disposal`, `heavy item removal dubai` | Q | `/services/mattress-bulky-item-removal` |
+| **B64** | *How to Dispose of an Old Piano in Dubai: Donation, Access and Safe Removal* | `how to dispose of old piano in dubai` | `piano removal dubai`, `piano donation dubai`, `heavy item removal dubai` | Q | `/services/mattress-bulky-item-removal` |
+
+**Overlap check (content-rules §16):** B62 is distinguished from B22/B23 by glass identification, face-and-edge protection and an upright A-frame route. B63 is distinguished from B54 by slate-bed identification, ordered table dismantling and levelling-component control. B64 is distinguished from general furniture donation and moving guides by musical-condition triage, piano-dolly handling and upright-versus-grand access planning.
+
 ---
 
 ## Publishing Cadence & Execution Plan
@@ -267,5 +278,5 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 11. **Batch 11 (Articles B53–B55):** Oversized & Awkward Single-Item Disposal — **100% Completed (3/3 Live)**.
 12. **Batch 12 (Articles B56–B58):** Industrial Unit Handover, Textile Routes & Outdoor Furniture — **100% Completed (3/3 Live)**.
 13. **Batch 13 (Articles B59–B61):** Expat Relocation Liquidation, Bulky Dumping Legality & E-Waste Bans — **100% Completed (3/3 Live)**.
-
+14. **Batch 14 (Articles B62–B64):** Fragile & Specialist Bulky Items — **100% Completed (3/3 Live)**.
 

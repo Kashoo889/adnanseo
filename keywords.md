@@ -1,7 +1,7 @@
 # Dubai Junk Collection — Master Keyword Database
 
 > **Full Documentation Location:** [`docs/seo/keywords.md`](file:///d:/Projects/Dubai/rasheed/docs/seo/keywords.md)  
-> **Source:** SEO Keyword Research Report (307 Target Keywords across 20 Clusters)  
+> **Source:** SEO Keyword Research Report plus approved content-gap expansion (310 Target Keywords across 20 Clusters)
 > **Rule:** Every keyword has a single designated destination URL/page type to prevent cannibalization.
 
 ---
@@ -282,6 +282,9 @@
 | 168 | where to throw old mattress dubai | Q | Blog Article |
 | 299 | how to dispose of old carpet in dubai | Q | Blog Article |
 | 300 | how to dispose of gym equipment in dubai | Q | Blog Article |
+| 308 | how to dispose of a large mirror in dubai | Q | Blog Article |
+| 309 | how to dispose of a pool table in dubai | Q | Blog Article |
+| 310 | how to dispose of old piano in dubai | Q | Blog Article |
 
 ---
 

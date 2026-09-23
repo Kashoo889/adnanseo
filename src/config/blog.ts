@@ -88,6 +88,12 @@ import blogB60Cover from "@/assets/blog-b60-can-throw-away-furniture-cover.webp"
 import blogB60Body from "@/assets/blog-b60-building-dumpster-rules-body.webp";
 import blogB61Cover from "@/assets/blog-b61-illegal-electronics-bin-cover.webp";
 import blogB61Body from "@/assets/blog-b61-ewaste-sorting-depot-body.webp";
+import blogB62Cover from "@/assets/blog-b62-large-mirror-disposal-cover.webp";
+import blogB62Body from "@/assets/blog-b62-glass-tabletop-preparation-body.webp";
+import blogB63Cover from "@/assets/blog-b63-pool-table-removal-cover.webp";
+import blogB63Body from "@/assets/blog-b63-slate-section-moving-body.webp";
+import blogB64Cover from "@/assets/blog-b64-piano-disposal-cover.webp";
+import blogB64Body from "@/assets/blog-b64-piano-elevator-access-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -8104,6 +8110,359 @@ export const blogPosts: BlogPost[] = [
       {
         href: "https://www.dm.gov.ae/municipality-business/waste-department-2/",
         label: "Dubai Municipality — Waste Management Department Technical Guidelines",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-large-mirror-glass-dubai",
+    title: "How to Dispose of a Large Mirror or Glass Tabletop in Dubai",
+    excerpt:
+      "A safe route for oversized mirrors and glass tabletops: identify the glass, measure the full path, protect the faces and edges, and choose the right collection method.",
+    category: "Guides & Tips",
+    coverImage: blogB62Cover,
+    coverImageAlt:
+      "Two clearance crew members carrying a blanket-wrapped oversized mirror through a bright Dubai apartment",
+    publishedAt: "2026-09-23",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: [
+      "Large Mirror Disposal Dubai",
+      "Glass Tabletop Removal",
+      "Bulky Item Removal",
+      "Apartment Clearance",
+    ],
+    seoTitle: "Large Mirror Disposal Dubai: Safe Apartment Removal",
+    seoDescription:
+      "Need large mirror disposal in Dubai? Learn how to identify, wrap and move mirrors or glass tabletops safely through lifts, corridors and loading bays.",
+    keyTakeaways: [
+      "Do not break an intact mirror or tabletop to make it fit a bin; uncontrolled fragments turn a bulky-item job into a sharps hazard.",
+      "Measure the glass, its frame and every turn between the room and the loading point before choosing a route.",
+      "Keep large panes upright, protect both faces and all edges, and use equipment designed to support glass during transit.",
+      "Ask building management about service-lift reservations and loading access before the collection team arrives.",
+    ],
+    sections: [
+      {
+        heading: "What is the safest way to dispose of a large mirror in Dubai?",
+        paragraphs: [
+          "Keep it intact, isolate the area and arrange a controlled route out. Large mirror disposal in Dubai is not a normal bin-room task: the pane may be heavier than it looks, the frame can hide sharp fixings, and one tight lift turn can place the glass under enough twist to fail.",
+          "Start by deciding whether the item can be reused. An unchipped mirror or sound glass tabletop may be suitable for resale or donation if a recipient can collect it safely. If it is cracked, badly silvered, custom-sized or fused to damaged furniture, treat it as a removal job and tell the collector its condition before arrival.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Do not make it smaller with a hammer",
+          text: "Breaking a pane inside an apartment produces unpredictable shards and fine fragments. Keep people and pets away, leave cracked glass where it is, and tell the crew that the item is damaged so they can bring rigid containment.",
+        },
+      },
+      {
+        heading: "Identify the glass before anyone lifts it",
+        paragraphs: [
+          "A framed mirror, a loose tabletop and a wardrobe door behave differently. Look for a safety mark in a corner, check whether the pane is bonded to a backing board, and photograph the edge and mounting points. Do not assume that a thick-looking top is solid glass; laminated layers and heavy stone-and-glass combinations change the equipment and crew needed.",
+          "For wall mirrors, the removal team also needs to know how the piece is fixed. Clips are visible, while adhesive-mounted mirrors may need controlled separation from plasterboard or tile. If the mirror forms part of a landlord's fitted interior, get written approval before it is detached.",
+        ],
+        table: {
+          caption: "What to report when requesting a glass-removal quote",
+          headers: ["Item", "Useful details", "Main handling risk"],
+          rows: [
+            ["Framed wall mirror", "Overall size, frame material, mounting method", "Hidden fixings and frame flex"],
+            ["Loose glass tabletop", "Shape, thickness, base already separated or not", "Exposed edges and poor handholds"],
+            ["Mirrored wardrobe door", "Sliding or hinged, removable frame", "Long narrow pane twisting at turns"],
+            ["Cracked pane", "Crack location, loose pieces, current position", "Fragments releasing during movement"],
+          ],
+        },
+      },
+      {
+        heading: "Measure the whole route, not only the lift door",
+        paragraphs: [
+          "Measure the pane at its widest points, including the frame. Then check bedroom doors, corridor corners, lift-lobby turns, the service-lift opening and the vehicle loading point. The limiting point is often a ninety-degree corridor turn rather than the lift itself.",
+          "In a tower, reserve the service lift and confirm the approved collection window with security. In a villa, clear outdoor furniture, plan around steps and keep the driveway accessible. If the pane cannot travel safely in one piece, a glass specialist—not an improvised on-site break—should decide the next step.",
+        ],
+      },
+      {
+        heading: "How professionals prepare glass for the trip down",
+        paragraphs: [
+          "A sound pane is moved upright. Face protection reduces scratches, corner guards shield the most vulnerable points, and padded straps prevent direct pressure from metal buckles. A glass A-frame or suitable trolley supports the load between the apartment and vehicle; blankets alone do not create a safe handhold.",
+          "The crew should protect floors and door jambs before lifting. They should also keep hardware from a reusable frame in a labelled bag rather than taping metal brackets against the glass face.",
+        ],
+        image: blogB62Body,
+        imageAlt:
+          "Crew fitting face protection and corner guards to a round glass tabletop beside a Dubai tower freight elevator",
+        imageCaption:
+          "Face protection, guarded edges and an upright glass trolley control the risks that ordinary blanket wrapping misses.",
+      },
+      {
+        heading: "Choose the route by condition and access",
+        paragraphs: [
+          "Use resale or donation only when the item is intact, accurately described and collected by someone equipped to move it. For damaged pieces or time-critical handovers, book a bulky-item crew and disclose the dimensions, floor, parking height limit and any stair carry in advance.",
+          "Dubai Municipality lists a household furniture and bulky-waste service, but availability and collection arrangements can differ in developer-managed communities and free zones. Confirm eligibility and where the item must be presented before moving glass into a shared area. Never leave a mirror beside a chute or general dumpster.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can a large mirror go in a Dubai apartment bin room?",
+        answer:
+          "No. It can obstruct the room, injure cleaners and break when other waste is moved. Keep it inside the unit until building management confirms an approved bulky-item collection point and time, or arrange a crew to carry it directly from the room to a vehicle.",
+      },
+      {
+        question: "Should I tape an X across a mirror before moving it?",
+        answer:
+          "Tape is not a substitute for face protection, edge guards and rigid support. It can also damage coatings or leave residue. If the mirror is sound, let the mover apply suitable protection. If it is cracked, do not press tape across the surface; isolate it and explain the damage when booking.",
+      },
+      {
+        question: "What photos help with a glass-removal quote?",
+        answer:
+          "Send one full view, one edge close-up, the mounting points or base, and the narrowest door or lift turn. Include approximate dimensions and a photo of any crack. That usually reveals whether the job needs detachment tools, an A-frame trolley, rigid shard containment or an extra crew member.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-old-furniture-in-dubai",
+      "can-you-throw-away-furniture-in-dubai",
+      "how-to-choose-a-junk-removal-company-dubai",
+    ],
+    serviceLink: {
+      href: "/services/mattress-bulky-item-removal",
+      label: "Arrange safe collection for a bulky or fragile item",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-services/",
+        label: "Dubai Municipality — Household appliances and furniture disposal service",
+      },
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-promotes-waste-segregation-through-free-bulky-waste-disposal-service/",
+        label: "Dubai Municipality — Bulky-waste segregation and collection guidance",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-pool-table-dubai",
+    title: "How to Dispose of a Pool Table in Dubai Without Damaging Slate or Floors",
+    excerpt:
+      "Pool tables should be dismantled in a controlled sequence, with the slate identified before lifting and every section planned around doors, stairs and lift limits.",
+    category: "Guides & Tips",
+    coverImage: blogB63Cover,
+    coverImageAlt:
+      "Specialist crew dismantling a slate pool table in a bright Dubai villa games room",
+    publishedAt: "2026-09-23",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Pool Table Disposal Dubai", "Slate Pool Table", "Heavy Item Removal", "Villa Clearance"],
+    seoTitle: "Pool Table Disposal Dubai: Safe Slate Removal Guide",
+    seoDescription:
+      "Planning pool table disposal in Dubai? Learn how slate, stairs, lift access and disassembly affect resale, removal and a damage-free villa handover.",
+    keyTakeaways: [
+      "Confirm whether the bed is one-piece or sectional slate before accepting a buyer or booking a crew.",
+      "A pool table should be dismantled in sequence; tipping or dragging it assembled can damage the frame, floor and doorways.",
+      "Photograph levelling hardware and keep labelled fixings if the table will be reused.",
+      "Map the route to the truck before work starts, especially for basement games rooms and tower service lifts.",
+    ],
+    sections: [
+      {
+        heading: "What is the right way to dispose of a pool table in Dubai?",
+        paragraphs: [
+          "Decide first whether the table is being relocated, sold for reuse or discarded. Then identify the bed construction and plan a component-by-component route out. Pool table disposal in Dubai is rarely a four-people-and-lift job; carrying it assembled transfers damaging forces through the cabinet and concentrates weight on a few feet.",
+          "A reusable table deserves careful labelling and protection. A damaged table may still contain recoverable slate, timber and metal, but it needs the same controlled disassembly to get safely through the property.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Never lift by the rails or pockets",
+          text: "Rails, pocket castings and decorative aprons are not carrying handles. Loading them while the bed is still installed can split joints or pull fixings through the timber.",
+        },
+      },
+      {
+        heading: "Find out what is under the cloth",
+        paragraphs: [
+          "Ask for the make and model if known, but inspect rather than guess. Some tables use a sectional slate bed; others use a single slab or a lighter composite board. The difference changes the lift plan, trolley choice, crew size and whether stairs are practical.",
+          "Photograph the underside, leg fixings and any levelling shims before loosening parts. If the table will be rebuilt, those reference photos are more useful than a mixed bag of unidentified bolts at the destination.",
+        ],
+        table: {
+          caption: "Pool-table details that change the removal plan",
+          headers: ["Detail", "Why it matters", "What to send"],
+          rows: [
+            ["Bed type", "Determines component weight and fragility", "Underside photo and model"],
+            ["Room location", "Basement stairs and upper floors alter the route", "Floor, stair width and turns"],
+            ["Reuse or disposal", "Changes how cloth, rails and fixings are handled", "Required condition at collection"],
+            ["Vehicle access", "Long carries need different trolleys and staffing", "Loading-bay and parking photos"],
+          ],
+        },
+      },
+      {
+        heading: "The safe dismantling sequence",
+        paragraphs: [
+          "Remove accessories and balls first, then pockets, rails and cloth. The bed is exposed only after the light components are staged out of the working area. Slate sections are lifted with suitable support and moved upright on padded equipment; the cabinet and legs follow once the bed is clear.",
+          "A reuse job needs the cloth rolled rather than folded, rail sets paired, and levelling pieces labelled by position. If the table is waste, sorting timber, metal and stone separately may still make recovery easier than loading a mixed assembly.",
+        ],
+        image: blogB63Body,
+        imageAlt:
+          "Movers taking a blanket-wrapped pool-table slate section through a protected doorway in a Dubai villa",
+        imageCaption:
+          "Slate travels as a supported section; door protection and a clear path matter as much as the lifting crew.",
+      },
+      {
+        heading: "Check floors, turns and loading access before the first bolt comes out",
+        paragraphs: [
+          "Protect polished stone, timber and thresholds with continuous runners. Measure the narrowest doorway and each turn, then check the slope and surface between the exit and truck. A loose gravel driveway can stop a small-wheel trolley even when every interior measurement works.",
+          "For an apartment or hotel games room, obtain building approval, reserve the service lift and confirm its rated capacity with management. Do not assume a passenger lift is available for slate or long frame sections.",
+        ],
+      },
+      {
+        heading: "Sell, relocate or remove: make the decision before booking",
+        paragraphs: [
+          "Sell only if you can state the size, bed type, condition and collection deadline accurately. Decide in advance whether the buyer must dismantle it and what happens if they arrive without equipment. A vague free-collection listing is a poor plan when a tenancy or villa handover is days away.",
+          "For a fixed deadline, send a removal company full photos and access details. Ask whether dismantling, floor protection, loading and the final destination are included. General bulky-waste routes may suit some dismantled components, but confirm eligibility and presentation requirements rather than leaving a table beside community bins.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can movers take a pool table without dismantling it?",
+        answer:
+          "Usually that is the wrong approach. Even where doors are wide enough, moving an assembled table can twist the cabinet and damage levelling. A specialist should inspect the construction and remove the bed, rails and legs in the correct order unless the manufacturer provides a different transport method.",
+      },
+      {
+        question: "Can I give away a pool table for free collection?",
+        answer:
+          "Yes, if it is reusable and the collector understands the work. State the dimensions, bed type, floor level, stairs and deadline in the listing. Agree who dismantles it and set a fallback collection plan; free listings often fail when the collector discovers the weight or access on arrival.",
+      },
+      {
+        question: "What should be included in a pool-table removal quote?",
+        answer:
+          "The quote should state dismantling, crew, floor and doorway protection, stair or lift handling, loading, transport and the final disposal or recovery route. It should also identify special access costs before the booking, not after the slate has been removed and the room is unusable.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-gym-equipment-in-dubai",
+      "diy-junk-removal-vs-hiring-dubai",
+      "villa-handover-guide-dubai",
+    ],
+    serviceLink: {
+      href: "/services/mattress-bulky-item-removal",
+      label: "Plan a specialist bulky-item collection",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-services/",
+        label: "Dubai Municipality — Household appliances and furniture disposal service",
+      },
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2021/06/Technical-Guideline-No.10-Disposal-of-Unwanted-Materials2.pdf",
+        label: "Dubai Municipality — Disposal of unwanted materials guideline",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-old-piano-dubai",
+    title: "How to Dispose of an Old Piano in Dubai: Donation, Access and Safe Removal",
+    excerpt:
+      "Before moving an unwanted piano, check whether it is genuinely reusable, measure the access route and book a crew equipped for its shape, finish and concentrated weight.",
+    category: "Guides & Tips",
+    coverImage: blogB64Cover,
+    coverImageAlt:
+      "Three movers securing a polished upright piano on a padded dolly inside a Dubai apartment",
+    publishedAt: "2026-09-23",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Old Piano Disposal Dubai", "Piano Donation", "Piano Removal", "Heavy Item Removal"],
+    seoTitle: "Old Piano Disposal Dubai: Donation and Removal Guide",
+    seoDescription:
+      "Need to dispose of an old piano in Dubai? Assess donation value, measure lift and stair access, and prepare an upright or grand piano for safe collection.",
+    keyTakeaways: [
+      "A piano is reusable only if its musical condition and transport cost make sense to the recipient—not merely because the cabinet looks good.",
+      "Send the model, dimensions, floor, stair and lift details before arranging donation or collection.",
+      "Use a padded piano dolly, locking straps and route protection; do not roll the instrument across a home on its small decorative castors.",
+      "Grand pianos and difficult stair carries require a different plan from standard upright removals.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an old piano in Dubai?",
+        paragraphs: [
+          "Begin with an honest condition check, then choose donation, resale, relocation or bulky-item removal. To dispose of an old piano in Dubai safely, the access plan has to be settled before anyone starts pushing: pianos combine a delicate finish and internal mechanism with concentrated weight and an awkward center of gravity.",
+          "An attractive cabinet does not prove the instrument is worth restoring. Ask a tuner or technician for an assessment if donation or sale depends on musical condition. If repair and transport would exceed its practical value, disclose that clearly and arrange removal rather than passing the problem to a recipient.",
+        ],
+        callout: {
+          type: "warning",
+          title: "The small castors are not moving wheels",
+          text: "Piano castors are intended for minor positioning, not a trip across marble, thresholds or corridors. They can mark floors, jam at joints and overload the legs. Transfer the instrument to a rated padded dolly.",
+        },
+      },
+      {
+        heading: "Decide whether the piano is genuinely reusable",
+        paragraphs: [
+          "Record the maker, model or serial number, approximate age, last tuning date and known faults. Photograph the full cabinet, keyboard, pedals and any water, pest or veneer damage. For a digital piano, also test the power supply, keys, speakers and pedals; electronic models follow a different recovery route if they no longer work.",
+          "Donation works best when a school, community group or private recipient has accepted that exact instrument and understands the transport requirement. Do not promise a free piano without stating that collection needs specialist handling and may cost more than an ordinary furniture pickup.",
+        ],
+        table: {
+          caption: "Information to gather before offering or removing a piano",
+          headers: ["Check", "Why it matters", "Useful evidence"],
+          rows: [
+            ["Piano type", "Upright, baby grand and digital pianos need different handling", "Full front and side photos"],
+            ["Condition", "Separates a useful instrument from a disposal item", "Keys, pedals, back and damage"],
+            ["Access", "Determines crew, equipment and feasibility", "Doors, turns, lift and every stair flight"],
+            ["Deadline", "Donation takes coordination; handovers may not allow it", "Last permissible collection date"],
+          ],
+        },
+      },
+      {
+        heading: "Measure the piano and every part of the route",
+        paragraphs: [
+          "Measure width, depth and height at the widest fixed points. Then check the apartment door, corridor turns, service-lift opening and interior, loading-bay route and vehicle clearance. For stairs, show the crew the full flight, landings, handrails and any curved turn—not just the first step.",
+          "Book the tower's service lift and collection window before confirming a donor or buyer. Building management may require floor and wall protection, a move permit or a refundable deposit. A recipient's van arriving without an approved loading slot can turn a valid donation into a missed handover deadline.",
+        ],
+        image: blogB64Body,
+        imageAlt:
+          "Movers measuring a service-elevator doorway beside a strapped and padded upright piano in a Dubai tower",
+        imageCaption:
+          "A route survey confirms lift width, threshold clearance and turning space before the piano leaves the room.",
+      },
+      {
+        heading: "What safe piano removal should look like",
+        paragraphs: [
+          "Close and secure the keyboard lid, remove only components designed to come off, pad the cabinet and strap it to a low, rated piano dolly. Protect floors continuously to the exit and keep the instrument controlled at thresholds. An upright remains upright unless the mover's equipment and the manufacturer's design call for another method.",
+          "A grand piano is a separate operation: legs and pedal lyre are normally removed while the body is supported, then the wrapped body is secured to a piano board. Do not ask a general helper to improvise this sequence.",
+        ],
+      },
+      {
+        heading: "Build a fallback into donation and resale",
+        paragraphs: [
+          "Set a decision date several days before a move-out or property handover. If no recipient has confirmed the instrument, its collection crew and building access by that date, switch to a booked removal route. This prevents the piano becoming the one item left after cleaning and inspection.",
+          "When requesting a quote, send condition and access photos together. Ask whether the price includes padding, dolly use, stair or lift handling, loading and the final recovery or disposal route. Dubai Municipality provides bulky household-item services in eligible areas, but developer-managed communities and free zones may use different arrangements, so confirm before relying on that option.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Will a charity collect any free piano in Dubai?",
+        answer:
+          "No. Acceptance depends on the instrument's condition, current need, access and the cost of collection. Contact a prospective recipient with clear photos and a technician's assessment where possible. Do not move the piano into a lobby or loading bay until the organization has confirmed the exact instrument and pickup.",
+      },
+      {
+        question: "Can ordinary furniture movers remove an upright piano?",
+        answer:
+          "Only if they have suitable piano-handling experience, a rated dolly, straps, padding and enough crew for the route. Ask how they will manage thresholds, turns and stairs. A low quote without an access survey can become expensive if the team arrives with no safe method.",
+      },
+      {
+        question: "What happens to a piano that cannot be reused?",
+        answer:
+          "The practical route depends on its construction and local facility rules. A removal company may separate recoverable metal and timber from mixed components before sending the remainder through an authorized bulky-waste channel. Digital pianos contain electronics and should be directed to an appropriate e-waste route instead.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-gym-equipment-in-dubai",
+      "where-to-donate-furniture-dubai",
+      "moving-abroad-furniture-disposal-dubai",
+    ],
+    serviceLink: {
+      href: "/services/mattress-bulky-item-removal",
+      label: "Arrange careful piano and heavy-item removal",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-services/",
+        label: "Dubai Municipality — Household appliances and furniture disposal service",
+      },
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-promotes-waste-segregation-through-free-bulky-waste-disposal-service/",
+        label: "Dubai Municipality — Bulky-waste segregation and collection guidance",
       },
     ],
   },
