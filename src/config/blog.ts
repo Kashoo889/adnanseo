@@ -5111,7 +5111,7 @@ export const blogPosts: BlogPost[] = [
         heading: "Donation still needs an acceptance check",
         paragraphs: [
           "Donation is a reuse route, not a way to transfer unusable furniture. Before planning around a charity, community group, or individual recipient, send current photographs and dimensions and ask whether the exact item is accepted. Policies and pickup capacity vary, so get confirmation for the furniture you have rather than relying on an old list or a friend's experience.",
-          "Clean the piece and keep all shelves, fixings, cushions, and matching parts together. If it needs repair, disclose that clearly. A recipient may decline a damaged wardrobe, sagging sofa, heavily marked mattress, or incomplete flat-pack because handling and repair would cost more than the item can reasonably provide in use.",
+          "Clean the piece and keep all shelves, fixings, cushions, and matching parts together. A wardrobe offered for reuse is only as useful as the set that arrives, which is why [labelling its panels and keeping every hinge and runner with them for reassembly](https://www.junkservicesdubai.com/blog/wardrobe-removal-dubai) matters before a recipient collects it. If it needs repair, disclose that clearly. A recipient may decline a damaged wardrobe, sagging sofa, heavily marked mattress, or incomplete flat-pack because handling and repair would cost more than the item can reasonably provide in use.",
         ],
       },
       {

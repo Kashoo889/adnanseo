@@ -10,6 +10,20 @@ import { site, absoluteUrl, getWhatsAppHref } from "@/config/site";
 
 type Params = { slug: string };
 
+// Renders inline [anchor](https://...) links inside plain-text paragraphs.
+function renderParagraph(text: string) {
+  const parts = text.split(/(\[[^\]]+\]\(https?:\/\/[^)\s]+\))/g);
+  return parts.map((part, i) => {
+    const match = part.match(/^\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)$/);
+    if (!match) return part;
+    return (
+      <a key={i} href={match[2]} className="underline underline-offset-4 hover:text-[color:var(--color-accent)]">
+        {match[1]}
+      </a>
+    );
+  });
+}
+
 export function generateStaticParams(): Params[] {
   return getAllPostSlugs().map((slug) => ({ slug }));
 }
@@ -251,7 +265,7 @@ export default async function SingleBlogPostPage({ params }: { params: Promise<P
 
               {section.paragraphs.map((p, pIdx) => (
                 <p key={pIdx} className="leading-relaxed text-foreground/85 sm:text-lg">
-                  {p}
+                  {renderParagraph(p)}
                 </p>
               ))}
 
