@@ -1,6 +1,6 @@
 # Dubai Junk Collection — Master Keyword Database
 
-> **Source:** SEO Keyword Research Report plus approved content-gap expansion (310 Target Keywords across 20 Clusters)
+> **Source:** SEO Keyword Research Report plus approved content-gap expansion (313 Target Keywords across 20 Clusters)
 > **Rule:** Every keyword has a single designated destination URL/page type to prevent cannibalization.
 
 ---
@@ -87,6 +87,7 @@
 | 42 | what to do with unwanted household items dubai | Q | Blog Article |
 | 43 | room by room decluttering checklist | I | Blog Article |
 | 44 | spring cleaning junk removal dubai | I | Blog Article |
+| 313 | how to dispose of old books in dubai | Q | Blog Article |
 
 ---
 
@@ -119,6 +120,7 @@
 | 66 | what to do with old sofa dubai | Q | Blog Article |
 | 306 | how to dispose of garden furniture in dubai | Q | Blog Article |
 | 307 | outdoor furniture disposal dubai | Q | Blog Article |
+| 311 | how to dispose of a bed frame in dubai | Q | Blog Article |
 
 ---
 
@@ -145,6 +147,7 @@
 | 82 | where to dispose washing machine dubai | Q | Blog Article |
 | 83 | how to get rid of old ac unit dubai | Q | Blog Article |
 | 84 | responsible appliance disposal dubai | I | Blog Article |
+| 312 | how to dispose of an old oven in dubai | Q | Blog Article |
 
 ---
 

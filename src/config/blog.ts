@@ -94,6 +94,12 @@ import blogB63Cover from "@/assets/blog-b63-pool-table-removal-cover.webp";
 import blogB63Body from "@/assets/blog-b63-slate-section-moving-body.webp";
 import blogB64Cover from "@/assets/blog-b64-piano-disposal-cover.webp";
 import blogB64Body from "@/assets/blog-b64-piano-elevator-access-body.webp";
+import blogB65Cover from "@/assets/blog-b52-relocation-sorting-body.jpg";
+import blogB65Body from "@/assets/blog-b59-relocation-liquidation-body.webp";
+import blogB66Cover from "@/assets/blog-b25-appliance-disposal-cover.jpg";
+import blogB66Body from "@/assets/blog-b25-appliance-recovery-body.jpg";
+import blogB67Cover from "@/assets/blog-b32-declutter-home-cover.jpg";
+import blogB67Body from "@/assets/blog-b36-storage-declutter-body.jpg";
 
 export type BlogAuthor = {
   name: string;
@@ -8463,6 +8469,349 @@ export const blogPosts: BlogPost[] = [
       {
         href: "https://www.dm.gov.ae/dubai-municipality-promotes-waste-segregation-through-free-bulky-waste-disposal-service/",
         label: "Dubai Municipality — Bulky-waste segregation and collection guidance",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-bed-frame-in-dubai",
+    title: "How to Dispose of a Bed Frame in Dubai: Divans, Ottoman Lifts and Bunk Beds",
+    excerpt:
+      "A bed frame is easy to get rid of once it is in pieces. Identify the type, dismantle it in the right order, keep the hardware together and decide whether it is worth rehoming.",
+    category: "Guides & Tips",
+    coverImage: blogB65Cover,
+    coverImageAlt:
+      "Resident tagging dismantled wooden bed panels and boxes for moving or disposal in a Dubai villa garage",
+    publishedAt: "2026-09-24",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Bed Frame Disposal", "Ottoman Bed", "Bunk Bed Removal", "Furniture Dismantling"],
+    seoTitle: "How to Dispose of a Bed Frame in Dubai: Dismantle & Clear",
+    seoDescription:
+      "Disposing of a bed frame in Dubai? Learn how to dismantle divans, ottoman gas-lift beds and bunk beds safely, and which frames are worth rehoming.",
+    keyTakeaways: [
+      "Most bed frames leave a Dubai apartment far more easily in pieces than whole—dismantle before the crew or buyer arrives.",
+      "Ottoman storage beds use gas-lift struts that hold stored force; lower the base and follow the maker's removal method rather than cutting them.",
+      "A frame is only worth donating or selling with every bolt, bracket and slat; bag and tape the hardware to the headboard.",
+      "Upholstered divan bases that have sat under a mattress for years are usually a disposal item, not a donation.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a bed frame in Dubai?",
+        paragraphs: [
+          "Strip the mattress and bedding, identify the frame type, then take it apart in order—headboard, side rails, slats and centre support—bagging every bolt. Offer a sound, complete frame for reuse. Send broken timber, particleboard and metal to a bulky-item collection or removal crew, never to the chute room or basement.",
+          "Knowing how to dispose of a bed frame in Dubai is mostly about the step before disposal. A king-size frame carried out whole will catch on apartment door frames, scrape corridor walls and often will not fit a service lift diagonally. The same frame as a bundle of rails and a headboard goes down in one lift trip.",
+        ],
+        callout: {
+          type: "tip",
+          title: "Photograph it before you unscrew anything",
+          text: "Two photos—one of the assembled frame, one of the joints—tell a buyer, charity or removal crew exactly what they are dealing with, and help anyone who needs to rebuild it.",
+        },
+      },
+      {
+        heading: "Identify which kind of frame you have",
+        paragraphs: [
+          "The frame type decides the tools, the time and whether anyone will want it afterwards. Check underneath the mattress and around the legs before booking anything.",
+        ],
+        table: {
+          caption: "Common bed frames in Dubai homes and how they come apart",
+          headers: ["Frame type", "How it usually comes apart", "What to watch for"],
+          rows: [
+            ["Wooden slatted frame", "Headboard and footboard bolt to side rails; slats lift or roll out", "Cam fittings in particleboard strip easily—unscrew, don't force"],
+            ["Metal frame", "Bolted or push-fit rails; legs often unscrew", "Sharp edges and loose centre legs; tape bundles together"],
+            ["Divan base", "Usually two halves joined by clips, with a separate headboard", "Fabric bases are heavy for their size and rarely accepted for reuse"],
+            ["Ottoman (storage) bed", "Lifting platform held by gas-lift struts on a hinged frame", "Struts store force—never cut or unbolt them under load"],
+            ["Bunk or loft bed", "Top frame lifts off the lower frame; ladder and guard rails unbolt", "Needs two people; the top tier is awkward and unstable when loose"],
+          ],
+        },
+      },
+      {
+        heading: "Dismantle it in the right order",
+        paragraphs: [
+          "Work from the top down. Remove the mattress, then slats or the platform, then the centre support, then the side rails, and finally the headboard and footboard. Put every bolt, cam lock and bracket in one zip bag and tape it to the headboard. A frame without its hardware is almost impossible to rehome.",
+          "Ottoman beds deserve extra care. Lower the storage platform fully first; the gas-lift struts push outwards with real force when the lid is open. Use the manufacturer's instructions for releasing them—most are designed to be removed with the platform closed and supported. Bunk beds need a second person holding the top tier before the last bolts come out.",
+        ],
+        image: blogB65Body,
+        imageAlt:
+          "Crew member logging packed boxes and a flat-packed bed frame carton in a Dubai apartment hallway before collection",
+        imageCaption:
+          "A frame that is dismantled, bundled and labelled is far easier to rehome or load than one carried out whole.",
+      },
+      {
+        heading: "Decide whether the frame is worth rehoming",
+        paragraphs: [
+          "Solid wood and sturdy metal frames with complete hardware have a real second life—resale, a friend, or a charity that has agreed to take that specific item. Budget particleboard frames are a different story: once dismantled, the cam holes loosen and the frame rarely survives a second assembly. Be honest about that before offering it.",
+          "Upholstered divan bases and headboards that have been in daily use for years are usually refused for reuse on hygiene grounds, the same way used mattresses are. Treat them as disposal items and plan them into the same collection as the mattress. For a broader decision on reuse routes, see our guide on where to donate used furniture in Dubai.",
+        ],
+      },
+      {
+        heading: "Plan the collection around the building",
+        paragraphs: [
+          "Book the service lift and any move-out slot with building management before you arrange a pickup. Keep the dismantled pieces inside the apartment until the crew or buyer is at the door; rails leaning in a corridor tend to draw complaints and, in some towers, a warning from security.",
+          "If the mattress, bedside tables or a wardrobe are going too, clear them in the same visit. One access slot and one truck journey usually costs less than separate single-item pickups. Dubai Municipality offers a bulky-waste collection service in eligible areas, but developer-managed communities often run their own arrangements—confirm with your community before relying on it.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Do I need to keep the bolts if the frame is being thrown away?",
+        answer:
+          "Not for disposal itself, but keep them until the frame has left the building. Loose rails are easier to carry when bolted into pairs, and if a neighbour or buyer suddenly wants the frame, missing hardware ends that option. Loose metal fittings can go into the same collection as the frame.",
+      },
+      {
+        question: "Is a bunk bed harder to remove than a normal bed?",
+        answer:
+          "It takes longer rather than being difficult. The top frame, ladder and guard rails come off first, and the top tier must be held while the final bolts are released. Allow extra time and two people, and check the ceiling height and light fittings before lifting the upper frame clear.",
+      },
+      {
+        question: "Will a charity take a bed frame without the mattress?",
+        answer:
+          "Some do, if the frame is solid, complete and clean—but acceptance depends on the organisation's current needs and whether they can collect from your building. Send photos and dimensions first and wait for confirmation of the specific item before dismantling it for them.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-a-mattress-in-dubai",
+      "how-to-dispose-of-old-furniture-in-dubai",
+      "where-to-donate-furniture-dubai",
+    ],
+    serviceLink: {
+      href: "/services/furniture-removal",
+      label: "Book bed frame and bedroom furniture collection",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-promotes-waste-segregation-through-free-bulky-waste-disposal-service/",
+        label: "Dubai Municipality — Bulky-waste segregation and collection guidance",
+      },
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-launches-electronic-platform-for-exchange-of-recyclable-or-reusable-materials/",
+        label: "Dubai Municipality — Platform for exchanging reusable materials",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-old-oven-dubai",
+    title: "How to Dispose of an Old Oven or Cooker in Dubai: Gas, Wiring and Ownership Checks",
+    excerpt:
+      "An oven is rarely just unplugged and carried out. Confirm it is yours to remove, get the gas or hard-wired power safely isolated, then choose reuse or metal recovery.",
+    category: "Guides & Tips",
+    coverImage: blogB66Cover,
+    coverImageAlt:
+      "Two uniformed crew members moving a large kitchen appliance on a hand truck past a built-in oven in a Dubai apartment kitchen",
+    publishedAt: "2026-09-24",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Oven Disposal", "Gas Cooker", "Appliance Recycling", "Kitchen Appliances"],
+    seoTitle: "How to Dispose of an Old Oven in Dubai: Gas & Wiring Checks",
+    seoDescription:
+      "How to dispose of an old oven in Dubai: check ownership, get gas or hard-wired power safely isolated, prepare the cooker and choose reuse or metal recovery.",
+    keyTakeaways: [
+      "In rented homes, built-in ovens and hobs are usually the landlord's fittings—get written approval before removing one.",
+      "Gas cookers must be isolated and capped by the building's gas provider or a qualified technician, never by the resident.",
+      "Many built-in and range cookers are hard-wired to a cooker switch; an electrician should disconnect them and make the cable safe.",
+      "Once disconnected and emptied, a working oven can be resold; a broken one belongs in metal recovery, not the building's bin area.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an old oven in Dubai?",
+        paragraphs: [
+          "First confirm the oven is yours to remove, then have a qualified technician isolate the gas or electrical supply. Once it is disconnected and cool, take out racks and trays, measure the route and book the service lift. Resell or donate a working oven; send a broken one to appliance and metal recovery.",
+          "The disconnection step is what separates an oven from most other household items. A sofa can be lifted and carried; a cooker may be connected to piped gas or wired directly into the kitchen circuit. That is why it pays to plan how to dispose of an old oven in Dubai a few days ahead instead of on the morning of a move.",
+        ],
+        callout: {
+          type: "warning",
+          title: "If you smell gas, stop",
+          text: "Do not operate switches or try to tighten fittings. Leave the kitchen, ventilate if it is safe to do so and contact your building's gas provider or emergency services straight away.",
+        },
+      },
+      {
+        heading: "Check who owns the oven before anything is disconnected",
+        paragraphs: [
+          "In most Dubai rentals, a built-in oven, hob and extractor are part of the landlord's kitchen and appear on the move-in inventory. Taking one out—even to replace it with a better model—can become a deposit deduction at handover. Ask the landlord or agent in writing first, and agree who keeps the old unit.",
+          "A freestanding cooker you bought yourself is yours to sell or dispose of. If you are unsure which applies, the tenancy contract and inventory photos from move-in usually settle it.",
+        ],
+      },
+      {
+        heading: "Gas cookers: leave the disconnection to a qualified technician",
+        paragraphs: [
+          "Many towers supply cooking gas through a central piped system run by a building gas provider, while villas more often use cylinders. Either way, the supply should be isolated and the connection capped by the provider or a qualified gas technician. A hose pulled off by hand is a leak risk for you and the neighbours.",
+          "Gas cylinders do not travel with the cooker. Return them to your gas supplier under their arrangements; most removal crews will refuse a cylinder in a mixed bulky load, and LPG installations in Dubai fall under Dubai Civil Defence safety requirements.",
+        ],
+        table: {
+          caption: "Who should disconnect each type of oven or cooker",
+          headers: ["Cooker type", "Who disconnects it", "Removal notes"],
+          rows: [
+            ["Freestanding electric, plug-in", "The resident, at the socket", "Pull forward slowly—anti-tip brackets may hold the back"],
+            ["Built-in electric oven", "An electrician, at the cooker switch", "Held by screws through the frame into the cabinet housing"],
+            ["Range or freestanding gas cooker", "Gas provider or qualified gas technician", "Heavy; needs two people and a dolly"],
+            ["Gas hob with electric oven", "Both trades, in sequence", "Keep the worktop cut-out protected once the hob is out"],
+          ],
+        },
+      },
+      {
+        heading: "Electric and built-in ovens: isolate the circuit first",
+        paragraphs: [
+          "Plug-in ovens are simple. Many built-in ovens and larger cookers are instead hard-wired to a dedicated cooker switch, and the cable ends need to be terminated safely once the oven is out. That is an electrician's job, and it matters at handover: an exposed cable in an empty oven cavity is exactly what an inspector notices.",
+          "Built-in ovens slide out after the fixing screws inside the door frame are removed. Support the weight as it clears the housing—the door hinge side is heavier than it looks—and keep the cabinet edges protected.",
+        ],
+      },
+      {
+        heading: "Prepare the oven, then choose reuse or recovery",
+        paragraphs: [
+          "Remove racks, trays and loose glass shelves and pack them separately. Wipe out grease so nothing drips on the lift floor, tape the door closed and measure the oven against the kitchen door and service lift. Range cookers are heavy enough that a two-person carry on a dolly is the minimum.",
+          "A clean, working freestanding cooker can be sold or offered for reuse—send the model, age and photos, and confirm the buyer can collect through your building's loading bay. A broken oven is mostly steel with some glass and wiring. It should go to an appliance recovery route where those materials are separated, not to the basement bin area.",
+        ],
+        image: blogB66Body,
+        imageAlt:
+          "Technician working in an appliance recycling facility with sorted washing machines, fridges and bags of recovered metal and plastic",
+        imageCaption:
+          "An oven that cannot be reused is taken apart for its steel, wiring and glass at an appliance recovery facility.",
+      },
+    ],
+    faqs: [
+      {
+        question: "Will a removal crew take an oven that is still connected?",
+        answer:
+          "A responsible crew will not disconnect gas and will generally not rewire a hard-wired circuit. Arrange the gas provider or electrician before the collection date so the oven is free-standing and safe when the team arrives. If the timing is tight, ask whether the crew can come the same afternoon.",
+      },
+      {
+        question: "Does a microwave or countertop oven need the same process?",
+        answer:
+          "No. Countertop ovens and microwaves plug into a normal socket and can be unplugged and carried. Because they contain electronic components, send working units for reuse and non-working ones to an electronics or appliance recycling route rather than general household waste.",
+      },
+      {
+        question: "Is an old oven worth anything as scrap?",
+        answer:
+          "Usually very little to a householder. Its value is in the steel once separated, which a recovery facility handles at volume. The practical benefit of a proper route is that the oven is recycled rather than landfilled, and you are not left with it at the end of a move.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-old-fridge-in-dubai",
+      "where-to-dispose-washing-machine-dubai",
+      "how-to-get-security-deposit-back-dubai",
+    ],
+    serviceLink: {
+      href: "/services/appliance-removal",
+      label: "Arrange old oven and cooker collection",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-services/",
+        label: "Dubai Municipality — Household appliances and furniture disposal service",
+      },
+      {
+        href: "https://www.dcd.gov.ae/portal/en/services/",
+        label: "Dubai Civil Defence — Services and safety requirements",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-old-books-dubai",
+    title: "How to Dispose of Old Books in Dubai: Resale, Donation and Paper Recycling",
+    excerpt:
+      "Most book collections split three ways: copies someone will read again, copies only fit for paper recycling, and damaged ones. Sort first, then move them in small, liftable boxes.",
+    category: "Eco & Recycling",
+    coverImage: blogB67Cover,
+    coverImageAlt:
+      "Family sorting books, toys and electronics into labelled storage boxes in a Dubai Marina apartment living room",
+    publishedAt: "2026-09-24",
+    readingTime: "6 min read",
+    author: defaultAuthor,
+    tags: ["Old Books Disposal", "Book Donation", "Paper Recycling", "Home Decluttering"],
+    seoTitle: "How to Dispose of Old Books in Dubai: Sell, Donate, Recycle",
+    seoDescription:
+      "Clearing shelves? See how to dispose of old books in Dubai—which copies to sell or donate, what goes to paper recycling, and how to move heavy boxes.",
+    keyTakeaways: [
+      "Sort by condition first: readable copies, recycling-only copies, and damp or mouldy ones.",
+      "Second-hand buyers and donation points want clean pages and intact spines—outdated textbooks and old guides usually are not wanted.",
+      "Paperbacks go straight into paper recycling; remove plastic jackets and follow the recycler's rules on hardcover boards.",
+      "Books get heavy quickly—use small boxes and book the service lift for a large collection.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of old books in Dubai?",
+        paragraphs: [
+          "Sort them into three piles: books someone will genuinely read again, books only fit for paper recycling, and damp or mouldy copies. Sell or donate the first pile, take the second to paper recycling, and bag the third as general waste. Pack everything in small boxes—books become heavy surprisingly fast.",
+          "Working out how to dispose of old books in Dubai is less about finding a destination and more about sorting honestly. Most donation points are selective, and a box of mixed stock usually comes back or gets thrown away on your behalf.",
+        ],
+      },
+      {
+        heading: "Sort by condition, not by sentiment",
+        paragraphs: [
+          "A book worth passing on has clean pages, an intact spine and no smell. Check the inside covers too: the humidity of a closed storeroom, or a shelf next to an air-conditioning unit, can cause brown spotting and mould that is easy to miss on the outside. Mouldy books should not be donated or boxed alongside good ones.",
+          "Some categories rarely find a second reader: superseded school textbooks and exam guides, heavily annotated study copies, old travel guides and directories, and magazines. These are recycling material, whatever they cost new.",
+        ],
+        table: {
+          caption: "Where different kinds of books usually end up",
+          headers: ["Type of book", "Best route", "Why"],
+          rows: [
+            ["Popular fiction and non-fiction in good condition", "Resale, book swaps or donation", "Steady demand if the copy is clean"],
+            ["Children's picture and early-reader books", "Schools, nurseries or community donation", "High turnover; ask about condition standards first"],
+            ["Out-of-date textbooks and guides", "Paper recycling", "Content is superseded, so few will reuse them"],
+            ["Damp, mouldy or pest-damaged books", "Bagged general waste", "Can contaminate other books and paper recycling"],
+          ],
+        },
+      },
+      {
+        heading: "Where good-condition books can go",
+        paragraphs: [
+          "Second-hand bookshops, school and nursery libraries, community book swaps and workplace reading corners all take books—but each has its own limits. Call or message first with photos of the spines. A school may want children's titles only; a bookshop may buy a handful of titles from a box of fifty.",
+          "For a whole collection, a single listing in a local community group with one pickup date often moves more books than several trips to different drop-off points. Set a deadline and send what is left to recycling afterwards. Our guide on where to donate clothes in Dubai uses the same condition-first logic for textiles.",
+        ],
+      },
+      {
+        heading: "Recycling the books nobody will read",
+        paragraphs: [
+          "Paperbacks can go into paper recycling at community recycling points or municipal collection centres. Remove plastic jackets, stickers and anything that is not paper. Hardcover boards and bindings are treated differently by some recyclers, so follow the instructions at the collection point.",
+          "Personal notebooks, diaries and anything with account numbers or ID details should be shredded before recycling rather than donated with the rest.",
+        ],
+        image: blogB67Body,
+        imageAlt:
+          "Resident sorting books and household items into donate, recycle and junk boxes in a Dubai apartment storeroom",
+        imageCaption:
+          "Sorting books by condition before boxing them saves carrying the same load twice.",
+      },
+      {
+        heading: "Moving a large collection out of a tower",
+        paragraphs: [
+          "Book boxes fail from the bottom. Use small, strong boxes that one person can lift comfortably, tape the base twice and keep them off a wet balcony floor. A full wall of shelves can easily fill dozens of boxes, so book the service lift rather than making trips in the passenger lift.",
+          "If the shelves themselves are going, dismantle them after the books are packed and clear everything in one visit. A clearance crew can take the recycling-only boxes and the bookcases together while you keep or deliver the books worth passing on.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can books go in the paper recycling bin?",
+        answer:
+          "Paperbacks generally can, once plastic covers and stickers are removed. Hardcovers are accepted by some collection points and not others because of the boards and glue, so check the signage. Wet or mouldy books should not go in paper recycling, as they can spoil a whole batch.",
+      },
+      {
+        question: "Do schools in Dubai accept donated books?",
+        answer:
+          "Some do, particularly for children's fiction and early readers, but it depends on the school's library policy and space. Contact the librarian with a list or photos before dropping anything off, and do not leave unannounced boxes at a school gate or reception.",
+      },
+      {
+        question: "What should I do with old personal notebooks and documents?",
+        answer:
+          "Shred anything carrying names, addresses, account numbers or ID details, then recycle the shredded paper. Keep these out of donation boxes entirely. For a large quantity of paperwork, a document shredding service is quicker than a home shredder.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-declutter-your-home-dubai",
+      "where-to-donate-clothes-in-dubai",
+      "storeroom-clearance-dubai",
+    ],
+    serviceLink: {
+      href: "/services/household-junk-removal",
+      label: "Clear books, bookcases and household clutter",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-designs-recyclable-materials-collection-center-using-cargo-shipping-containers/",
+        label: "Dubai Municipality — Recyclable materials collection centres",
+      },
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-launches-electronic-platform-for-exchange-of-recyclable-or-reusable-materials/",
+        label: "Dubai Municipality — Platform for exchanging reusable materials",
       },
     ],
   },

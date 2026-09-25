@@ -2,7 +2,7 @@
 
 > **Full Documentation Location:** [`docs/seo/roadmap.md`](file:///d:/Projects/Dubai/rasheed/docs/seo/roadmap.md)  
 > **Objective:** Systematically establish topical authority, capture high-intent commercial and informational searches, and funnel organic traffic to WhatsApp/Call conversions across Dubai.  
-> **Based on:** 310 Target Keywords & 20 Topic Clusters.
+> **Based on:** 313 Target Keywords & 20 Topic Clusters.
 
 ---
 
@@ -261,6 +261,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B62 is distinguished from B22/B23 by glass identification, face-and-edge protection and an upright A-frame route. B63 is distinguished from B54 by slate-bed identification, ordered table dismantling and levelling-component control. B64 is distinguished from general furniture donation and moving guides by musical-condition triage, piano-dolly handling and upright-versus-grand access planning.
 
+### Track 18: Bedroom, Kitchen & Bookshelf Clear-Outs (Clusters 2, 3 & 4)
+*Covers three everyday items whose disposal depends on a preparation step first: dismantling a bed frame, isolating an oven's gas or power supply, and sorting a book collection by condition.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B65** | *How to Dispose of a Bed Frame in Dubai: Divans, Ottoman Lifts and Bunk Beds* | `how to dispose of a bed frame in dubai` | `bed frame disposal dubai`, `bed removal dubai`, `broken furniture disposal dubai` | Q | `/services/furniture-removal` |
+| **B66** | *How to Dispose of an Old Oven or Cooker in Dubai: Gas, Wiring and Ownership Checks* | `how to dispose of an old oven in dubai` | `oven removal dubai`, `responsible appliance disposal dubai`, `old appliance removal dubai` | Q | `/services/appliance-removal` |
+| **B67** | *How to Dispose of Old Books in Dubai: Resale, Donation and Paper Recycling* | `how to dispose of old books in dubai` | `how to declutter your home dubai`, `clear out old stuff dubai` | Q | `/services/household-junk-removal` |
+
+**Overlap check (content-rules §16):** B65 is distinguished from B22 (general furniture and wardrobes) and B24 (mattresses) by frame-type identification, gas-lift ottoman struts, bunk-bed sequencing and hardware retention for reuse. B66 is distinguished from B25 (fridge refrigerant) and B47 (washing machine draining) by landlord fitting ownership, gas isolation by the provider, and hard-wired cooker-switch disconnection. B67 is distinguished from B57 (textiles) and B32/B34 (general decluttering routes) by book condition triage, humidity and mould checks, paper-recycling preparation and box-weight handling.
+
 ---
 
 ## Publishing Cadence & Execution Plan
@@ -279,4 +290,5 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 12. **Batch 12 (Articles B56–B58):** Industrial Unit Handover, Textile Routes & Outdoor Furniture — **100% Completed (3/3 Live)**.
 13. **Batch 13 (Articles B59–B61):** Expat Relocation Liquidation, Bulky Dumping Legality & E-Waste Bans — **100% Completed (3/3 Live)**.
 14. **Batch 14 (Articles B62–B64):** Fragile & Specialist Bulky Items — **100% Completed (3/3 Live)**.
+15. **Batch 15 (Articles B65–B67):** Bedroom, Kitchen & Bookshelf Clear-Outs — **100% Completed (3/3 Live)**.
 
