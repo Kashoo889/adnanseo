@@ -100,6 +100,12 @@ import blogB66Cover from "@/assets/blog-b25-appliance-disposal-cover.jpg";
 import blogB66Body from "@/assets/blog-b25-appliance-recovery-body.jpg";
 import blogB67Cover from "@/assets/blog-b32-declutter-home-cover.jpg";
 import blogB67Body from "@/assets/blog-b36-storage-declutter-body.jpg";
+import blogB68Cover from "@/assets/blog-b31-room-declutter-cover.jpg";
+import blogB68Body from "@/assets/blog-b34-charity-sorting-body.jpg";
+import blogB69Cover from "@/assets/blog-b35-garage-clearance-cover.jpg";
+import blogB69Body from "@/assets/blog-b35-garage-sorting-body.jpg";
+import blogB70Cover from "@/assets/blog-b30-construction-waste-cover.jpg";
+import blogB70Body from "@/assets/blog-b30-rubble-sorting-body.jpg";
 
 export type BlogAuthor = {
   name: string;
@@ -8812,6 +8818,339 @@ export const blogPosts: BlogPost[] = [
       {
         href: "https://www.dm.gov.ae/dubai-municipality-launches-electronic-platform-for-exchange-of-recyclable-or-reusable-materials/",
         label: "Dubai Municipality — Platform for exchanging reusable materials",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-baby-items-dubai",
+    title: "How to Dispose of Baby Items in Dubai: Cots, Strollers, Car Seats and Outgrown Gear",
+    excerpt:
+      "Baby gear piles up fast and leaves slowly. Sort it by safety before condition, pass on what is complete and clean, and keep car seats and worn cot mattresses out of the donation pile.",
+    category: "Guides & Tips",
+    coverImage: blogB68Cover,
+    coverImageAlt:
+      "Resident and home organiser reviewing a decluttering checklist beside stacked keep, donate and trash boxes in a Dubai villa living room",
+    publishedAt: "2026-09-25",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Baby Items Disposal", "Car Seat Safety", "Stroller Donation", "Kids' Gear Clear-Out"],
+    seoTitle: "How to Dispose of Baby Items in Dubai: Donate, Sell or Clear",
+    seoDescription:
+      "Outgrown cots, strollers and car seats? Learn how to dispose of baby items in Dubai—what is safe to pass on, what to keep out of donations and what to clear.",
+    keyTakeaways: [
+      "Judge baby gear on safety first: a car seat that is expired, recalled or has been in a collision should never be passed on.",
+      "Cots, strollers and high chairs are only useful to someone else when every part, screw and strap is there.",
+      "Used cot mattresses and changing mats are usually refused for reuse on hygiene grounds, like adult mattresses.",
+      "Remove batteries from ride-on toys and electronic gear before anything goes into a bulky collection.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of baby items in Dubai?",
+        paragraphs: [
+          "Sort baby gear by safety first and condition second. Pass on clean, complete strollers, cots and high chairs with their parts and manuals. Never donate a car seat that is expired, recalled or has been in a collision. Bundle broken plastic toys, worn mattresses and incomplete gear for bulky-item collection or recycling.",
+          "Knowing how to dispose of baby items in Dubai matters most at two moments: when a child outgrows the nursery, and when a family is packing up to leave the country. Both tend to produce the same pile—a cot, a travel system, a high chair, a playpen, bags of toys—and most of it is bulky rather than heavy, which makes it awkward in a lift.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Car seats are the one item not to guess about",
+          text: "A car seat can look perfect and still be unsafe. If you cannot confirm its full history—no collisions, within the maker's expiry date, not subject to a recall—take it out of the donation pile and dispose of it.",
+        },
+      },
+      {
+        heading: "Check safety before condition",
+        paragraphs: [
+          "Most car seats carry a manufacture date and often an expiry or 'do not use after' date on a label or moulded into the shell. Plastics age, and Dubai summers spent in a parked car do not help. Check the model against the maker's recall notices too. A seat that has been in a collision, even a minor one, should be retired whatever it looks like.",
+          "Cots deserve the same scrutiny. Missing slats, cracked side rails or a lost bolt make a cot unsafe, and older drop-side designs are no longer considered safe in many markets. Strollers need working brakes, an intact harness and a frame that locks open firmly. If you would hesitate to use it for your own child, do not hand it to someone else's.",
+        ],
+        table: {
+          caption: "When common baby gear can be passed on—and when it should be cleared",
+          headers: ["Item", "Pass it on if", "Clear it if"],
+          rows: [
+            ["Car seat", "You know its full history, it is within its expiry date and not recalled", "It is expired, recalled, crash-involved or its history is unknown"],
+            ["Cot or crib", "Every slat, bolt and base panel is present and the frame is solid", "Parts are missing, rails are cracked or it is a drop-side design"],
+            ["Stroller or pram", "Brakes, harness and folding lock all work", "The frame is bent, the fabric is torn or the brakes fail"],
+            ["High chair", "Straps and tray lock securely and it cleans up fully", "The harness is missing or the plastic is cracked"],
+            ["Cot mattress or changing mat", "Rarely—most organisations will not take used ones", "It has been in regular use, whatever it looks like"],
+          ],
+        },
+      },
+      {
+        heading: "Where good-condition baby gear can go",
+        paragraphs: [
+          "The fastest route is usually closest to home. Parent groups inside villa communities and tower residents' chats move strollers, bouncers and high chairs quickly because the buyer can collect on foot. Resale works for well-known brands; a mid-range travel system rarely justifies weeks of messages.",
+          "Charities and nurseries can be an option, but they accept what they can use and store, not everything that is offered. Send photos and a list first and wait for a yes on specific items before loading the car. Clothes are simpler—our guide on where to donate clothes in Dubai covers bins and drop-off points.",
+        ],
+        image: blogB68Body,
+        imageAlt:
+          "Volunteers sorting donated kitchenware, furniture and household goods at a charity donation sorting centre in Dubai",
+        imageCaption:
+          "Donation centres sort every item on arrival, so incomplete or unsafe gear often ends up being thrown away on your behalf.",
+      },
+      {
+        heading: "Clearing the bulky pieces nobody wants",
+        paragraphs: [
+          "Dismantle cots and playpens before collection day, tape the bolts to a side panel and flatten anything that folds. Ride-on electric cars, swings and bouncers with motors contain batteries—take them out and send them to battery or electronics recycling rather than leaving them inside a bulky load.",
+          "Villa gardens add their own layer: plastic slides, playhouses, sandpits and outgrown bikes. Faded, sun-brittle plastic cracks when lifted, so treat it as disposal rather than reuse. Book the service lift if you are in a tower, and clear the nursery, the garden toys and the storeroom in one visit rather than three.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Is it worth selling baby gear or should I just donate it?",
+        answer:
+          "Sell premium strollers, travel systems and branded high chairs that are nearly new—they hold value and sell quickly in community groups. Everyday items such as bath seats, bouncers and bottles rarely sell for enough to justify the effort, so pass them to friends or a confirmed donation point instead.",
+      },
+      {
+        question: "What should I do with a used breast pump or feeding equipment?",
+        answer:
+          "Many organisations will not accept personal-use feeding equipment for hygiene reasons, so check before offering it. Unused, sealed accessories are easier to pass on. An electric pump motor that is not going to be reused belongs in electronics recycling rather than general waste.",
+      },
+      {
+        question: "Can outgrown toys go in the same collection as furniture?",
+        answer:
+          "Yes. Broken plastic toys, playhouses and ride-ons can be collected alongside a cot or wardrobe in one visit. Separate anything with batteries first, and keep toys that are clean and complete aside for friends, nurseries or a donation point that has agreed to take them.",
+      },
+    ],
+    relatedSlugs: [
+      "where-to-donate-clothes-in-dubai",
+      "what-to-do-with-unwanted-household-items-dubai",
+      "how-to-dispose-of-a-bed-frame-in-dubai",
+    ],
+    serviceLink: {
+      href: "/services/household-junk-removal",
+      label: "Clear outgrown baby and kids' gear in one visit",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-launches-electronic-platform-for-exchange-of-recyclable-or-reusable-materials/",
+        label: "Dubai Municipality — Platform for exchanging reusable materials",
+      },
+      {
+        href: "https://www.emiratesrc.ae/",
+        label: "Emirates Red Crescent — donations and collection points",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-old-bicycle-dubai",
+    title: "How to Dispose of an Old Bicycle in Dubai: Bikes, E-Bikes and Batteries",
+    excerpt:
+      "A bicycle is either worth riding, worth stripping for parts or scrap metal. Work out which, pull the battery out of any e-bike or e-scooter, and clear it with the rest of the garage.",
+    category: "Guides & Tips",
+    coverImage: blogB69Cover,
+    coverImageAlt:
+      "Bicycles hung on a wall rack beside golf bags and labelled storage shelves in a Dubai villa garage",
+    publishedAt: "2026-09-25",
+    readingTime: "6 min read",
+    author: defaultAuthor,
+    tags: ["Bicycle Disposal", "E-Bike Batteries", "E-Scooter Disposal", "Garage Clear-Out"],
+    seoTitle: "How to Dispose of an Old Bicycle in Dubai: Bikes & E-Bikes",
+    seoDescription:
+      "How to dispose of an old bicycle in Dubai: decide if it is worth riding, sell or strip it for parts, and remove e-bike and e-scooter batteries before scrapping.",
+    keyTakeaways: [
+      "Heat, humidity and salt air ruin tyres, chains and brakes—but a sound frame is often still worth passing on.",
+      "E-bikes and e-scooters must have their lithium battery removed and recycled separately; never leave one in a bulky pile.",
+      "A swollen, cracked or overheated battery is a fire risk—stop charging it and get advice from an e-waste recycler.",
+      "Bikes in building bike rooms need proof of ownership before a crew or security will cut a lock.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an old bicycle in Dubai?",
+        paragraphs: [
+          "Decide whether the bike still rides. A working or repairable bicycle can be sold, donated or passed to a bike shop for parts. A rusted or broken frame is scrap metal and goes with a bulky-item collection. For e-bikes and e-scooters, remove the lithium battery first and send it to battery or e-waste recycling.",
+          "Most bikes we collect are not broken—they are forgotten. A bike parked on a Marina balcony or in a villa garage through two summers comes out with perished tyres and a rusted chain. Working out how to dispose of an old bicycle in Dubai starts with an honest look at whether it is the bike or just the consumables that have failed.",
+        ],
+      },
+      {
+        heading: "Does it ride, or is it scrap?",
+        paragraphs: [
+          "Tyres, tubes, chains, brake pads and cables are cheap to replace. Frames, forks and wheels are not. If the frame is straight, uncracked and not badly corroded, the bike has a second life even if it cannot be ridden today. Check aluminium frames for cracks near welds and steel frames for rust bubbling under the paint.",
+        ],
+        table: {
+          caption: "Matching the bike's condition to the right route",
+          headers: ["Condition", "Best route", "Notes"],
+          rows: [
+            ["Rides well, needs a clean", "Sell or give away locally", "Community groups move adult and kids' bikes quickly"],
+            ["Flat tyres, rusty chain, sound frame", "Sell as-is or donate to someone who repairs bikes", "Be clear it needs servicing"],
+            ["Good components, damaged frame", "Offer to a bike shop or hobbyist for parts", "Wheels, groupsets and saddles have value"],
+            ["Bent, cracked or heavily corroded", "Scrap metal via bulky-item collection", "Frames are recovered as steel or aluminium"],
+          ],
+        },
+      },
+      {
+        heading: "E-bikes and e-scooters: take the battery out first",
+        paragraphs: [
+          "The battery is the part that changes the job. Lithium-ion packs should not go into general waste, a building bin room or a mixed bulky load, where they can be crushed or punctured. Most removable packs unlock with the bike key or a latch; integrated batteries may need the maker's instructions or a bike shop to remove them.",
+          "Take the battery to an electronics or battery recycling point and send the frame as scrap or for parts. Our guide on where to recycle electronics in Dubai lists the usual routes. Chargers go with the battery, not the bike.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Swollen or damaged battery?",
+          text: "Stop charging it, keep it out of the sun and away from anything flammable, and do not try to open or puncture it. Ask an e-waste or battery recycler how they want it delivered before moving it.",
+        },
+      },
+      {
+        heading: "Getting it out of a tower or a villa garage",
+        paragraphs: [
+          "Basement bike rooms are where old bikes go to be forgotten. If yours is locked and the key is long gone, speak to security before anyone reaches for bolt cutters—most buildings want proof that the bike is yours, such as a photo of you with it or the purchase receipt. Many also run periodic clear-outs of untagged bikes, so reclaim yours before that notice goes up.",
+          "For the lift, turn the handlebars in line with the frame, remove the pedals and drop the saddle. In a villa, bikes usually leave alongside the rest of the garage—old gym equipment, boxes, garden tools—and one collection for the lot beats separate trips.",
+        ],
+        image: blogB69Body,
+        imageAlt:
+          "Uniformed crew carrying an old elliptical trainer and labelled boxes from a villa garage to a removal truck in Dubai",
+        imageCaption:
+          "Bikes rarely leave alone—they usually go in the same load as the rest of the garage clear-out.",
+      },
+    ],
+    faqs: [
+      {
+        question: "Will a bike shop take my old bicycle?",
+        answer:
+          "Some will take a bike for parts, especially if it has good wheels or components, and a few run trade-in offers when you buy a new one. It depends entirely on the shop. Send photos first rather than turning up with a bike they then have to dispose of themselves.",
+      },
+      {
+        question: "Can I leave an old bike next to the building's bins?",
+        answer:
+          "No. A bike left by the bins or in a corridor is treated as abandoned bulky waste, and buildings can pass the cost or a warning back to the resident. Arrange a proper collection or a buyer, and keep the bike inside your unit or storage until it is picked up.",
+      },
+      {
+        question: "What happens to a scrapped bicycle?",
+        answer:
+          "Steel and aluminium frames, wheels and components are recovered as scrap metal, while tyres, tubes and saddles are separated out as they cannot be processed with the metal. Batteries from e-bikes should never reach this stage—they need to go to battery recycling before the frame is scrapped.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-gym-equipment-in-dubai",
+      "where-to-recycle-electronics-in-dubai",
+      "garage-clearance-dubai",
+    ],
+    serviceLink: {
+      href: "/services/mattress-bulky-item-removal",
+      label: "Arrange old bicycle and bulky-item collection",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/community/public-cleanliness/",
+        label: "Dubai Municipality — Public cleanliness and bulky waste guidance",
+      },
+      {
+        href: "https://www.dm.gov.ae/help-and-support/",
+        label: "Dubai Municipality — Recycling centres and locations",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-old-bathtub-dubai",
+    title: "How to Dispose of an Old Bathtub in Dubai: Acrylic, Steel and Cast-Iron Tubs",
+    excerpt:
+      "A bathtub is part of the building until a plumber says otherwise. Get approval, isolate the water, identify the tub material and plan whether it leaves whole or in pieces.",
+    category: "Guides & Tips",
+    coverImage: blogB70Cover,
+    coverImageAlt:
+      "Two workers in hard hats carrying a bulk bag of broken tiles from a villa renovation to a waste truck in Dubai",
+    publishedAt: "2026-09-25",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Bathtub Disposal", "Bathroom Renovation", "Sanitaryware Removal", "Renovation Waste"],
+    seoTitle: "How to Dispose of an Old Bathtub in Dubai: Remove & Clear",
+    seoDescription:
+      "Replacing a bath? How to dispose of an old bathtub in Dubai—building approval, plumbing isolation, acrylic vs cast-iron removal and where the debris goes.",
+    keyTakeaways: [
+      "In towers and managed communities, bathroom works usually need building-management approval before the old tub comes out.",
+      "Water isolation and waste-pipe disconnection are a plumber's job; whirlpool tubs also need an electrician to isolate the pump circuit.",
+      "A magnet tells you most of what you need: acrylic is light and non-magnetic, steel and cast iron are magnetic—and cast iron is very heavy.",
+      "Tubs, toilets, basins and tile debris are renovation waste—they belong with a construction-waste route, not the building's bin room.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an old bathtub in Dubai?",
+        paragraphs: [
+          "Get the water isolated and the waste pipe disconnected by a plumber, then identify the tub material. Acrylic and steel baths can usually be carried out whole; cast-iron tubs are often broken up on site. Bag the tiles and ceramic separately and send everything to construction-waste recovery, never the building bins.",
+          "Working out how to dispose of an old bathtub in Dubai is mostly about what happens before the tub moves. A bath is fixed into the building—plumbed, sealed, often tiled in on three sides—so removing it touches plumbing, waterproofing and building rules as well as waste disposal.",
+        ],
+      },
+      {
+        heading: "Before anything moves: ownership and building approval",
+        paragraphs: [
+          "In a rental, the bathtub is the landlord's fitting. Replacing it—or converting it to a shower—needs written approval, or it can resurface as a deduction at handover. Owners have more freedom but not complete freedom: most towers and managed communities require approval from building management or the owners' association for bathroom works, with set working hours and a debris route.",
+          "Ask for those rules early. They usually decide when the noisy part of the job can happen, which lift the debris uses, and whether bags can wait in the corridor. They rarely allow the last one.",
+        ],
+      },
+      {
+        heading: "Identify what the tub is made of",
+        paragraphs: [
+          "Hold a fridge magnet against the side of the tub. If it does not stick, the bath is almost certainly acrylic or another plastic. If it sticks, it is enamelled steel or cast iron—tap it: steel rings slightly hollow, cast iron sounds dull and solid. That distinction matters because a cast-iron bath can weigh well over a hundred kilograms empty.",
+        ],
+        table: {
+          caption: "Common bathtub materials and how each one usually leaves",
+          headers: ["Tub type", "How to tell", "How it usually leaves"],
+          rows: [
+            ["Acrylic", "Magnet does not stick; feels warm and flexes slightly", "Whole, carried by two people once the panel and seal are off"],
+            ["Enamelled steel", "Magnet sticks; thin, slightly hollow sound", "Whole in most cases; edges can be sharp if chipped"],
+            ["Cast iron", "Magnet sticks; very heavy, dull sound when tapped", "Often broken into sections on site under cover"],
+            ["Whirlpool or jet tub", "Pump, jets and control panel", "Electrics isolated first, then removed like acrylic"],
+          ],
+        },
+      },
+      {
+        heading: "Taking the old bath out without damaging the room",
+        paragraphs: [
+          "A plumber isolates the water, disconnects the taps, waste and overflow, and caps the supply. Whirlpool baths need an electrician to isolate and make safe the pump circuit first. Then the sealant is cut, the bath panel removed and any tiles overlapping the rim taken off—tubs are often bedded on mortar or a frame, and the edge may run under the wall tiles.",
+          "Protect the floor drain and the waterproofing membrane; the new bath or shower tray will depend on both. Breaking a cast-iron tub means eye and hearing protection, a heavy cover over the bath to contain fragments, and doing it within the building's permitted noise hours.",
+        ],
+        callout: {
+          type: "tip",
+          title: "Cap and cover the drain first",
+          text: "Plug or tape over the waste outlet before any breaking or tile removal starts. Grout, mortar and chips washed into the stack cause blockages that surface long after the renovation is done.",
+        },
+      },
+      {
+        heading: "Where the bathtub and bathroom debris go",
+        paragraphs: [
+          "A bath removed during renovation is construction and demolition waste, not household junk, so it should not go to the chute room or community bins. Steel and cast-iron tubs are recovered as scrap metal. Acrylic has little recycling value and is usually disposed of as mixed waste. Old toilets and basins are ceramic, which is not recycled with glass—it goes with tiles and rubble as inert material.",
+          "Keep the streams apart as the job progresses: metal tub, bagged tiles and ceramic, and packaging from the new fittings. Sorted loads are easier to take to the right facility. Our guide on how to dispose of construction waste in Dubai explains how renovation debris is handled more broadly.",
+        ],
+        image: blogB70Body,
+        imageAlt:
+          "Construction and demolition waste recovery centre in Dubai with separate bays for ceramic tiles, concrete rubble, scrap metal and timber",
+        imageCaption:
+          "Ceramic sanitaryware and tiles go to the inert bays, while steel and cast-iron tubs join the scrap metal.",
+      },
+    ],
+    faqs: [
+      {
+        question: "Can I sell or reuse an old bathtub?",
+        answer:
+          "Freestanding cast-iron and roll-top baths in good condition do attract buyers, as restoration pieces. Standard built-in acrylic or steel tubs rarely do—they are sized to the old bathroom and often chipped or stained. List only if the bath is freestanding or unusually good, and be clear the buyer must arrange collection.",
+      },
+      {
+        question: "Will the company installing the new bath take the old one away?",
+        answer:
+          "Sometimes, but do not assume it. Many fit-out contractors quote removal and disposal separately, and some leave the old tub and bagged tiles for the owner to clear. Ask for debris removal to be listed in the quote, or arrange a collection for the day the old bath comes out.",
+      },
+      {
+        question: "Do I need to remove the old toilet and basin at the same time?",
+        answer:
+          "Not necessarily, but most bathroom refits replace them together, and one collection for the tub, sanitaryware and tile debris is simpler than several. If only the bath is being changed, keep the ceramic intact and in use—a toilet removed unnecessarily adds plumbing work and waste.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-construction-waste-dubai",
+      "renovation-cleanup-checklist-dubai",
+      "how-to-get-security-deposit-back-dubai",
+    ],
+    serviceLink: {
+      href: "/services/villa-apartment-cleanouts",
+      label: "Clear old bathroom fittings and renovation leftovers",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/municipality-business/waste-department-technical-guidelines-2/",
+        label: "Dubai Municipality — Waste technical guidelines",
+      },
+      {
+        href: "https://www.dm.gov.ae/municipality-business/waste-department-2/",
+        label: "Dubai Municipality — Waste Management Department",
       },
     ],
   },

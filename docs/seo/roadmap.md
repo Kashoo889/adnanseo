@@ -2,7 +2,7 @@
 
 > **Full Documentation Location:** [`docs/seo/roadmap.md`](file:///d:/Projects/Dubai/rasheed/docs/seo/roadmap.md)  
 > **Objective:** Systematically establish topical authority, capture high-intent commercial and informational searches, and funnel organic traffic to WhatsApp/Call conversions across Dubai.  
-> **Based on:** 313 Target Keywords & 20 Topic Clusters.
+> **Based on:** 316 Target Keywords & 20 Topic Clusters.
 
 ---
 
@@ -272,6 +272,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B65 is distinguished from B22 (general furniture and wardrobes) and B24 (mattresses) by frame-type identification, gas-lift ottoman struts, bunk-bed sequencing and hardware retention for reuse. B66 is distinguished from B25 (fridge refrigerant) and B47 (washing machine draining) by landlord fitting ownership, gas isolation by the provider, and hard-wired cooker-switch disconnection. B67 is distinguished from B57 (textiles) and B32/B34 (general decluttering routes) by book condition triage, humidity and mould checks, paper-recycling preparation and box-weight handling.
 
+### Track 19: Family Gear, Bicycles & Bathroom Refits (Clusters 10, 11 & 13)
+*Covers three items people keep far longer than they use: outgrown baby gear with safety limits on reuse, bicycles and e-bikes with batteries to separate, and bathtubs that are fixed into the building.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B68** | *How to Dispose of Baby Items in Dubai: Cots, Strollers, Car Seats and Outgrown Gear* | `how to dispose of baby items in dubai` | `where to donate used items dubai`, `where to donate clothes in dubai` | Q | `/services/household-junk-removal` |
+| **B69** | *How to Dispose of an Old Bicycle in Dubai: Bikes, E-Bikes and Batteries* | `how to dispose of an old bicycle in dubai` | `bulky item removal dubai`, `single item junk removal dubai` | Q | `/services/mattress-bulky-item-removal` |
+| **B70** | *How to Dispose of an Old Bathtub in Dubai: Acrylic, Steel and Cast-Iron Tubs* | `how to dispose of an old bathtub in dubai` | `renovation debris disposal dubai`, `how to dispose of construction waste dubai` | Q | `/services/villa-apartment-cleanouts` |
+
+**Overlap check (content-rules §16):** B68 is distinguished from B34 (general unwanted household items) and B57 (textiles) by car-seat expiry and collision history, cot and stroller safety triage, and hygiene limits on cot mattresses. B69 is distinguished from B54 (gym equipment) and B35 (garage clearance) by ride-or-scrap frame assessment, lithium e-bike and e-scooter battery separation, and bike-room ownership checks. B70 is distinguished from B30 (general construction debris) and B40 (renovation cleanup) by tub-material identification, plumbing and whirlpool isolation, and cast-iron break-up versus whole removal.
+
 ---
 
 ## Publishing Cadence & Execution Plan
@@ -291,4 +302,5 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 13. **Batch 13 (Articles B59–B61):** Expat Relocation Liquidation, Bulky Dumping Legality & E-Waste Bans — **100% Completed (3/3 Live)**.
 14. **Batch 14 (Articles B62–B64):** Fragile & Specialist Bulky Items — **100% Completed (3/3 Live)**.
 15. **Batch 15 (Articles B65–B67):** Bedroom, Kitchen & Bookshelf Clear-Outs — **100% Completed (3/3 Live)**.
+16. **Batch 16 (Articles B68–B70):** Family Gear, Bicycles & Bathroom Refits — **100% Completed (3/3 Live)**.
 

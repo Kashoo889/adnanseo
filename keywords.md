@@ -1,7 +1,7 @@
 # Dubai Junk Collection — Master Keyword Database
 
 > **Full Documentation Location:** [`docs/seo/keywords.md`](file:///d:/Projects/Dubai/rasheed/docs/seo/keywords.md)  
-> **Source:** SEO Keyword Research Report plus approved content-gap expansion (313 Target Keywords across 20 Clusters)
+> **Source:** SEO Keyword Research Report plus approved content-gap expansion (316 Target Keywords across 20 Clusters)
 > **Rule:** Every keyword has a single designated destination URL/page type to prevent cannibalization.
 
 ---
@@ -288,6 +288,7 @@
 | 308 | how to dispose of a large mirror in dubai | Q | Blog Article |
 | 309 | how to dispose of a pool table in dubai | Q | Blog Article |
 | 310 | how to dispose of old piano in dubai | Q | Blog Article |
+| 315 | how to dispose of an old bicycle in dubai | Q | Blog Article |
 
 ---
 
@@ -306,6 +307,7 @@
 | 176 | skip alternative junk removal dubai | C | New Service Page (`/services/construction-waste-removal`) |
 | 177 | how to dispose of construction waste dubai | Q | Blog Article |
 | 178 | renovation cleanup checklist dubai | I | Blog Article |
+| 316 | how to dispose of an old bathtub in dubai | Q | Blog Article |
 
 ---
 
@@ -350,6 +352,7 @@
 | 303 | where to donate clothes in dubai | Q | Blog Article |
 | 304 | clothes donation bins dubai | L | Blog Article |
 | 305 | textile recycling dubai | I | Blog Article |
+| 314 | how to dispose of baby items in dubai | Q | Blog Article |
 
 ---
 
