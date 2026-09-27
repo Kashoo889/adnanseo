@@ -2,7 +2,7 @@
 
 > **Full Documentation Location:** [`docs/seo/roadmap.md`](file:///d:/Projects/Dubai/rasheed/docs/seo/roadmap.md)  
 > **Objective:** Systematically establish topical authority, capture high-intent commercial and informational searches, and funnel organic traffic to WhatsApp/Call conversions across Dubai.  
-> **Based on:** 316 Target Keywords & 20 Topic Clusters.
+> **Based on:** 319 Target Keywords & 20 Topic Clusters.
 
 ---
 
@@ -283,6 +283,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B68 is distinguished from B34 (general unwanted household items) and B57 (textiles) by car-seat expiry and collision history, cot and stroller safety triage, and hygiene limits on cot mattresses. B69 is distinguished from B54 (gym equipment) and B35 (garage clearance) by ride-or-scrap frame assessment, lithium e-bike and e-scooter battery separation, and bike-room ownership checks. B70 is distinguished from B30 (general construction debris) and B40 (renovation cleanup) by tub-material identification, plumbing and whirlpool isolation, and cast-iron break-up versus whole removal.
 
+### Track 20: Household Fixtures, Garden Play & Aquariums (Clusters 4, 7 & 10)
+*Covers three items where something other than the object decides the job: a supplier who may own the water dispenser, springs under tension in a trampoline, and live fish and water in an aquarium.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B71** | *How to Dispose of a Water Dispenser in Dubai: Supplier Units, Bottles and Draining* | `how to dispose of a water dispenser in dubai` | `responsible appliance disposal dubai`, `old appliance removal dubai` | Q | `/services/appliance-removal` |
+| **B72** | *How to Dispose of a Trampoline in Dubai: Springs, Frames and Sun-Worn Mats* | `how to dispose of a trampoline in dubai` | `how to dispose of garden waste in dubai`, `garden clearance dubai` | Q | `/services/garden-waste-removal` |
+| **B73** | *How to Dispose of a Fish Tank in Dubai: Rehoming Fish, Draining and Moving Glass* | `how to dispose of a fish tank in dubai` | `bulky item removal dubai`, `how to dispose of a large mirror in dubai` | Q | `/services/mattress-bulky-item-removal` |
+
+**Overlap check (content-rules §16):** B71 is distinguished from B25 (fridges) and B47 (washing machines) by supplier ownership of the unit, bottle returns and hot/cold tank draining. B72 is distinguished from B58 (garden furniture) and B29 (green waste) by UV fabric assessment, spring-tension release and in-ground trampoline limits. B73 is distinguished from B62 (mirrors and glass tabletops) by livestock rehoming, wet-to-dry teardown and silicone-seam handling of an empty tank.
+
 ---
 
 ## Publishing Cadence & Execution Plan
@@ -303,4 +314,5 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 14. **Batch 14 (Articles B62–B64):** Fragile & Specialist Bulky Items — **100% Completed (3/3 Live)**.
 15. **Batch 15 (Articles B65–B67):** Bedroom, Kitchen & Bookshelf Clear-Outs — **100% Completed (3/3 Live)**.
 16. **Batch 16 (Articles B68–B70):** Family Gear, Bicycles & Bathroom Refits — **100% Completed (3/3 Live)**.
+17. **Batch 17 (Articles B71–B73):** Household Fixtures, Garden Play & Aquariums — **100% Completed (3/3 Live)**.
 

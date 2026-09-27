@@ -1,6 +1,6 @@
 # Dubai Junk Collection — Master Keyword Database
 
-> **Source:** SEO Keyword Research Report plus approved content-gap expansion (316 Target Keywords across 20 Clusters)
+> **Source:** SEO Keyword Research Report plus approved content-gap expansion (319 Target Keywords across 20 Clusters)
 > **Rule:** Every keyword has a single designated destination URL/page type to prevent cannibalization.
 
 ---
@@ -148,6 +148,7 @@
 | 83 | how to get rid of old ac unit dubai | Q | Blog Article |
 | 84 | responsible appliance disposal dubai | I | Blog Article |
 | 312 | how to dispose of an old oven in dubai | Q | Blog Article |
+| 317 | how to dispose of a water dispenser in dubai | Q | Blog Article |
 
 ---
 
@@ -215,6 +216,7 @@
 | 124 | how to dispose of garden waste in dubai | Q | Blog Article |
 | 125 | what to do with palm fronds dubai | Q | Blog Article |
 | 126 | green waste recycling dubai | I | Blog Article |
+| 318 | how to dispose of a trampoline in dubai | Q | Blog Article |
 
 ---
 
@@ -288,6 +290,7 @@
 | 309 | how to dispose of a pool table in dubai | Q | Blog Article |
 | 310 | how to dispose of old piano in dubai | Q | Blog Article |
 | 315 | how to dispose of an old bicycle in dubai | Q | Blog Article |
+| 319 | how to dispose of a fish tank in dubai | Q | Blog Article |
 
 ---
 

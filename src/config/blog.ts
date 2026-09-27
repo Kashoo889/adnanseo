@@ -106,6 +106,12 @@ import blogB69Cover from "@/assets/blog-b35-garage-clearance-cover.jpg";
 import blogB69Body from "@/assets/blog-b35-garage-sorting-body.jpg";
 import blogB70Cover from "@/assets/blog-b30-construction-waste-cover.jpg";
 import blogB70Body from "@/assets/blog-b30-rubble-sorting-body.jpg";
+import blogB71Cover from "@/assets/blog-b47-washing-machine-disposal-cover.webp";
+import blogB71Body from "@/assets/blog-b47-washing-machine-collection-body.webp";
+import blogB72Cover from "@/assets/blog-b17-villa-patio-clearance.jpg";
+import blogB72Body from "@/assets/blog-b33-truck-loading-body.jpg";
+import blogB73Cover from "@/assets/blog-b62-large-mirror-disposal-cover.webp";
+import blogB73Body from "@/assets/blog-b62-glass-tabletop-preparation-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -9151,6 +9157,334 @@ export const blogPosts: BlogPost[] = [
       {
         href: "https://www.dm.gov.ae/municipality-business/waste-department-2/",
         label: "Dubai Municipality — Waste Management Department",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-water-dispenser-dubai",
+    title: "How to Dispose of a Water Dispenser in Dubai: Supplier Units, Bottles and Draining",
+    excerpt:
+      "Before a water dispenser goes anywhere, find out whether you own it. Supplier units go back to the supplier; your own unit needs draining, and the bottles have their own return route.",
+    category: "Guides & Tips",
+    coverImage: blogB71Cover,
+    coverImageAlt:
+      "Resident draining residual water from an appliance hose into a metal tray beside a towel in a Dubai apartment",
+    publishedAt: "2026-09-26",
+    readingTime: "6 min read",
+    author: defaultAuthor,
+    tags: ["Water Dispenser Disposal", "Water Cooler", "Bottle Returns", "Small Appliance Recycling"],
+    seoTitle: "How to Dispose of a Water Dispenser in Dubai: Return & Drain",
+    seoDescription:
+      "How to dispose of a water dispenser in Dubai: check if the supplier owns it, return bottles, drain the tank and choose resale or appliance recycling.",
+    keyTakeaways: [
+      "Many dispensers in Dubai homes are lent or rented by the water supplier—those go back to the supplier, not into a junk collection.",
+      "Empty bottles are usually the supplier's property too; return them rather than recycling them yourself.",
+      "Drain the hot and cold tanks and let the unit sit unplugged before moving it, or it will leak in the lift.",
+      "A dispenser you own is an electrical appliance—resell a working one, recycle a broken one through an appliance route.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a water dispenser in Dubai?",
+        paragraphs: [
+          "First check who owns it: if your water supplier provided the dispenser, cancel the service and arrange for them to collect it with the empty bottles. If you bought it, unplug it, drain both tanks, then sell or give away a working unit, or send a broken one to appliance recycling.",
+          "Almost every Dubai apartment has one, and most people forget about it until move-out week. Working out how to dispose of a water dispenser in Dubai is less about the machine and more about the paperwork behind it—who supplied it, whether there is a deposit, and what happens to the bottles.",
+        ],
+        callout: {
+          type: "tip",
+          title: "Look for a sticker before you look for a buyer",
+          text: "Supplier-owned dispensers usually carry the supplier's logo or an asset sticker on the back or side. If yours has one, call the supplier first—selling it is not yours to do.",
+        },
+      },
+      {
+        heading: "Supplier unit or your own? Check before anything else",
+        paragraphs: [
+          "Water companies commonly place a dispenser with a customer on a subscription, sometimes free and sometimes against a deposit or rental. When you stop the subscription, the unit goes back. Your account history, the original agreement or a quick call to the supplier will tell you which applies and whether any deposit is refunded on return.",
+          "If you bought the dispenser from a shop or online, it is yours. Tabletop units, bottom-loading models and larger floor-standing coolers all count as small electrical appliances once they leave your home.",
+        ],
+        table: {
+          caption: "Where the dispenser and its bits should go",
+          headers: ["Item", "Usual owner", "Where it goes"],
+          rows: [
+            ["Dispenser supplied with a water subscription", "The water supplier", "Collected by the supplier when you cancel"],
+            ["Dispenser you bought yourself", "You", "Resale, giveaway or appliance recycling"],
+            ["Large refillable bottles", "Usually the supplier", "Returned to the supplier, often with a deposit"],
+            ["Small single-use water bottles", "You", "Plastic recycling, empty and capped"],
+          ],
+        },
+      },
+      {
+        heading: "Drain and prepare the dispenser before it moves",
+        paragraphs: [
+          "Switch off the hot and cold switches, unplug the unit and let the hot tank cool—it can hold water hot enough to scald for some time. Remove the bottle, then empty the reservoir through the drain plug at the back, if your model has one, into a bucket or tray. Dispense from both taps until they run dry.",
+          "Leave the unit to stand for a few hours with the drain open, wipe out the reservoir and tape the taps. Units with a compressor should travel upright where possible and are best left upright for a while before being switched on again if they are going to a new home. Refrigerant-cooled units are also why broken dispensers belong in an appliance route rather than general waste.",
+        ],
+      },
+      {
+        heading: "Resale, recycling and the move-out rush",
+        paragraphs: [
+          "A clean, working dispenser sells or finds a new home quickly in tower community groups, because every new tenant needs one. Include the model, whether it heats and cools, and a photo of the inside of the reservoir—buyers ask about hygiene first.",
+          "A broken one should join other appliances on a collection rather than being left beside the building's bins. If you are clearing an apartment for handover, list the dispenser alongside the fridge or washing machine so it goes in the same visit.",
+        ],
+        image: blogB71Body,
+        imageAlt:
+          "Two crew members wheeling a strapped appliance on a hand truck into a padded service lift in a Dubai residential tower",
+        imageCaption:
+          "Drained and taped, a dispenser travels with the other appliances in a single lift trip.",
+      },
+    ],
+    faqs: [
+      {
+        question: "What if I cannot reach the company that supplied my dispenser?",
+        answer:
+          "Keep the unit and bottles aside and try the contact details on the bottle labels or your payment history. If the supplier has changed or closed, keep a record of your attempts to return it. Only treat it as yours to dispose of once you are reasonably sure nobody will ask for it back.",
+      },
+      {
+        question: "Do I get money back for returning empty bottles?",
+        answer:
+          "It depends on your agreement. Some suppliers charge a bottle deposit and refund it when bottles come back in good condition; others include bottles in the subscription. Check your first invoice or ask the supplier before the last delivery so you know how many bottles you are expected to return.",
+      },
+      {
+        question: "Can a dispenser with mould in the reservoir still be donated?",
+        answer:
+          "Only if it can be fully cleaned and sanitised, and most people would rather not take the chance. A dispenser with visible growth inside the tank or taps is better recycled. If you are keeping a unit you plan to sell later, clean it now rather than storing it damp.",
+      },
+    ],
+    relatedSlugs: [
+      "where-to-dispose-washing-machine-dubai",
+      "how-to-dispose-of-old-fridge-in-dubai",
+      "move-out-checklist-dubai-tenants",
+    ],
+    serviceLink: {
+      href: "/services/appliance-removal",
+      label: "Arrange water dispenser and small appliance collection",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-services/",
+        label: "Dubai Municipality — Household appliances and furniture disposal service",
+      },
+      {
+        href: "https://www.dm.gov.ae/help-and-support/",
+        label: "Dubai Municipality — Recycling centres and locations",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-trampoline-dubai",
+    title: "How to Dispose of a Trampoline in Dubai: Springs, Frames and Sun-Worn Mats",
+    excerpt:
+      "A garden trampoline is mostly steel tube and springs under tension. Take it apart in the right order, check whether the frame is worth passing on, and clear it through the villa gate—not the kerb.",
+    category: "Villa & Garden",
+    coverImage: blogB72Cover,
+    coverImageAlt:
+      "Uniformed crew moving rattan patio furniture and large potted plants on dollies across a Dubai villa terrace",
+    publishedAt: "2026-09-26",
+    readingTime: "6 min read",
+    author: defaultAuthor,
+    tags: ["Trampoline Disposal", "Villa Garden Clear-Out", "Outdoor Play Equipment", "Scrap Metal"],
+    seoTitle: "How to Dispose of a Trampoline in Dubai: Dismantle & Clear",
+    seoDescription:
+      "How to dispose of a trampoline in Dubai: release the springs safely, dismantle the frame and net, judge what can be reused and clear it from the villa.",
+    keyTakeaways: [
+      "UV and heat break down trampoline mats and nets long before the steel frame fails—check the fabric first.",
+      "Springs are under tension; release them with a spring tool and wear gloves and eye protection.",
+      "A sound frame with a new mat can still be passed on; a rusted or bent one is scrap metal.",
+      "Leaving a trampoline outside the boundary wall for collection can draw a community warning or municipal fine.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a trampoline in Dubai?",
+        paragraphs: [
+          "Take the safety net and poles off, release the springs with a spring tool, lift out the mat and unbolt the frame into its sections. Offer a sound frame for reuse; send a rusted or bent one to scrap metal, and bag the mat, net and pads as general waste. Keep everything inside the villa until collection.",
+          "Trampolines usually come up during a villa move-out or when children outgrow them, and they are awkward rather than heavy. Knowing how to dispose of a trampoline in Dubai mostly comes down to dismantling it safely and getting the pieces through a side gate without scraping the walls.",
+        ],
+      },
+      {
+        heading: "Check what the sun has already done",
+        paragraphs: [
+          "A trampoline left in full Dubai sun for a few summers fades, stiffens and cracks. Pinch the mat and the net: if the fabric is brittle, powdery or tears easily, it is finished, whatever the frame looks like. Foam padding covers split and hold water after the occasional rain, which rusts the frame underneath.",
+          "Then look at the frame joints and the spring holes. Surface rust can be cleaned; rust that has eaten through the tube, elongated spring holes or a bent leg means the frame is no longer safe for anyone to jump on.",
+        ],
+        table: {
+          caption: "Deciding what each part of the trampoline is worth",
+          headers: ["Part", "Reuse it if", "Otherwise"],
+          rows: [
+            ["Steel frame and legs", "Straight, uncorroded and complete", "Scrap metal"],
+            ["Springs", "Uniform, rust-free and not stretched open", "Scrap metal with the frame"],
+            ["Jumping mat", "Stitching intact and fabric still supple", "General waste"],
+            ["Safety net and padding", "No tears, fraying or brittle patches", "General waste"],
+          ],
+        },
+      },
+      {
+        heading: "Dismantle it in the right order",
+        paragraphs: [
+          "Start with the net: unclip it from the mat and unscrew the net poles. Then work around the frame releasing springs opposite each other rather than going round in a circle, so the tension comes off evenly. A spring pull tool—many trampolines come with one—saves hands and fingers. Wear gloves and eye protection; a slipping spring moves fast.",
+          "With the mat out, unbolt the top rails from the legs and bundle the curved sections together with tape. Bag the springs so none end up in the grass, where they will find a lawnmower or bare feet later. A large round trampoline takes two people and an hour or so, depending on how rusted the fittings are.",
+        ],
+        callout: {
+          type: "warning",
+          title: "In-ground trampolines are a different job",
+          text: "A sunken trampoline sits over a dug pit, often with a retaining wall. Removing it means backfilling and levelling the ground—plan it as garden work with your landscaper, not as a quick collection.",
+        },
+      },
+      {
+        heading: "Getting it out of the villa",
+        paragraphs: [
+          "Most villa communities prohibit leaving bulky items outside the boundary wall, and a trampoline frame on the verge is exactly what a community patrol photographs. Keep the bundled sections inside the garden or garage until the collection vehicle arrives.",
+          "If the rest of the garden is being cleared—old patio sets, planters, a playhouse—book it together. The frame sections, springs and fabric load quickly once dismantled and ride well alongside other outdoor furniture.",
+        ],
+        image: blogB72Body,
+        imageAlt:
+          "Crew loading boxes, a wooden chair and household items onto a removal truck outside a Dubai residential building",
+        imageCaption:
+          "Dismantled trampoline sections load quickly alongside the rest of a garden or household clear-out.",
+      },
+    ],
+    faqs: [
+      {
+        question: "Can I just replace the mat instead of throwing the trampoline away?",
+        answer:
+          "Often, yes, if the frame is sound. Replacement mats, nets and pads are sold by diameter and spring count, so measure the frame and count the springs before ordering. It is worth doing for a good-quality frame; for a cheap trampoline, a new mat and net can cost close to a new unit.",
+      },
+      {
+        question: "Will someone take a used trampoline for free?",
+        answer:
+          "A complete, clean trampoline in good condition usually finds a taker quickly in villa community groups, particularly if the new owner can dismantle and collect it. Be honest about the mat and net condition, and hand over the spring tool and any leftover parts with it.",
+      },
+      {
+        question: "Where do the trampoline springs and frame end up?",
+        answer:
+          "Steel frames and springs are recovered as scrap metal once separated from the fabric and foam. The mat, net and padding are mixed plastics that are rarely recyclable after years of UV exposure, so they go with general waste. Separating them before collection keeps the metal clean.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-garden-furniture-in-dubai",
+      "how-to-dispose-of-garden-waste-in-dubai",
+      "villa-handover-guide-dubai",
+    ],
+    serviceLink: {
+      href: "/services/garden-waste-removal",
+      label: "Clear trampolines and garden play equipment",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/community/public-cleanliness/",
+        label: "Dubai Municipality — Public cleanliness and bulky waste guidance",
+      },
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-promotes-waste-segregation-through-free-bulky-waste-disposal-service/",
+        label: "Dubai Municipality — Bulky-waste segregation and collection guidance",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-fish-tank-dubai",
+    title: "How to Dispose of a Fish Tank in Dubai: Rehoming Fish, Draining and Moving Glass",
+    excerpt:
+      "An aquarium is three jobs: find the fish a home, break the tank down wet-to-dry, and move a large glass box safely. Start with the livestock, never with the glass.",
+    category: "Guides & Tips",
+    coverImage: blogB73Cover,
+    coverImageAlt:
+      "Two crew members carrying a large blanket-wrapped glass panel with corner protectors through a Dubai apartment hallway",
+    publishedAt: "2026-09-26",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Fish Tank Disposal", "Aquarium Removal", "Glass Handling", "Bulky Item Collection"],
+    seoTitle: "How to Dispose of a Fish Tank in Dubai: Fish, Water & Glass",
+    seoDescription:
+      "How to dispose of a fish tank in Dubai: rehome the fish, drain and strip the aquarium, handle heaters and filters, and move or clear the glass tank safely.",
+    keyTakeaways: [
+      "Rehome fish and plants first—through aquarium shops, hobby groups or another keeper—and never release them into lakes or canals.",
+      "Break the tank down wet-to-dry: livestock, water, decor and substrate, then equipment, then the empty glass.",
+      "Never lift a tank with water or gravel still in it; even a small amount puts strain on the silicone seams.",
+      "A sound tank is worth offering on; a cracked or leaking one is broken glass and must be wrapped before collection.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a fish tank in Dubai?",
+        paragraphs: [
+          "Rehome the fish first, then switch off and remove the heater, filter and lights. Drain the water into buckets or a drain, scoop out gravel and decor, and let the tank dry. Offer a sound tank for reuse; wrap a cracked one in blankets and cardboard and send it with a bulky collection.",
+          "Most people asking how to dispose of a fish tank in Dubai are either moving or have lost interest after the fish have gone. Either way, the tank itself is the easy part. The fish, the water and the weight of wet gravel are what need planning.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Never release aquarium fish outdoors",
+          text: "Aquarium fish released into community lakes, ponds or waterways can die or harm local wildlife. Rehome them through a shop or another keeper instead.",
+        },
+      },
+      {
+        heading: "Rehome the fish and plants first",
+        paragraphs: [
+          "Aquarium shops sometimes accept healthy fish, and local fish-keeping groups are usually the quickest route for a whole tank of livestock. Give people a list of species and sizes, and time the handover so the fish move straight from your tank to theirs rather than sitting in bags in a hot car.",
+          "Live plants, filter media and even the whole running set-up can go together to a keeper starting a new tank—mature filter media is genuinely useful to them. If you are moving within Dubai and keeping the fish, a shop can often hold them while the tank is in transit.",
+        ],
+      },
+      {
+        heading: "Break the tank down wet-to-dry",
+        paragraphs: [
+          "Once the tank is empty of livestock, unplug everything at the wall before touching the water. Remove the heater only after it has cooled for a while—a hot heater out of water can crack. Siphon the water into buckets and pour it down a toilet, sink or floor drain; old aquarium water also suits garden plants in a villa.",
+          "Scoop gravel or sand into strong bags and keep them small: wet substrate is surprisingly heavy. Rock and wood decor comes out next. Only when the tank is completely empty and dry should anyone try to move it.",
+        ],
+        table: {
+          caption: "What each part of an aquarium set-up needs",
+          headers: ["Component", "What to do", "Where it goes"],
+          rows: [
+            ["Fish and plants", "Rehome before anything is switched off", "Shop, hobby group or another keeper"],
+            ["Water", "Siphon into buckets after unplugging", "Household drain or garden plants"],
+            ["Gravel, sand and decor", "Bag in small, liftable quantities", "Reuse, or general waste if contaminated"],
+            ["Heater, filter, pump and lights", "Cool, dry and bundle with cables", "Resale or electronics recycling"],
+            ["Glass tank and stand", "Empty, dry and wrap the corners", "Resale, or bulky collection if damaged"],
+          ],
+        },
+      },
+      {
+        heading: "Moving the empty tank without cracking it",
+        paragraphs: [
+          "Glass aquariums are held together by silicone seams, and they are strongest sitting flat on a level surface. Carry a larger tank with two people, one at each end, holding it from underneath rather than by the top rim. Protect the corners and the front panel with blankets and cardboard, and keep it upright in the lift.",
+          "Stands and cabinets often weigh more than the tank. Remove doors and shelves and treat the cabinet as a separate piece of furniture. A tank that has already cracked or leaked should be wrapped fully and labelled as broken glass so nobody lifts it expecting a sound box.",
+        ],
+        image: blogB73Body,
+        imageAlt:
+          "Crew fitting cardboard corner protectors to a large glass panel on a padded A-frame cart beside a Dubai freight elevator",
+        imageCaption:
+          "Corner protection and an upright position keep a large glass tank intact through corridors and lifts.",
+      },
+    ],
+    faqs: [
+      {
+        question: "Is a used aquarium worth selling?",
+        answer:
+          "A clean, leak-free tank from a known brand, especially with a matching stand and working equipment, sells reasonably well to hobbyists. Bare tanks with scratches or old silicone sell slowly. Fill it with water in a safe spot for a day before listing—buyers will ask whether it has been leak-tested.",
+      },
+      {
+        question: "Can old aquarium gravel go in the garden?",
+        answer:
+          "Plain gravel from a freshwater tank can be rinsed and used in plant pots or garden beds. Coloured, coated or marine substrate is better bagged as general waste, as it can contain salts or dyes you would not want in soil. Keep it out of storm drains either way.",
+      },
+      {
+        question: "What about a saltwater or reef tank?",
+        answer:
+          "Treat it as a specialist job. Corals and marine fish need an experienced keeper or shop to rehome them, and saltwater should not go onto garden plants. The equipment—skimmers, return pumps and lighting—often has good resale value within reef-keeping groups.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-large-mirror-glass-dubai",
+      "where-to-recycle-electronics-in-dubai",
+      "moving-house-junk-removal-dubai",
+    ],
+    serviceLink: {
+      href: "/services/mattress-bulky-item-removal",
+      label: "Arrange fish tank and bulky-item collection",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-promotes-waste-segregation-through-free-bulky-waste-disposal-service/",
+        label: "Dubai Municipality — Bulky-waste segregation and collection guidance",
+      },
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-launches-electronic-platform-for-exchange-of-recyclable-or-reusable-materials/",
+        label: "Dubai Municipality — Platform for exchanging reusable materials",
       },
     ],
   },
