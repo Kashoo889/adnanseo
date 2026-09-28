@@ -112,6 +112,12 @@ import blogB72Cover from "@/assets/blog-b17-villa-patio-clearance.jpg";
 import blogB72Body from "@/assets/blog-b33-truck-loading-body.jpg";
 import blogB73Cover from "@/assets/blog-b62-large-mirror-disposal-cover.webp";
 import blogB73Body from "@/assets/blog-b62-glass-tabletop-preparation-body.webp";
+import blogB74Cover from "@/assets/blog-b47-washing-machine-disposal-cover.webp";
+import blogB74Body from "@/assets/blog-b25-appliance-recovery-body.jpg";
+import blogB75Cover from "@/assets/blog-b32-declutter-home-cover.jpg";
+import blogB75Body from "@/assets/blog-b32-wardrobe-storage-body.jpg";
+import blogB76Cover from "@/assets/blog-b17-villa-patio-clearance.jpg";
+import blogB76Body from "@/assets/blog-b33-truck-loading-body.jpg";
 
 export type BlogAuthor = {
   name: string;
@@ -9485,6 +9491,338 @@ export const blogPosts: BlogPost[] = [
       {
         href: "https://www.dm.gov.ae/dubai-municipality-launches-electronic-platform-for-exchange-of-recyclable-or-reusable-materials/",
         label: "Dubai Municipality — Platform for exchanging reusable materials",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-old-dishwasher-dubai",
+    title: "How to Dispose of an Old Dishwasher in Dubai: Draining, Disconnecting and Recycling",
+    excerpt:
+      "A dishwasher is not ready to move when the last cycle ends. Isolate the water and power, drain the hoses, check who owns a fitted unit, and keep residual water out of the lift.",
+    category: "Guides & Tips",
+    coverImage: blogB74Cover,
+    coverImageAlt:
+      "Resident draining a large household appliance into a shallow tray before collection in a Dubai apartment",
+    publishedAt: "2026-09-28",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Dishwasher Disposal", "Appliance Recycling", "Kitchen Appliances", "Move-Out Preparation"],
+    seoTitle: "How to Dispose of an Old Dishwasher in Dubai Safely",
+    seoDescription:
+      "How to dispose of an old dishwasher in Dubai: confirm ownership, isolate water and power, drain the hoses, prepare the machine and choose reuse or recycling.",
+    keyTakeaways: [
+      "Confirm that a fitted dishwasher belongs to you before removing it from a rented home.",
+      "Shut off the water and power before disconnecting anything; use a technician for hard-wired or unfamiliar connections.",
+      "Drain and cap both hoses, secure the racks and protect the floor before moving the machine.",
+      "A working dishwasher can be reused; a failed one should follow an appliance-recycling or bulky-waste route.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an old dishwasher in Dubai?",
+        paragraphs: [
+          "Confirm that the dishwasher is yours, empty and clean it, then isolate its electricity and water. Disconnect and drain the inlet and waste hoses into a tray, secure the racks and door, and move it upright. Offer a reliable machine for reuse; send a failed one through appliance recycling or an approved bulky collection.",
+          "The awkward part of how to dispose of an old dishwasher in Dubai is not its size. It is the water left in the sump and hoses, plus the fitted connections hidden under the sink or behind the kitchen plinth. Ten minutes of preparation prevents a wet corridor, a damaged cabinet and an argument at handover.",
+        ],
+      },
+      {
+        heading: "Check ownership and the replacement arrangement first",
+        paragraphs: [
+          "In a rented apartment or villa, a dishwasher listed with the fitted appliances normally stays with the property. Check the tenancy inventory and ask the landlord or property manager before taking it out. If a replacement installer is coming, ask whether the retailer's delivery includes removal of the old unit; many people otherwise pay for two separate visits.",
+          "For a machine you own, decide whether it is genuinely reusable. Run a short cycle and note any error code, leak, unusual pump noise or heating failure. A clean unit that completes a cycle and has intact racks is worth listing with its model number and dimensions. A leaking tub, badly corroded basket or uneconomical control-board fault points to recycling.",
+        ],
+        table: {
+          caption: "Choose the route before the dishwasher leaves the kitchen",
+          headers: ["Condition", "Best route", "What to provide"],
+          rows: [
+            ["Working and clean", "Resale, donation or handover to a new occupant", "Model, width, age and a completed-cycle check"],
+            ["Repairable with a known fault", "Appliance repairer or parts buyer", "Error code and an honest fault description"],
+            ["Failed, leaking or badly corroded", "Appliance recycling or bulky collection", "Access details and approximate size"],
+            ["Landlord-owned fitted unit", "Leave in place and report the fault", "Inventory reference and photos"],
+          ],
+        },
+      },
+      {
+        heading: "Disconnect and drain it without flooding the cabinet",
+        paragraphs: [
+          "Switch the dishwasher off, unplug it where the plug is accessible and close the appliance isolation valve under the sink. If it is hard-wired, shares a connection you cannot identify or has no working shut-off valve, stop and use a qualified technician. Do not pull the machine forward while a hose or cable is still attached.",
+          "Put towels and a shallow tray under the connections. Remove the inlet hose, then lower the waste hose into a bucket so trapped water can run out. Clean the filter and sponge out the sump inside the machine. Cap or bag the hose ends, remove loose cutlery baskets, tape the racks so they cannot slide and latch the door without sealing it so tightly that damp is trapped inside.",
+        ],
+        callout: {
+          type: "warning",
+          title: "A closed valve is not proof that the line is empty",
+          text: "The inlet hose may still be pressurised and the waste hose will retain dirty water. Loosen connections slowly over a tray, and keep absorbent towels between the appliance and the kitchen floor.",
+        },
+      },
+      {
+        heading: "Move it upright and keep the metals recoverable",
+        paragraphs: [
+          "Most full-size dishwashers are lighter than washing machines but can still tip because their weight sits low and toward the rear. Protect the cabinet edges, slide the unit onto an appliance dolly and strap it upright. Tell the collection team about steps, a narrow service lift or a long walk from the parking bay when booking.",
+          "A failed dishwasher still contains useful steel, wiring, pumps and plastics. Dubai Municipality includes household electrical appliances in its bulky-waste collection routes, while specialist appliance recyclers can separate more of those materials. Do not leave the machine in a bin room unless building management has confirmed a collection point and time.",
+        ],
+        image: blogB74Body,
+        imageAlt:
+          "Household appliances separated for material recovery inside an appliance recycling facility serving Dubai",
+        imageCaption:
+          "Failed dishwashers belong with appliance recovery, where metal, wiring and components can be separated.",
+      },
+    ],
+    faqs: [
+      {
+        question: "Can I put a dishwasher beside my building's rubbish bins?",
+        answer:
+          "Not without approval. A dishwasher blocks bin rooms and will not fit the normal waste system. Arrange the building's approved bulky-item route, a retailer take-back, Dubai Municipality's eligible household service or a private appliance collection, then place it only where and when instructed.",
+      },
+      {
+        question: "Does a dishwasher need to stand before it is used again?",
+        answer:
+          "Transport it upright whenever possible. Unlike a refrigerator, it does not normally need a long settling period for refrigerant, but the recipient should inspect the hoses, level the feet and run a supervised test cycle after installation to catch leaks early.",
+      },
+      {
+        question: "Should I remove the dishwasher door before disposal?",
+        answer:
+          "Not for an intact machine being collected promptly. Keep the door latched for transport and prevent children from accessing the stored appliance. If it will be dismantled for parts, that work belongs in a controlled workshop rather than a shared corridor or bin room.",
+      },
+    ],
+    relatedSlugs: [
+      "where-to-dispose-washing-machine-dubai",
+      "how-to-dispose-of-old-oven-dubai",
+      "how-to-dispose-of-old-fridge-in-dubai",
+    ],
+    serviceLink: {
+      href: "/services/appliance-removal",
+      label: "Arrange dishwasher and appliance collection",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-services/",
+        label: "Dubai Municipality — Dispose of household appliances and furniture",
+      },
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-boosts-e-waste-recycling-through-new-partnership/",
+        label: "Dubai Municipality — Household electrical-appliance collection and recycling partnership",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-old-wardrobe-dubai",
+    title: "How to Dispose of an Old Wardrobe in Dubai: Built-Ins, Flat-Packs and Safe Dismantling",
+    excerpt:
+      "Before a wardrobe moves, work out whether it belongs to the tenant or the room. Empty it, measure the exit route, preserve reusable panels and dismantle tall units before they become unstable.",
+    category: "Guides & Tips",
+    coverImage: blogB75Cover,
+    coverImageAlt:
+      "Bright Dubai bedroom being sorted and decluttered before bulky furniture is removed",
+    publishedAt: "2026-09-28",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Wardrobe Disposal", "Furniture Removal", "Flat-Pack Furniture", "Bedroom Clear-Out"],
+    seoTitle: "How to Dispose of an Old Wardrobe in Dubai: Safe Steps",
+    seoDescription:
+      "How to dispose of old wardrobe in Dubai: check built-in ownership, plan the route, dismantle safely and choose resale, donation or collection.",
+    keyTakeaways: [
+      "A built-in wardrobe is part of the property unless the owner has approved its removal in writing.",
+      "Photograph the assembled unit and label panels and hardware before dismantling a reusable wardrobe.",
+      "Remove doors, mirrors, shelves and drawers before releasing the carcass or wall restraint.",
+      "Keep reusable timber panels dry; damaged chipboard has much less recovery value than solid wood or metal.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an old wardrobe in Dubai?",
+        paragraphs: [
+          "First confirm whether the wardrobe is freestanding or part of the property. Empty it, measure the doors and lift, remove shelves and drawers, then take off doors and mirrored panels before dismantling the frame. Sell or donate a sound unit with all hardware; book furniture collection for swollen, broken or incomplete panels.",
+          "The mistake people make when working out how to dispose of an old wardrobe in Dubai is treating every wardrobe like a box. A two-door solid-wood piece may move intact, while a six-door flat-pack can twist apart before it reaches the bedroom door. The route and the construction decide the job.",
+        ],
+      },
+      {
+        heading: "Is it furniture, or is it part of the room?",
+        paragraphs: [
+          "A freestanding wardrobe has its own back, sides and top and can usually be moved without affecting the wall. A fitted wardrobe may be scribed to the ceiling, fixed through tracks or built around air-conditioning grilles, sockets or skirting. In a rental, do not remove a fitted unit without written landlord approval; reinstating plaster, paint and flooring can cost more than the clearance.",
+          "Once ownership is clear, assess condition with the wardrobe empty. Solid timber, metal lockers and good branded modular systems survive a second move well. Flat-pack chipboard with swollen edges, torn cam fittings or a bowed back rarely rebuilds securely. Photograph faults now so a buyer or charity is not surprised at collection.",
+        ],
+        table: {
+          caption: "What the wardrobe's construction means for removal",
+          headers: ["Wardrobe type", "Move intact?", "Best preparation"],
+          rows: [
+            ["Small solid-wood unit", "Often, if the route is wide enough", "Empty it and secure doors and drawers"],
+            ["Flat-pack chipboard", "Usually no", "Label panels and save every fitting in one bag"],
+            ["Sliding-door wardrobe", "Rarely", "Remove doors and tracks before the carcass"],
+            ["Fitted or built-in", "No", "Obtain approval and use an installer or carpenter"],
+            ["Mirrored wardrobe", "Only with specialist protection", "Remove and wrap mirror doors upright"],
+          ],
+        },
+      },
+      {
+        heading: "Dismantle it in a stable order",
+        paragraphs: [
+          "Clear clothes and boxes first, then take out adjustable shelves, hanging rails and drawers. Photograph each stage and label the back of every reusable panel with low-tack tape. Put cam locks, dowels, screws and brackets in one labelled bag and tape it to a shelf, not to a finished door where adhesive can lift the veneer.",
+          "With a helper supporting the unit, remove hinged or sliding doors and protect any glass or mirrors. Take off the top and side panels only after the contents and doors are gone. Keep the carcass fixed to the wall until it is light and controlled; releasing the restraint first can let a tall wardrobe tip forward. A built-in unit should be isolated from sockets and services by an appropriate tradesperson before cutting or prying begins.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Mirrored doors are separate fragile items",
+          text: "Do not lay large mirror doors flat on an uneven floor or bury them under timber panels. Pad the faces and edges, keep them upright and tell the collection team that the load includes glass.",
+        },
+      },
+      {
+        heading: "Keep a reusable wardrobe complete—or separate it cleanly",
+        paragraphs: [
+          "A wardrobe is much easier to pass on when the next owner can see an assembled photo, overall dimensions and an inventory of the fittings. State the ceiling height needed to stand it up and whether collection requires a service lift booking. If you want a charity to consider it, ask before dismantling; some accept only items they can inspect and rebuild confidently.",
+          "For a failed unit, keep metal rails, hinges and handles together and dry. Solid timber and metal have better recovery routes than laminated chipboard, which deteriorates quickly once wet. Dubai Municipality's household bulky-waste service includes used furniture for eligible residents, while managed communities may require their own approved collection process.",
+        ],
+        image: blogB75Body,
+        imageAlt:
+          "Organised walk-in wardrobe in a Dubai home with clothing, shelving and mirrored storage",
+        imageCaption:
+          "Empty the wardrobe completely before deciding whether it can move intact or needs labelled dismantling.",
+      },
+    ],
+    faqs: [
+      {
+        question: "Will a charity collect a dismantled wardrobe?",
+        answer:
+          "Policies vary, and dismantled flat-pack furniture is harder to assess. Ask first and send clear assembled photos, dimensions and a note confirming that every fitting is present. If the panels are swollen, broken or incomplete, arrange material recovery or bulky collection instead of presenting it as reusable.",
+      },
+      {
+        question: "Can a wardrobe go down in a passenger lift?",
+        answer:
+          "Only if building management allows it and the protected lift dimensions suit the panels. Many Dubai towers require furniture to use a booked service lift and loading bay. Measure the tallest panel diagonally, not just the wardrobe's assembled width, and protect lift walls and corners.",
+      },
+      {
+        question: "Can I leave an old wardrobe in the apartment bin room?",
+        answer:
+          "No unless management has designated it as the collection point for a confirmed booking. Wardrobe panels obstruct bins, doors and fire routes. Keep the pieces inside the property until the agreed collection window, then move them directly to the approved loading area.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-a-bed-frame-in-dubai",
+      "how-to-dispose-of-old-furniture-in-dubai",
+      "sell-vs-donate-old-furniture-dubai",
+    ],
+    serviceLink: {
+      href: "/services/furniture-removal",
+      label: "Arrange wardrobe and bedroom-furniture removal",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-services/",
+        label: "Dubai Municipality — Dispose of household appliances and furniture",
+      },
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-launches-electronic-platform-for-exchange-of-recyclable-or-reusable-materials/",
+        label: "Dubai Municipality — Platform for exchanging reusable materials",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-old-barbecue-dubai",
+    title: "How to Dispose of an Old Barbecue in Dubai: Gas Cylinders, Ash and Greasy Grills",
+    excerpt:
+      "A barbecue is not ordinary scrap until its fuel, ash and grease are dealt with. Separate the cylinder or charcoal, let every part cool, and clean the frame before collection.",
+    category: "Villa & Garden",
+    coverImage: blogB76Cover,
+    coverImageAlt:
+      "Clearance crew moving outdoor furniture and garden items across a Dubai villa terrace",
+    publishedAt: "2026-09-28",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Barbecue Disposal", "LPG Cylinder Safety", "Garden Clearance", "Scrap Metal"],
+    seoTitle: "How to Dispose of an Old Barbecue in Dubai Safely",
+    seoDescription:
+      "How to dispose of an old barbecue in Dubai: separate LPG cylinders, cool and bag ash, clean grease, dismantle the grill and choose reuse or scrap collection.",
+    keyTakeaways: [
+      "Never place an LPG cylinder in general waste, puncture it or deliberately vent it; return it through the cylinder supplier.",
+      "Charcoal and ash must be completely cold before they are bagged or moved.",
+      "Remove grease, food residue, loose shelves and sharp grates before the barbecue is collected.",
+      "A clean, structurally sound grill can be reused; a rusted body is easier to recover after fuel and non-metal parts are separated.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an old barbecue in Dubai?",
+        paragraphs: [
+          "Let the barbecue cool completely, then remove its fuel. Return an LPG cylinder through its authorised supplier; never put it in household waste or scrap. Bag cold charcoal and ash, scrape out grease, remove loose grates and shelves, and dismantle the clean frame if needed. Rehome a safe working grill or book bulky collection for the body.",
+          "For anyone asking how to dispose of an old barbecue in Dubai, the fuel container is the first decision—not the metal frame. A collector who expects patio furniture cannot safely load an attached gas cylinder, warm ash or a tray of liquid grease. Prepare those separately before the vehicle arrives.",
+        ],
+        callout: {
+          type: "warning",
+          title: "A cylinder is not scrap metal",
+          text: "Do not puncture, crush, burn or deliberately empty an LPG cylinder. Keep it upright in a ventilated place away from heat and ignition, and contact the branded cylinder supplier or authorised distributor for return guidance.",
+        },
+      },
+      {
+        heading: "Separate the fuel before touching the frame",
+        paragraphs: [
+          "For an LPG barbecue, close the cylinder valve and make sure every burner control is off. If you know the approved connection and it is cool and undamaged, disconnect the regulator outdoors; if you smell gas, hear a leak or see damage, move people away from the area, avoid switches and flames, and contact the supplier or emergency services. Do not test for leaks with a flame.",
+          "For a charcoal grill, spread the remains in the firebox and wait until they are completely cold—preferably until the next day. Stir the ash and check for hidden heat before placing it in a strong bag. An electric grill should be unplugged, cooled and kept with its cable and controller; failed electrical parts belong in an electronics or appliance-recovery route rather than mixed metal.",
+        ],
+        table: {
+          caption: "Prepare each barbecue type for a different route",
+          headers: ["Barbecue type", "Remove first", "Separate route"],
+          rows: [
+            ["LPG gas grill", "Cylinder and regulator", "Cylinder supplier or authorised distributor"],
+            ["Charcoal grill", "Fully cold charcoal and ash", "Bagged residual waste after cooling"],
+            ["Electric grill", "Controller, cable and removable heating parts", "Electrical-appliance recovery if failed"],
+            ["Built-in outdoor kitchen", "Gas or electrical connection by a competent tradesperson", "Planned dismantling and bulky collection"],
+          ],
+        },
+      },
+      {
+        heading: "Clean and dismantle the barbecue without spreading grease",
+        paragraphs: [
+          "Remove cooled grates, warming racks, drip trays and side shelves. Scrape solid grease into a bag rather than washing it into a balcony drain, and wipe the firebox so residue does not coat the vehicle. Wrap sharp or brittle grill plates in cardboard and label them; cast-iron pieces are heavy even when they look small.",
+          "Photograph the assembled grill before taking it apart if it may be reused. Fold or unbolt shelves, remove the lid only if the hinges are sound enough to control it, and bag the fasteners. On a badly rusted barbecue, do not force seized fittings beside glass doors or parked cars—leave the cold, fuel-free body intact for the crew to handle with the right tools.",
+        ],
+      },
+      {
+        heading: "Reuse what is safe and recover the clean metal",
+        paragraphs: [
+          "A grill is worth passing on when the frame is stable, burner tubes are not perforated, controls turn correctly and there is no serious corrosion around the firebox. List it without the cylinder unless the supplier's rules allow a proper transfer. State whether the ignition works and show close photos of the burners and grease tray, not only the closed lid.",
+          "Once fuel, ash, grease, electronics and non-metal shelves are separated, the remaining steel or aluminium body is much easier to recover. Keep it inside the villa boundary or approved loading area until the booked collection. If patio furniture, planters or a trampoline are leaving too, combine them into one measured garden-clearance load.",
+        ],
+        image: blogB76Body,
+        imageAlt:
+          "Crew loading bundled household and outdoor-clearance items into a collection truck in Dubai",
+        imageCaption:
+          "A cool, fuel-free and cleaned barbecue can load safely with the rest of a planned garden clear-out.",
+      },
+    ],
+    faqs: [
+      {
+        question: "Can I throw an empty barbecue gas cylinder away?",
+        answer:
+          "No. 'Empty' cylinders can still contain flammable vapour and remain pressurised. Keep the valve closed, store the cylinder upright away from heat and contact the branded supplier or an authorised distributor about return or exchange. Do not put it in a bin, compactor or scrap pile.",
+      },
+      {
+        question: "Can cold barbecue ash go in the garden?",
+        answer:
+          "Small amounts of completely cold, untreated wood ash may be usable in some soils, but barbecue ash can contain grease, briquette additives and food residue. For a mixed or uncertain load, let it cool fully, double-bag it and use the approved residual-waste route. Never place warm ash in any bin.",
+      },
+      {
+        question: "Will a collector take a built-in barbecue?",
+        answer:
+          "Only after it has been safely disconnected and released from the outdoor kitchen. Built-in grills may share gas, electricity, stonework or cabinetry, so arrange the appropriate tradesperson first. The collection team can then remove the freed appliance and separated debris through the agreed route.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-garden-furniture-in-dubai",
+      "how-to-dispose-of-trampoline-dubai",
+      "hazardous-waste-disposal-dubai",
+    ],
+    serviceLink: {
+      href: "/services/garden-waste-removal",
+      label: "Arrange barbecue and outdoor-item collection",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2020/07/DM-HSD_GU53_LPGC2_Technical-Guideline-on-Safety-of-Liquefied-Petroleum-Gas-Cylinders.pdf",
+        label: "Dubai Municipality — Technical guideline on LPG cylinder safety",
+      },
+      {
+        href: "https://www.emiratesgas.com/community/safety-guide/",
+        label: "Emirates Gas — LPG cylinder safety guide",
+      },
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-services/",
+        label: "Dubai Municipality — Dispose of household appliances and furniture",
       },
     ],
   },
