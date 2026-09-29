@@ -1,7 +1,7 @@
 # Dubai Junk Collection — Master Keyword Database
 
 > **Full Documentation Location:** [`docs/seo/keywords.md`](file:///d:/Projects/Dubai/rasheed/docs/seo/keywords.md)  
-> **Source:** SEO Keyword Research Report plus approved content-gap expansion (322 Target Keywords across 20 Clusters)
+> **Source:** SEO Keyword Research Report plus approved content-gap expansion (325 Target Keywords across 20 Clusters)
 > **Rule:** Every keyword has a single designated destination URL/page type to prevent cannibalization.
 
 ---
@@ -123,6 +123,7 @@
 | 307 | outdoor furniture disposal dubai | Q | Blog Article |
 | 311 | how to dispose of a bed frame in dubai | Q | Blog Article |
 | 321 | how to dispose of old wardrobe in dubai | Q | Blog Article |
+| 323 | how to dispose of a recliner chair in dubai | Q | Blog Article |
 
 ---
 
@@ -152,6 +153,7 @@
 | 312 | how to dispose of an old oven in dubai | Q | Blog Article |
 | 317 | how to dispose of a water dispenser in dubai | Q | Blog Article |
 | 320 | how to dispose of old dishwasher in dubai | Q | Blog Article |
+| 324 | how to dispose of an old microwave in dubai | Q | Blog Article |
 
 ---
 
@@ -221,6 +223,7 @@
 | 126 | green waste recycling dubai | I | Blog Article |
 | 318 | how to dispose of a trampoline in dubai | Q | Blog Article |
 | 322 | how to dispose of old barbecue in dubai | Q | Blog Article |
+| 325 | how to dispose of old plant pots in dubai | Q | Blog Article |
 
 ---
 

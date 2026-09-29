@@ -2,7 +2,7 @@
 
 > **Full Documentation Location:** [`docs/seo/roadmap.md`](file:///d:/Projects/Dubai/rasheed/docs/seo/roadmap.md)  
 > **Objective:** Systematically establish topical authority, capture high-intent commercial and informational searches, and funnel organic traffic to WhatsApp/Call conversions across Dubai.  
-> **Based on:** 322 Target Keywords & 20 Topic Clusters.
+> **Based on:** 325 Target Keywords & 20 Topic Clusters.
 
 ---
 
@@ -305,6 +305,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B74 is distinguished from B47 (washing machines) and B66 (ovens) by dishwasher sump water, cabinet plumbing, inlet and waste hoses, and fitted-kitchen ownership. B75 is distinguished from B22 (general furniture) and B65 (bed frames) by freestanding-versus-built-in ownership, tall-unit stability, flat-pack hardware retention and mirrored doors. B76 is distinguished from B58 (garden furniture) and B46 (hazardous household waste) by LPG-cylinder separation, cold-ash handling, grease removal and grill-metal recovery.
 
+### Track 22: Moving Mechanisms, Small Appliances & Heavy Planters (Clusters 3, 4, 5 & 7)
+*Covers three objects that look ordinary until preparation begins: recliner mechanisms that can open or trap fingers, microwave components that should stay inside the casing, and planters whose soil creates most of the weight.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B77** | *How to Dispose of a Recliner Chair in Dubai: Motors, Springs and Narrow Exits* | `how to dispose of a recliner chair in dubai` | `how to dispose of old furniture in dubai`, `bulky item removal dubai` | Q | `/services/furniture-removal` |
+| **B78** | *How to Dispose of an Old Microwave in Dubai: Cleaning, Built-Ins and E-Waste* | `how to dispose of an old microwave in dubai` | `responsible appliance disposal dubai`, `e-waste recycling dubai` | Q | `/services/appliance-removal` |
+| **B79** | *How to Dispose of Old Plant Pots in Dubai: Soil, Ceramics and Large Planters* | `how to dispose of old plant pots in dubai` | `plant pot and planter disposal dubai`, `garden clearance dubai` | Q | `/services/garden-waste-removal` |
+
+**Overlap check (content-rules §16):** B77 is distinguished from B23 (sofas) and B42 (DIY bulky removal) by powered and manual recliner mechanisms, removable backs, low-voltage controls and pinch-point management. B78 is distinguished from B61 (electronics-bin legality) and B66 (ovens) by countertop-versus-built-in preparation, microwave door condition, loose turntables and the instruction not to open high-voltage components. B79 is distinguished from B29 (organic garden waste) and B58 (outdoor furniture) by separating living plants, soil and containers, then routing plastic, ceramic and heavy concrete planters by material and weight.
+
 ---
 
 ## Publishing Cadence & Execution Plan
@@ -327,3 +338,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 16. **Batch 16 (Articles B68–B70):** Family Gear, Bicycles & Bathroom Refits — **100% Completed (3/3 Live)**.
 17. **Batch 17 (Articles B71–B73):** Household Fixtures, Garden Play & Aquariums — **100% Completed (3/3 Live)**.
 18. **Batch 18 (Articles B74–B76):** Kitchen Appliances, Bedroom Storage & Outdoor Cooking — **100% Completed (3/3 Live)**.
+19. **Batch 19 (Articles B77–B79):** Moving Mechanisms, Small Appliances & Heavy Planters — **100% Completed (3/3 Live)**.

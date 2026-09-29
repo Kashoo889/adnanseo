@@ -118,6 +118,12 @@ import blogB75Cover from "@/assets/blog-b32-declutter-home-cover.jpg";
 import blogB75Body from "@/assets/blog-b32-wardrobe-storage-body.jpg";
 import blogB76Cover from "@/assets/blog-b17-villa-patio-clearance.jpg";
 import blogB76Body from "@/assets/blog-b33-truck-loading-body.jpg";
+import blogB77Cover from "@/assets/blog-b23-sofa-disposal-cover.jpg";
+import blogB77Body from "@/assets/blog-b23-sofa-loading-body.jpg";
+import blogB78Cover from "@/assets/blog-b25-appliance-disposal-cover.jpg";
+import blogB78Body from "@/assets/blog-b25-appliance-recovery-body.jpg";
+import blogB79Cover from "@/assets/blog-b17-villa-patio-clearance.jpg";
+import blogB79Body from "@/assets/service-garden.jpg";
 
 export type BlogAuthor = {
   name: string;
@@ -9823,6 +9829,342 @@ export const blogPosts: BlogPost[] = [
       {
         href: "https://www.dm.gov.ae/dubai-municipality-services/",
         label: "Dubai Municipality — Dispose of household appliances and furniture",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-recliner-chair-dubai",
+    title: "How to Dispose of a Recliner Chair in Dubai: Motors, Springs and Narrow Exits",
+    excerpt:
+      "A recliner is heavier and less predictable than an ordinary armchair. Close the mechanism, isolate any power pack, split removable backs and plan the route before lifting.",
+    category: "Guides & Tips",
+    coverImage: blogB77Cover,
+    coverImageAlt:
+      "Two furniture-removal crew members wrapping a large upholstered sofa inside a high-rise Dubai apartment",
+    publishedAt: "2026-09-29",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Recliner Disposal", "Furniture Removal", "Powered Recliners", "Bulky Seating"],
+    seoTitle: "How to Dispose of a Recliner Chair in Dubai Safely",
+    seoDescription:
+      "How to dispose of a recliner chair in Dubai: isolate motors, secure the mechanism, remove detachable backs and choose reuse, repair or bulky collection.",
+    keyTakeaways: [
+      "Close and secure the footrest before anyone tries to tip or carry the chair.",
+      "Unplug powered recliners and keep the transformer, handset and cables together for reuse or electronics recovery.",
+      "Many recliner backs lift off after release tabs are opened, making the chair safer for lifts and doorways.",
+      "Do not reach into an exposed mechanism; springs, linkages and scissor arms can trap fingers.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a recliner chair in Dubai?",
+        paragraphs: [
+          "Unplug a powered recliner, close the footrest and disconnect only the low-voltage plugs designed to separate. Check whether the back or side sections release, then protect the mechanism and carry each piece through the measured route. Offer a clean working chair for reuse; send damaged upholstery, frames and electrical parts through suitable recovery or bulky collection routes.",
+          "The key to how to dispose of a recliner chair in Dubai is controlling the moving parts before controlling the weight. A chair that looks smaller than a sofa can be denser, bottom-heavy and difficult to grip. If its footrest opens in a corridor or its back catches the lift door, the job stops immediately.",
+        ],
+      },
+      {
+        heading: "Identify what kind of recliner you have",
+        paragraphs: [
+          "A manual recliner normally has a side lever or a push-back action. A powered chair has a wall plug, transformer and motor beneath the seat; lift chairs also raise and tilt the whole seat. Modular reclining sofas may separate between seats even when the upholstery makes them look like one continuous piece.",
+          "Test the chair only if it is safe to power. Listen for grinding, check whether the footrest closes fully and inspect the frame from outside without putting your hands between the linkages. A clean chair with sound upholstery and a smooth mechanism may suit resale or donation. A twisted frame, exposed spring, burnt connector or stuck-open footrest needs controlled removal rather than another home.",
+        ],
+        table: {
+          caption: "Prepare each recliner type for a different lift",
+          headers: ["Recliner type", "Preparation", "Main handling risk"],
+          rows: [
+            ["Manual armchair", "Close footrest and remove the back if designed to release", "Lever or linkage opening while carried"],
+            ["Powered recliner", "Unplug and label transformer, handset and motor leads", "Trailing cables and a heavier seat base"],
+            ["Lift chair", "Lower to its normal seated position before unplugging", "Very heavy motorised base"],
+            ["Reclining sofa", "Find manufacturer separation points between seats", "Uneven modules and hidden connectors"],
+          ],
+        },
+      },
+      {
+        heading: "Make it smaller without dismantling the mechanism",
+        paragraphs: [
+          "Start by removing loose cushions and checking the manufacturer's label or manual. On many models, the upholstered back slides onto two metal brackets and releases through small tabs near the lower rear corners. Have one person steady the base while another lifts the back evenly. If it does not release without force, leave it attached.",
+          "For a powered chair, unplug it at the wall and photograph every connector before separating the transformer or handset. Coil and label the leads rather than cutting them. Tie the closed footrest to the frame with a furniture strap placed where it will not crush a switch or cable. Never remove springs, motors or scissor linkages in the apartment; those parts can store tension and create sharp pinch points.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Keep hands out of the linkage",
+          text: "A recliner can shift as its weight moves, even when unplugged. Grip the solid frame, not the footrest arms, springs or crossed metal bars underneath the seat.",
+        },
+      },
+      {
+        heading: "Measure the exit and choose the final route",
+        paragraphs: [
+          "Measure the chair base after the back is removed, then compare it with the apartment door, corridor turns and service-lift opening. Recliners often travel best on their side with blankets protecting the arms, but the motor housing and controls must not take the chair's weight. Tell the crew about stairs, lift bookings and a long loading-bay route before arrival.",
+          "Keep a reusable chair complete with its transformer, handset, headrest and any bolts. If it is beyond repair, the steel mechanism, timber frame, upholstery and electronics are different material streams; a professional route can separate more than a general bin can. Dubai Municipality's household bulky-waste service includes used furniture in eligible areas, while managed developments may use their own approved collector.",
+        ],
+        image: blogB77Body,
+        imageAlt:
+          "Removal crew carrying wrapped upholstered seating onto a furniture truck outside a Dubai residence",
+        imageCaption:
+          "Securing moving sections and wrapping the upholstery keeps bulky seating controlled from the lift to the truck.",
+      },
+    ],
+    faqs: [
+      {
+        question: "Can a powered recliner be donated if the motor has failed?",
+        answer:
+          "Ask the recipient first and describe the fault precisely. A repairable chair may still be useful if the upholstery and frame are excellent, but a charity should not discover a heavy non-working mechanism at collection. Include the transformer, handset and model label so a repairer can identify parts.",
+      },
+      {
+        question: "Do all recliner backs come off?",
+        answer:
+          "No. Many backs use slide-on brackets, but others are bolted, upholstered as one piece or connected to powered headrests. Check the manual and look for designed release tabs. Do not pry the fabric or force the frame simply because another brand's chair separated that way.",
+      },
+      {
+        question: "Can I leave a recliner in the building bin room?",
+        answer:
+          "Only if management has named that location for a confirmed bulky-item collection. A recliner can block bins, doors and escape routes. Keep it inside the apartment until the service-lift and loading-bay window begins, then move it directly to the approved handover point.",
+      },
+    ],
+    relatedSlugs: [
+      "where-to-dispose-old-sofa-in-dubai",
+      "how-to-dispose-of-old-furniture-in-dubai",
+      "diy-junk-removal-vs-hiring-dubai",
+    ],
+    serviceLink: {
+      href: "/services/furniture-removal",
+      label: "Arrange recliner and upholstered-furniture removal",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-services/",
+        label: "Dubai Municipality — Dispose of household appliances and furniture",
+      },
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-launches-electronic-platform-for-exchange-of-recyclable-or-reusable-materials/",
+        label: "Dubai Municipality — Platform for exchanging reusable materials",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-old-microwave-dubai",
+    title: "How to Dispose of an Old Microwave in Dubai: Cleaning, Built-Ins and E-Waste",
+    excerpt:
+      "A microwave is compact enough to carry but not to drop into a normal bin. Clean it, check whether it is built in, keep the casing closed and use an appliance or e-waste route.",
+    category: "Eco & Recycling",
+    coverImage: blogB78Cover,
+    coverImageAlt:
+      "Appliance-removal crew moving a large kitchen appliance on a strapped hand truck in a Dubai apartment",
+    publishedAt: "2026-09-29",
+    readingTime: "6 min read",
+    author: defaultAuthor,
+    tags: ["Microwave Disposal", "E-Waste Recycling", "Kitchen Appliances", "Small Appliance Removal"],
+    seoTitle: "How to Dispose of an Old Microwave in Dubai Safely",
+    seoDescription:
+      "How to dispose of an old microwave in Dubai: clean it, remove built-in trim safely, avoid opening the casing and choose reuse or certified e-waste recycling.",
+    keyTakeaways: [
+      "Unplug the microwave, remove food residue and keep its outer casing intact.",
+      "Do not dismantle a microwave at home; internal high-voltage components require trained handling.",
+      "A built-in microwave must be released from its trim and cabinet fixings before collection.",
+      "Working units can be reused; failed units belong with electrical-appliance or e-waste recovery.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an old microwave in Dubai?",
+        paragraphs: [
+          "Unplug the microwave, let it cool, remove the glass tray and clean out food and grease. Keep the casing closed and secure the door and loose parts. Offer a clean, working unit for reuse; take a failed microwave to an approved electrical-appliance or e-waste route instead of placing it in household rubbish.",
+          "The answer to how to dispose of an old microwave in Dubai changes slightly for countertop, built-in and combination models. The first can be boxed in minutes. The second may be fixed through a trim kit and cabinet. The third can be much heavier than it looks and may need two people to lower it safely.",
+        ],
+      },
+      {
+        heading: "Decide whether it is reusable before moving it",
+        paragraphs: [
+          "A microwave is worth passing on only when the door closes squarely, the seal area is clean, the casing is not badly dented and the controls work normally. Test it with a microwave-safe cup of water while you still have access to a socket, then disclose any noise, burning smell, display fault or intermittent heating in the listing.",
+          "Stop using a unit with a damaged door, cracked hinge, arcing marks or exposed cable. Do not give it away as 'probably an easy fix.' Keep the model and serial label visible for the recipient or recycler, and include the correct glass turntable, roller ring and rack if the model came with one.",
+        ],
+        table: {
+          caption: "Choose a route based on the microwave's condition",
+          headers: ["Condition", "Route", "Preparation"],
+          rows: [
+            ["Clean and fully working", "Resale, donation or household handover", "Include model details and all original trays"],
+            ["Known repairable fault", "Qualified appliance repairer", "Record symptoms without opening the casing"],
+            ["Door, cable or heating fault", "Electrical-appliance or e-waste recovery", "Unplug, clean and secure loose parts"],
+            ["Built into cabinetry", "Release by installer or competent technician first", "Protect trim and confirm the cabinet opening"],
+          ],
+        },
+      },
+      {
+        heading: "Clean and pack it without opening the casing",
+        paragraphs: [
+          "Unplug the microwave and wipe out crumbs, grease and liquid. Remove the glass tray and roller ring, wash and dry them, then wrap them separately so they cannot strike the cavity during transport. Tape the power lead to the side and use a removable furniture strap or stretch wrap to keep the door closed without placing adhesive on the controls or finish.",
+          "Leave the outer cover, rear panel and electrical components alone. Microwave ovens contain high-voltage parts, and unplugging the appliance is not permission to dismantle it. A recycler or trained repairer has the equipment and procedures to handle internal components; the household job ends with cleaning, packing and routing the complete unit.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Do not strip a microwave for scrap",
+          text: "Never open the casing, remove the magnetron or handle internal capacitors at home. Send the complete, closed appliance to a qualified repair or e-waste facility.",
+        },
+      },
+      {
+        heading: "Built-in units need one extra step",
+        paragraphs: [
+          "A built-in microwave may be held by screws through a decorative trim kit, cabinet rails or a shelf above the unit. Switch off the relevant circuit if the plug is hidden, check the installation instructions and have a second person support the appliance as the final fixing comes out. If wiring or fixings are unclear, use an installer rather than levering against the cabinet.",
+          "Dubai Municipality includes household electrical and electronic appliances in its bulky-waste routes, and its current e-waste partnership supports collection and material recovery. For a single countertop unit, a designated community e-waste drop-off may be simpler; for a kitchen clear-out, add it to the same measured appliance collection as the oven, dishwasher or fridge.",
+        ],
+        image: blogB78Body,
+        imageAlt:
+          "Electrical appliances separated into material streams at an appliance and e-waste recovery facility serving Dubai",
+        imageCaption:
+          "Keeping the casing intact allows trained facilities to separate electrical components and recover useful materials safely.",
+      },
+    ],
+    faqs: [
+      {
+        question: "Can a microwave go in an apartment recycling bin?",
+        answer:
+          "No. Shared recycling bins are normally intended for clean packaging materials, not electrical appliances. Use the building's named e-waste point, an authorised drop-off, an eligible municipal appliance collection or a private collector, and follow management instructions about where the unit may wait.",
+      },
+      {
+        question: "Should I remove the microwave's glass plate?",
+        answer:
+          "Yes for transport. Wash and dry the turntable and roller ring, wrap them separately and label them with the model if the microwave may be reused. Loose glass can shatter inside the cavity and damage an otherwise repairable appliance.",
+      },
+      {
+        question: "Can I sell a microwave that heats intermittently?",
+        answer:
+          "Only as a clearly described repair item, never as working. Intermittent heating may involve high-voltage components that are not suitable for home diagnosis. A qualified repairer or an e-waste route is usually more responsible than passing the uncertainty to another household.",
+      },
+    ],
+    relatedSlugs: [
+      "where-to-recycle-electronics-in-dubai",
+      "is-it-illegal-to-throw-electronics-in-the-bin-dubai",
+      "how-to-dispose-of-old-oven-dubai",
+    ],
+    serviceLink: {
+      href: "/services/appliance-removal",
+      label: "Arrange microwave and kitchen-appliance collection",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-boosts-e-waste-recycling-through-new-partnership/",
+        label: "Dubai Municipality — Household electrical and electronic waste collection partnership",
+      },
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-services/",
+        label: "Dubai Municipality — Dispose of household appliances and furniture",
+      },
+      {
+        href: "https://dtsc.ca.gov/uwed-dismantling-and-classification-frequently-asked-questions-faqs/",
+        label: "California DTSC — Microwave dismantling and capacitor handling guidance",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-old-plant-pots-dubai",
+    title: "How to Dispose of Old Plant Pots in Dubai: Soil, Ceramics and Large Planters",
+    excerpt:
+      "Large planters are three separate loads: the living plant, the soil and the container. Empty them in that order, control the weight and keep reusable materials clean.",
+    category: "Villa & Garden",
+    coverImage: blogB79Cover,
+    coverImageAlt:
+      "Villa-clearance crew moving large potted plants and outdoor furniture across a Dubai terrace",
+    publishedAt: "2026-09-29",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Plant Pot Disposal", "Large Planters", "Garden Clearance", "Soil Reuse"],
+    seoTitle: "How to Dispose of Old Plant Pots in Dubai: Safe Steps",
+    seoDescription:
+      "How to dispose of old plant pots in Dubai: separate plants and soil, identify each container material, then prepare it safely for reuse or collection.",
+    keyTakeaways: [
+      "Separate the plant, soil and container before deciding where each part should go.",
+      "Do not try to carry a large planter while it is full; wet soil can add far more weight than expected.",
+      "Clean plastic nursery pots may be reusable, while broken ceramic and concrete need a controlled heavy-material route.",
+      "Wrap cracked pots and mark sharp edges so nobody mistakes them for intact containers.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of old plant pots in Dubai?",
+        paragraphs: [
+          "Remove or rehome the plant, scoop the soil into small manageable bags and empty the drainage layer. Clean intact pots for reuse or return to a nursery where accepted. Stack light plastic pots; wrap broken ceramic; and book collection for heavy concrete, stone or oversized planters rather than leaving them beside community bins.",
+          "The practical answer to how to dispose of old plant pots in Dubai starts with weight. A decorative planter that two people can carry empty may be almost immovable after irrigation. Trying to drag it full can crack tiles, tear the base from the pot or leave a trail of wet soil through the villa.",
+        ],
+      },
+      {
+        heading: "Make three decisions, not one",
+        paragraphs: [
+          "First decide whether the plant can be saved. Healthy indoor plants and established outdoor specimens often find homes through neighbours, gardeners or community groups. Photograph the plant in daylight, state its approximate height and pot size, and disclose pests, root damage or recent pesticide treatment.",
+          "Next decide whether the soil is clean enough to reuse. Potting mix from a healthy plant can refresh beds or fill another container after roots and debris are removed. Soil affected by pests, disease, oil, paint or renovation dust should stay separate and follow the advice of the gardener or approved collector. Never tip unwanted soil into a storm drain, vacant plot or landscaped common area.",
+        ],
+        table: {
+          caption: "Sort planters by material after they are empty",
+          headers: ["Pot material", "Reuse potential", "Preparation for collection"],
+          rows: [
+            ["Thin nursery plastic", "High if clean and not brittle", "Nest by size without crushing"],
+            ["Decorative plastic or fibreglass", "Good if UV damage is limited", "Remove soil and protect cracked edges"],
+            ["Terracotta or glazed ceramic", "Good when intact", "Wrap fragments and label as sharp"],
+            ["Concrete, stone or terrazzo", "Good but difficult to move", "Empty completely and declare weight and dimensions"],
+            ["Timber planter box", "Depends on rot and liner condition", "Remove liner and loose soil before dismantling"],
+          ],
+        },
+      },
+      {
+        heading: "Empty a large planter without damaging the terrace",
+        paragraphs: [
+          "Stop watering a day or two before the job if the plant can tolerate it, so the soil is damp rather than saturated. Lay a tarp around the pot, remove decorative stones and scoop soil into several small bags. Do not fill one contractor sack to the top: soil is dense, and a bag that can be dragged may still be too heavy to lift safely.",
+          "For a plant being saved, loosen the root ball around the edge and have a gardener decide whether to lift, divide or cut the container away. Once empty, remove drainage crocks and wash only enough residue off to identify cracks and material. Keep muddy water away from balcony and storm-water drains, and protect lift floors before the planter moves.",
+        ],
+        callout: {
+          type: "tip",
+          title: "Photograph access as well as the planter",
+          text: "For a concrete or stone pot, send the collector its height, widest diameter, location, steps and gate width. The access route often determines the equipment and crew size more than the pot itself.",
+        },
+      },
+      {
+        heading: "Reuse intact pots and control broken ones",
+        paragraphs: [
+          "Intact pots are usually easier to give away as a grouped set, especially when they are empty and washed. Keep saucers and matching stands together. UV-brittle plastic that cracks when squeezed is finished; do not stack it under good pots where it will break during loading.",
+          "Broken terracotta and glazed ceramic create sharp, heavy fragments. Place small pieces in a rigid box or bucket rather than a thin bin bag, wrap large cracked sections and label the container. Concrete and stone planters may need a dolly, lifting straps or planned break-up after the soil is removed. Combine them with other garden items only after the collector has allowed for their weight.",
+        ],
+        image: blogB79Body,
+        imageAlt:
+          "Bagged soil and bundled garden trimmings prepared for collection beside a landscaped Dubai villa garden",
+        imageCaption:
+          "Keeping soil and organic garden material separate prevents reusable pots and other items from becoming a muddy mixed load.",
+      },
+    ],
+    faqs: [
+      {
+        question: "Can old potting soil go in the general bin?",
+        answer:
+          "Small quantities may be accepted through a building's residual-waste system, but rules and weight limits vary. Reuse clean soil first, then ask management or the collector about the remainder. Never overload a bin bag or leave loose soil where it can block drains and dirty shared areas.",
+      },
+      {
+        question: "Can broken terracotta pots be recycled with glass?",
+        answer:
+          "No. Ceramics and terracotta melt differently from container glass and can contaminate a glass-recycling stream. Keep the fragments out of bottle bins, package sharp edges securely and use the disposal route specified by the building, municipality or collector.",
+      },
+      {
+        question: "How do I move a concrete planter that cannot be lifted?",
+        answer:
+          "Empty it fully and send the collector dimensions, photos and the access route. A crew may use a rated dolly, lifting straps or mechanical assistance. Do not roll a concrete pot across tiles or attempt uncontrolled break-up near glass, cars or underground irrigation.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-garden-waste-in-dubai",
+      "how-to-dispose-of-garden-furniture-in-dubai",
+      "how-to-dispose-of-trampoline-dubai",
+    ],
+    serviceLink: {
+      href: "/services/garden-waste-removal",
+      label: "Arrange planter, soil and garden-item collection",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf",
+        label: "Dubai Municipality — Waste duty-of-care technical guideline",
+      },
+      {
+        href: "https://www.dm.gov.ae/community/public-cleanliness/",
+        label: "Dubai Municipality — Public cleanliness and waste guidance",
+      },
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-services/",
+        label: "Dubai Municipality — Household bulky-waste services",
       },
     ],
   },
