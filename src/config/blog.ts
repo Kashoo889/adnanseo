@@ -124,6 +124,12 @@ import blogB78Cover from "@/assets/blog-b25-appliance-disposal-cover.jpg";
 import blogB78Body from "@/assets/blog-b25-appliance-recovery-body.jpg";
 import blogB79Cover from "@/assets/blog-b17-villa-patio-clearance.jpg";
 import blogB79Body from "@/assets/service-garden.jpg";
+import blogB80Cover from "@/assets/blog-b39-workplace-decluttering-cover.webp";
+import blogB80Body from "@/assets/blog-b38-office-loading-access-body.webp";
+import blogB81Cover from "@/assets/blog-b61-ewaste-sorting-depot-body.webp";
+import blogB81Body from "@/assets/blog-b39-office-storage-audit-body.webp";
+import blogB82Cover from "@/assets/blog-b40-renovation-cleanup-cover.webp";
+import blogB82Body from "@/assets/blog-b40-renovation-detail-clean-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -10161,6 +10167,378 @@ export const blogPosts: BlogPost[] = [
       {
         href: "https://www.dm.gov.ae/community/public-cleanliness/",
         label: "Dubai Municipality — Public cleanliness and waste guidance",
+      },
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-services/",
+        label: "Dubai Municipality — Household bulky-waste services",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-old-desk-dubai",
+    title: "How to Dispose of an Old Desk in Dubai: Standing Desks, Corner Units and Glass Tops",
+    excerpt:
+      "A desk is really three jobs: emptying it, getting it through the door and deciding whether it can be used again. Standing desks, L-shapes and glass tops each change the order.",
+    category: "Guides & Tips",
+    coverImage: blogB80Cover,
+    coverImageAlt:
+      "People emptying desk drawers and boxing stationery on a wooden desktop in a Dubai office before the furniture is cleared",
+    publishedAt: "2026-09-30",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Desk Disposal", "Standing Desks", "Home Office Clear-Out", "Furniture Disposal"],
+    seoTitle: "How to Dispose of an Old Desk in Dubai: Step by Step",
+    seoDescription:
+      "How to dispose of an old desk in Dubai: empty and lower it, split corner units, lift glass tops off safely and choose resale, donation or bulky collection.",
+    keyTakeaways: [
+      "Empty every drawer and check whether the desk belongs to you or to an employer before it goes anywhere.",
+      "Lower an electric standing desk to its minimum height while it still has power, then unplug it.",
+      "Split L-shaped desks at the join and lift glass tops off the frame before anything is carried.",
+      "Swollen particleboard rarely survives a second assembly; plan a collection rather than a resale for it.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an old desk in Dubai?",
+        paragraphs: [
+          "Empty every drawer, unplug and lower any standing desk, then remove the top from the frame and bag the fixings. Offer solid or electric desks that still work for resale or donation. Book a bulky-furniture collection for swollen particleboard, broken frames and cracked glass tops instead of leaving them in a corridor or chute room.",
+          "Knowing how to dispose of an old desk in Dubai mostly comes down to identifying what you have. A flat-pack study desk and a motorised sit-stand frame look similar from across a room, but one is light board held together by cam locks and the other is a steel frame with lifting columns, a control box and a tangle of cables underneath.",
+        ],
+      },
+      {
+        heading: "Identify the desk before you pick up a screwdriver",
+        paragraphs: [
+          "Check the underside first. Cam-lock discs and dowels mean flat-pack. A welded or bolted steel frame with a cable tray means a sit-stand or bench desk. A pedestal on castors usually comes away on its own, and a desk that seems oddly heavy for its size is often solid timber or a thick veneered board that should stay in one piece if it fits through the door.",
+          "One question people forget: whose desk is it? Home-office furniture supplied by an employer during remote working may still be a company asset with a tag or serial number. Ask HR or facilities before selling or discarding it, and return any keys for lockable pedestals with the desk rather than leaving them in a drawer.",
+        ],
+        table: {
+          caption: "How the desk type changes the preparation",
+          headers: ["Desk type", "What makes it awkward", "Preparation before collection"],
+          rows: [
+            ["Flat-pack study or computer desk", "Board weakens each time it is taken apart", "Move whole if it fits; dismantle only when access demands it"],
+            ["Solid timber or veneered executive desk", "Weight and a fixed pedestal", "Remove drawers, measure doors, corridors and the lift car"],
+            ["Electric standing desk", "Steel frame, lifting columns and electrical parts", "Lower fully, unplug, then separate the top from the frame"],
+            ["L-shaped or corner desk", "Two sections joined by brackets", "Split at the join and move each section separately"],
+            ["Glass-top desk", "A heavy sheet that can shatter if twisted", "Lift the glass off first and carry it upright on edge"],
+          ],
+        },
+      },
+      {
+        heading: "Electric standing desks: lower first, unplug second",
+        paragraphs: [
+          "Run the desk down to its lowest setting while it is still powered. Short columns keep the centre of gravity low and make the frame far easier to control once the top comes off. Then switch off at the wall, unplug the control box, handset and any monitor arm cables, and coil everything into the cable tray so nothing snags on a door frame.",
+          "The top is usually screwed to the frame from underneath. Remove the screws with two people present: one supports the top while the other works, because a large top can drop suddenly once the last fixing is out. The frame on its own is still heavy steel. Keep the columns, control box and handset together, since a working frame is a sellable item and a failed one needs an electrical route rather than general waste.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Leave the lifting columns assembled",
+          text: "Do not try to open a motorised leg or cut through cabling to save space. Unplug the desk, keep the electrical parts attached to the frame and tell the buyer or collector whether the motors still work.",
+        },
+      },
+      {
+        heading: "Flat-pack desks rarely survive a second assembly",
+        paragraphs: [
+          "Particleboard holds its screws well the first time. Taking it apart widens the holes, and a desk that has lived near a balcony door or an air-conditioning drip often has swollen edges that crumble when a cam lock is turned. If the desk fits through the door and into the service lift whole, move it whole. Measure the lift car diagonally, not just its width.",
+          "If you do dismantle, put every screw, dowel and bracket in a labelled bag and tape it to the largest panel. For a desk being sold, photograph the assembly stages as you go; buyers are far more willing to take a flat-pack piece with its instructions and fixings than a pile of anonymous boards. A desk that is already sagging or split is finished and belongs in a furniture collection.",
+        ],
+        image: blogB80Body,
+        imageAlt:
+          "Removal crew wheeling a trolley loaded with a desk pedestal, office chairs and flat desk panels past a lift towards a Dubai loading bay",
+        imageCaption:
+          "Pedestals, chairs and desk panels travel best as separate, wrapped pieces on one trolley, booked into a single service-lift slot.",
+      },
+      {
+        heading: "Choose the route once it is ready to move",
+        paragraphs: [
+          "Working standing desks and solid timber desks sell steadily through second-hand marketplaces, especially at the start of the school year and after office relocations flood the market with cheaper laminate. Charities are pickier: most accept sturdy, clean furniture and turn away chipped laminate, swollen board and anything missing parts. Ask before you deliver rather than leaving a desk at the door.",
+          "Whatever is left should never be parked in a corridor, lobby or chute room while you wait for it to disappear. Tower management usually needs a service-lift booking and removal pass for furniture, and Dubai Municipality runs its own household bulky-waste collection for furniture. For a desk plus the chair, shelving and boxes that usually leave with it, a single measured collection is often simpler.",
+        ],
+        callout: {
+          type: "tip",
+          title: "Send one photo of the underside",
+          text: "When asking for a quote, photograph the desk from below as well as the front. The frame and fixings tell a crew whether it can travel whole, which saves time on the day.",
+        },
+      },
+    ],
+    faqs: [
+      {
+        question: "Is a broken standing desk classed as e-waste?",
+        answer:
+          "Partly. The frame and top are furniture, but the motors, control box and handset are electrical components. Keep them attached to the frame, tell the collector the desk is motorised and do not place the control box or cables in household rubbish. A recycler can then separate the steel and electrical parts properly.",
+      },
+      {
+        question: "What should I do with a glass desk top that is chipped?",
+        answer:
+          "Treat it as damaged glass and stop using it. Lift it off the frame with two people, keep it upright on edge and tape a blanket or cardboard over the chipped corner. Tell the collector about the damage, because toughened glass with an edge chip can shatter unexpectedly if it is knocked or twisted.",
+      },
+      {
+        question: "Can I put a small desk out with the building's bulky waste?",
+        answer:
+          "Only if the building or community has a named bulky-waste point and management confirms the desk may go there. Many towers do not allow furniture in bin rooms at all. Ask first, book the service lift, and use a municipal bulky-waste request or a private collection when there is no approved spot.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-old-wardrobe-dubai",
+      "sell-vs-donate-old-furniture-dubai",
+      "how-to-dispose-of-old-furniture-in-dubai",
+    ],
+    serviceLink: {
+      href: "/services/furniture-removal",
+      label: "Arrange desk and home-office furniture collection",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-services/",
+        label: "Dubai Municipality — Dispose of household appliances and furniture",
+      },
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-boosts-e-waste-recycling-through-new-partnership/",
+        label: "Dubai Municipality — Household electrical and electronic waste collection partnership",
+      },
+      {
+        href: "https://www.dm.gov.ae/community/public-cleanliness/",
+        label: "Dubai Municipality — Public cleanliness and waste guidance",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-old-printer-dubai",
+    title: "How to Dispose of an Old Printer in Dubai: Stored Data, Toner and E-Waste Routes",
+    excerpt:
+      "A printer can remember more than you expect and leak more than you would like. Clear its memory, take out the ink or toner, and send the machine to an electronics route.",
+    category: "Eco & Recycling",
+    coverImage: blogB81Cover,
+    coverImageAlt:
+      "Resident carrying an old printer and a crate of small electronics to a computers and printers bay at a Dubai recycling drop-off centre",
+    publishedAt: "2026-09-30",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Printer Disposal", "E-Waste Recycling", "Toner Cartridges", "Data Security"],
+    seoTitle: "How to Dispose of an Old Printer in Dubai Safely",
+    seoDescription:
+      "How to dispose of an old printer in Dubai: clear stored scans and Wi-Fi settings, remove ink or toner cleanly and choose the right e-waste or return route.",
+    keyTakeaways: [
+      "Reset the printer first: Wi-Fi printers store network details, and office multifunction machines can hold copies of scanned documents.",
+      "A leased copier belongs to the leasing company; arrange its return and data wipe with them instead of disposing of it.",
+      "Remove ink or toner cartridges and seal them in a bag; never vacuum spilled toner with a household vacuum.",
+      "Printers are electronic waste and should go to an approved drop-off or collector, not the general bin.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an old printer in Dubai?",
+        paragraphs: [
+          "Clear stored jobs and reset the printer, remove ink or toner cartridges and bag them separately, then take the machine to an approved e-waste drop-off or collector. Return leased office copiers to the leasing company, and have their internal hard drive wiped or removed before the device leaves your control.",
+          "The details of how to dispose of an old printer in Dubai depend on its size. A home inkjet is a small electronics item with some wet ink inside. An office multifunction machine is closer to a computer on wheels: heavy, often leased, and sometimes fitted with a hard drive that has kept an image of years of copied, scanned and faxed paperwork.",
+        ],
+      },
+      {
+        heading: "Find out what the printer remembers",
+        paragraphs: [
+          "Home printers connected to Wi-Fi keep the network name and password, and many store scan-to-email addresses, fax numbers or a cloud-printing account. Use the settings menu to restore factory defaults, then remove the printer from your printing app and account. It takes five minutes and stops the next owner from seeing your network or contacts.",
+          "Office machines need more care. The US Federal Trade Commission's guidance on digital copiers notes that their hard drives store data about the documents they copy, print, scan, fax or email. A factory reset may only clear settings, so use the device's secure-erase or overwrite function, or ask the vendor to wipe or remove the drive and confirm it in writing against the serial number.",
+        ],
+        callout: {
+          type: "info",
+          title: "A leased copier is not yours to dispose of",
+          text: "If the machine arrived under a lease or managed-print contract, contact the supplier to arrange collection. Agree how the drive will be wiped before it leaves, and keep that confirmation with your asset records.",
+        },
+        table: {
+          caption: "What to do before each type of printer leaves",
+          headers: ["Printer type", "Main concern", "Before collection"],
+          rows: [
+            ["Home inkjet", "Wet ink cartridges can leak", "Reset Wi-Fi settings, remove cartridges and seal them in a bag"],
+            ["Home or small-office laser", "Loose toner powder", "Remove the toner cartridge upright and bag it; keep the printer level"],
+            ["Office multifunction printer", "Internal drive holding scans and copies", "Secure erase or drive removal, recorded against the serial number"],
+            ["Leased copier", "Owned by the leasing company", "Book the return with the supplier instead of disposing of it"],
+            ["Large-format printer or plotter", "Size and bulk ink tanks", "Ask the supplier about ink disposal; measure doors and lift"],
+          ],
+        },
+      },
+      {
+        heading: "Handle ink and toner without making a mess",
+        paragraphs: [
+          "Take cartridges out while the printer still has power so the carriage moves to its change position. Put each one in a sealed bag, nozzle or opening facing up, and keep them out of the printer during transport. Close the paper trays, tape the scanner lid shut and, if your model has a scanner-lock switch, engage it before the printer is lifted.",
+          "Toner is an extremely fine powder, and this is where people create the mess. If some spills, do not reach for the household vacuum: Xerox warns that ordinary vacuum cleaners should not be used for toner because the particles pass through standard filters and can create a fire risk. Lift loose powder carefully with a damp disposable cloth and cold water, then bag the cloth with the cartridge.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Keep laser printers level",
+          text: "Carry a laser printer flat and upright. Tipping it on its side can release toner from the cartridge and waste bottle into the inside of the machine, turning a working printer into a repair job.",
+        },
+        image: blogB81Body,
+        imageAlt:
+          "Two crew members auditing office storage shelves beside a stack of printers while a trolley holds bundled cables and a chair for removal",
+        imageCaption:
+          "In an office clear-out, printers, consumables and cables are listed together so drives can be wiped and toner kept sealed before collection.",
+      },
+      {
+        heading: "Choose the right route for the machine",
+        paragraphs: [
+          "A working laser printer or office machine with a known page count can be resold or passed to a school or community group. Be realistic with cheap inkjets: replacement cartridges can cost close to a new printer, so a working inkjet without spare ink is hard to give away. Only offer it if you would honestly use it yourself.",
+          "Everything else is electronic waste. Dubai Municipality runs household electrical and electronic waste collection through its current e-waste partnership, and many community drop-off centres have a bay marked for computers and printers. Used cartridges often go back through a manufacturer's or retailer's take-back scheme. For an office with several machines, add the printers to the same collection as the old IT equipment once every drive has been cleared.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Does a factory reset erase an office copier's hard drive?",
+        answer:
+          "Not always. On many machines a factory reset restores settings but does not overwrite stored images. Look for a secure-erase, data-overwrite or disk-sanitising option in the administrator menu, or ask the vendor to wipe or remove the drive and give you written confirmation recorded against the machine's serial number.",
+      },
+      {
+        question: "Should I leave the cartridges in a printer I am giving away?",
+        answer:
+          "If the printer is working and the cartridges still print, leave them installed so the new owner can test it, and keep the printer level. If the printer is going for recycling, take the cartridges out, seal them in a bag and route them separately through a take-back scheme where one exists.",
+      },
+      {
+        question: "Can an old printer go in my building's recycling bin?",
+        answer:
+          "No. Building recycling bins are for packaging such as paper, plastic and cans, not electrical items. Take the printer to an approved e-waste drop-off, request a municipal electronics collection or add it to a private collection, and ask management where it may wait if it cannot leave immediately.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-old-laptop-dubai",
+      "where-to-recycle-electronics-in-dubai",
+      "is-it-illegal-to-throw-electronics-in-the-bin-dubai",
+    ],
+    serviceLink: {
+      href: "/services/office-junk-removal",
+      label: "Clear printers and office equipment in one collection",
+    },
+    sources: [
+      {
+        href: "https://www.ftc.gov/business-guidance/resources/digital-copier-data-security-guide-businesses",
+        label: "US Federal Trade Commission — Digital copier data security guide",
+      },
+      {
+        href: "https://www.xerox.com/technical_product_documentation/Iridesse/SRRD/en_EN/Xerox/Xerox/vacuum_toner.html",
+        label: "Xerox — Vacuum cleaner use for dry ink and toner spills",
+      },
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-boosts-e-waste-recycling-through-new-partnership/",
+        label: "Dubai Municipality — Household electrical and electronic waste collection partnership",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-old-kitchen-cabinets-dubai",
+    title: "How to Dispose of Old Kitchen Cabinets in Dubai: Approvals, Worktops and Reusable Units",
+    excerpt:
+      "An old kitchen comes out in a strict order: approvals, isolation, doors, worktops, wall units, then base units. Get the order right and much of it can be reused rather than skipped.",
+    category: "Guides & Tips",
+    coverImage: blogB82Cover,
+    coverImageAlt:
+      "Crew sorting timber lengths, flattened cardboard and aluminium profiles on protected flooring beside a kitchen in a Dubai apartment",
+    publishedAt: "2026-09-30",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Kitchen Cabinet Disposal", "Kitchen Renovation", "Worktop Removal", "Renovation Waste"],
+    seoTitle: "How to Dispose of Old Kitchen Cabinets in Dubai",
+    seoDescription:
+      "How to dispose of old kitchen cabinets in Dubai: confirm approvals, isolate services, remove worktops safely and separate reusable units from renovation waste.",
+    keyTakeaways: [
+      "In a rented home the kitchen normally belongs to the landlord; get written approval before anything is removed.",
+      "Water, gas and electrical connections must be isolated by competent people before cabinets come off the wall.",
+      "Never dry-cut a quartz or engineered-stone worktop; remove it whole or leave cutting to a contractor with dust controls.",
+      "Intact, recent cabinet runs can be sold as a set; water-damaged boards and offcuts go with renovation waste.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of old kitchen cabinets in Dubai?",
+        paragraphs: [
+          "Confirm you own the kitchen and have landlord and building approval, then have the water, gas and electrics isolated by competent people. Empty the units, remove doors and worktops first, and separate reusable cabinet runs from water-damaged boards, stone offcuts and metal fittings before booking a collection that allows for their weight.",
+          "Working out how to dispose of old kitchen cabinets in Dubai starts before anything is unscrewed, because a fitted kitchen is part of the property rather than loose furniture. It is plumbed, wired and often gas-connected, and the building usually has a view on when and how renovation work happens inside it.",
+        ],
+      },
+      {
+        heading: "Settle ownership and approvals first",
+        paragraphs: [
+          "In a rented apartment or villa, the kitchen almost always belongs to the landlord. Dubai's tenancy rules require a tenant to obtain the landlord's approval, and any permits the authorities require, before making alterations. Get that consent in writing, and agree who pays to reinstate or replace the kitchen, before a single door comes off. Removing a landlord's kitchen without it is a fast route to a deposit dispute.",
+          "Owners have a different checklist. Most towers and master communities ask for a renovation notification or NOC, contractor details, working hours and lift protection before fit-out work starts. Kitchen removal is noisy and dusty, and the building will expect debris to leave through the service lift during an approved window, not through the passenger lobby.",
+        ],
+      },
+      {
+        heading: "Take the kitchen out in the right order",
+        paragraphs: [
+          "Isolate first. Close the water valves under the sink and disconnect the taps and waste; have the gas supply capped by the provider or a qualified technician; and have an electrician make the cooker circuit and any under-cabinet lighting safe. Then take out the built-in appliances before the cabinets that hold them lose their strength.",
+          "From there the sequence is simple but matters. Doors and drawer fronts come off first, which makes carcasses lighter and protects the fronts if they are going to be reused. Worktops come next, then wall units, then base units, plinths and cornice. Wall units hang on brackets or rails and need two people: one to support the cabinet and one to release the fixings.",
+        ],
+        bulletPoints: [
+          "Empty every cupboard and clear the tops of wall units before work begins.",
+          "Remove handles and soft-close hinges and keep them in a labelled box for resale or metal recovery.",
+          "Cut silicone along the worktop and splashback with a blade before lifting, so tiles and wall finish are not pulled away.",
+          "Carry stone worktops on edge, never flat, supported along their length.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Never dry-cut a quartz or stone worktop",
+          text: "Cutting engineered stone releases respirable crystalline silica, which can cause serious lung disease. The UK Health and Safety Executive treats dry cutting of engineered stone as unacceptable. Lift the worktop out whole, or leave any cutting to a contractor with water suppression and proper respiratory protection.",
+        },
+      },
+      {
+        heading: "Separate what can be reused from what cannot",
+        paragraphs: [
+          "Cabinets from a kitchen fitted in the last few years often have a second life in a garage, laundry room, storeroom or a smaller flat. They sell best as a complete run with measurements of each unit, clear photographs, and hinges and handles included. Kitchens with swollen board under the sink, sagging shelves or dated doors on worn carcasses are unlikely to find a buyer.",
+          "What remains is renovation waste and should be treated as such. Dubai Municipality's duty-of-care guidance makes the waste producer responsible for passing waste to an authorised carrier, so check that whoever takes the debris away is licensed to move it and will deliver it to an approved facility.",
+        ],
+        table: {
+          caption: "Where each part of an old kitchen usually goes",
+          headers: ["Component", "Reuse chance", "Preparation"],
+          rows: [
+            ["Intact carcasses and doors from a recent kitchen", "Good when sold as a complete run", "Keep units whole, list dimensions and include hinges and handles"],
+            ["Water-damaged sink base or swollen board", "None", "Break down and bag with renovation waste"],
+            ["Granite, marble or quartz worktop", "Occasional, as offcuts for smaller projects", "Remove whole, carry on edge and declare size and weight"],
+            ["Laminate worktop", "Low", "Remove fixings and treat as timber-based waste"],
+            ["Sink, taps, hinges, runners and handles", "Good for metal recovery", "Separate into a box so they are not lost in mixed debris"],
+          ],
+        },
+        image: blogB82Body,
+        imageAlt:
+          "Crew member inspecting a fitted kitchen cabinet run with a torch in a Dubai apartment while a colleague vacuums protected flooring",
+        imageCaption:
+          "Checking carcasses for water damage and loose fixings before removal shows which units can be reused and which belong in the debris load.",
+      },
+      {
+        heading: "Plan the carry-out as well as the removal",
+        paragraphs: [
+          "A single kitchen produces more volume than most people expect: carcasses, doors, plinths, worktops, packaging from the new units and bags of silicone, screws and plaster. In a tower, book the service lift for the full job, keep corner guards and floor runners in place until the last worktop is out, and let the security desk know when debris will pass through the loading bay.",
+          "Send the collector photographs of the kitchen, the worktop material and length, the floor and lift details, and whether anything is being kept for resale. That lets the crew bring enough people for the stone and the right transport for the load in one visit, instead of leaving half a kitchen in the corridor overnight.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "What happens to the wall once the old cabinets are removed?",
+        answer:
+          "Expect plug holes, bracket marks and sometimes unpainted or untiled strips where the units sat. If you are a tenant returning the property, agree with the landlord whether you must patch and paint before handover. If a new kitchen is going in, the fitter will usually prepare the wall as part of installation.",
+      },
+      {
+        question: "Can old kitchen cabinets go in the community bins?",
+        answer:
+          "No. Cabinets, worktops and fitting debris are renovation waste, not household rubbish, and community bins are not sized or permitted for them. Keep them inside the property until an authorised collector takes them away, and never leave boards or stone in a corridor, car park or on the verge outside a villa.",
+      },
+      {
+        question: "Can I keep the cabinets and only replace the doors?",
+        answer:
+          "Often, yes, if the carcasses are square, dry and firmly fixed. Replacing doors, drawer fronts and handles is a common way to refresh a sound kitchen. It only works when the hinge positions match the new doors, so check measurements before ordering and dispose of just the old fronts.",
+      },
+    ],
+    relatedSlugs: [
+      "renovation-cleanup-checklist-dubai",
+      "how-to-dispose-of-old-dishwasher-dubai",
+      "how-to-dispose-of-old-bathtub-dubai",
+    ],
+    serviceLink: {
+      href: "/services/villa-apartment-cleanouts",
+      label: "Clear old kitchen units and renovation leftovers",
+    },
+    sources: [
+      {
+        href: "https://www.hse.gov.uk/stonemasonry/working-engineered-stone-control-silica-risk.htm",
+        label: "UK Health and Safety Executive — Working engineered stone: control silica risk",
+      },
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf",
+        label: "Dubai Municipality — Waste duty-of-care technical guideline",
       },
       {
         href: "https://www.dm.gov.ae/dubai-municipality-services/",

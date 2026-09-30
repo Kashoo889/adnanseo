@@ -1,6 +1,6 @@
 # Dubai Junk Collection — Master Keyword Database
 
-> **Source:** SEO Keyword Research Report plus approved content-gap expansion (325 Target Keywords across 20 Clusters)
+> **Source:** SEO Keyword Research Report plus approved content-gap expansion (328 Target Keywords across 20 Clusters)
 > **Rule:** Every keyword has a single designated destination URL/page type to prevent cannibalization.
 
 ---
@@ -123,6 +123,7 @@
 | 311 | how to dispose of a bed frame in dubai | Q | Blog Article |
 | 321 | how to dispose of old wardrobe in dubai | Q | Blog Article |
 | 323 | how to dispose of a recliner chair in dubai | Q | Blog Article |
+| 326 | how to dispose of an old desk in dubai | Q | Blog Article |
 
 ---
 
@@ -174,6 +175,7 @@
 | 95 | is it illegal to throw electronics in the bin dubai | Q | Blog Article |
 | 96 | data safe electronics disposal dubai | I | Blog Article |
 | 301 | how to dispose of old tv in dubai | Q | Blog Article |
+| 327 | how to dispose of an old printer in dubai | Q | Blog Article |
 
 ---
 
@@ -316,6 +318,7 @@
 | 177 | how to dispose of construction waste dubai | Q | Blog Article |
 | 178 | renovation cleanup checklist dubai | I | Blog Article |
 | 316 | how to dispose of an old bathtub in dubai | Q | Blog Article |
+| 328 | how to dispose of old kitchen cabinets in dubai | Q | Blog Article |
 
 ---
 

@@ -2,7 +2,7 @@
 
 > **Full Documentation Location:** [`docs/seo/roadmap.md`](file:///d:/Projects/Dubai/rasheed/docs/seo/roadmap.md)  
 > **Objective:** Systematically establish topical authority, capture high-intent commercial and informational searches, and funnel organic traffic to WhatsApp/Call conversions across Dubai.  
-> **Based on:** 325 Target Keywords & 20 Topic Clusters.
+> **Based on:** 328 Target Keywords & 20 Topic Clusters.
 
 ---
 
@@ -316,6 +316,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B77 is distinguished from B23 (sofas) and B42 (DIY bulky removal) by powered and manual recliner mechanisms, removable backs, low-voltage controls and pinch-point management. B78 is distinguished from B61 (electronics-bin legality) and B66 (ovens) by countertop-versus-built-in preparation, microwave door condition, loose turntables and the instruction not to open high-voltage components. B79 is distinguished from B29 (organic garden waste) and B58 (outdoor furniture) by separating living plants, soil and containers, then routing plastic, ceramic and heavy concrete planters by material and weight.
 
+### Track 23: Home Office, Printers & Fitted Kitchens (Clusters 3, 5 & 11)
+*Covers three items whose disposal is decided by what is attached to them: the frame, motors and fixings under a desk, the stored data and toner inside a printer, and the plumbing, approvals and stone worktops around kitchen cabinets.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B80** | *How to Dispose of an Old Desk in Dubai: Standing Desks, Corner Units and Glass Tops* | `how to dispose of an old desk in dubai` | `how to dispose of old furniture in dubai`, `broken furniture disposal dubai` | Q | `/services/furniture-removal` |
+| **B81** | *How to Dispose of an Old Printer in Dubai: Stored Data, Toner and E-Waste Routes* | `how to dispose of an old printer in dubai` | `data safe electronics disposal dubai`, `e-waste recycling centres dubai` | Q | `/services/office-junk-removal` |
+| **B82** | *How to Dispose of Old Kitchen Cabinets in Dubai: Approvals, Worktops and Reusable Units* | `how to dispose of old kitchen cabinets in dubai` | `renovation debris disposal dubai`, `how to dispose of construction waste dubai` | Q | `/services/villa-apartment-cleanouts` |
+
+**Overlap check (content-rules §16):** B80 is distinguished from B22 (general furniture), B75 (wardrobes) and B28/B39 (office clearance) by desk-type identification, lowering and unplugging electric sit-stand frames, splitting corner units, glass-top handling and employer-owned home-office assets. B81 is distinguished from B27 (laptops), B45 (electronics drop-off directory) and B61 (electronics-bin legality) by printer and copier memory, leased-copier returns, toner spill handling and level transport of laser printers. B82 is distinguished from B30 (general construction waste), B40 (renovation cleanup) and B74 (dishwashers) by landlord ownership of fitted kitchens, removal sequence, engineered-stone silica risk and reusable cabinet runs.
+
 ---
 
 ## Publishing Cadence & Execution Plan
@@ -339,3 +350,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 17. **Batch 17 (Articles B71–B73):** Household Fixtures, Garden Play & Aquariums — **100% Completed (3/3 Live)**.
 18. **Batch 18 (Articles B74–B76):** Kitchen Appliances, Bedroom Storage & Outdoor Cooking — **100% Completed (3/3 Live)**.
 19. **Batch 19 (Articles B77–B79):** Moving Mechanisms, Small Appliances & Heavy Planters — **100% Completed (3/3 Live)**.
+20. **Batch 20 (Articles B80–B82):** Home Office, Printers & Fitted Kitchens — **100% Completed (3/3 Live)**.
