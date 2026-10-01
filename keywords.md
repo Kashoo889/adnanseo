@@ -1,7 +1,7 @@
 # Dubai Junk Collection — Master Keyword Database
 
 > **Full Documentation Location:** [`docs/seo/keywords.md`](file:///d:/Projects/Dubai/rasheed/docs/seo/keywords.md)  
-> **Source:** SEO Keyword Research Report plus approved content-gap expansion (328 Target Keywords across 20 Clusters)
+> **Source:** SEO Keyword Research Report plus approved content-gap expansion (331 Target Keywords across 20 Clusters)
 > **Rule:** Every keyword has a single designated destination URL/page type to prevent cannibalization.
 
 ---
@@ -125,6 +125,7 @@
 | 321 | how to dispose of old wardrobe in dubai | Q | Blog Article |
 | 323 | how to dispose of a recliner chair in dubai | Q | Blog Article |
 | 326 | how to dispose of an old desk in dubai | Q | Blog Article |
+| 329 | how to dispose of an old dining table in dubai | Q | Blog Article |
 
 ---
 
@@ -300,6 +301,7 @@
 | 310 | how to dispose of old piano in dubai | Q | Blog Article |
 | 315 | how to dispose of an old bicycle in dubai | Q | Blog Article |
 | 319 | how to dispose of a fish tank in dubai | Q | Blog Article |
+| 330 | how to dispose of a safe in dubai | Q | Blog Article |
 
 ---
 
@@ -387,6 +389,7 @@
 | 215 | hazardous waste disposal dubai | I | Blog Article |
 | 216 | fines for illegal dumping dubai | I | Blog Article |
 | 217 | sustainable decluttering tips dubai | I | Blog Article |
+| 331 | how to dispose of pool chemicals in dubai | Q | Blog Article |
 
 ---
 

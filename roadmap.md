@@ -2,7 +2,7 @@
 
 > **Full Documentation Location:** [`docs/seo/roadmap.md`](file:///d:/Projects/Dubai/rasheed/docs/seo/roadmap.md)  
 > **Objective:** Systematically establish topical authority, capture high-intent commercial and informational searches, and funnel organic traffic to WhatsApp/Call conversions across Dubai.  
-> **Based on:** 328 Target Keywords & 20 Topic Clusters.
+> **Based on:** 331 Target Keywords & 20 Topic Clusters.
 
 ---
 
@@ -327,6 +327,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B80 is distinguished from B22 (general furniture), B75 (wardrobes) and B28/B39 (office clearance) by desk-type identification, lowering and unplugging electric sit-stand frames, splitting corner units, glass-top handling and employer-owned home-office assets. B81 is distinguished from B27 (laptops), B45 (electronics drop-off directory) and B61 (electronics-bin legality) by printer and copier memory, leased-copier returns, toner spill handling and level transport of laser printers. B82 is distinguished from B30 (general construction waste), B40 (renovation cleanup) and B74 (dishwashers) by landlord ownership of fitted kitchens, removal sequence, engineered-stone silica risk and reusable cabinet runs.
 
+### Track 24: Dining Sets, Heavy Safes & Pool Chemicals (Clusters 3, 10 & 14)
+*Covers three items where weight or chemistry sets the rules: stone and extending dining tables that must be broken down in order, dense safes that are bolted down and sometimes locked, and pool chemicals that must never be mixed or binned.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B83** | *How to Dispose of an Old Dining Table in Dubai: Extending Leaves, Stone Tops and Chair Sets* | `how to dispose of an old dining table in dubai` | `how to dispose of old furniture in dubai`, `sell vs donate old furniture dubai` | Q | `/services/furniture-removal` |
+| **B84** | *How to Dispose of an Old Safe in Dubai: Lost Codes, Anchor Bolts and Heavy Lifts* | `how to dispose of a safe in dubai` | `heavy item removal dubai`, `single item junk removal dubai` | Q | `/services/mattress-bulky-item-removal` |
+| **B85** | *How to Dispose of Pool Chemicals in Dubai: Chlorine, Acids and the Villa Pump Room* | `how to dispose of pool chemicals in dubai` | `hazardous waste disposal dubai`, `dubai waste disposal rules` | Q | `/services/garden-waste-removal` |
+
+**Overlap check (content-rules §16):** B83 is distinguished from B22 (general furniture), B62 (mirrors and glass tops) and B80 (desks) by treating table and chairs as one set decision, extension-leaf and runner handling, and on-edge carrying of marble and sintered-stone tops. B84 is distinguished from B54 (gym equipment), B63 (pool tables) and B64 (pianos) by lost-code access with proof of ownership, anchor-bolt removal and reinstatement, and metal recovery of fire-resistant safes. B85 is distinguished from B46 (general household hazardous waste) by pool-specific chemical groups, chlorine-and-acid separation, pump-room heat storage, use-up-by-label guidance and clearing the remaining pool equipment.
+
 ---
 
 ## Publishing Cadence & Execution Plan
@@ -351,3 +362,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 18. **Batch 18 (Articles B74–B76):** Kitchen Appliances, Bedroom Storage & Outdoor Cooking — **100% Completed (3/3 Live)**.
 19. **Batch 19 (Articles B77–B79):** Moving Mechanisms, Small Appliances & Heavy Planters — **100% Completed (3/3 Live)**.
 20. **Batch 20 (Articles B80–B82):** Home Office, Printers & Fitted Kitchens — **100% Completed (3/3 Live)**.
+21. **Batch 21 (Articles B83–B85):** Dining Sets, Heavy Safes & Pool Chemicals — **100% Completed (3/3 Live)**.

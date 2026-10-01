@@ -130,6 +130,12 @@ import blogB81Cover from "@/assets/blog-b61-ewaste-sorting-depot-body.webp";
 import blogB81Body from "@/assets/blog-b39-office-storage-audit-body.webp";
 import blogB82Cover from "@/assets/blog-b40-renovation-cleanup-cover.webp";
 import blogB82Body from "@/assets/blog-b40-renovation-detail-clean-body.webp";
+import blogB83Cover from "@/assets/blog-b41-sell-vs-donate-furniture-cover.webp";
+import blogB83Body from "@/assets/blog-b60-can-throw-away-furniture-cover.webp";
+import blogB84Cover from "@/assets/blog-b42-diy-vs-professional-removal-cover.webp";
+import blogB84Body from "@/assets/blog-b64-piano-elevator-access-body.webp";
+import blogB85Cover from "@/assets/blog-b46-hazardous-waste-sorting-cover.webp";
+import blogB85Body from "@/assets/blog-b46-specialist-waste-collection-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -10543,6 +10549,377 @@ export const blogPosts: BlogPost[] = [
       {
         href: "https://www.dm.gov.ae/dubai-municipality-services/",
         label: "Dubai Municipality — Household bulky-waste services",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-old-dining-table-dubai",
+    title: "How to Dispose of an Old Dining Table in Dubai: Extending Leaves, Stone Tops and Chair Sets",
+    excerpt:
+      "A dining table rarely leaves alone. Decide on the chairs at the same time, take off leaves and heavy tops first, and only then work out how the frame gets to the lift.",
+    category: "Guides & Tips",
+    coverImage: blogB83Cover,
+    coverImageAlt:
+      "Resident in a Dubai apartment weighing up which furniture to keep, with a round dining table and upholstered chairs beside packed boxes",
+    publishedAt: "2026-10-01",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Dining Table Disposal", "Dining Chairs", "Stone Table Tops", "Furniture Disposal"],
+    seoTitle: "How to Dispose of an Old Dining Table in Dubai",
+    seoDescription:
+      "How to dispose of an old dining table in Dubai: decide on the chairs, remove leaves and stone tops safely, plan the lift route and pick resale or collection.",
+    keyTakeaways: [
+      "Decide on the table and chairs together; complete sets sell and donate far more easily than odd pieces.",
+      "Remove extension leaves, glass and stone tops before the frame is moved.",
+      "Carry marble and sintered-stone tops on edge, never flat, and never alone.",
+      "Leave nothing in a corridor or bin room while you wait for a buyer or collection.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an old dining table in Dubai?",
+        paragraphs: [
+          "Separate the chairs from the table, remove any extension leaves and glass or stone top, then take off the legs if the base allows it. Sell or donate solid tables and matching sets together. Book a bulky-furniture collection for veneer that is lifting, wobbly frames and cracked tops rather than leaving them in a corridor.",
+          "Most of the effort in working out how to dispose of an old dining table in Dubai goes into the top. A plain timber table comes apart with a spanner in ten minutes. A marble or sintered-stone top on a sculpted pedestal can weigh more than the rest of the room's furniture combined and needs to be planned like a fragile, heavy item.",
+        ],
+      },
+      {
+        heading: "Treat the table and chairs as one decision",
+        paragraphs: [
+          "Buyers want a dining set, not a table with nothing to sit on. A solid table with six matching chairs in good condition is one of the easier pieces of furniture to rehome; the same table with two odd chairs, or six chairs with no table, often sits unsold for weeks. Decide on both together, and photograph them together if you are listing them.",
+          "Look hard at the chairs before you assume they can go with the set. Fabric seats with food stains, split leather, loose joints or rocking legs drag the whole set down. It can be better to sell or donate the table alone and send the worn chairs for collection than to hold out for a buyer who wants all of it.",
+        ],
+      },
+      {
+        heading: "Take the table apart in the right order",
+        paragraphs: [
+          "Remove anything loose or heavy from the top first. Extension leaves come out and are wrapped together so they stay with the table. Glass and stone tops are lifted off the frame before any leg is touched, because a frame with a heavy top and one leg removed can tip without warning. Only then turn to the legs, which are usually held by hanger bolts or corner brackets underneath.",
+          "Bag every bolt and bracket, label the bag and tape it to the underside of the frame. On extending tables, close the runners fully and tape or strap them so the mechanism cannot slide open and trap fingers as it is lifted.",
+        ],
+        table: {
+          caption: "What each kind of dining table needs before it moves",
+          headers: ["Table type", "What to watch for", "Preparation"],
+          rows: [
+            ["Solid timber, four legs", "Legs held by corner brackets and bolts", "Unscrew the legs, bag the fixings and wrap the top"],
+            ["Extending table", "Runners can slide open and pinch", "Remove leaves, close the runners and strap them shut"],
+            ["Marble or sintered-stone top", "Very heavy; thin slabs can crack if carried flat", "Lift the top off the base and carry it on edge"],
+            ["Pedestal base", "Top-heavy and often far heavier than it looks", "Separate the top from the pedestal before tilting it"],
+            ["Glass top", "A toughened sheet that can shatter if twisted", "Lift off first and keep upright on edge"],
+          ],
+        },
+        callout: {
+          type: "warning",
+          title: "Stone tops are a two-person lift at minimum",
+          text: "Marble and sintered-stone tops crack along veins or at cut-outs when they flex. Lift them with enough people, stand them on edge on a padded surface and never slide one off the frame on to a single corner.",
+        },
+      },
+      {
+        heading: "Plan the route out of the apartment or villa",
+        paragraphs: [
+          "Measure the table top, the longest frame section and the narrowest point on the way out: the dining-room door, the corridor turn, the lift car and the lift door. A large stone top that will not fit in the lift lying down may still fit standing on edge, but that is a decision to make with a tape measure before collection day, not in the lobby.",
+          "Book the service lift and removal pass with building management, and keep the table inside the apartment until the crew or buyer arrives. Furniture left in a corridor or chute room while you wait is exactly what most towers prohibit, and it is often what management notices first.",
+        ],
+        image: blogB83Body,
+        imageAlt:
+          "Crew member lifting a wooden table on to a flatbed trolley in a Dubai residential corridor beside a building notice about bulky furniture",
+        imageCaption:
+          "Tables go straight from the apartment to the trolley and lift; parking them in a corridor or service area usually breaks building rules.",
+      },
+      {
+        heading: "Choose where it goes",
+        paragraphs: [
+          "Solid timber tables and complete sets sell steadily through second-hand marketplaces and community groups, and Dubai Municipality runs an online platform for exchanging reusable materials. Charities tend to accept sturdy, clean dining furniture and turn down lifting veneer, swollen board and broken chairs. Ask before delivering rather than leaving furniture at their door.",
+          "Whatever cannot be reused belongs in a bulky-furniture route. Dubai Municipality offers household furniture collection, and a private crew can take the table, chairs and any cracked stone or glass in one measured visit. Tell whoever collects it about stone tops and their size so they arrive with enough people.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "What if the dining table is too big for the service lift?",
+        answer:
+          "Most tables are not moved whole. Remove the legs and top, then measure each piece against the lift car, including its height and diagonal. If a single stone top still will not fit, the crew may carry it by the stairs with enough people, or the building may allow it through a larger goods lift.",
+      },
+      {
+        question: "Will a charity take dining chairs without the table?",
+        answer:
+          "Sometimes, if the chairs are sturdy, clean and matching. Upholstered chairs with stains or tears are usually refused, and single odd chairs are hard to place. Ask the charity first and send photos of the seats and joints; if they decline, include the chairs in a furniture collection.",
+      },
+      {
+        question: "Can a cracked marble table top be repaired instead?",
+        answer:
+          "Clean, single cracks can sometimes be bonded by a stone repairer, though the line usually stays visible. Tops that are split through, chipped at the edges or cracked across a cut-out are rarely worth repairing. Lift a cracked top with extra support, because it can separate along the crack while being carried.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-old-desk-dubai",
+      "how-to-dispose-of-large-mirror-glass-dubai",
+      "sell-vs-donate-old-furniture-dubai",
+    ],
+    serviceLink: {
+      href: "/services/furniture-removal",
+      label: "Arrange dining table and chair collection",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-launches-electronic-platform-for-exchange-of-recyclable-or-reusable-materials/",
+        label: "Dubai Municipality — Platform for exchanging reusable materials",
+      },
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-services/",
+        label: "Dubai Municipality — Dispose of household appliances and furniture",
+      },
+      {
+        href: "https://www.dm.gov.ae/community/public-cleanliness/",
+        label: "Dubai Municipality — Public cleanliness and waste guidance",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-old-safe-dubai",
+    title: "How to Dispose of an Old Safe in Dubai: Lost Codes, Anchor Bolts and Heavy Lifts",
+    excerpt:
+      "A safe is small, dense and usually bolted down. Open it, unbolt it properly, and tell whoever moves it exactly how heavy it is and how it will get out.",
+    category: "Guides & Tips",
+    coverImage: blogB84Cover,
+    coverImageAlt:
+      "Removal crew wheeling a hand truck towards a loaded truck outside a Dubai villa while the owner reviews items waiting for collection",
+    publishedAt: "2026-10-01",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Safe Disposal", "Heavy Item Removal", "Safe Removal", "Bulky Items"],
+    seoTitle: "How to Dispose of an Old Safe in Dubai Safely",
+    seoDescription:
+      "How to dispose of a safe in Dubai: open it, deal with lost codes legally, remove anchor bolts, plan a heavy lift and choose resale or metal recycling.",
+    keyTakeaways: [
+      "Empty the safe and find its key or code before anything else; a locked safe complicates every route.",
+      "For a lost code, use the manufacturer or a locksmith with proof of ownership, not an angle grinder.",
+      "Most safes are bolted down; remove anchors cleanly and plan who fills the holes before handover.",
+      "Give the collector the safe's weight, the floor and the route so they bring the right equipment.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a safe in Dubai?",
+        paragraphs: [
+          "Empty it, find the key or code, and check whether it is bolted to the floor or wall. Have anchor bolts removed by someone who knows what is under the slab, then tell the collector its weight and the route. Sell or pass on working safes with their keys; scrap failed ones as metal.",
+          "The real difficulty in working out how to dispose of a safe in Dubai is weight in a small footprint. A safe the size of a bedside cabinet can be heavier than a sofa, and all of that weight sits on four small feet. It will mark a marble floor, overload a cheap trolley and injure anyone who tries to walk it down stairs.",
+        ],
+      },
+      {
+        heading: "Open it first and check what is inside",
+        paragraphs: [
+          "Empty every compartment, including hidden drawers and the back of shelves, and keep documents, jewellery and spare keys with you rather than in a box for the movers. For electronic safes, fit fresh batteries before you test the keypad; many apparently dead safes are simply out of power.",
+          "If the code or key is lost, contact the manufacturer or a locksmith. Expect to show proof that the safe is yours, such as a receipt, tenancy contract or property documents, before anyone opens it. Do not attack a locked safe with a grinder or drill at home. Sparks, hot steel and fire-resistant lining make it a dangerous job, and it can destroy whatever is still inside.",
+        ],
+        callout: {
+          type: "info",
+          title: "A safe left by a previous occupant",
+          text: "If a safe was already in the property when you moved in, tell the landlord or agent before it is opened or removed. It may be part of the property or still hold someone else's belongings.",
+        },
+      },
+      {
+        heading: "Identify the safe and how it is fixed",
+        paragraphs: [
+          "Look for a label inside the door or on the back with the model number; the manufacturer's specification will usually give the weight. Then check how it is held in place. Small wardrobe and room safes are often bolted through the back or base into the wall or floor. Larger security safes are anchored into the concrete slab.",
+          "Remove anchors with the correct socket rather than levering the safe until something gives. Expect bolt holes in the floor or wall afterwards. In a rental, agree with the landlord who fills them before handover. A safe set into a wall or floor is part of the building structure and should be left to a contractor, or left in place with the owner's agreement.",
+        ],
+        table: {
+          caption: "Common household safes and what each needs",
+          headers: ["Safe type", "Typical issue", "Before collection"],
+          rows: [
+            ["Small electronic room or wardrobe safe", "Keypad batteries and bolts through the back", "Fit new batteries, open it and remove the fixing bolts"],
+            ["Fire-resistant document safe", "Heavy for its size because of insulating fill", "Empty it and confirm the weight from the model label"],
+            ["Floor-anchored security safe", "Bolted into the concrete slab", "Unbolt it, protect the floor and plan the route"],
+            ["Wall or floor-set safe", "Built into the structure", "Leave to a contractor or leave in place with the owner's consent"],
+          ],
+        },
+      },
+      {
+        heading: "Plan the lift before anyone touches it",
+        paragraphs: [
+          "Send the collector the weight, dimensions, floor level and photographs of the route: steps, door thresholds, the lift and any tight turns. Check the rated load on the lift's capacity plate, and book the service lift rather than the passenger lift. Lay boards or thick runners over marble and timber floors so the safe's feet and the trolley wheels cannot dent them.",
+          "A safe should travel upright on a rated appliance trolley or stair-climbing trolley, strapped in place, with its door closed and secured. Close and lock it only if the next owner will have the code; otherwise tape or strap the door shut. Never walk a heavy safe down stairs by hand or slide it down a staircase on a blanket.",
+        ],
+        image: blogB84Body,
+        imageAlt:
+          "Crew measuring a service-lift opening in a Dubai tower beside a heavy, blanket-wrapped item strapped to a wheeled dolly",
+        imageCaption:
+          "Measuring the lift and checking its rated load before collection day decides whether a heavy item can use it at all.",
+        callout: {
+          type: "warning",
+          title: "Do not tip a safe to get it through a door",
+          text: "Tilting a heavy safe moves its weight quickly and unpredictably. If it will not pass upright, stop and let a crew with the right equipment plan the move.",
+        },
+      },
+      {
+        heading: "Resell it or recycle the metal",
+        paragraphs: [
+          "Working safes with keys, codes and a manual sell reasonably well, particularly small fire-resistant and electronic models. State the weight and whether the buyer must collect it themselves; it filters out people who arrive with a hatchback.",
+          "A safe that no longer locks properly, or is too damaged to sell, is mostly steel and belongs in metal recycling. Fire-resistant safes have an insulating fill between their steel skins, so scrap buyers may value them below plain steel. If it is part of a wider clear-out, adding it to the same collection as other heavy items is often the simplest route.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can a locked safe be collected without the code?",
+        answer:
+          "Yes, as long as you own it and it is empty or you accept that the contents go with it. Many collectors will take a locked safe for metal recycling. If anything might still be inside, have it opened first by the manufacturer or a locksmith, with proof of ownership, before it leaves the property.",
+      },
+      {
+        question: "Who fills the anchor holes after a safe is removed?",
+        answer:
+          "In a rental, agree it with the landlord before removal; tenants are normally expected to return the floor and walls in their original condition. Small holes in tile, plaster or concrete are a routine handyman job, but on marble or timber floors it is worth using someone experienced with that finish.",
+      },
+      {
+        question: "Can I take a small safe to the municipality myself?",
+        answer:
+          "A small, light safe can be treated like other household metal or bulky items, so check Dubai Municipality's current bulky-waste options or ask the building about its collection arrangements. Lift it with your legs, keep it close to your body and use a trolley; small safes are deceptively heavy.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-old-piano-dubai",
+      "how-to-dispose-of-pool-table-dubai",
+      "how-to-dispose-of-gym-equipment-in-dubai",
+    ],
+    serviceLink: {
+      href: "/services/mattress-bulky-item-removal",
+      label: "Arrange safe and heavy-item collection",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-services/",
+        label: "Dubai Municipality — Household bulky-waste services",
+      },
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-launches-electronic-platform-for-exchange-of-recyclable-or-reusable-materials/",
+        label: "Dubai Municipality — Platform for exchanging reusable materials",
+      },
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf",
+        label: "Dubai Municipality — Waste duty-of-care technical guideline",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-pool-chemicals-dubai",
+    title: "How to Dispose of Pool Chemicals in Dubai: Chlorine, Acids and the Villa Pump Room",
+    excerpt:
+      "Old tubs of chlorine and bottles of acid collect in villa pump rooms for years. Keep them sealed and apart, use up what is safe to use, and send the rest to a licensed route.",
+    category: "Villa & Garden",
+    coverImage: blogB85Cover,
+    coverImageAlt:
+      "Resident in gloves and safety glasses checking the label on a chemical bottle beside separate trays of household chemicals at a Dubai villa",
+    publishedAt: "2026-10-01",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Pool Chemical Disposal", "Chlorine Safety", "Villa Pool", "Hazardous Waste"],
+    seoTitle: "How to Dispose of Pool Chemicals in Dubai Safely",
+    seoDescription:
+      "How to dispose of pool chemicals in Dubai: keep chlorine and acids apart, never mix leftovers, use up what is safe and route the rest to a licensed collector.",
+    keyTakeaways: [
+      "Keep every pool chemical in its original, labelled container, closed and separated from others.",
+      "Never mix products or combine old and fresh chlorine, even of the same type.",
+      "Using a sound product up at the dose on its label is often the simplest and safest route.",
+      "Expired, damaged or unlabelled chemicals go to a licensed hazardous-waste route, never the bin, drain or sand.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of pool chemicals in Dubai?",
+        paragraphs: [
+          "Keep every product in its original labelled container, closed and separate, and never mix leftovers or combine old and fresh chlorine. Offer sealed, in-date products to a pool service company or neighbour, then send expired, damaged or unidentified chemicals to a licensed hazardous-waste route rather than the bin, drain or sand.",
+          "Knowing how to dispose of pool chemicals in Dubai matters most in a villa pump room. These are hot, enclosed spaces, and the US Centers for Disease Control and Prevention advises storing pool chemicals below 35°C, dry and out of direct sun. Months of summer in a pump room are hard on chlorine products, and a move-out is often the first time anyone looks at what has built up.",
+        ],
+      },
+      {
+        heading: "Identify what you have before moving anything",
+        paragraphs: [
+          "Read every label before touching a lid. Pool products fall into a few groups that must be kept apart: chlorine in tablets, granules or liquid; acids or pH reducers; and gentler products such as clarifiers and algaecides. Keep them in their original containers and never transfer them into buckets, water bottles or unlabelled jars.",
+          "Anything without a readable label, with a swollen lid, a crust around the cap or a strong chlorine smell should be left where it is, with the area ventilated. Do not open it to find out what it is. Tell the licensed collector exactly what you see so they can handle it as an unknown.",
+        ],
+        table: {
+          caption: "Common pool products and how to hold them until collection",
+          headers: ["Product", "Why it matters", "How to keep it"],
+          rows: [
+            ["Chlorine tablets or granules", "Strong oxidisers that react with moisture and other chemicals", "Original tub, lid tight, dry, well away from acids"],
+            ["Liquid chlorine", "Loses strength in heat and releases gas with acid", "Upright in its original bottle, away from acid"],
+            ["Acid or pH reducer", "Reacts dangerously with chlorine", "Separate tray, never in the same box as chlorine"],
+            ["Clarifiers, algaecides and test reagents", "Less reactive but still chemicals", "Original bottles, upright, caps closed"],
+            ["Unlabelled, swollen or leaking containers", "Unknown contents and risk", "Do not open; ventilate and report to the collector"],
+          ],
+        },
+      },
+      {
+        heading: "The rules that prevent accidents",
+        paragraphs: [
+          "Never mix pool chemicals with each other or with anything else, and never combine old and fresh product, even of the same type. The CDC warns that incompatible pool chemicals can cause fire, explosions or toxic gas. Do not tidy half-empty tubs into one container to save space, and keep everything dry, because some chlorine products react with small amounts of water.",
+          "If the pool is still in use and a product is sealed and in good condition, using it up at the dose on its label is often the simplest route. Do not tip leftovers into the pool, a drain, the garden or the sand to get rid of them; that is dumping, not dosing.",
+        ],
+        callout: {
+          type: "warning",
+          title: "If a container is reacting, step away",
+          text: "Smoke, heat, fizzing or a sharp chlorine smell from a container means a reaction is under way. Leave the pump room, keep others out and call Civil Defence on 997. Do not try to move it or add water.",
+        },
+      },
+      {
+        heading: "Getting chemicals out of the pump room",
+        paragraphs: [
+          "Household chemicals are hazardous waste and need an approved route. Dubai Municipality's hazardous-waste guideline sets out how such waste must be handled, stored and transported, and its duty-of-care rules make the waste producer responsible for passing it to an authorised carrier. Ask your pool maintenance company first; some will take back their own products. Otherwise use a licensed hazardous-waste collector, and ask community management whether there is a designated point.",
+          "When products are moved, keep them upright in open crates, with chlorine and acid in separate crates and never stacked on top of each other. Keep them out of a closed car boot in the afternoon heat and go straight to the drop-off. Most junk-removal crews, including ours, do not carry chemicals in a mixed load; that is a job for a licensed specialist.",
+        ],
+        image: blogB85Body,
+        imageAlt:
+          "Specialist waste technician in safety glasses lifting a sealed chemical container from a sorted crate beside a collection van outside a Dubai villa",
+        imageCaption:
+          "Chemicals stay upright in their original containers and are sorted into separate crates before a licensed collector loads them.",
+      },
+      {
+        heading: "Clear the rest of the pool kit",
+        paragraphs: [
+          "Empty chemical tubs and bottles should follow the instructions on their own labels; if the label does not say they can be rinsed and recycled, treat them with the chemicals. Old pumps, cracked filter housings, worn pool covers, robotic cleaners, broken loungers and faded umbrellas are a different matter and can go together in an ordinary bulky collection.",
+          "Filter sand or cartridges are normally replaced by the pool contractor during a service, so ask them to take the old media away. Once the chemicals have gone their separate way, the rest of the pump room and pool area is usually a straightforward one-visit clear-out.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can old chlorine tablets go in the household bin?",
+        answer:
+          "No. Chlorine tablets are strong oxidisers and can react with other rubbish, moisture or heat in a bin or collection vehicle. Keep them sealed in their original tub, dry and away from acids, and use them up on the pool if they are sound or hand them to a licensed hazardous-waste route.",
+      },
+      {
+        question: "Do pool chemicals expire?",
+        answer:
+          "Many lose strength over time, especially liquid chlorine stored in heat. Check the label for a date or storage guidance. Tablets that have crumbled, become damp or caked, or tubs that smell strongly when closed have been stored badly and should be retired through a licensed route rather than used.",
+      },
+      {
+        question: "What happens to pool chemicals when I leave a rented villa?",
+        answer:
+          "Check whether they belong to you, the landlord or the pool contractor. Sealed, labelled products can be left for the contractor if the landlord agrees in writing. Do not leave open, damaged or unlabelled containers behind, as the next occupant or maintenance team will not know what they are handling.",
+      },
+    ],
+    relatedSlugs: [
+      "hazardous-waste-disposal-dubai",
+      "how-to-dispose-of-old-barbecue-dubai",
+      "how-to-dispose-of-garden-furniture-in-dubai",
+    ],
+    serviceLink: {
+      href: "/services/garden-waste-removal",
+      label: "Clear old pool equipment and outdoor items",
+    },
+    sources: [
+      {
+        href: "https://www.cdc.gov/healthy-swimming/toolkit/pool-chemical-safety.html",
+        label: "US Centers for Disease Control and Prevention — Pool chemical safety",
+      },
+      {
+        href: "https://www.cdc.gov/healthy-swimming/media/pdfs/Pool-Chemical-Safety-STORAGE-poster-p.pdf",
+        label: "US Centers for Disease Control and Prevention — Pool chemical storage guidance",
+      },
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2025/11/Technical-Guideline-No-8-Hazardous-Waste-Disposal-November-2025.pdf",
+        label: "Dubai Municipality — Hazardous Waste Disposal Technical Guideline No. 8",
+      },
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf",
+        label: "Dubai Municipality — Waste duty-of-care technical guideline",
       },
     ],
   },
