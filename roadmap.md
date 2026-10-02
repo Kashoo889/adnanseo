@@ -2,7 +2,7 @@
 
 > **Full Documentation Location:** [`docs/seo/roadmap.md`](file:///d:/Projects/Dubai/rasheed/docs/seo/roadmap.md)  
 > **Objective:** Systematically establish topical authority, capture high-intent commercial and informational searches, and funnel organic traffic to WhatsApp/Call conversions across Dubai.  
-> **Based on:** 331 Target Keywords & 20 Topic Clusters.
+> **Based on:** 334 Target Keywords & 20 Topic Clusters.
 
 ---
 
@@ -338,6 +338,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B83 is distinguished from B22 (general furniture), B62 (mirrors and glass tops) and B80 (desks) by treating table and chairs as one set decision, extension-leaf and runner handling, and on-edge carrying of marble and sintered-stone tops. B84 is distinguished from B54 (gym equipment), B63 (pool tables) and B64 (pianos) by lost-code access with proof of ownership, anchor-bolt removal and reinstatement, and metal recovery of fire-resistant safes. B85 is distinguished from B46 (general household hazardous waste) by pool-specific chemical groups, chlorine-and-acid separation, pump-room heat storage, use-up-by-label guidance and clearing the remaining pool equipment.
 
+### Track 25: Ceilings, Outbuildings & Travel Gear (Clusters 4, 7 & 10)
+*Covers three items with distinct disassembly and tenancy constraints: delicate chandeliers requiring electrical isolation and handover reinstatement, sun-baked garden sheds with seized fasteners and patio protection needs, and composite hard-shell luggage banned from building waste chutes.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B86** | *How to Dispose of Chandeliers & Ceiling Light Fixtures in Dubai: High Ceilings, Wiring and Handover Reinstatement* | `how to dispose of chandeliers in dubai` | `light fixture removal dubai`, `chandelier removal dubai`, `electrical fixture disposal dubai` | Q | `/services/villa-apartment-cleanouts` |
+| **B87** | *How to Dispose of an Old Garden Shed in Dubai: Sun-Damaged Timber, Metal Panels and Villa Clearances* | `how to dispose of a garden shed in dubai` | `garden shed removal dubai`, `dismantle shed dubai`, `garden clearance dubai` | Q | `/services/garden-waste-removal` |
+| **B88** | *How to Dispose of Old Suitcases & Broken Luggage in Dubai: Hard-Shell Bags, Chute Bans and Material Recovery* | `how to dispose of old luggage in dubai` | `suitcase disposal dubai`, `how to dispose of broken luggage dubai`, `bulky item removal dubai` | Q | `/services/household-junk-removal` |
+
+**Overlap check (content-rules §16):** B86 is distinguished from B45 (electronics recycling) and B66 (ovens/appliances) by overhead electrical isolation at the breaker box, crystal and glass tier packaging, high-ceiling ladder safety, and landlord tenancy lighting reinstatement. B87 is distinguished from B29 (green organic waste) and B58 (balcony furniture) by outdoor timber outbuilding structure, warped sun-damaged panels, ground anchor bolt extraction, and patio paving protection. B88 is distinguished from B34 (general household items) and B57 (clothing/textiles) by composite luggage construction (polycarbonate shells, aluminum handles, steel zips, rubber wheels) that cannot be accepted in textile bins or dropped down apartment waste chutes.
+
 ---
 
 ## Publishing Cadence & Execution Plan
@@ -363,3 +374,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 19. **Batch 19 (Articles B77–B79):** Moving Mechanisms, Small Appliances & Heavy Planters — **100% Completed (3/3 Live)**.
 20. **Batch 20 (Articles B80–B82):** Home Office, Printers & Fitted Kitchens — **100% Completed (3/3 Live)**.
 21. **Batch 21 (Articles B83–B85):** Dining Sets, Heavy Safes & Pool Chemicals — **100% Completed (3/3 Live)**.
+22. **Batch 22 (Articles B86–B88):** Ceilings, Outbuildings & Travel Gear — **100% Completed (3/3 Live)**.
