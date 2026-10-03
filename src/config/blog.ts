@@ -142,6 +142,12 @@ import blogB87Cover from "@/assets/blog-b87-garden-shed-dismantle-cover.webp";
 import blogB87Body from "@/assets/blog-b87-timber-panels-stack-body.webp";
 import blogB88Cover from "@/assets/blog-b88-luggage-disposal-cover.webp";
 import blogB88Body from "@/assets/blog-b88-suitcase-recycling-body.webp";
+import blogB89Cover from "@/assets/blog-b89-palm-fronds-removal-cover.webp";
+import blogB89Body from "@/assets/blog-b89-palm-fronds-bundling-body.webp";
+import blogB90Cover from "@/assets/blog-b90-data-safe-electronics-cover.webp";
+import blogB90Body from "@/assets/blog-b90-shredded-hard-drives-body.webp";
+import blogB91Cover from "@/assets/blog-b91-estate-clearance-dubai-cover.webp";
+import blogB91Body from "@/assets/blog-b91-estate-inventory-sorting-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -11289,6 +11295,362 @@ export const blogPosts: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "what-to-do-with-palm-fronds-dubai",
+    title: "What to Do with Palm Fronds in Dubai: Villa Landscaping, Trimming Waste and Green Composting Routes",
+    excerpt:
+      "Dry, sharp palm fronds quickly overwhelm villa gardens across Dubai after seasonal pruning. Here is how to bundle, mulch, and responsibly dispose of date palm waste.",
+    category: "Villa & Garden",
+    coverImage: blogB89Cover,
+    coverImageAlt:
+      "Clearance crew bundling dry palm fronds and pruned date palm foliage in the landscaped garden of a Dubai villa",
+    publishedAt: "2026-10-03",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Palm Fronds Dubai", "Garden Waste Removal", "Green Waste Recycling", "Villa Landscaping Dubai", "Organic Waste Disposal"],
+    seoTitle: "What to Do with Palm Fronds in Dubai: Trimming & Disposal",
+    seoDescription:
+      "How to dispose of date palm fronds in Dubai: safe bundling techniques, thorn hazard prevention, municipal compost processing, and villa collection.",
+    keyTakeaways: [
+      "Date palm fronds possess razor-sharp base spines that puncture standard plastic garbage bags and injure municipal sanitation workers.",
+      "General community bins and domestic skip loaders reject loose, unbundled fronds because they tangle mechanical compactors and take up massive volume.",
+      "Palm fronds must be trimmed into manageable lengths under 1.5 metres and secured with heavy jute twine for roadside green waste collection.",
+      "Dubai Municipality and licensed green waste operators mulch fibrous palm leaves into nutrient-rich soil conditioner and organic desert compost.",
+    ],
+    sections: [
+      {
+        heading: "What should you do with palm fronds after trimming in Dubai?",
+        paragraphs: [
+          "Bundle dry and green palm fronds into tied sheaves under 1.5 metres long using biodegradable jute twine, keeping spine bases aligned. Never throw loose fronds into domestic wheelie bins or general skips. Book a dedicated villa green waste collection service to haul bundles directly to Dubai Municipality composting facilities in Warsan or approved organic recycling depots.",
+          "Date palms (Phoenix dactylifera) are an iconic fixture across Dubai villa communities, from the established shaded gardens of Arabian Ranches and Jumeirah to modern properties in Dubai Hills Estate and Palm Jumeirah. Maintaining mature palms requires periodic dethorning, spring pollination pruning, and aggressive autumn post-harvest clearance. A single mature tree sheds between 15 and 30 large fronds annually, creating dense piles of green debris that overwhelm standard residential garden maintenance.",
+        ],
+      },
+      {
+        heading: "Handling dangerous spines and fibrous bulk",
+        paragraphs: [
+          "The lower third of a date palm petiole features modified leaflets that form stiff, needle-sharp spines (known in Arabic as karab). These thorns penetrate standard leather garden gloves, rubber boots, and industrial plastic sacks. Improper handling causes painful puncture wounds prone to localized infection due to soil bacteria.",
+          "Beyond injury risks, dried fronds left scattered across villa lawns or against perimeter walls present a major fire hazard during hot summer months when ambient temperatures regularly exceed 45°C. Arid winds dry palm leaves into combustible tinder within days. Proper immediate bundling and removal are essential for residential property safety.",
+        ],
+        table: {
+          caption: "Palm frond waste classification, physical hazards, and disposal pathways",
+          headers: ["Pruning Type", "Physical Characteristics", "Disposal Route / Treatment"],
+          rows: [
+            ["Seasonal Dead Frond Removal (Sa'af)", "Brittle, yellow/brown, stiff sharp thorns", "Bundle with jute twine; shred into desert landscaping mulch"],
+            ["Green Crown Thinning", "Heavy, moisture-rich, highly flexible fronds", "Direct hauling to municipal organic compost digesters"],
+            ["Base Trunk Shaving (Karab)", "Dense woody fiber blocks, jagged cut edges", "Heavy timber recycling or biomass fuel recovery"],
+            ["Flowering / Fruit Stalks (Itheg)", "Fibrous branched stalks, high organic sugar content", "Rapid-breakdown composting and agricultural soil enrichment"],
+          ],
+        },
+      },
+      {
+        heading: "Why community waste bins and compactors reject loose palm fronds",
+        paragraphs: [
+          "Master community developers across Dubai, including Emaar Community Management, Nakheel, and Dubai Properties, maintain strict rules prohibiting garden waste in standard residential wheelie bins. Refuse collection vehicles (RCVs) equipped with hydraulic compactors cannot efficiently crush unbundled fronds; long, rope-like fibers wrap around rotating compactor shafts, leading to hydraulic overheating and costly equipment jams.",
+          "Residents who discard loose fronds on public verges or overflow communal bin bays face administrative community violations ranging from AED 500 to AED 2,000 under Dubai Municipality Environmental Waste Order No. 11. Waste management contractors will deliberately leave tagged piles of loose fronds uncollected until the homeowner arranges compliant clearance.",
+        ],
+        callout: {
+          type: "tip",
+          title: "Cut fronds into three sections before bundling",
+          text: "To make handling effortless and avoid puncture wounds, use heavy bypass loppers to cut the frond into three segments: remove the armed basal spines first, cut the mid-stem leaf section, and bundle the soft leafy tip separately.",
+        },
+      },
+      {
+        heading: "Sustainable green waste recycling: turning fronds into UAE compost",
+        paragraphs: [
+          "Throwing organic palm matter into landfills wastes valuable soil nutrients. In Dubai's arid climate, organic mulch is desperately needed to retain soil moisture, suppress weed growth, and reduce irrigation water consumption around villa lawns and landscaping.",
+          "Licensed green waste hauliers route collected palm fronds to specialized organic recycling facilities. Industrial tub grinders pulverize the fibrous stems into coarse wood chips. These fragments are aerated, blended with animal manure and treated water, and cured through thermal windrow composting into rich, pathogen-free soil amendment distributed to UAE farms and public parks.",
+        ],
+        image: blogB89Body,
+        imageAlt:
+          "Tightly bundled green and dry palm fronds tied with jute twine on a villa stone driveway in Dubai",
+        imageCaption:
+          "Securely tying palm fronds into 1.5-metre bundles prevents thorns from tearing bags and speeds up green waste collection.",
+      },
+      {
+        heading: "On-demand villa garden clearance services",
+        paragraphs: [
+          "When undertaking major seasonal landscaping overhauls, hiring an on-demand clearance team avoids the strenuous labor of cutting, bundling, and transporting hundreds of kilograms of spiky vegetation. Professional teams arrive with commercial open-bed tippers, heavy-duty tarpaulins, and safety equipment to clear yards quickly.",
+          "Dubai Junk Collection provides full garden waste removal across all Dubai villa communities. Our crew sweeps and rakes paved driveways, loads all loose fronds, branches, and trimmings, and guarantees ethical delivery to authorized Dubai Municipality green recycling centers.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can I burn dry palm fronds in my villa garden in Dubai?",
+        answer:
+          "No. Open burning of garden debris, palm fronds, or agricultural waste is strictly prohibited across Dubai residential zones and carries severe civil defence fines up to AED 10,000.",
+      },
+      {
+        question: "Does Dubai Municipality collect palm fronds for free?",
+        answer:
+          "Dubai Municipality provides periodic bulk green waste collection through the Dubai 24/7 app for residential villas, but service slots are limited and fronds must be strictly bundled and placed curbside.",
+      },
+      {
+        question: "How many palm fronds fit in a standard junk removal truck?",
+        answer:
+          "A standard 3-ton open truck can comfortably haul between 150 and 250 trimmed, bundled palm fronds, equivalent to the comprehensive seasonal maintenance of 8 to 12 mature date palms.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-garden-waste-in-dubai",
+      "how-to-dispose-of-a-garden-shed-in-dubai",
+      "how-to-dispose-of-old-plant-pots-dubai",
+    ],
+    serviceLink: {
+      href: "/services/garden-waste-removal",
+      label: "Schedule professional palm frond and garden clearance",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-services/",
+        label: "Dubai Municipality — Waste Management Department agricultural waste guidelines",
+      },
+      {
+        href: "https://www.moccae.gov.ae/en/home.aspx",
+        label: "UAE Ministry of Climate Change and Environment (MOCCAE) — Municipal composting standards",
+      },
+    ],
+  },
+  {
+    slug: "data-safe-electronics-disposal-dubai",
+    title: "Data-Safe Electronics Disposal in Dubai: Hard Drive Shredding, Storage Sanitization and Secure IT Asset Disposition",
+    excerpt:
+      "Disposing of old computers, enterprise servers, and storage drives requires verified data destruction. Here is how to safely sanitize and recycle IT assets in Dubai.",
+    category: "Commercial & Office",
+    coverImage: blogB90Cover,
+    coverImageAlt:
+      "Certified e-waste technician logging hard drive serial numbers into a tracking tablet at a Dubai electronic recycling facility",
+    publishedAt: "2026-10-03",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Data Safe Disposal", "E-Waste Dubai", "Hard Drive Shredding", "IT Asset Disposition", "Corporate Electronics Dubai"],
+    seoTitle: "Data-Safe Electronics Disposal & Shredding in Dubai",
+    seoDescription:
+      "Guide to data-safe electronics disposal in Dubai: certified hard drive shredding, NIST 800-88 sanitization, serial number tracking, and IT asset recycling.",
+    keyTakeaways: [
+      "Standard operating system formatting or factory resets leave residual magnetic and NAND flash data easily recoverable with basic commercial software.",
+      "UAE Federal Decree-Law No. 45 on Personal Data Protection (PDPL) imposes heavy penalties for corporate data breaches originating from discarded electronics.",
+      "Physical hydraulic shearing, high-gauss degaussing, or industrial punch shredding provide irreversible physical proof of media destruction.",
+      "Reputable IT asset disposition (ITAD) providers issue tamper-evident serial-tracked Certificates of Destruction for corporate compliance audits.",
+    ],
+    sections: [
+      {
+        heading: "What is data-safe electronics disposal in Dubai?",
+        paragraphs: [
+          "Data-safe electronics disposal combines certified cryptographic wiping or physical destruction of storage media (HDDs, SSDs, magnetic tapes, and flash chips) with environmental e-waste recycling. Storage drives are sanitized to international NIST SP 800-88 standards or physically pulverized before the remaining metal chassis and circuit boards are smelted for material recovery.",
+          "In a major international business hub like Dubai, hardware turnover is relentless. Financial institutions in DIFC, technology firms in Internet City, retail chains in Business Bay, and home offices across the city regularly decommission desktop computers, cloud servers, laptops, and network storage arrays. Safely disposing of these devices requires balancing environmental sustainability with non-negotiable data privacy.",
+        ],
+      },
+      {
+        heading: "Why a factory reset is not enough for retired hardware",
+        paragraphs: [
+          "Many users believe that clicking 'Format Drive' or initiating a factory reset completely erases stored files. In reality, standard operating system formatting merely removes directory file pointers, leaving the underlying raw data intact across magnetic sectors or flash blocks. Anyone equipped with free recovery software can reconstruct sensitive financial records, customer databases, personal passwords, and identification scans in minutes.",
+          "Solid-state drives (SSDs) and NVMe cards present an even greater sanitization challenge due to wear-leveling algorithms. Flash controllers distribute write cycles across reserve memory cells that software wipes cannot touch. Without cryptographic crypto-erasure commands or physical destruction, residual data remains embedded in the NAND chips.",
+        ],
+        table: {
+          caption: "Data sanitization methods: security level, media suitability, and compliance",
+          headers: ["Destruction Method", "Applicable Media", "Security Level & Outcome"],
+          rows: [
+            ["NIST Clear (Multi-Pass Overwrite)", "Functional magnetic HDDs intended for donation", "Software sanitization; overwrites all addressable locations; drive reusable"],
+            ["NIST Purge (Cryptographic Erase)", "Modern NVMe and SATA SSDs with hardware encryption", "Sanitizes internal controller encryption keys; data rendered irreversibly unreadable"],
+            ["Electromagnetic Degaussing", "Magnetic hard drives (HDDs) and backup tapes", "Neutralizes magnetic field completely; damages read/write heads; drive rendered unusable"],
+            ["Physical Cross-Cut Shredding", "All storage drives (HDDs, SSDs, smartphones, USBs)", "High-torque blades crush drives into 10mm fragments; 100% irreversible destruction"],
+          ],
+        },
+      },
+      {
+        heading: "Legal compliance: UAE Personal Data Protection Law (PDPL) & DIFC regulations",
+        paragraphs: [
+          "Data privacy in the UAE is governed by stringent federal legislation. UAE Federal Decree-Law No. 45 of 2021 regarding the Protection of Personal Data (PDPL) mandates that businesses implement technical and organizational measures to protect consumer data throughout its lifecycle, including disposal.",
+          "In free zones such as DIFC and ADGM, independent data protection commissioners impose statutory fines exceeding AED 1,000,000 for negligent data spillage. Allowing employee laptops or enterprise hard drives to slip into informal scrap markets constitutes a severe compliance violation. Corporate entities must demonstrate an unbroken chain of custody for all decommissioned IT assets.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Never hand storage media to informal junk scavengers",
+          text: "Unlicensed scrap collectors roaming residential neighborhoods will often dismantle computers purely for copper and aluminum resale, leaving loose, intact hard drives in unmonitored scrap yards where identity theft and corporate espionage risks are severe.",
+        },
+      },
+      {
+        heading: "The physical destruction process: shearing, punching, and shredding",
+        paragraphs: [
+          "For organizations handling confidential client data, medical records, or proprietary IP, physical destruction offers absolute peace of mind. Certified IT asset disposition facilities employ heavy hydraulic punchers that bend and fracture magnetic platters with 5,000 psi of concentrated force, warping the spindle and shattering the glass-ceramic substrate.",
+          "For maximum security, industrial cross-cut shredders slice through solid steel cases, printed circuit boards, and memory chips, reducing whole hard drives to unrecognizable metal confetti. The resulting scrap is sorted via eddy current separators, directing copper, aluminum, and precious metal pins to certified UAE refining smelters.",
+        ],
+        image: blogB90Body,
+        imageAlt:
+          "Physically shredded and sheared magnetic hard drive platters and circuit board fragments in a certified destruction bin",
+        imageCaption:
+          "Mechanical shearing and punching guarantee that magnetic and solid-state data cannot be recovered before metals enter the recycling furnace.",
+      },
+      {
+        heading: "Obtaining a Certificate of Destruction (CoD) for business handovers",
+        paragraphs: [
+          "Corporate IT compliance requires definitive proof that media was destroyed in accordance with international standards. Professional destruction services record drive serial numbers via optical barcode scanning prior to feeding units into the shredder.",
+          "Upon completion, clients receive a tamper-evident Certificate of Destruction (CoD) itemizing every processed asset, date, methodology, and the witnessing technician's signature. This certificate serves as legally defensible documentation during internal audits, ISO 27001 verifications, and external regulatory reviews.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can solid-state drives (SSDs) be wiped with magnets?",
+        answer:
+          "No. Degaussers only work on magnetic media like traditional rotating platter hard drives and magnetic tapes; SSDs store data electronically in NAND flash chips and require cryptographic erase or physical cross-cut shredding.",
+      },
+      {
+        question: "What happens to the metal and circuit boards after shredding?",
+        answer:
+          "After storage media is mechanically destroyed, remaining copper, aluminum, steel, and printed circuit boards are separated and sent to certified UAE e-waste smelters for metallurgical refining.",
+      },
+      {
+        question: "Can Dubai Junk Collection remove office computers with drives already pulled?",
+        answer:
+          "Yes. Many corporate IT departments prefer to remove and destroy drives in-house; we collect the remaining server chassis, monitors, cabling, and peripherals for licensed zero-landfill e-waste processing.",
+      },
+    ],
+    relatedSlugs: [
+      "where-to-recycle-electronics-in-dubai",
+      "how-to-dispose-of-old-laptop-dubai",
+      "how-to-dispose-of-old-printer-dubai",
+    ],
+    serviceLink: {
+      href: "/services/office-junk-removal",
+      label: "Book corporate e-waste and office hardware clearance",
+    },
+    sources: [
+      {
+        href: "https://tdra.gov.ae/en/about/data-protection",
+        label: "UAE Telecommunications and Digital Government Regulatory Authority (TDRA) — Personal Data Protection Law",
+      },
+      {
+        href: "https://csrc.nist.gov/publications/detail/sp/800-88/rev-1/final",
+        label: "National Institute of Standards and Technology (NIST) — SP 800-88 Guidelines for Media Sanitization",
+      },
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-services/",
+        label: "Dubai Municipality — Environment Department hazardous e-waste regulations",
+      },
+    ],
+  },
+  {
+    slug: "junk-removal-after-death-in-family-dubai",
+    title: "Estate Clearance & Sensitive Junk Removal in Dubai: Respectful Cleanouts After a Bereavement or Downsizing",
+    excerpt:
+      "Clearing a home after losing a loved one is emotionally exhausting. Here is a compassionate, practical guide to handling estate cleanouts and tenancy handovers in Dubai.",
+    category: "Moving & Tenancy",
+    coverImage: blogB91Cover,
+    coverImageAlt:
+      "Organized residential villa living room in Dubai with labeled boxes for family heirlooms and registered charity donations during an estate clearance",
+    publishedAt: "2026-10-03",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Estate Clearance Dubai", "Bereavement Cleanout", "Villa Clearance Dubai", "Probate Cleanout", "Respectful Junk Removal"],
+    seoTitle: "Estate Clearance & Sensitive Junk Removal in Dubai",
+    seoDescription:
+      "Compassionate guide to estate clearance in Dubai after a bereavement: organizing keepsakes, probate paperwork, charity donations, and tenancy handovers.",
+    keyTakeaways: [
+      "Never rush an estate clearout; separate essential legal, banking, and embassy probate documents into sealed archives before sorting furniture.",
+      "Expat families often coordinate clearances from abroad under tight tenancy notice deadlines, requiring transparent photo inventories and milestone updates.",
+      "High-quality furnishings, clothing, and household goods can be channeled to registered UAE charities like Emirates Red Crescent to honor the deceased's legacy.",
+      "Professional bereavement clearance crews work with discretion, wearing shoe covers, protecting elevators, and operating quietly without neighborhood disruption.",
+    ],
+    sections: [
+      {
+        heading: "How do you handle estate clearance after a death in the family in Dubai?",
+        paragraphs: [
+          "Begin by securing all vital legal documents, wills, visa records, and high-value personal keepsakes in locked storage boxes. Next, triage remaining furniture and belongings into three clear categories: family retention, registered charity donation, and responsible recycling. Hire a discreet, insured clearance team to execute the removal in scheduled phases to meet landlord handover deadlines without emotional overwhelm.",
+          "Dealing with the loss of a relative or spouse is profoundly difficult, and managing the physical contents of a Dubai residence adds complex logistical pressure. Because Dubai is primarily an expatriate city, grieving family members frequently travel to the UAE on short-stay visas, facing the simultaneous burdens of legal embassy procedures, tenancy termination notices, bank probate freezes, and flight deadlines.",
+        ],
+      },
+      {
+        heading: "Securing essential documents and probate records first",
+        paragraphs: [
+          "Before any furniture or boxes are moved, conduct a methodical search for official paperwork. UAE tenancy terminations, estate probate distributions, and bank account finalizations require original documentation that cannot be easily replaced.",
+          "Examine bedside drawers, home office filing cabinets, and closet lockboxes. Set aside passports, Emirates IDs, marriage certificates, attested wills registered with DIFC Courts or Dubai Courts, Ejari tenancy contracts, DEWA account numbers, vehicle registration cards (Mulkiya), and life insurance policies into dedicated archive cartons.",
+        ],
+        table: {
+          caption: "Estate clearance staging: item categories, documentation needs, and allocation",
+          headers: ["Category", "Items Included", "Recommended Handling / Allocation"],
+          rows: [
+            ["Probate & Legal Files", "Passports, wills, tenancy leases, bank books, insurance policies", "Retain in fireproof personal lockbox; take to embassy / legal counsel"],
+            ["Sentimental Heirlooms", "Photo albums, personal letters, jewelry, heirlooms, awards", "Pack in labeled moisture-resistant archive cartons for family shipping"],
+            ["Usable Furniture & Linens", "Bed frames, dining suites, sofas, clean wardrobe clothing", "Donate to Emirates Red Crescent or Beit Al Khair with itemized receipts"],
+            ["Damaged or Worn Items", "Broken appliances, expired pantry goods, stained mattresses", "Eco-friendly bulk junk collection for material separation and ethical recycling"],
+          ],
+        },
+      },
+      {
+        heading: "Managing landlord deadlines, building security, and move-out permits",
+        paragraphs: [
+          "In Dubai rental agreements, landlords and property management companies require vacant handover upon lease conclusion. In bereavement situations, landlords generally offer compassionate extensions, but Ejari cancellation and security deposit returns depend on returning the apartment or villa to its original empty state.",
+          "Most residential towers and gated communities (such as Downtown Dubai, Dubai Marina, Meadows, or Arabian Ranches) require an approved Move-Out Permit (NOC) before removal trucks are granted gate access. Obtaining this permit requires settling outstanding utility bills, confirming security desk clearance, and booking dedicated service elevator hours.",
+        ],
+        callout: {
+          type: "info",
+          title: "Remote coordination for overseas next of kin",
+          text: "If you are coordinating an estate cleanout from the UK, Europe, India, or elsewhere, our teams can work under written authorization from legal representatives. We provide room-by-room video walk-throughs before, during, and after clearance, securing found personal items for courier dispatch.",
+        },
+      },
+      {
+        heading: "Dignified charity donation and ethical material recycling",
+        paragraphs: [
+          "Many family members find deep emotional solace in knowing that their loved one's belongings will benefit those in need. Excellent-condition furniture, clean clothing, kitchenware, and books can be directed to registered UAE charitable foundations, including Emirates Red Crescent and Beit Al Khair.",
+          "Items that have reached the end of their usable life—such as worn mattresses, obsolete electronic cords, or scratched laminate units—should never simply be dumped. Professional clearance teams dismantle furniture frames for wood recycling, extract metal hardware, and deliver electrical items to licensed e-waste depots, minimizing landfill impact.",
+        ],
+        image: blogB91Body,
+        imageAlt:
+          "Hands in clean cotton gloves carefully organizing personal documents and family photo albums during an estate inventory in Dubai",
+        imageCaption:
+          "Staging personal documents and family albums separately ensures sensitive paperwork and probate records are protected before furniture clearance begins.",
+      },
+      {
+        heading: "A compassionate, respectful clearance experience",
+        paragraphs: [
+          "Clearance in the wake of a bereavement demands a calm, dignified approach. Our crew members arrive punctually in clean uniforms, use protective floor runners and elevator padding to safeguard the building, and work methodically without rushing family members through difficult decisions.",
+          "Dubai Junk Collection offers tailored estate clearance services designed to relieve stress for families during difficult transitions. From single-room retirement downsizing to multi-bedroom villa liquidations, we handle heavy lifting, packing, donation drop-offs, and final sweep-outs with utmost care and discretion.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "How quickly can an estate clearance be completed in a Dubai villa?",
+        answer:
+          "Depending on villa size (3 to 6 bedrooms), a well-organized estate clearance typically takes between one and two full working days once family sorting and document retention are complete.",
+      },
+      {
+        question: "What happens if the crew finds forgotten cash or valuables during clearance?",
+        answer:
+          "Professional clearance crews operate under strict security protocols; any overlooked jewelry, cash, passports, or private correspondence discovered inside drawers or pockets are immediately cataloged, photographed, and placed in a sealed evidence bag for the family.",
+      },
+      {
+        question: "Can items be shipped internationally to family members?",
+        answer:
+          "While junk collection teams handle clearance, donation, and recycling, we routinely coordinate with international relocation freight forwarders to separate and stage designated heirloom boxes for overseas shipping.",
+      },
+    ],
+    relatedSlugs: [
+      "villa-handover-guide-dubai",
+      "villa-clearance-cost-dubai",
+      "storeroom-clearance-dubai",
+    ],
+    serviceLink: {
+      href: "/services/villa-apartment-cleanouts",
+      label: "Speak with our compassionate team for respectful estate cleanout assistance",
+    },
+    sources: [
+      {
+        href: "https://www.difccourts.ae/specialist-division/wills-probate",
+        label: "DIFC Courts — Wills and Probate Registry Guidelines",
+      },
+      {
+        href: "https://www.dc.gov.ae/",
+        label: "Dubai Courts — Succession and Estate Administration Process",
+      },
+      {
+        href: "https://www.rcuae.ae/en/",
+        label: "Emirates Red Crescent — In-Kind Humanitarian Donation Policies",
+      },
+    ],
+  }
 ];
 
 // Helper Functions

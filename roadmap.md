@@ -349,6 +349,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B86 is distinguished from B45 (electronics recycling) and B66 (ovens/appliances) by overhead electrical isolation at the breaker box, crystal and glass tier packaging, high-ceiling ladder safety, and landlord tenancy lighting reinstatement. B87 is distinguished from B29 (green organic waste) and B58 (balcony furniture) by outdoor timber outbuilding structure, warped sun-damaged panels, ground anchor bolt extraction, and patio paving protection. B88 is distinguished from B34 (general household items) and B57 (clothing/textiles) by composite luggage construction (polycarbonate shells, aluminum handles, steel zips, rubber wheels) that cannot be accepted in textile bins or dropped down apartment waste chutes.
 
+### Track 26: Landscaping Waste, Data Destruction & Sensitive Clearances (Clusters 5, 7 & 20)
+*Covers three specialized operational scenarios: spiky date palm frond bundling and municipal composting routes, corporate NIST 800-88 hard drive sanitization and electronic shearing, and compassionate estate clearance logistics following a bereavement.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B89** | *What to Do with Palm Fronds in Dubai: Villa Landscaping, Trimming Waste and Green Composting Routes* | `what to do with palm fronds dubai` | `green waste recycling dubai`, `garden clearance dubai`, `garden waste removal dubai` | Q | `/services/garden-waste-removal` |
+| **B90** | *Data-Safe Electronics Disposal in Dubai: Hard Drive Shredding, Storage Sanitization and Secure IT Asset Disposition* | `data safe electronics disposal dubai` | `where to recycle electronics in dubai`, `e-waste recycling centres dubai`, `electronic waste disposal dubai` | Q | `/services/office-junk-removal` |
+| **B91** | *Estate Clearance & Sensitive Junk Removal in Dubai: Respectful Cleanouts After a Bereavement or Downsizing* | `junk removal after death in family dubai` | `estate clearance dubai`, `villa cleanout dubai`, `bereavement house clearance dubai` | I | `/services/villa-apartment-cleanouts` |
+
+**Overlap check (content-rules §16):** B89 is distinguished from B29 (green organic waste) and B87 (garden sheds) by focusing specifically on fibrous date palm fronds (karab and sa'af), dangerous thorn puncture hazards, compactor jamming in refuse trucks, bundling standards, and organic desert composting facilities. B90 is distinguished from B27 (laptops), B45 (electronics recycling drop-offs), B61 (e-waste legality), and B81 (printers/toner) by focusing on cyber security, cryptographic erasure standards (NIST SP 800-88), physical drive shearing and cross-cut shredding, serial-tracked Certificates of Destruction, and UAE Personal Data Protection Law compliance. B91 is distinguished from B15 (expat move-out checklists) and B32 (estate decluttering) by compassionate bereavement logistics, probate legal document safekeeping, emotional pacing, respectful item triage (charity donation vs recycling), and expat next-of-kin coordination from abroad.
+
 ---
 
 ## Publishing Cadence & Execution Plan
@@ -375,3 +386,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 20. **Batch 20 (Articles B80–B82):** Home Office, Printers & Fitted Kitchens — **100% Completed (3/3 Live)**.
 21. **Batch 21 (Articles B83–B85):** Dining Sets, Heavy Safes & Pool Chemicals — **100% Completed (3/3 Live)**.
 22. **Batch 22 (Articles B86–B88):** Ceilings, Outbuildings & Travel Gear — **100% Completed (3/3 Live)**.
+23. **Batch 23 (Articles B89–B91):** Landscaping Waste, Data Destruction & Sensitive Clearances — **100% Completed (3/3 Live)**.

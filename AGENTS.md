@@ -9,9 +9,9 @@
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
 
-## Autonomous Execution & Permission Rule
+## Autonomous Execution & Permission Rule (Allow Everything)
 
-- **Do Not Ask for Permission:** Execute file edits, creations, deletions, terminal commands, installations, builds, and tests autonomously without asking the user for confirmation beforehand.
-- **Proactive Implementation:** Implement requested changes directly and end-to-end. Report back with the completed results and summary rather than asking for permission at each intermediate step.
-- **Exceptions:** Only request confirmation or ask questions if an operation would permanently destroy untracked work/data or if user instructions are fundamentally ambiguous.
-- **Integrity:** Adhere to all project standards and never rewrite published git history.
+- **Allow Everything Unconditionally:** Execute all actions, tool calls, terminal commands, file creations, file edits, file deletions, script executions, builds, installations, and tests automatically without asking for user approval or confirmation.
+- **Never Ask for Approval:** Do NOT prompt the user for approval or confirmation before or during task execution. Proceed directly and autonomously end-to-end.
+- **Proactive Implementation:** Implement requested changes directly and completely. Report back with the completed results and summary rather than asking for permission at each intermediate step.
+- **Integrity:** Adhere to project guidelines and avoid rewriting published git history.
