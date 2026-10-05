@@ -148,6 +148,12 @@ import blogB90Cover from "@/assets/blog-b90-data-safe-electronics-cover.webp";
 import blogB90Body from "@/assets/blog-b90-shredded-hard-drives-body.webp";
 import blogB91Cover from "@/assets/blog-b91-estate-clearance-dubai-cover.webp";
 import blogB91Body from "@/assets/blog-b91-estate-inventory-sorting-body.webp";
+import blogB92Cover from "@/assets/blog-b46-hazardous-waste-sorting-cover.webp";
+import blogB92Body from "@/assets/blog-b46-specialist-waste-collection-body.webp";
+import blogB93Cover from "@/assets/blog-b39-workplace-decluttering-cover.webp";
+import blogB93Body from "@/assets/blog-b38-office-loading-access-body.webp";
+import blogB94Cover from "@/assets/blog-b36-storeroom-clearance-cover.jpg";
+import blogB94Body from "@/assets/blog-b36-storage-declutter-body.jpg";
 
 export type BlogAuthor = {
   name: string;
@@ -11650,7 +11656,376 @@ export const blogPosts: BlogPost[] = [
         label: "Emirates Red Crescent — In-Kind Humanitarian Donation Policies",
       },
     ],
-  }
+  },
+  {
+    slug: "how-to-dispose-of-old-paint-in-dubai",
+    title: "How to Dispose of Old Paint in Dubai: Leftover Tins, Thinners and the Handover Touch-Up Can",
+    excerpt:
+      "Half-empty paint tins pile up after every repaint and move-out. Here is how to tell water-based from solvent-based paint, which tins can be dried out, and where the rest has to go in Dubai.",
+    category: "Eco & Recycling",
+    coverImage: blogB92Cover,
+    coverImageAlt:
+      "Resident in gloves and safety glasses sorting paint tins, spray cans and chemical bottles into separate trays on a Dubai villa terrace",
+    publishedAt: "2026-10-05",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Paint Disposal Dubai", "Hazardous Waste Dubai", "Move-Out Repainting", "Household Chemicals", "Recycling Dubai"],
+    seoTitle: "How to Dispose of Old Paint in Dubai: Tins and Thinners",
+    seoDescription:
+      "How to dispose of old paint in Dubai: which tins you can dry out, why thinners and oil paints need a licensed route, and what to keep for your handover.",
+    keyTakeaways: [
+      "Check the label first: water-based emulsion and solvent-based enamel follow completely different disposal routes.",
+      "Small amounts of water-based paint can be left to dry solid; solvent-based paint, thinners and varnish should stay sealed for a licensed hazardous-waste collection.",
+      "Paint is excluded from Dubai Municipality's free bulky-waste pickup and must never go down a drain, a sink or a building chute.",
+      "Before throwing anything out at move-out, ask whether the landlord wants one labelled touch-up tin left behind.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of old paint in Dubai?",
+        paragraphs: [
+          "Sort the tins by type before anything else. Small amounts of water-based emulsion can be left open in a shaded, ventilated spot or mixed with sand until completely solid, then handled as dry waste. Solvent-based paint, thinners, varnish and spray cans stay sealed in their original containers for a licensed hazardous-waste collection. Nothing liquid goes into a drain or a building chute.",
+          "Most people only face the question once a repaint is over. The painter has left, the walls look right, and there are six tins in the maid's room or under the stairs: two nearly empty, one barely opened, and an unlabelled one that came with the flat. Knowing how to dispose of old paint in Dubai is less about finding one magic drop-off and more about splitting that pile correctly, because each part of it has a different route.",
+        ],
+      },
+      {
+        heading: "Water-based or solvent-based: reading the tin",
+        paragraphs: [
+          "Almost every interior wall in a Dubai apartment or villa is painted with water-based emulsion (often labelled acrylic or vinyl). Doors, skirting, metal railings and garden furniture are more likely to carry solvent-based enamel or gloss. The label normally says which one it is, and the clean-up instructions give it away: if brushes wash out with water, it is water-based; if the tin asks for white spirit or thinner, it is solvent-based.",
+          "When the label has worn off, smell and texture help. Solvent-based paint has a sharp chemical odour and a flammability symbol on most tins, while emulsion smells mild and rinses off a fingertip under the tap. Treat anything you cannot identify as the riskier of the two.",
+        ],
+        table: {
+          caption: "Common leftover paint products and the right route for each",
+          headers: ["Product", "How to recognise it", "Disposal route"],
+          rows: [
+            ["Water-based wall emulsion", "Mild smell; brushes clean with water; usually large white or pastel tins", "Use up or give away; dry small remainders solid; recycle the empty metal tin"],
+            ["Solvent-based enamel or gloss", "Strong odour; label calls for thinner or white spirit; flammable symbol", "Keep sealed and labelled; licensed hazardous-waste collection"],
+            ["Thinners, white spirit, varnish, wood stain", "Clear or amber liquids in metal tins or plastic bottles", "Never dry out or pour away; licensed hazardous-waste collection"],
+            ["Spray paint and primer aerosols", "Pressurised cans, often half-used", "Keep out of heat; hand over with other hazardous waste, even when they feel empty"],
+            ["Dried-out tins and empty containers", "Paint fully solid or tin scraped clean", "Lid off, contents solid; can go with dry mixed waste or metal recycling where accepted"],
+          ],
+        },
+      },
+      {
+        heading: "Drying out water-based paint the right way",
+        paragraphs: [
+          "A tin with a centimetre or two left in the bottom will dry on its own if you leave the lid off somewhere shaded, ventilated and away from children and pets. For more than that, stir in dry sand, sawdust or cat litter until the paint stops moving, then leave it for a few days. In Dubai's dry air this happens faster than most people expect, outside the humid summer months.",
+          "Once the contents are solid all the way through, the tin is no longer a liquid that can leak, splash or block a pipe. Leave the lid off so whoever collects it can see that. Buildings and collectors differ on whether they take dried tins with ordinary waste, so ask your facilities team or your collector before the tins go anywhere.",
+          "Do not try this with solvent-based paint or thinners. Evaporating them indoors fills the room with fumes, and in a hot storeroom or garage it creates a fire risk.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Drains, sinks and chutes are not an option",
+          text: "Washing paint into a sink, a floor gully or a storm drain, or dropping tins down a building chute, is exactly the kind of discharge Dubai's waste law prohibits. Chute tins also burst inside the bin room and coat the compactor. Rinse brushes from water-based paint into a bucket, let the solids settle, and dry them the same way as leftover paint.",
+        },
+      },
+      {
+        heading: "Solvent paints, thinners and spray cans need a licensed route",
+        paragraphs: [
+          "Dubai's waste management law separates hazardous waste from ordinary household rubbish and does not allow it to be placed in containers meant for general waste. Paint is also on the list of items excluded from Dubai Municipality's free bulky-waste collection, so booking that pickup for a box of thinners will not work.",
+          "Keep these products in their original containers with the lids pressed down firmly, labels facing out, and store them off the floor in the coolest room you have, not a sun-facing balcony or a closed garage in August. Never combine leftovers into one tin to save space. Then arrange a collection through a licensed hazardous-waste contractor, or ask your building's facility manager, since many towers and communities already have one for their own maintenance waste. Our [guide to household hazardous waste in Dubai](https://dubaijunkcollection.com/blog/hazardous-waste-disposal-dubai) covers the wider group of chemicals that follow the same route.",
+        ],
+        image: blogB92Body,
+        imageAlt:
+          "Collection technician in gloves and safety glasses checking sealed chemical containers in crates beside a van outside a Dubai villa",
+        imageCaption:
+          "Solvent paints and thinners travel sealed, upright and separated, never loose in a general waste load.",
+      },
+      {
+        heading: "Before you throw it out: the move-out touch-up tin",
+        paragraphs: [
+          "If you are repainting before handing a property back, the leftover paint may be worth more on the shelf than in the bin. Many landlords and property managers like to have one tin of the exact wall colour for touching up scuffs between tenants. Ask before you clear the storeroom, then leave a single sealed tin with the colour name and code written on the lid. That small step sits naturally alongside the rest of the [move-out snagging needed to get your deposit back](https://dubaijunkcollection.com/blog/how-to-get-security-deposit-back-dubai).",
+          "When you hire painters, put leftover paint into the job scope. Ask them to estimate quantities properly and agree in writing that part-used tins and thinners leave with them. It costs nothing to ask before work starts and saves you a storeroom of half-tins afterwards.",
+          "Unopened or barely used tins of a common colour are easy to pass on through community groups, neighbours or a building maintenance team. Only give away paint that is still in its original, labelled tin.",
+        ],
+      },
+      {
+        heading: "When the paint is part of a bigger clear-out",
+        paragraphs: [
+          "Paint tins rarely turn up on their own. They are usually sitting beside old furniture, broken fittings and boxes in a storeroom or garage that needs emptying before a handover. In that case, split the pile: dried tins, scraped-out empties and everything else can go with the general clearance, while liquid solvent products are set aside, sealed and labelled for the hazardous route.",
+          "When you send photos for a clearance quote, show the paint shelf clearly and tell us what is on it. We will explain upfront what goes with the general load and what needs separate specialist handling, so nothing is left behind on handover day.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Does Dubai Municipality collect old paint tins?",
+        answer:
+          "Not through its free bulky-waste pickup, which excludes hazardous materials including paint, chemicals and batteries. Liquid paint, thinners and similar products need a licensed hazardous-waste route. Fully dried water-based tins are a different case, so check with your building or collector whether they accept them.",
+      },
+      {
+        question: "How do I know if an old tin of paint is still usable?",
+        answer:
+          "Open it and stir. Usable paint mixes back into a smooth liquid. If it smells sour or rotten, has mould on the surface, or has set into rubbery lumps that will not stir in, it has gone off and should be disposed of. Tins kept in a hot storeroom spoil much faster than tins kept indoors.",
+      },
+      {
+        question: "Can I put empty spray paint cans in the recycling?",
+        answer:
+          "Aerosols are pressurised and can still hold propellant even when they feel empty, so do not puncture, crush or put them in a chute. Keep them out of heat and hand them over with other hazardous household waste, or follow the specific instructions of the recycling point you use.",
+      },
+    ],
+    relatedSlugs: [
+      "hazardous-waste-disposal-dubai",
+      "how-to-get-security-deposit-back-dubai",
+      "renovation-cleanup-checklist-dubai",
+    ],
+    serviceLink: {
+      href: "/services/villa-apartment-cleanouts",
+      label: "Clear a storeroom or garage before your handover",
+    },
+    sources: [
+      {
+        href: "https://dlp.dubai.gov.ae/Legislation%20Reference/2024/Law%20No.%20(18)%20of%202024%20Regulating%20Waste%20Management.html",
+        label: "Dubai Legislation Portal — Law No. (18) of 2024 Regulating Waste Management in the Emirate of Dubai",
+      },
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2019/11/Technical-Guideline-No.-10-Disposal-of-Unwanted-Materials-September-20.._.pdf",
+        label: "Dubai Municipality — Technical Guideline No. 10: Disposal of Unwanted Materials",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-old-filing-cabinets-in-dubai",
+    title: "How to Dispose of Old Filing Cabinets in Dubai: Locked Drawers, Paper Records and Heavy Steel",
+    excerpt:
+      "An old filing cabinet is a records problem first and a lifting problem second. Here is how to empty, unlock, move and recycle steel and fire-rated cabinets from a Dubai office.",
+    category: "Commercial & Office",
+    coverImage: blogB93Cover,
+    coverImageAlt:
+      "Office staff sorting paper files and folders into boxes at a shared desk in a Dubai office with grey drawer pedestals in the background",
+    publishedAt: "2026-10-05",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Filing Cabinet Disposal", "Office Clearance Dubai", "Document Shredding", "Steel Recycling", "Office Furniture Dubai"],
+    seoTitle: "How to Dispose of Old Filing Cabinets in Dubai Offices",
+    seoDescription:
+      "How to dispose of old filing cabinets in Dubai: clearing and shredding records, opening locked drawers, moving heavy steel units and recycling the metal.",
+    keyTakeaways: [
+      "Clear the records before the furniture: decide what must be kept, what goes for certified shredding and what is ordinary recycling.",
+      "Search every drawer back and the space under the bottom drawer, where loose documents usually hide.",
+      "A lost key calls for a locksmith or a drilled lock barrel, never a crowbar that bends the runners and wrecks resale value.",
+      "Good steel cabinets resell or go to reuse; damaged ones go to metal recycling, and fire-rated units need extra lifting capacity.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an old filing cabinet in Dubai?",
+        paragraphs: [
+          "Empty it completely and send confidential paper for certified shredding first. Open any locked drawers with the key or a locksmith, then remove the drawers or tape them shut. Move the cabinet upright on a strapped trolley through a booked service lift. Sound steel cabinets can be resold or donated; damaged units go to metal recycling rather than general waste.",
+          "Filing cabinets tend to be the last thing standing in an office move. Desks get dismantled, chairs get stacked, and the cabinets stay put because nobody is sure what is still inside or who has the keys. Dealing with them properly means handling two separate jobs in the right order: the information in the drawers, then the steel box around it.",
+        ],
+      },
+      {
+        heading: "Deal with the paper before the furniture",
+        paragraphs: [
+          "Treat a full cabinet as a set of records, not a piece of furniture. Go through it with whoever owns those files, normally finance, HR or the legal team, and split the contents three ways: records you are still required to keep, confidential papers that must be destroyed, and ordinary paper that can simply be recycled. Your accountant or legal adviser can confirm how long particular business records need to be retained.",
+          "Personal data on paper still counts. UAE data protection rules apply to employee files, customer forms, copies of passports and Emirates IDs, and payroll printouts in a drawer just as they do to a database. Anything carrying that kind of information should go to a document-destruction company that shreds it and issues a certificate, the paper equivalent of the [secure process used for hard drives and IT equipment](https://dubaijunkcollection.com/blog/data-safe-electronics-disposal-dubai).",
+        ],
+        callout: {
+          type: "tip",
+          title: "Pull every drawer all the way out",
+          text: "Folders slip over the back of the hanging rails and fall into the cavity behind or below the bottom drawer. Remove each drawer completely, or at least shine a torch into the back, before the cabinet is signed off as empty. That is where forgotten contracts and staff files usually turn up.",
+        },
+      },
+      {
+        heading: "Locked cabinets and lost keys",
+        paragraphs: [
+          "Most steel filing cabinets have a single lock barrel at the top that secures every drawer at once. If the key is gone, check with facilities first: office furniture keys are often kept on a master ring, and the key number stamped on the lock face can sometimes be used to order a replacement.",
+          "Failing that, a locksmith can open the cabinet or drill out the lock barrel in a few minutes. Avoid forcing the drawers with a bar or screwdriver. That bends the runners and the cabinet frame, which turns a resaleable cabinet into scrap and can leave a jammed drawer still full of documents.",
+        ],
+      },
+      {
+        heading: "Why filing cabinets are awkward to move",
+        paragraphs: [
+          "An empty four-drawer cabinet feels manageable until it is tilted. Most units have an anti-tilt interlock that lets only one drawer open at a time, because a cabinet with several loaded drawers pulled out can topple forward. Once the cabinet is on its back on a trolley, drawers can slide open unexpectedly unless they are removed or taped.",
+          "Most drawers lift out once they are fully extended, using small release levers on the runners. Taking them out reduces the weight and stops them sliding. Carry the shell upright on a hand truck with a strap round it, and keep the drawers in a separate stack. In a Dubai tower, that also means booking the service lift and loading bay, padding the lift walls, and often working after hours so the move does not block reception or shared corridors.",
+          "Fire-rated cabinets are a different class of weight. The insulated walls that protect the contents make them far heavier than a standard steel cabinet of the same size, often too heavy for two people on stairs. Mention them when you ask for a quote so the right team and equipment are sent.",
+        ],
+        image: blogB93Body,
+        imageAlt:
+          "Crew pushing a padded trolley loaded with office drawer units and stacked office chairs towards a service lift in a Dubai tower lobby",
+        imageCaption:
+          "Drawer units travel upright, strapped and padded on a trolley, with the service lift booked before the crew arrives.",
+      },
+      {
+        heading: "Resell, donate or recycle: choosing the route",
+        paragraphs: [
+          "Condition decides the route. A straight, rust-free steel cabinet with smooth runners and a working lock (or a replacement key) is still useful office furniture. Second-hand office furniture traders, small businesses setting up and schools are the obvious takers, especially if you have several matching units.",
+          "Cabinets with bent frames, broken runners, rust or missing drawers are worth more as metal than as furniture. Steel is one of the easiest materials in an office clearance to recover, so these units should go to a scrap metal recycler rather than general waste. Expect the metal value to be modest; it rarely covers the cost of moving the units. Wooden or laminate filing cabinets follow the same route as other office furniture.",
+        ],
+        table: {
+          caption: "Filing cabinet types and what usually happens to them",
+          headers: ["Cabinet type", "Handling note", "Usual route"],
+          rows: [
+            ["Vertical steel cabinet (2–4 drawers)", "Remove or tape drawers; carry upright on a strapped hand truck", "Resale or reuse if straight and lockable; otherwise steel recycling"],
+            ["Lateral filing cabinet", "Wide and top-heavy; check it fits the lift door and car diagonally", "Resale in matching sets; steel recycling if damaged"],
+            ["Mobile pedestal (under-desk)", "Light enough for one person once empty; keys often missing", "Reuse with the matching desk run, or steel recycling"],
+            ["Fire-rated or security cabinet", "Very heavy; needs extra crew and equipment; never on stairs by hand", "Specialist resale or metal recovery"],
+            ["Wooden or laminate cabinet", "Prone to splitting at joints when tipped", "Reuse if solid; otherwise furniture disposal and wood recovery"],
+          ],
+        },
+      },
+      {
+        heading: "Cabinets as part of a full office clear-out",
+        paragraphs: [
+          "If the cabinets are leaving with desks, chairs and storage from a whole floor, plan them into the [wider office clearance sequence](https://dubaijunkcollection.com/blog/how-to-clear-an-office-in-dubai) rather than as an afterthought. Records cleared and certified first, then furniture out in one booked lift window, then the floor handed back.",
+          "Send a photo of the cabinets with their drawer count and tell us which floor and building they are on. We will quote a fixed price and tell you whether any unit needs extra hands.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can Dubai Municipality's bulky waste pickup take office filing cabinets?",
+        answer:
+          "The free municipal bulky-waste pickup is aimed at residential households, not commercial premises. Businesses generally arrange their own licensed collection for office furniture. A single filing cabinet from a home office may qualify, but municipal crews will not carry items down from high-rise apartments, so check access before you book.",
+      },
+      {
+        question: "Will a removal crew take a filing cabinet that still has files in it?",
+        answer:
+          "It is better not to ask them to. Once a cabinet leaves your premises you lose control of what is inside it. Clear and check every drawer yourself, send confidential papers to a certified shredding company, and hand over an empty cabinet. Bagged shredded paper can then go for normal paper recycling.",
+      },
+      {
+        question: "Are old steel filing cabinets worth anything?",
+        answer:
+          "Matching sets of clean, lockable cabinets can sell to second-hand office furniture buyers, although rarely for much. Damaged cabinets have scrap metal value that varies with the market and usually only offsets part of the cost of removal. Their real value is that steel is fully recyclable and stays out of landfill.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-clear-an-office-in-dubai",
+      "data-safe-electronics-disposal-dubai",
+      "how-to-dispose-of-old-desk-dubai",
+    ],
+    serviceLink: {
+      href: "/services/office-junk-removal",
+      label: "Book an office furniture and filing cabinet clearance",
+    },
+    sources: [
+      {
+        href: "https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws",
+        label: "UAE Government Portal — Data protection laws in the UAE",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-old-shelving-units-in-dubai",
+    title: "How to Dispose of Old Shelving Units in Dubai: Bookcases, Wire Racks and Wall Shelves",
+    excerpt:
+      "Shelving looks simple to get rid of until it is anchored to the wall or falls apart halfway down the corridor. Here is how to take down, sort and dispose of each type of shelf in a Dubai home.",
+    category: "Guides & Tips",
+    coverImage: blogB94Cover,
+    coverImageAlt:
+      "Chrome wire shelving units holding labelled storage boxes and folded linen in a Dubai Marina apartment storeroom",
+    publishedAt: "2026-10-05",
+    readingTime: "6 min read",
+    author: defaultAuthor,
+    tags: ["Shelving Disposal", "Bookcase Removal", "Furniture Disposal Dubai", "Storeroom Clearance", "Move-Out Dubai"],
+    seoTitle: "How to Dispose of Old Shelving Units in Dubai Homes",
+    seoDescription:
+      "How to dispose of old shelving units in Dubai: freeing wall anchors, dismantling wire racks and bookcases, handling glass shelves and making good before handover.",
+    keyTakeaways: [
+      "Release every anti-tip strap and wall bracket before you try to move a bookcase or tall shelf unit.",
+      "Chrome wire racks and metal garage shelving break down quickly and go to metal recycling; solid wood is worth offering for reuse.",
+      "Flat-pack chipboard that has been moved before often fails at the cam-lock holes, so be realistic about whether it is still donatable.",
+      "Wall shelves leave plugs and holes behind; fill them, or agree with the landlord in writing, before handover.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of old shelving units in Dubai?",
+        paragraphs: [
+          "Empty the shelves, unscrew any wall anchors or brackets, and take the unit apart, bagging the fixings. Then sort by material: metal racks and wire shelving go to metal recycling, solid wood and good-condition units can be sold or donated, and worn chipboard goes for disposal. Wrap glass shelves separately and fill the wall holes before you hand the property back.",
+          "Shelving rarely gets a disposal plan of its own. It is usually the thing standing between you and an empty storeroom, garage or study. The problems are predictable: the bookcase is strapped to the wall, the wire rack will not come apart, and the glass shelves have nowhere safe to go. Sorting those out takes less time than carrying a tall unit through a corridor in one piece.",
+        ],
+      },
+      {
+        heading: "Free it from the wall before you move it",
+        paragraphs: [
+          "Most tall bookcases and display units sold in the last decade come with an anti-tip strap or bracket screwed into the wall behind the top panel. With the books gone, a loose unit is light enough to tilt and easy to forget is still tethered. Pull it forward without releasing the strap and you tear the plasterboard or rip the plug out of the wall.",
+          "Reach behind the top edge, find the strap or bracket, and unscrew it from the furniture side first. Then take the wall fixing out as well; you will want the hole visible so it can be filled. Floating shelves work the other way round: the shelf slides off a hidden bracket, and the bracket stays screwed to the wall until you remove it.",
+        ],
+        callout: {
+          type: "info",
+          title: "Check who owns the shelving",
+          text: "Built-in shelving in storerooms, alcoves and wardrobes often belongs to the landlord and is expected to stay. Remove only what you installed. If you want to leave tenant-fitted shelves behind for the next occupant, get the landlord's agreement in writing first, or they may be treated as junk at inspection.",
+        },
+      },
+      {
+        heading: "Taking apart each type of shelf",
+        paragraphs: [
+          "Chrome wire shelving, the kind found in many apartment storerooms, holds each shelf on split plastic sleeves clipped around the posts. Lift the unit slightly off the floor and tap the shelf corners upwards with a rubber mallet to release them, working one shelf at a time from the top down. Keep the sleeves in a bag if the unit is going to be reused; without them it cannot be rebuilt.",
+          "Boltless steel garage racking separates in a similar way once the beams are knocked up out of their keyhole slots. Flat-pack bookcases come apart with a screwdriver and the cam-lock key, but go gently: chipboard crumbles around the holes, especially in a humid villa garage or a storeroom with poor ventilation.",
+          "Solid wood units are usually screwed or dowelled together and are often better moved whole if they fit the lift and the doorways. Measure first. A tall bookcase that clears the lift diagonally may still not make the turn out of a narrow storeroom door.",
+        ],
+        image: blogB94Body,
+        imageAlt:
+          "Woman emptying chrome wire shelves into cardboard boxes marked donate, recycle and junk in a Dubai apartment storeroom",
+        imageCaption:
+          "Clearing the shelves into labelled boxes first leaves an empty, light rack that comes apart in minutes.",
+      },
+      {
+        heading: "Glass shelves and display cabinets",
+        paragraphs: [
+          "Glass shelves in vitrines, bathroom units and display cabinets are usually toughened glass. It is strong across its face but can shatter all at once if an edge or corner is knocked against a door frame. Lift each pane out before moving the cabinet, wrap it in a blanket or cardboard, tape it, and carry it on its edge.",
+          "Never leave loose glass shelves inside a cabinet that is about to be tipped onto a trolley. A cabinet with glass doors should have the doors taped shut or removed as well.",
+        ],
+      },
+      {
+        heading: "Resell, donate or recycle: an honest triage",
+        paragraphs: [
+          "Be realistic about flat-pack furniture. A chipboard bookcase that has been built, moved and rebuilt is often loose at every joint, with swollen edges round the cam holes. Charities and resale buyers tend to turn those down, so plan for disposal rather than spending a weekend listing it. Solid wood, good-condition metal shelving and intact display cabinets are different; they are worth offering through resale groups or the routes in our [sell or donate guide for old furniture](https://dubaijunkcollection.com/blog/sell-vs-donate-old-furniture-dubai).",
+          "Whatever does not find a new home should still be split by material. Steel racks, wire shelving and brackets are straightforward metal recycling. Wood and board are separated from the metal fixings, and glass is kept apart from both.",
+        ],
+        table: {
+          caption: "Shelving types, the main removal issue and the usual route",
+          headers: ["Shelving type", "Main issue", "Usual route"],
+          rows: [
+            ["Flat-pack chipboard bookcase", "Weak at cam-lock holes; swells in humidity", "Resale only if solid and unmoved; otherwise disposal"],
+            ["Solid wood bookcase", "Heavy and tall; may be strapped to the wall", "Resale or donation; wood recovery if damaged"],
+            ["Chrome wire shelving", "Shelves locked on plastic sleeves", "Reuse with sleeves kept; otherwise metal recycling"],
+            ["Boltless steel garage racking", "Beams seized in their slots after years of load", "Reuse or metal recycling"],
+            ["Floating and bracket wall shelves", "Brackets and wall plugs left behind", "Shelf reused or disposed of; wall filled and touched up"],
+            ["Glass display cabinet", "Toughened glass shelves and doors", "Glass removed and wrapped; cabinet resold or dismantled"],
+          ],
+        },
+      },
+      {
+        heading: "Making good the walls before handover",
+        paragraphs: [
+          "Every strap, bracket and floating shelf leaves holes. Before a tenancy ends, take the plugs out, fill the holes, sand them flush and touch up the paint. Inspectors look for exactly these marks, and they are cheap to fix yourself and expensive to have deducted. If you are clearing a whole storeroom at the same time, our [storeroom clearance guide](https://dubaijunkcollection.com/blog/storeroom-clearance-dubai) covers what else usually needs to leave with the shelves.",
+          "If you would rather not deal with the dismantling, send a photo of the units and the room they are in. We take shelving down on site, keep the metal, wood and glass separate, and remove it in the same visit as the rest of the clear-out.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Will charities in Dubai take flat-pack bookcases?",
+        answer:
+          "Some will, but most are selective about flat-pack furniture because it often fails after being moved. A unit in very good, sturdy condition with all its shelves and fixings has the best chance. Send clear photos first and confirm before arranging delivery or collection, so you are not left with a unit they refuse at the door.",
+      },
+      {
+        question: "Can I put metal shelving out with the household rubbish?",
+        answer:
+          "No. Large items do not belong in household bins or bin rooms, and leaving them beside the bins can lead to complaints from building management. Metal shelving is easy to recycle, so it should go to a scrap metal route, a bulky-waste collection or a licensed collector.",
+      },
+      {
+        question: "Do I need to remove the wall anchors when I take a bookcase away?",
+        answer:
+          "Yes, if you are leaving the property. Remove the strap and the wall plug, fill the hole and touch up the paint so the wall matches the move-in condition. If you are staying and might fit another unit in the same place, leaving the anchor in position is fine.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-old-wardrobe-dubai",
+      "storeroom-clearance-dubai",
+      "garage-clearance-dubai",
+    ],
+    serviceLink: {
+      href: "/services/furniture-removal",
+      label: "Have your shelving dismantled and removed",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/",
+        label: "Dubai Municipality — Waste collection and bulky waste services",
+      },
+    ],
+  },
 ];
 
 // Helper Functions

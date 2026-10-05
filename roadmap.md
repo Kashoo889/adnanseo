@@ -2,7 +2,7 @@
 
 > **Full Documentation Location:** [`docs/seo/roadmap.md`](file:///d:/Projects/Dubai/rasheed/docs/seo/roadmap.md)  
 > **Objective:** Systematically establish topical authority, capture high-intent commercial and informational searches, and funnel organic traffic to WhatsApp/Call conversions across Dubai.  
-> **Based on:** 334 Target Keywords & 20 Topic Clusters.
+> **Based on:** 337 Target Keywords & 20 Topic Clusters.
 
 ---
 
@@ -360,6 +360,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B89 is distinguished from B29 (green organic waste) and B87 (garden sheds) by focusing specifically on fibrous date palm fronds (karab and sa'af), dangerous thorn puncture hazards, compactor jamming in refuse trucks, bundling standards, and organic desert composting facilities. B90 is distinguished from B27 (laptops), B45 (electronics recycling drop-offs), B61 (e-waste legality), and B81 (printers/toner) by focusing on cyber security, cryptographic erasure standards (NIST SP 800-88), physical drive shearing and cross-cut shredding, serial-tracked Certificates of Destruction, and UAE Personal Data Protection Law compliance. B91 is distinguished from B15 (expat move-out checklists) and B32 (estate decluttering) by compassionate bereavement logistics, probate legal document safekeeping, emotional pacing, respectful item triage (charity donation vs recycling), and expat next-of-kin coordination from abroad.
 
+### Track 27: Leftover Paint, Office Records Storage & Home Shelving (Clusters 3, 6 & 14)
+*Covers three items whose disposal depends on what happens before they are moved: identifying water-based versus solvent-based paint, clearing confidential records from filing cabinets, and freeing shelving from wall anchors and fixings.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B92** | *How to Dispose of Old Paint in Dubai: Leftover Tins, Thinners and the Handover Touch-Up Can* | `how to dispose of old paint in dubai` | `hazardous waste disposal dubai`, `dubai waste disposal rules` | Q | `/services/villa-apartment-cleanouts` |
+| **B93** | *How to Dispose of Old Filing Cabinets in Dubai: Locked Drawers, Paper Records and Heavy Steel* | `how to dispose of old filing cabinets in dubai` | `how to clear an office in dubai`, `office relocation junk removal dubai` | Q | `/services/office-junk-removal` |
+| **B94** | *How to Dispose of Old Shelving Units in Dubai: Bookcases, Wire Racks and Wall Shelves* | `how to dispose of old shelving units in dubai` | `how to dispose of old furniture in dubai`, `sell vs donate old furniture dubai` | Q | `/services/furniture-removal` |
+
+**Overlap check (content-rules §16):** B92 is distinguished from B46 (general household hazardous waste) and B85 (pool chemicals) by paint-type identification from the label, drying out water-based remainders, keeping solvent paints and thinners sealed for a licensed route, painter take-back in the job scope, and the landlord touch-up tin at handover. B93 is distinguished from B28/B38 (whole-office clearance), B80 (desks) and B90 (electronic data destruction) by clearing paper records and certified shredding before removal, lost-key lock access, the anti-tilt drawer interlock, fire-rated cabinet weight and steel recovery. B94 is distinguished from B75 (wardrobes), B36 (storeroom clearance as a space) and B56 (warehouse racking) by anti-tip strap and floating-bracket removal, wire-shelf sleeve release, honest flat-pack reuse triage, toughened glass shelf handling and wall making-good before handover.
+
 ---
 
 ## Publishing Cadence & Execution Plan
@@ -387,3 +398,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 21. **Batch 21 (Articles B83–B85):** Dining Sets, Heavy Safes & Pool Chemicals — **100% Completed (3/3 Live)**.
 22. **Batch 22 (Articles B86–B88):** Ceilings, Outbuildings & Travel Gear — **100% Completed (3/3 Live)**.
 23. **Batch 23 (Articles B89–B91):** Landscaping Waste, Data Destruction & Sensitive Clearances — **100% Completed (3/3 Live)**.
+24. **Batch 24 (Articles B92–B94):** Leftover Paint, Office Records Storage & Home Shelving — **100% Completed (3/3 Live)**.
