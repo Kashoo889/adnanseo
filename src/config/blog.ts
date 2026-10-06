@@ -154,6 +154,12 @@ import blogB93Cover from "@/assets/blog-b39-workplace-decluttering-cover.webp";
 import blogB93Body from "@/assets/blog-b38-office-loading-access-body.webp";
 import blogB94Cover from "@/assets/blog-b36-storeroom-clearance-cover.jpg";
 import blogB94Body from "@/assets/blog-b36-storage-declutter-body.jpg";
+import blogB95Cover from "@/assets/blog-b50-security-deposit-cover.jpg";
+import blogB95Body from "@/assets/blog-b34-charity-sorting-body.jpg";
+import blogB96Cover from "@/assets/blog-b45-electronics-recycling-cover.webp";
+import blogB96Body from "@/assets/blog-b45-ewaste-dropoff-body.webp";
+import blogB97Cover from "@/assets/blog-b51-balcony-clearance-body.jpg";
+import blogB97Body from "@/assets/blog-b11-sorting-recovery.jpg";
 
 export type BlogAuthor = {
   name: string;
@@ -12023,6 +12029,361 @@ export const blogPosts: BlogPost[] = [
       {
         href: "https://www.dm.gov.ae/",
         label: "Dubai Municipality — Waste collection and bulky waste services",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-old-curtains-in-dubai",
+    title: "How to Dispose of Old Curtains, Blinds & Curtain Rods in Dubai: Taking Down Tracks, Filling Bracket Holes and Textile Sorting",
+    excerpt:
+      "Taking down tenant-installed curtains, roller blinds and heavy tracks is one of the most frustrating parts of moving out in Dubai. Here is how to unhook drapes, remove brackets, fix wall plugs and sort fabrics for reuse or recycling.",
+    category: "Guides & Tips",
+    coverImage: blogB95Cover,
+    coverImageAlt:
+      "Dubai apartment living room with floor-to-ceiling windows being cleared of heavy blackout curtains and window fittings during move-out",
+    publishedAt: "2026-10-06",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Curtain Disposal Dubai", "Window Blinds Removal", "Move-Out Handover", "Household Junk Removal", "Textile Recycling Dubai"],
+    seoTitle: "How to Dispose of Old Curtains & Blinds in Dubai: Removal & Rules",
+    seoDescription:
+      "How to dispose of old curtains, blinds and curtain rods in Dubai: taking down high tracks, removing wall plugs, filling bracket holes for handover, and textile donation.",
+    keyTakeaways: [
+      "Take down fabric panels and roller blinds before unscrewing brackets to avoid sudden drops and wall tears.",
+      "Long metal curtain rods and motorized aluminium tracks rarely fit passenger lifts and must travel on an angle in the service elevator.",
+      "Pry out heavy wall anchors and fill mounting holes with spackle before the handover inspection to protect your rental security deposit.",
+      "Pristine curtains can be donated through registered textile charities, while sun-damaged fabrics head to specialized textile recycling rather than bins.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of old curtains in Dubai?",
+        paragraphs: [
+          "To dispose of old curtains in Dubai, unhook the fabric panels, unscrew wall brackets, and remove plastic plugs. Pristine curtains can be donated to registered UAE charities, while sun-damaged textiles go to textile recycling banks. Bundle long metal poles or aluminium tracks for scrap recovery or arrange an insured junk collection pickup.",
+          "Window treatments are among the easiest items to forget until the final forty-eight hours of a tenancy. In high-rise apartments across Dubai Marina, Downtown, and JLT, or sprawling villas in Arabian Ranches and The Springs, expansive floor-to-ceiling windows require multi-layered curtain tracks, heavy thermal blackout linings, and ceiling-anchored pelmets. What seemed like a simple decorative touch when you moved in quickly turns into a logistical hassle of high ladders, stubborn masonry plugs, and three-metre metal rods that refuse to turn inside a corridor.",
+        ],
+      },
+      {
+        heading: "Taking down curtains, roller blinds and tracks safely",
+        paragraphs: [
+          "Always detach the textiles before you reach for a drill or screwdriver. Heavy velvet drapes, double-pleated sheer voiles, and blackout panels add substantial downwards leverage to wall brackets. Attempting to unbolt a loaded curtain rod can easily yank a rawl plug through crumbling drywall, leaving a gaping fist-sized crater that is expensive to patch.",
+          "Unclip drapery hooks or slide eyelets off the pole first, fold the fabric flat, and store it in clean bags. For roller blinds, roll the fabric completely up to the top barrel, depress the spring-loaded idle pin on the side bracket, and lift the tube free. For motorized tracks, isolate the electrical spur or disconnect the wireless battery motor before unclipping the track segments from their ceiling snap brackets.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Masonry plugs vs hollow gypsum walls",
+          text: "Dubai residential towers feature a mix of reinforced concrete exterior lintels and hollow gypsum interior partition walls. Window brackets mounted into hollow drywall use metal toggle anchors that cannot simply be pulled out with pliers. Unscrew the mounting bolt fully, push the hollow anchor sleeve flush into the cavity, and fill over it rather than tearing the plaster surface.",
+        },
+      },
+      {
+        heading: "Wall repairs and protecting your tenancy security deposit",
+        paragraphs: [
+          "Leaving tenant-installed curtain brackets, exposed screws, or unfilled anchor holes is one of the quickest ways to trigger a deduction from your rental security deposit. Under RERA tenancy guidelines, returning an unfurnished property in move-in condition requires restoring wall finishes to a clean, neutral state unless the landlord has explicitly agreed to inherit the window dressings.",
+          "Once brackets are removed, use needle-nose pliers or a wood screw twisted two turns into the plastic plug to pull the anchor straight out of the wall. Fill each depression with quick-drying interior wall filler, press it firm with a putty knife, let it cure, and sand it flush with 120-grit sandpaper. If you have leftover touch-up paint from your initial lease snagging, dab the filler spots with a dry roller to match the surrounding wall texture. Taking care of these small repairs sits alongside the checklist in our [guide to getting your rental deposit back in Dubai](https://dubaijunkcollection.com/blog/how-to-get-security-deposit-back-dubai).",
+        ],
+        image: blogB95Body,
+        imageAlt:
+          "Sorted household textiles, curtain fabrics, and linen bundles organized in labeled bags for donation and material recovery in Dubai",
+        imageCaption:
+          "Segregating clean curtain sets from sun-bleached linings keeps usable drapery out of landfill.",
+      },
+      {
+        heading: "Donation, textile recycling or scrap metal: the right route",
+        paragraphs: [
+          "The fierce desert climate has a dramatic effect on window textiles. Curtains hung against south- or west-facing Dubai glazing absorb punishing ultraviolet radiation and intense radiant heat throughout the long summer months. Often the outward-facing blackout backing or thermal acrylic coating becomes brittle, flaking into powdery residue when touched, while the indoor decorative fabric remains presentable.",
+          "Inspect the reverse side of each panel honestly. Curtains with sticky, flaking, or discolored backing are not suitable for donation and should be directed to textile material recovery, where synthetic fibres can be shredded into industrial acoustic insulation or geotextiles. If the curtains are intact, clean, and unbleached, registered UAE humanitarian organizations like Emirates Red Crescent and Beit Al Khair welcome full sets during community drives. For more routes on passing on household fabrics, consult our [Dubai clothing and textile donation guide](https://dubaijunkcollection.com/blog/where-to-donate-clothes-dubai).",
+        ],
+        table: {
+          caption: "Window treatment components and their recommended Dubai disposal routes",
+          headers: ["Component", "Typical Material", "Recommended Route"],
+          rows: [
+            ["Clean drapes and sheer voiles", "Polyester, linen, velvet", "Emirates Red Crescent or Beit Al Khair donation banks"],
+            ["Sun-damaged blackout curtains", "Flaking acrylic or thermal foam backing", "Textile material recycling or household junk collection"],
+            ["Curtain rods, poles and tracks", "Aluminium, extruded steel, brass", "Scrap metal recovery or building bulky collection"],
+            ["Roller and Venetian blinds", "PVC slats, aluminium vanes, fabric rolls", "Segregated junk collection; metal parts to scrap"],
+            ["Wall fixings, clips and rings", "Steel screws, brass hooks, plastic rings", "Scrap metal bucket or general sorting"],
+          ],
+        },
+      },
+      {
+        heading: "Transporting long curtain poles through high-rise towers",
+        paragraphs: [
+          "Standard high-rise living room windows frequently span three to four metres. One-piece metal curtain poles and commercial tracks rarely fit into standard residential passenger lifts, and building security guards strictly prohibit dragging long poles through decorative ground-floor lobbies or into emergency stairwells without a move-out permit.",
+          "Book your tower's freight service elevator well in advance and verify the diagonal clearance of the lift cabin. If the pole cannot stand upright, check whether it is a telescoping rod that can be collapsed into two halves, or an aluminium track that can be unclipped at its centre connector. If the pole is a single rigid steel tube that exceeds lift limits, coordinate with an insured junk collection team equipped to navigate stairwells safely without scuffing corridor paint.",
+          "When scheduling a broader apartment or villa cleanout, grouping curtain rods with old furniture, dismounted wall shelving, and packed storage boxes is the most cost-effective solution. Our crew can unmount stubborn ceiling tracks, extract rawl plugs, and cart all poles and drapes down the freight lift in a single coordinated visit.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can I leave my curtains behind for the landlord or the next tenant in Dubai?",
+        answer:
+          "Only if you obtain written confirmation from your landlord or leasing agent before the handover inspection. Most property management companies treat abandoned curtains, tracks, and brackets as unauthorized debris and will deduct third-party clearance and wall-painting fees from your security deposit.",
+      },
+      {
+        question: "Where can I donate used curtains in Dubai?",
+        answer:
+          "Clean, undamaged curtains, sheer voiles, and matching tiebacks can be dropped off at registered charity donation boxes run by Emirates Red Crescent, Beit Al Khair, or Dar Al Ber Society across residential communities, or gifted directly to domestic staff.",
+      },
+      {
+        question: "Can I put metal curtain rods down the building garbage chute?",
+        answer:
+          "Never. Long curtain poles, aluminium tracks, and wooden rods create immediate bridging blockages inside vertical high-rise garbage chutes. Clearing chute jams requires emergency facility maintenance, and building owners associations issue severe fines to violating apartments.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-get-security-deposit-back-dubai",
+      "where-to-donate-clothes-dubai",
+      "move-out-checklist-dubai-tenants",
+      "how-to-dispose-of-old-shelving-units-in-dubai",
+    ],
+    serviceLink: {
+      href: "/services/household-junk-removal",
+      label: "Book household junk and move-out fixture clearance",
+    },
+    sources: [
+      {
+        href: "https://dlp.dubai.gov.ae/Legislation%20Reference/2024/Law%20No.%20(18)%20of%202024%20Regulating%20Waste%20Management.html",
+        label: "Dubai Legislation Portal — Law No. (18) of 2024 Regulating Waste Management in the Emirate of Dubai",
+      },
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2019/11/Technical-Guideline-No.-10-Disposal-of-Unwanted-Materials-September-20.._.pdf",
+        label: "Dubai Municipality — Technical Guideline No. 10: Disposal of Unwanted Materials",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-an-old-vacuum-cleaner-in-dubai",
+    title: "How to Dispose of an Old Vacuum Cleaner in Dubai: Cordless Batteries, Robot Docks and Small Appliance E-Waste",
+    excerpt:
+      "Dust canisters, clogged filters and lithium battery packs make old vacuum cleaners tricky to clear. Here is how to prepare cordless stick, robot and cylinder vacuums for certified e-waste recycling in Dubai.",
+    category: "Eco & Recycling",
+    coverImage: blogB96Cover,
+    coverImageAlt:
+      "Technician sorting small electrical household appliances and cordless vacuum equipment at an electronics recovery facility in Dubai",
+    publishedAt: "2026-10-06",
+    readingTime: "6 min read",
+    author: defaultAuthor,
+    tags: ["Vacuum Cleaner Disposal", "Small Appliance Recycling", "E-Waste Dubai", "Lithium Battery Safety", "Household Junk Removal"],
+    seoTitle: "How to Dispose of an Old Vacuum Cleaner in Dubai: E-Waste Guide",
+    seoDescription:
+      "How to dispose of an old vacuum cleaner in Dubai: handling cordless lithium batteries, clearing dustbins, and finding certified small-appliance e-waste routes.",
+    keyTakeaways: [
+      "Never drop a vacuum cleaner down a high-rise trash chute or into a general community dumpster due to fire risks and municipal regulations.",
+      "Cordless stick vacuums and robot cleaners contain rechargeable lithium-ion battery packs that must be isolated or marked for dedicated battery recycling.",
+      "Empty dust canisters and bag old HEPA filters in a sealed sack before disposal to avoid dispersing desert dust and allergens during transport.",
+      "Working vacuums can be passed on to building maintenance or domestic staff, while broken machines enter certified electronic scrap recovery.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an old vacuum cleaner in Dubai?",
+        paragraphs: [
+          "To dispose of an old vacuum cleaner in Dubai, empty the dust canister, detach the battery pack from cordless models, and wind cords securely. Take functional vacuums to charity drop-offs, deliver broken units to municipal e-waste recycling kiosks, or schedule an on-demand appliance pickup with a licensed junk removal team.",
+          "Vacuum cleaners in Dubai endure extreme operating conditions. Between fine desert dust penetrating balcony seals and frequent villa deep cleans, motors eventually burn out, hoses crack in the summer heat, and rechargeable battery packs lose their runtime. When replacement parts cost more than a new unit, getting rid of an old vacuum cleaner requires following specific e-waste protocols because appliances cannot be mixed with regular domestic rubbish.",
+        ],
+      },
+      {
+        heading: "The lithium battery hazard in cordless and robot vacuums",
+        paragraphs: [
+          "Modern cordless stick vacuums and automated robot cleaners rely on high-capacity lithium-ion or lithium-polymer battery packs. Under Dubai Law No. 18 of 2024 on Waste Management, throwing rechargeable batteries into general waste bins or residential chute hoppers is strictly prohibited. When waste compactor trucks crush general garbage bags, punctured lithium cells spark intense, chemical-fueled fires that put municipal workers and vehicles at grave risk.",
+          "Before parting with a cordless stick vacuum, locate the quick-release battery latch and unclip the battery module. If the battery is integrated or screwed into the handle, keep the whole handheld unit separate from metal scrap loads and cover the external metal charging pins with electrical tape. Store depleted batteries in a cool, shaded spot indoors rather than on an unshaded balcony, where scorching mid-day heat can trigger thermal runaway.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Swollen or hot battery warning",
+          text: "If a cordless vacuum or robot cleaner battery looks swollen, feels hot to the touch, or emits a sweet chemical smell, stop charging it immediately. Never place a bulging lithium battery in an enclosed drawer or a general recycling kiosk. Transport it carefully in a non-combustible container filled with sand to an authorized hazardous waste drop-off point.",
+        },
+      },
+      {
+        heading: "Preparing the vacuum before collection or drop-off",
+        paragraphs: [
+          "Taking five minutes to prep an old vacuum cleaner makes handling hygienic and prevents fine silica dust from coating your car boot or the service corridor. For bagless vacuums, empty the dirt canister into a garbage bag, tap it clean, and wipe the interior seals. For bagged cylinder models, remove the full dust bag, seal its cardboard collar flap, and bin it with ordinary domestic refuse.",
+          "Old HEPA and pre-motor filters hold concentrated fine dust, pet dander, and allergens. Wrap the used filters in a plastic shopping bag so they do not dislodge while in transit. Wind the power cord neatly around the cord clips on uprights, or tap the cord-rewind pedal on cylinder models. Group extension wands, floor heads, motorized upholstery brushes, and docking stations together with masking tape so attachments do not scatter.",
+        ],
+        image: blogB96Body,
+        imageAlt:
+          "Appliance recycling depot in Dubai with sorted small electrical equipment, cables, and electronic components ready for material processing",
+        imageCaption:
+          "Separating copper cables, plastic housing, and motor windings ensures maximum material recovery.",
+      },
+      {
+        heading: "Disposal pathways: donation, drop-off, or collection",
+        paragraphs: [
+          "Depending on whether the machine still powers on and maintains suction, there are three practical routes to clear an old vacuum in Dubai. Functional corded or stick vacuums are in high demand among villa maintenance contractors, security guards, and domestic workers. Offering a working unit through community swap groups or to your building facility team saves a usable machine from the waste stream.",
+          "For broken machines, check the recycling hubs located at select shopping malls, municipal centres, and retail electronics stores across Dubai. These take small electrical appliances and detached batteries free of charge. If you have a bulkier canister vacuum, a heavy commercial wet-and-dry shop vacuum, or multiple appliances to clear, booking a professional junk collection service ensures everything is carted away and routed to licensed material recovery plants.",
+        ],
+        table: {
+          caption: "Vacuum cleaner models and recommended disposal routes in Dubai",
+          headers: ["Vacuum Type", "Key Component Challenge", "Recommended Route"],
+          rows: [
+            ["Cordless stick vacuum", "Detachable lithium-ion battery module", "Battery to dedicated battery kiosk; bare unit to e-waste collector"],
+            ["Robot vacuum & auto-empty dock", "Rechargeable battery, printed circuit board, motor base", "Electronics recycling drop-off or complete appliance pickup"],
+            ["Corded cylinder or canister", "Heavy copper electric motor, long retractable cable", "Scrap metal / appliance recovery; motor copper harvested"],
+            ["Upright vacuum cleaner", "Rotating brush roll motor, heavy plastic chassis", "Small appliance recycling depot or professional junk removal"],
+            ["Wet & dry industrial shop vac", "High-capacity drum, oily residue, large motor", "Dedicated commercial junk clearance or municipality bulk collection"],
+          ],
+        },
+      },
+      {
+        heading: "What happens to a recycled vacuum cleaner in Dubai?",
+        paragraphs: [
+          "Once received at an authorized electronic and appliance dismantling facility, vacuum cleaners are systematically disassembled into primary material fractions. Copper wire from motor armatures is stripped and melted into clean ingots. Extruded aluminium extension pipes and steel fasteners are sorted for metallurgy, while clean ABS and polypropylene exterior casings are shredded into plastic flakes for manufacturing.",
+          "Printed circuit boards from digital stick and robot vacuums undergo specialized refining to recover trace precious metals. Diverting small appliances from landfills reduces environmental toxicity and conserves valuable manufacturing resources across the UAE. If you have other small electronics leaving at the same time, check our [Dubai electronics recycling guide](https://dubaijunkcollection.com/blog/where-to-recycle-electronics-in-dubai) and our review of [Dubai waste disposal rules](https://dubaijunkcollection.com/blog/dubai-waste-disposal-rules).",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can I throw a broken vacuum cleaner into my building's bin room?",
+        answer:
+          "No. Building management rules and Dubai Law No. 18 of 2024 classify electrical appliances as electronic waste (e-waste). They cannot be mixed with municipal wet waste in residential bin rooms or dropped down garbage chutes, which risks compactor damage and building fines.",
+      },
+      {
+        question: "Do charities in Dubai accept used vacuum cleaners?",
+        answer:
+          "Charities accept vacuum cleaners only if they are fully functional, thoroughly cleaned, and supplied with all essential attachments and power cords. Broken or poorly performing vacuums are turned down, as charities lack in-house appliance repair workshops.",
+      },
+      {
+        question: "Where can I drop off detached cordless vacuum batteries?",
+        answer:
+          "Detached lithium-ion batteries can be placed in specialized battery recycling bins located inside major retail electronics chains, supermarket eco-corners, and Dubai Municipality smart recycling centres across communities like Al Barsha, Umm Suqeim, and Mirdif.",
+      },
+    ],
+    relatedSlugs: [
+      "is-it-illegal-to-throw-electronics-in-the-bin-dubai",
+      "where-to-recycle-electronics-in-dubai",
+      "hazardous-waste-disposal-dubai",
+      "how-to-dispose-of-old-microwave-dubai",
+    ],
+    serviceLink: {
+      href: "/services/appliance-removal",
+      label: "Schedule small appliance and e-waste pickup",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2019/11/Technical-Guideline-No.-10-Disposal-of-Unwanted-Materials-September-20.._.pdf",
+        label: "Dubai Municipality — Technical Guideline No. 10: Disposal of Unwanted Materials",
+      },
+      {
+        href: "https://dlp.dubai.gov.ae/Legislation%20Reference/2024/Law%20No.%20(18)%20of%202024%20Regulating%20Waste%20Management.html",
+        label: "Dubai Legislation Portal — Law No. (18) of 2024 Regulating Waste Management in the Emirate of Dubai",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-an-old-ironing-board-in-dubai",
+    title: "How to Dispose of an Old Ironing Board & Clothes Drying Rack in Dubai: Folded Steel Frames, Sun-Brittle Plastic and Storeroom Cleanouts",
+    excerpt:
+      "Awkward steel legs that snap open in service corridors and sun-rotted plastic clothes airers end up trapped in utility cupboards. Here is how to strip, collapse and recycle laundry gear across Dubai.",
+    category: "Guides & Tips",
+    coverImage: blogB97Cover,
+    coverImageAlt:
+      "Dubai apartment balcony overlooking residential towers with laundry airers, folded metal ironing board and outdoor utility items ready for cleanout",
+    publishedAt: "2026-10-06",
+    readingTime: "6 min read",
+    author: defaultAuthor,
+    tags: ["Ironing Board Disposal", "Clothes Airer Removal", "Storeroom Decluttering", "Bulky Item Removal", "Scrap Metal Recycling"],
+    seoTitle: "How to Dispose of an Old Ironing Board in Dubai: Recycling Guide",
+    seoDescription:
+      "How to dispose of an old ironing board and clothes drying rack in Dubai: safely collapsing spring mechanisms, removing fabric covers, and scrap metal recycling.",
+    keyTakeaways: [
+      "Never wedge a folded ironing board or drying rack down a high-rise trash chute; long frames cause immediate shaft blockages and hefty fines.",
+      "Inspect the spring-loaded release lever and bind collapsed legs with tape or zip ties to prevent accidental snapping during hallway transport.",
+      "Strip worn fabric covers and deteriorated foam pads from the metal mesh surface so the steel frame can enter clean scrap recycling.",
+      "Sun-baked plastic balcony airers become brittle and snap easily; bag fractured pieces to avoid leaving sharp plastic shards in common corridors.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an old ironing board in Dubai?",
+        paragraphs: [
+          "To dispose of an old ironing board in Dubai, collapse the legs securely and tie them closed. Strip the fabric cover and foam pad for separate disposal, leaving the bare steel mesh frame. Deliver the frame to a scrap metal recycling point or include it in an insured bulky junk collection pickup.",
+          "Folding ironing boards and freestanding clothes drying racks are universal fixtures in Dubai maid's rooms, laundry alcoves, and apartment balconies. Because they fold flat against a wall, they are easy to ignore until you prepare for a tenancy handover or embark on a major storeroom purge. But once an ironing board's spring mechanism bends or an outdoor drying rack snaps from intense balcony sun, getting rid of these unwieldy metal-and-plastic items presents unexpected hurdles in residential buildings.",
+        ],
+      },
+      {
+        heading: "Collapsing spring frames safely without trapped fingers",
+        paragraphs: [
+          "The most common hazard with an old ironing board is its under-table locking mechanism. Many boards use a spring-loaded ratchet lever that slides along a grooved metal runner. Over time, humidity—especially in waterfront districts like Dubai Marina, JBR, and Bluewaters—can corrode the pivot rivets, causing the lever to stick or release unexpectedly.",
+          "Turn the board upside down onto a rug or carpet to inspect the teeth. Squeeze the release lever with a firm grip, keeping your fingers well away from the scissor cross-brace where legs pivot. Once fully folded flat against the underside of the mesh board, wrap two strips of heavy packing tape, hook-and-loop straps, or zip ties around the legs and frame. Securing the folded legs prevents the board from suddenly springing open while you carry it down a tight stairwell or into a crowded service elevator.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Trash chutes and fire stairs are strictly off limits",
+          text: "Residents occasionally try forcing folded ironing boards or metal drying racks down tower garbage chutes. A 1.4-metre steel board inevitably wedges across chute elbows, trapping trash bags behind it and requiring expensive mechanical intervention. Leaving bulky metal frames propped in fire exit stairwells is equally prohibited under UAE Civil Defence fire safety regulations.",
+        },
+      },
+      {
+        heading: "Stripping the cover and foam for proper recycling triage",
+        paragraphs: [
+          "An ironing board is not a single uniform material. To recycle it responsibly in Dubai, split it into its component parts in less than two minutes. Untie the drawstring or unhook the elastic clips holding the fabric cover to the board. Peel off the underlying polyurethane foam or needle-felt heat pad.",
+          "Foam pads that have endured years of steam heat often crumble into sticky yellow dust. Discard crumbly foam and burnt cotton covers with general household waste. What remains is a bare tubular steel frame and a perforated expanded-metal mesh ironing surface. Because it is virtually 100% ferrous steel, scrap metal recyclers and scrap collection teams can feed the bare frame directly into local metal reprocessing lines without contamination.",
+        ],
+        image: blogB97Body,
+        imageAlt:
+          "Warehouse sorting floor in Dubai with segregated scrap metal frames, laundry equipment, and household fixtures undergoing material recovery",
+        imageCaption:
+          "Separating bare steel ironing board frames from fabric padding allows direct recycling at local metal mills.",
+      },
+      {
+        heading: "Balcony sun damage on plastic drying racks",
+        paragraphs: [
+          "Freestanding clothes drying racks (often called clothes airers or concertina racks) face an even harsher environment in the UAE. Residents frequently keep drying racks outside on private balconies in communities like Jumeirah Village Circle (JVC), Business Bay, and Dubai Hills Estate to take advantage of rapid evaporative drying in the desert breeze.",
+          "Unfortunately, relentless summer UV radiation degrades polypropylene and polyethylene plastic joints within eighteen to twenty-four months. The plastic becomes chalky, discolored, and micro-fractured. When you attempt to fold an old sun-damaged rack, the plastic hinge corner brackets often shatter violently, scattering sharp plastic fragments across the floor. If a drying rack has become sun-brittle, wrap the frame in an old sheet or a large heavy-duty garbage bag before dismantling to keep fractured pieces contained.",
+        ],
+        table: {
+          caption: "Laundry and drying equipment disposal routes in Dubai",
+          headers: ["Equipment Type", "Construction Material", "Best Disposal Pathway"],
+          rows: [
+            ["Heavy steel ironing board", "Tubular steel legs, metal mesh top", "Strip fabric cover; send steel frame to scrap metal recovery"],
+            ["Lightweight aluminium clothes airer", "Aluminium rods, minimal plastic clips", "Fold flat, remove plastic end-caps; 100% aluminium scrap recycling"],
+            ["Plastic concertina drying rack", "UV-degraded polypropylene", "Check for fractures; donate intact units or bag shattered parts for disposal"],
+            ["Wall-mounted extendable dryer", "Aluminium arms, steel wall mounting plates", "Unscrew wall anchors; patch holes with filler before handover"],
+            ["Steam generator iron station", "Electric boiler tank, silicone hose, base", "Small appliance e-waste recycling depot or junk collection"],
+          ],
+        },
+      },
+      {
+        heading: "Consolidating storeroom clear-outs before move-out day",
+        paragraphs: [
+          "Ironing boards and drying racks rarely leave in isolation. They are almost always cleared alongside old suitcases, vacuum cleaners, outgrown clothes drying stands, and spare storeroom shelving during an end-of-lease clear-out. Arranging individual drop-offs for each utility item takes hours of driving across the city.",
+          "If you are emptying a utility cupboard, balcony, or maid's room, grouping all bulky metal items and small appliances into a single collection is the simplest route. Our team handles on-site dismantling, packs awkward frames safely for service lift transit, and ensures all metals and electronics reach licensed UAE recycling facilities. For advice on clearing the rest of your storage space, explore our [storeroom clearance guide](https://dubaijunkcollection.com/blog/storeroom-clearance-dubai) and our checklist for [clearing a rental property in Dubai](https://dubaijunkcollection.com/blog/clearing-a-rental-property-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can an old ironing board be donated to charity in Dubai?",
+        answer:
+          "Yes, provided the leg locking mechanism is fully operational, the frame sits level without wobbling, and the metal mesh has no severe rust. If the fabric cover is stained or scorched, replacing it with an inexpensive new cover before donating makes it immediately usable for recipient families.",
+      },
+      {
+        question: "What should I do if my ironing board won't fold down?",
+        answer:
+          "Do not force it with a hammer, which can bend the tubular legs permanently. Spray a small amount of penetrating lubricant or silicone spray along the sliding ratchet runner, wait a few minutes, and gently tap the release lever with a block of wood while depressing the board.",
+      },
+      {
+        question: "Are clothes drying racks accepted in Dubai scrap metal recycling?",
+        answer:
+          "Yes. Both steel and aluminium clothes drying airers are widely accepted by metal recyclers once loose plastic pegs and broken rubber feet are pulled off. Their lightweight tubular metal melts down cleanly with minimal dross.",
+      },
+    ],
+    relatedSlugs: [
+      "storeroom-clearance-dubai",
+      "clearing-a-rental-property-dubai",
+      "how-to-dispose-of-old-luggage-in-dubai",
+      "how-to-dispose-of-old-shelving-units-in-dubai",
+    ],
+    serviceLink: {
+      href: "/services/household-junk-removal",
+      label: "Book a storeroom, laundry and bulky item clearance",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2019/11/Technical-Guideline-No.-10-Disposal-of-Unwanted-Materials-September-20.._.pdf",
+        label: "Dubai Municipality — Technical Guideline No. 10: Disposal of Unwanted Materials",
+      },
+      {
+        href: "https://dlp.dubai.gov.ae/Legislation%20Reference/2024/Law%20No.%20(18)%20of%202024%20Regulating%20Waste%20Management.html",
+        label: "Dubai Legislation Portal — Law No. (18) of 2024 Regulating Waste Management in the Emirate of Dubai",
       },
     ],
   },

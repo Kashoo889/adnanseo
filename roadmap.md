@@ -2,7 +2,7 @@
 
 > **Full Documentation Location:** [`docs/seo/roadmap.md`](file:///d:/Projects/Dubai/rasheed/docs/seo/roadmap.md)  
 > **Objective:** Systematically establish topical authority, capture high-intent commercial and informational searches, and funnel organic traffic to WhatsApp/Call conversions across Dubai.  
-> **Based on:** 337 Target Keywords & 20 Topic Clusters.
+> **Based on:** 340 Target Keywords & 20 Topic Clusters.
 
 ---
 
@@ -371,6 +371,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B92 is distinguished from B46 (general household hazardous waste) and B85 (pool chemicals) by paint-type identification from the label, drying out water-based remainders, keeping solvent paints and thinners sealed for a licensed route, painter take-back in the job scope, and the landlord touch-up tin at handover. B93 is distinguished from B28/B38 (whole-office clearance), B80 (desks) and B90 (electronic data destruction) by clearing paper records and certified shredding before removal, lost-key lock access, the anti-tilt drawer interlock, fire-rated cabinet weight and steel recovery. B94 is distinguished from B75 (wardrobes), B36 (storeroom clearance as a space) and B56 (warehouse racking) by anti-tip strap and floating-bracket removal, wire-shelf sleeve release, honest flat-pack reuse triage, toughened glass shelf handling and wall making-good before handover.
 
+### Track 28: Curtains & Blinds, Small Appliances & Laundry Gear (Clusters 2, 4 & 10)
+*Covers three everyday household and utility items that cause friction at move-out: taking down high curtain tracks and repairing bracket holes, safely clearing battery-powered vacuum cleaners and e-waste, and handling awkward folding steel ironing boards and drying racks that cannot be placed in trash chutes.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B95** | *How to Dispose of Old Curtains, Blinds & Curtain Rods in Dubai: Taking Down Tracks, Filling Bracket Holes and Textile Sorting* | `how to dispose of old curtains in dubai` | `how to dispose of curtains and blinds in dubai`, `curtain rod removal dubai`, `window blinds disposal dubai` | Q | `/services/household-junk-removal` |
+| **B96** | *How to Dispose of an Old Vacuum Cleaner in Dubai: Cordless Batteries, Robot Docks and Small Appliance E-Waste* | `how to dispose of an old vacuum cleaner in dubai` | `vacuum cleaner disposal dubai`, `e-waste recycling dubai`, `where to recycle electronics in dubai` | Q | `/services/appliance-removal` |
+| **B97** | *How to Dispose of an Old Ironing Board & Clothes Drying Rack in Dubai: Folded Steel Frames, Sun-Brittle Plastic and Storeroom Cleanouts* | `how to dispose of an old ironing board in dubai` | `ironing board disposal dubai`, `clothes drying rack disposal dubai`, `storeroom clearance dubai` | Q | `/services/household-junk-removal` |
+
+**Overlap check (content-rules §16):** B95 is distinguished from B57 (clothes/textiles) and B86 (chandeliers/lights) by focusing on taking down high wall/ceiling tracks and poles, roller blinds mechanisms, removing heavy rawl plugs and making good holes for Ejari deposit refund, sun-damaged fabric sorting, and moving awkward 3m+ poles in tower lifts. B96 is distinguished from B25/B47/B66 (white goods/large appliances) and B27/B45 (computers/e-waste) by focusing on motor dust containment, HEPA filter hygiene, lithium-ion battery fire hazards in cordless stick and robot vacuums, charging station clearance, and authorized appliance/small e-waste recycling pathways. B97 is distinguished from B36 (general storeroom clearance) and B88 (luggage) by folding steel frame pinch mechanisms, sun-brittle balcony plastic airers, separating foam pads from mesh tops, elevator diagonal handling of 1.5m frames, and scrap metal recovery.
+
 ---
 
 ## Publishing Cadence & Execution Plan
@@ -399,3 +410,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 22. **Batch 22 (Articles B86–B88):** Ceilings, Outbuildings & Travel Gear — **100% Completed (3/3 Live)**.
 23. **Batch 23 (Articles B89–B91):** Landscaping Waste, Data Destruction & Sensitive Clearances — **100% Completed (3/3 Live)**.
 24. **Batch 24 (Articles B92–B94):** Leftover Paint, Office Records Storage & Home Shelving — **100% Completed (3/3 Live)**.
+25. **Batch 25 (Articles B95–B97):** Curtains & Blinds, Small Appliances & Laundry Gear — **100% Completed (3/3 Live)**.
