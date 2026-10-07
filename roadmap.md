@@ -2,7 +2,7 @@
 
 > **Full Documentation Location:** [`docs/seo/roadmap.md`](file:///d:/Projects/Dubai/rasheed/docs/seo/roadmap.md)  
 > **Objective:** Systematically establish topical authority, capture high-intent commercial and informational searches, and funnel organic traffic to WhatsApp/Call conversions across Dubai.  
-> **Based on:** 340 Target Keywords & 20 Topic Clusters.
+> **Based on:** 342 Target Keywords & 20 Topic Clusters.
 
 ---
 
@@ -382,6 +382,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B95 is distinguished from B57 (clothes/textiles) and B86 (chandeliers/lights) by focusing on taking down high wall/ceiling tracks and poles, roller blinds mechanisms, removing heavy rawl plugs and making good holes for Ejari deposit refund, sun-damaged fabric sorting, and moving awkward 3m+ poles in tower lifts. B96 is distinguished from B25/B47/B66 (white goods/large appliances) and B27/B45 (computers/e-waste) by focusing on motor dust containment, HEPA filter hygiene, lithium-ion battery fire hazards in cordless stick and robot vacuums, charging station clearance, and authorized appliance/small e-waste recycling pathways. B97 is distinguished from B36 (general storeroom clearance) and B88 (luggage) by folding steel frame pinch mechanisms, sun-brittle balcony plastic airers, separating foam pads from mesh tops, elevator diagonal handling of 1.5m frames, and scrap metal recovery.
 
+### Track 29: Major Appliance Lifecycle, Balcony Turf & Entryway Storage (Clusters 3, 4 & 7)
+*Covers three essential household clearance scenarios: responsible closed-loop refrigerant degassing and white-goods recycling, cutting and hauling dense sand-infilled artificial grass rolls from apartment balconies without tile damage, and dismantling humidity-warped shoe cabinets and entryway storage units for Ejari move-out handovers.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B98** | *Responsible Appliance Disposal in Dubai: Degassing, E-Waste Standards & Recycling Pathways* | `responsible appliance disposal dubai` | `appliance disposal dubai`, `white goods disposal dubai`, `old appliance removal dubai` | I | `/services/appliance-removal` |
+| **B99** | *How to Dispose of Artificial Grass & Balcony Turf in Dubai: Sand Infill, Roll Slicing and Ejari Handover Approvals* | `how to dispose of artificial grass in dubai` | `artificial turf disposal dubai`, `balcony fake grass removal dubai`, `synthetic grass disposal dubai`, `garden clearance dubai` | Q | `/services/garden-waste-removal`, `/services/villa-apartment-cleanouts` |
+| **B100** | *How to Dispose of an Old Shoe Cabinet & Hallway Racks in Dubai: Humid Warping, Narrow Corridors and Building Chute Fines* | `how to dispose of a shoe rack in dubai` | `shoe cabinet disposal dubai`, `hallway furniture removal dubai`, `broken furniture disposal dubai`, `storeroom clearance dubai` | Q | `/services/furniture-removal`, `/services/household-junk-removal` |
+
+**Overlap check (content-rules §16):** B98 is distinguished from single-appliance guides (B25/B47/B66) by addressing closed-loop vacuum evacuation, UAE Federal Law No. 12 of 2018, toxic refrigerant atmospheric bans, and commercial white-goods scrap lifecycle. B99 is distinguished from B29 (organic garden trimmings) and B58 (sun-damaged outdoor furniture) by focusing on heavy silica sand infill (10–20 kg/sqm), slicing synthetic carpet rolls for service elevators, tile adhesive scraping, waterproofing membrane protection, and tower chute dumping bans. B100 is distinguished from B75 (large bedroom wardrobes) and B94 (wall shelving) by focusing on entryway shoe storage cabinets, humidity and AC condensation warping, narrow common corridor fire code restrictions, drop-down hinge dismantling, rawl plug hole patching for security deposits, and tower chute enforcement.
+
 ---
 
 ## Publishing Cadence & Execution Plan
@@ -411,3 +422,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 23. **Batch 23 (Articles B89–B91):** Landscaping Waste, Data Destruction & Sensitive Clearances — **100% Completed (3/3 Live)**.
 24. **Batch 24 (Articles B92–B94):** Leftover Paint, Office Records Storage & Home Shelving — **100% Completed (3/3 Live)**.
 25. **Batch 25 (Articles B95–B97):** Curtains & Blinds, Small Appliances & Laundry Gear — **100% Completed (3/3 Live)**.
+26. **Batch 26 (Articles B98–B100):** Major Appliance Lifecycle, Balcony Turf & Entryway Storage — **100% Completed (3/3 Live)**.

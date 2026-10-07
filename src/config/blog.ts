@@ -162,6 +162,10 @@ import blogB97Cover from "@/assets/blog-b51-balcony-clearance-body.jpg";
 import blogB97Body from "@/assets/blog-b11-sorting-recovery.jpg";
 import blogB98Cover from "@/assets/blog-b98-appliance-disposal-cover.webp";
 import blogB98Body from "@/assets/blog-b98-appliance-degassing-body.webp";
+import blogB99Cover from "@/assets/blog-b99-artificial-grass-cover.webp";
+import blogB99Body from "@/assets/blog-b99-artificial-grass-slicing-body.webp";
+import blogB100Cover from "@/assets/blog-b100-shoe-cabinet-cover.webp";
+import blogB100Body from "@/assets/blog-b100-shoe-rack-dismantling-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -12513,6 +12517,275 @@ export const blogPosts: BlogPost[] = [
     serviceLink: {
       href: "/services/appliance-removal",
       label: "Book an insured appliance removal and eco-friendly disposal",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2019/11/Technical-Guideline-No.-10-Disposal-of-Unwanted-Materials-September-20.._.pdf",
+        label: "Dubai Municipality — Technical Guideline No. 10: Disposal of Unwanted Materials",
+      },
+      {
+        href: "https://dlp.dubai.gov.ae/Legislation%20Reference/2024/Law%20No.%20(18)%20of%202024%20Regulating%20Waste%20Management.html",
+        label: "Dubai Legislation Portal — Law No. (18) of 2024 Regulating Waste Management in the Emirate of Dubai",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-artificial-grass-in-dubai",
+    title: "How to Dispose of Artificial Grass & Balcony Turf in Dubai: Sand Infill, Roll Slicing and Ejari Handover Approvals",
+    excerpt:
+      "Sun-baked synthetic turf and sand-infilled balcony grass can become a major headache during move-out inspections. Learn how to slice, roll, and haul fake grass across Dubai.",
+    category: "Villa & Garden",
+    coverImage: blogB99Cover,
+    coverImageAlt:
+      "High-rise Dubai apartment balcony overlooking residential towers with rolled, bundled and taped artificial grass ready for bulky disposal",
+    publishedAt: "2026-10-07",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: [
+      "Artificial Grass Disposal",
+      "Balcony Turf Removal",
+      "Synthetic Lawn Clearance",
+      "Dubai Villa Garden Waste",
+      "Move Out Clearance",
+    ],
+    seoTitle: "How to Dispose of Artificial Grass in Dubai: Balcony Turf Guide",
+    seoDescription:
+      "How to dispose of artificial grass in Dubai: cutting sand-infilled rolls, protecting balcony tile waterproofing, freight elevator access, and Ejari approvals.",
+    keyTakeaways: [
+      "Never dump rolled artificial grass down tower garbage chutes or in communal bin rooms; heavy sand-weighted turf causes instant shaft damage and community fines.",
+      "Slice wide turf installations into manageable 80cm to 100cm strips using a heavy-duty hooked utility blade before attempting to roll them.",
+      "Sun-baked bitumen and latex backing often sticks to outdoor balcony tiles; use plastic scrapers and warm water to prevent puncturing the underlying waterproofing membrane.",
+      "Schedule freight elevator bookings and submit building management move-out permits at least 24 hours prior to hauling heavy turf rolls.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of artificial grass in Dubai?",
+        paragraphs: [
+          "To dispose of artificial grass in Dubai, slice the turf into one-metre-wide strips using a utility knife, roll them tightly, and secure each roll with duct tape. Because silica sand infill makes rolls exceptionally heavy, transport them via freight elevators or book an authorized bulky junk removal team for municipal transfer station disposal.",
+          "Synthetic turf and artificial lawn carpet have become ubiquitous across Dubai residences. Tenants in high-rise towers throughout Dubai Marina, Downtown Dubai, Jumeirah Lakes Towers (JLT), and Jumeirah Village Circle (JVC) frequently lay green turf to turn stark concrete balconies into cozy outdoor sanctuaries. Similarly, villa owners across Arabian Ranches, The Springs, and Damac Hills install synthetic lawns to avoid astronomical summer DEWA irrigation bills.",
+          "However, intense Arabian sun exposure and extreme summer temperatures topping 48°C take a rapid toll on synthetic polymers. After two to four years, polyethylene blades become brittle, fade into dull grey-green, and shed microplastic fragments into drainage channels. When moving out or preparing for an Ejari handover inspection, clearing old artificial turf requires careful handling to protect balcony waterproofing and avoid costly landlord deposit deductions.",
+        ],
+      },
+      {
+        heading: "Managing silica sand infill and extreme roll weight",
+        paragraphs: [
+          "The most common surprise Dubai residents face when removing synthetic turf is its sheer weight. Professional landscape installers spread washed silica sand infill across the grass carpet—typically 15 to 25 kilograms per square metre—to keep blades standing upright and weigh the backing down against high desert winds.",
+          "Over time, airborne dust and balcony washing compact this sand into a dense, cement-like ballast. A modest 20-square-metre balcony lawn that seemed light when unrolled can easily weigh between 350 and 500 kilograms when ready for removal. Trying to drag an entire lawn as a single massive cylinder is nearly impossible and risks spraining backs or gouging luxury lobby tiling.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Chute blockages and floor-load elevator limits",
+          text: "Attempting to force heavy sand-filled turf down building garbage chutes causes immediate compactor jamming. Furthermore, dragging unrolled turf across luxury elevator lobbies leaves abrasive sand trails that scratch polished marble flooring.",
+        },
+      },
+      {
+        heading: "Slicing and rolling techniques for tower service elevators",
+        paragraphs: [
+          "To dismantle artificial grass efficiently without leaving a trail of loose sand across your building's common corridors, start by working in dry conditions. Sweep the top layer of loose dust with a stiff broom. Next, use a heavy-duty utility knife fitted with concave or hooked blades. Slice the carpet into strips roughly 80 to 100 centimetres in width.",
+          "Always cut through the backing from underneath where possible, or slice along the tufted stitch rows to avoid dulling your blade prematurely against the silica grains. Roll each strip tightly with the green pile facing inward to trap the remaining infill inside the roll. Bind each cylinder with heavy-duty packing tape or ratchet straps, creating individual bundles that weigh under 35 kilograms—well within safe manual handling and freight elevator loading limits.",
+        ],
+        image: blogB99Body,
+        imageAlt:
+          "Technician in safety gloves using a utility knife to slice heavy artificial turf on an outdoor patio in Dubai",
+        imageCaption:
+          "Slicing turf rolls into 1-metre widths makes elevator transit safe and manageable.",
+      },
+      {
+        heading: "Removing baked adhesive and protecting tile waterproofing",
+        paragraphs: [
+          "During move-out handovers, building inspectors and landlords rigorously inspect balcony surfaces. In many rental units, previous occupants or fit-out contractors glued turf edges down using polyurethane mastic, outdoor contact adhesive, or industrial double-sided tape.",
+          "Under the UAE's relentless UV radiation, synthetic rubber and bitumen backings often fuse directly to glazed ceramic tiles. Never attack stubborn glue with steel chisels or masonry scrapers; metal edges easily chip tile glazes or puncture the liquid waterproof membrane beneath the balcony screed, leading to costly leak repairs. Instead, apply warm soapy water or citrus-based adhesive removers, let the solvent soften the bond for twenty minutes, and gently lift the residue using a flexible plastic putty scraper.",
+        ],
+        table: {
+          caption: "Artificial turf removal methods across Dubai residential property types",
+          headers: ["Setting", "Typical Turf Area", "Weight Challenge", "Disposal Protocol"],
+          rows: [
+            ["High-rise apartment balcony", "10–25 sqm", "150–350 kg (sand + latex)", "Slice into 80cm rolls; freight elevator booking required"],
+            ["Townhouse private terrace", "30–60 sqm", "450–900 kg", "Bag loose infill; ground-level trolley load to 3-ton truck"],
+            ["Standalone villa garden lawn", "80–250+ sqm", "1.2 to 4+ tonnes", "Mechanized turf cutter; dedicated bulk haulage trip"],
+            ["Commercial rooftop or nursery", "100–300 sqm", "Multi-tonne commercial load", "Commercial transfer station manifest and skip logistics"],
+          ],
+        },
+      },
+      {
+        heading: "End-of-lease clearances and booking bulky collection",
+        paragraphs: [
+          "Balcony turf removal is rarely an isolated chore. It almost always accompanies clearing sun-damaged patio furniture, heavy ceramic planters, and outdoor barbecues before handovers. Because synthetic grass is petroleum-derived plastic loaded with mineral sand, municipal green-waste composting trucks will not accept it alongside organic tree trimmings.",
+          "Booking a comprehensive bulky clearance service ensures heavy turf rolls are wheeled out on padded dollies, service corridors remain spotless, and waste is delivered to authorized sorting facilities. To plan the rest of your outdoor and move-out clear-out, explore our guide on [how to dispose of garden waste in Dubai](https://dubaijunkcollection.com/blog/how-to-dispose-of-garden-waste-in-dubai) and our checklist for [clearing a rental property in Dubai](https://dubaijunkcollection.com/blog/clearing-a-rental-property-dubai).",
+        ],
+        callout: {
+          type: "tip",
+          title: "Dry out balcony turf after irrigation or rain",
+          text: "Never roll wet artificial grass. Rain or balcony plant watering saturates the sand infill, doubling roll weight and causing muddy runoff down service corridors. Allow the turf to bake dry in the sun for 24 hours before cutting.",
+        },
+      },
+    ],
+    faqs: [
+      {
+        question: "Can artificial grass go into green garden waste bins in Dubai?",
+        answer:
+          "No. Artificial turf is constructed from non-biodegradable polyethylene and polypropylene plastic with a latex or polyurethane backing. It cannot be composted and must be separated from organic tree trimmings, palm fronds, and lawn clippings.",
+      },
+      {
+        question: "Will Dubai Municipality bulky collection pick up artificial grass?",
+        answer:
+          "Dubai Municipality offers scheduled bulky waste collection for registered residential villas, but service restrictions apply to heavy construction-grade materials and multi-roll commercial loads. Private clearance crews provide same-day loading, elevator transport, and transfer station disposal.",
+      },
+      {
+        question: "How do I remove sticky glue residue left by artificial grass on balcony tiles?",
+        answer:
+          "Soak the adhesive patches in warm water mixed with dish soap or a citrus-based adhesive remover for 15 to 20 minutes. Use a plastic putty knife to scrape the softened glue without scratching tile glaze or damaging grouting.",
+      },
+      {
+        question: "Can old artificial grass be recycled in the UAE?",
+        answer:
+          "Recycling artificial turf requires specialized industrial plants that separate silica infill from plastic fibres before melt-down. Licensed waste management providers transport synthetic turf to certified material recovery facilities where plastics are shredded for industrial reuse.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-garden-waste-in-dubai",
+      "how-to-dispose-of-garden-furniture-in-dubai",
+      "how-to-dispose-of-old-plant-pots-dubai",
+      "clearing-a-rental-property-dubai",
+    ],
+    serviceLink: {
+      href: "/services/garden-waste-removal",
+      label: "Book a balcony turf and garden clearance",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2019/11/Technical-Guideline-No.-10-Disposal-of-Unwanted-Materials-September-20.._.pdf",
+        label: "Dubai Municipality — Technical Guideline No. 10: Disposal of Unwanted Materials",
+      },
+      {
+        href: "https://dlp.dubai.gov.ae/Legislation%20Reference/2024/Law%20No.%20(18)%20of%202024%20Regulating%20Waste%20Management.html",
+        label: "Dubai Legislation Portal — Law No. (18) of 2024 Regulating Waste Management in the Emirate of Dubai",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-shoe-rack-in-dubai",
+    title: "How to Dispose of an Old Shoe Cabinet & Hallway Racks in Dubai: Humid Warping, Narrow Corridors and Building Chute Fines",
+    excerpt:
+      "Swollen particleboard doors, rusted tilt hinges, and hallway fire codes make getting rid of an old shoe rack tricky in Dubai. Here is how to dismantle, recycle, and haul hallway units.",
+    category: "Guides & Tips",
+    coverImage: blogB100Cover,
+    coverImageAlt:
+      "Professional uniformed moving crew wrapping a large wooden shoe storage cabinet in an apartment entrance in Dubai",
+    publishedAt: "2026-10-07",
+    readingTime: "6 min read",
+    author: defaultAuthor,
+    tags: [
+      "Shoe Rack Disposal",
+      "Shoe Cabinet Removal",
+      "Hallway Decluttering",
+      "Furniture Removal Dubai",
+      "Move Out Handover",
+    ],
+    seoTitle: "How to Dispose of a Shoe Rack in Dubai: Cabinet Removal Guide",
+    seoDescription:
+      "How to dispose of an old shoe cabinet in Dubai: dismantling drop-down tilt compartments, hallway fire safety rules, wall anchor patching, and bulk recycling.",
+    keyTakeaways: [
+      "Dubai Civil Defence regulations strictly forbid leaving shoe racks in communal apartment hallways; building security will confiscate units and issue community fines.",
+      "Dismantle tilt-out compartment pivots and unscrew anti-tip wall brackets before moving large multi-tier MDF shoe cabinets.",
+      "Swollen particleboard caused by AC humidity cannot be repaired; strip metal handles and hinge pins so bare wood panels can enter bulk wood recycling.",
+      "Patch and sand wall mounting holes in the entryway to ensure a smooth Ejari handover inspection and full deposit refund.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an old shoe cabinet in Dubai?",
+        paragraphs: [
+          "To dispose of an old shoe cabinet in Dubai, unscrew the anti-tip wall brackets, detach the drop-down tilt drawers, and flat-pack the outer frame. Metal shoe racks can be sent to scrap metal recyclers, while warped MDF cabinets should be scheduled for licensed bulky furniture collection rather than abandoned in corridors.",
+          "In nearly every Dubai residence—from compact studio apartments in Business Bay and Dubai Marina to sprawling family villas in Arabian Ranches and Dubai Hills Estate—shoe storage is a household staple. Removing outdoor footwear before entering is deeply embedded in regional culture, making multi-tier shoe cabinets (such as IKEA Hemnes, Bissa, or bespoke entry joinery) an essential fixture right inside the front door.",
+          "However, hallway shoe cabinets endure unique environmental stress in the UAE. Every time the apartment door opens during summer, humid 40°C outside air collides with 21°C air conditioning, causing moisture condensation along floor skirts. Over a couple of seasons, foil-wrapped particleboard swells, bottom drawers jam, and tilt brackets snap. When clearing out for a move, disposing of these awkward units requires navigating strict building fire codes and move-out inspection standards.",
+        ],
+      },
+      {
+        heading: "Hallway fire regulations and common corridor disposal bans",
+        paragraphs: [
+          "A frequent mistake tenants make is setting unwanted shoe cabinets outside their front door in the communal hallway or propping them in the trash chute vestibule. Under Dubai Civil Defence residential fire safety codes and building strata regulations (OA rules), apartment corridors must remain completely clear of obstructions to maintain safe emergency egress widths.",
+          "Building security guards across communities in Jumeirah Village Circle (JVC), Downtown Dubai, and Al Barsha conduct daily floor inspections. Leaving a discarded shoe rack in common areas leads to immediate confiscation, building violation notices, and penalty fines ranging from AED 250 to AED 1,000 added directly to the apartment's service charge account or tenant security deposit.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Leaving shoe racks in corridors triggers instant fines",
+          text: "Building management security teams conduct routine floor audits. Stashing an old or unwanted shoe cabinet in the service corridor, chute room, or emergency fire stairwell results in immediate removal notices and penalties ranging from AED 250 to AED 1,000 deducted directly from tenant accounts.",
+        },
+      },
+      {
+        heading: "Dismantling tilt-out compartments and anti-tip wall anchors",
+        paragraphs: [
+          "Tall, slim shoe cabinets have an exceptionally narrow depth (often just 20 to 30 centimetres) and high centre of gravity, which means almost all units are bolted into the wall with anti-tip safety brackets. Attempting to pull the cabinet forward without unscrewing these brackets will tear large chunks out of the drywall or plasterboard.",
+          "Start by emptying every tier and feeling behind the drop-down baskets for fallen socks or keys. Depress the plastic pivot retainers on each side of the tilt compartments to release the drawers from the side gables. Once the tilt baskets are out, reach the rear upper rail with a screwdriver and unscrew the wall anchor bolts. With the unit detached from the wall, lay the frame flat to dismantle side panels, making the unit easy to carry through service doors without scraping elevator ceilings.",
+        ],
+        image: blogB100Body,
+        imageAlt:
+          "Technician using a cordless drill to unscrew drop-down drawer hinges and wall fixings of a wooden shoe cabinet in Dubai",
+        imageCaption:
+          "Dismantling tilt hinges and unscrewing wall anchors prevents cabinet collapse during hallway transport.",
+      },
+      {
+        heading: "Wall repair for Ejari move-out inspections",
+        paragraphs: [
+          "Because shoe cabinets must be anchored into concrete block or drywall to prevent accidental tipping, removing them leaves visible holes and embedded plastic rawl plugs in the entryway. During the final lease walkthrough, property managers and landlord maintenance agents inspect entrance walls closely.",
+          "To avoid security deposit deductions for wall remediation, thread a drywall screw halfway into the plastic rawl plug and pull it out using pliers. Fill the cavity with quick-drying spackling paste or interior wall filler, smooth it flush with a putty knife, and apply matching touch-up paint once dry. Returning the entryway wall to its original handover condition ensures quick Ejari clearance.",
+        ],
+        table: {
+          caption: "Shoe storage furniture types and disposal pathways in Dubai",
+          headers: ["Storage Unit Style", "Common Materials", "Best Recycling / Disposal Pathway"],
+          rows: [
+            ["Multi-tier slim tilt cabinet", "MDF, particleboard, plastic pivot pins", "Dismantle tilt baskets; flat-pack panels for bulk wood recovery"],
+            ["Open metal shoe rack", "Steel tubing, chrome mesh, wire frames", "Collapse frame; 100% scrap metal recycling"],
+            ["Solid wood entryway bench", "Solid pine, oak, brass hardware", "Remove hardware; donate to charity if structurally sound"],
+            ["Stackable plastic shoe boxes", "Polypropylene / acrylic transparent bins", "Check for cracks; clean and drop off at plastic recycling banks"],
+            ["Custom fitted foyer joinery", "Veneered plywood, heavy mirrors", "Requires professional on-site deconstruction and wall remediation"],
+          ],
+        },
+      },
+      {
+        heading: "Coordinating hallway clearance with your moving schedule",
+        paragraphs: [
+          "An old shoe cabinet is usually cleared alongside entryway console tables, coat racks, and outgrown luggage during a full home declutter. Instead of struggling to drag a wobbly, half-dismantled unit through crowded service elevators, arranging a scheduled junk collection simplifies the entire move-out.",
+          "Our clearance teams arrive with cordless drivers to safely detach wall anchors, pack components flat, and protect communal corridors from scratches. For further guidance on room-by-room move-out clearances, read our walkthrough on [how to dispose of old furniture in Dubai](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-furniture-in-dubai) and our tips for [storeroom clearance in Dubai](https://dubaijunkcollection.com/blog/storeroom-clearance-dubai).",
+        ],
+        callout: {
+          type: "tip",
+          title: "Empty all compartments and check hidden pockets",
+          text: "Always inspect the back of tilt drawers before dismantling. Keys, parking access cards, and small items frequently slide behind the dropdown baskets into the rear recess of the cabinet.",
+        },
+      },
+    ],
+    faqs: [
+      {
+        question: "Can I donate an old shoe cabinet to charity in Dubai?",
+        answer:
+          "Yes, provided the tilt mechanisms function smoothly and the bottom particleboard panels have not swollen from moisture damage. Charity organizations in Dubai accept clean, undamaged entryway furniture for redistribution to families in need.",
+      },
+      {
+        question: "Will a shoe cabinet fit inside standard tower passenger elevators?",
+        answer:
+          "Tall multi-tier shoe cabinets often exceed 1.5 metres in height and have sharp corners that scratch elevator mirrors. It is always best to book the building service elevator or dismantle the outer frame into flat panels before moving.",
+      },
+      {
+        question: "How do I patch deep anchor holes in drywall or plaster before handover?",
+        answer:
+          "Insert a screw partially into the plastic plug and lever it out with pliers. Press interior polyfilla into the hole with a putty knife, let it dry for two hours, sand it flat with fine-grit sandpaper, and apply matching touch-up paint.",
+      },
+      {
+        question: "Can an open metal shoe rack be recycled with scrap metal?",
+        answer:
+          "Yes. Tubular steel and chrome wire shoe racks can be 100% recycled at UAE scrap metal recovery facilities. Simply pull off any rubber foot caps and collapse the frame before transport.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-old-furniture-in-dubai",
+      "how-to-dispose-of-old-shelving-units-in-dubai",
+      "how-to-dispose-of-an-old-ironing-board-in-dubai",
+      "clearing-a-rental-property-dubai",
+    ],
+    serviceLink: {
+      href: "/services/furniture-removal",
+      label: "Book a furniture and hallway clearance",
     },
     sources: [
       {
