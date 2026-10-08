@@ -393,6 +393,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B98 is distinguished from single-appliance guides (B25/B47/B66) by addressing closed-loop vacuum evacuation, UAE Federal Law No. 12 of 2018, toxic refrigerant atmospheric bans, and commercial white-goods scrap lifecycle. B99 is distinguished from B29 (organic garden trimmings) and B58 (sun-damaged outdoor furniture) by focusing on heavy silica sand infill (10–20 kg/sqm), slicing synthetic carpet rolls for service elevators, tile adhesive scraping, waterproofing membrane protection, and tower chute dumping bans. B100 is distinguished from B75 (large bedroom wardrobes) and B94 (wall shelving) by focusing on entryway shoe storage cabinets, humidity and AC condensation warping, narrow common corridor fire code restrictions, drop-down hinge dismantling, rawl plug hole patching for security deposits, and tower chute enforcement.
 
+### Track 30: Outdoor Shade, Play Equipment & Ergonomic Seating (Clusters 6, 7 & 10)
+*Covers three high-stress household, garden, and workstation clearances: dismantling sun-baked villa pergolas and gazebos with rusted anchors for Ejari handovers, removing brittle outdoor climbing frames and swing sets without lawn damage, and safely recycling ergonomic office chairs with pressurized pneumatic gas cylinders.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B101** | *How to Dispose of a Pergola, Gazebo or Patio Canopy in Dubai: Sun-Damaged Rafters, Rusty Anchors and Villa Handovers* | `how to dispose of a gazebo in dubai` | `pergola removal dubai`, `outdoor shade structure removal dubai`, `garden clearance dubai`, `villa handover clearance dubai` | Q | `/services/garden-waste-removal`, `/services/villa-apartment-cleanouts` |
+| **B102** | *How to Dispose of Outdoor Play Equipment & Swings in Dubai: Sun-Brittle Plastic, Ground Anchors and Garden Handovers* | `how to dispose of outdoor play equipment in dubai` | `kids playset removal dubai`, `climbing frame removal dubai`, `garden clearance dubai`, `bulky item removal dubai` | Q | `/services/garden-waste-removal`, `/services/mattress-bulky-item-removal` |
+| **B103** | *How to Dispose of an Office Chair in Dubai: Pressurized Gas Lifts, Peeling Leather and Scrap Recycling* | `how to dispose of an office chair in dubai` | `office chair disposal dubai`, `gaming chair removal dubai`, `office furniture disposal dubai`, `commercial waste disposal dubai` | Q | `/services/office-junk-removal`, `/services/furniture-removal` |
+
+**Overlap check (content-rules §16):** B101 is distinguished from B87 (garden sheds) and B58 (balcony furniture) by open structural timber/aluminum framing, fabric canopy detachment, developer modification NOC clauses (Emaar/Nakheel handover requirements), and unbolting footings from patio interlocks. B102 is distinguished from B72 (trampolines) and B68 (nursery baby gear) by rigid multi-point play towers, deep ground anchor extraction, backfilling lawn depressions for Ejari inspections, and thermal embrittlement of heavy outdoor HDPE slides. B103 is distinguished from B77 (living room recliner chairs) and B80 (standing desks) by Class 3/4 nitrogen gas-lift explosion hazards in hydraulic waste compactors, peeling PU faux leather caused by Dubai humidity cycles, 5-star castor base disassembly, and metal scrap segregation.
+
 ---
 
 ## Publishing Cadence & Execution Plan
@@ -423,3 +434,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 24. **Batch 24 (Articles B92–B94):** Leftover Paint, Office Records Storage & Home Shelving — **100% Completed (3/3 Live)**.
 25. **Batch 25 (Articles B95–B97):** Curtains & Blinds, Small Appliances & Laundry Gear — **100% Completed (3/3 Live)**.
 26. **Batch 26 (Articles B98–B100):** Major Appliance Lifecycle, Balcony Turf & Entryway Storage — **100% Completed (3/3 Live)**.
+27. **Batch 27 (Articles B101–B103):** Outdoor Shade, Play Equipment & Ergonomic Seating — **100% Completed (3/3 Live)**.

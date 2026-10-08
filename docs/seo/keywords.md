@@ -1,7 +1,7 @@
 # Dubai Junk Collection — Master Keyword Database
 
 > **Full Documentation Location:** [`docs/seo/keywords.md`](file:///d:/Projects/Dubai/rasheed/docs/seo/keywords.md)  
-> **Source:** SEO Keyword Research Report plus approved content-gap expansion (342 Target Keywords across 20 Clusters)
+> **Source:** SEO Keyword Research Report plus approved content-gap expansion (345 Target Keywords across 20 Clusters)
 > **Rule:** Every keyword has a single designated destination URL/page type to prevent cannibalization.
 
 ---
@@ -13,8 +13,8 @@
 - [Cluster 3: Furniture Removal & Disposal (25)](#3-furniture-removal--disposal)
 - [Cluster 4: Appliance & White-Goods Removal (19)](#4-appliance--white-goods-removal)
 - [Cluster 5: E-Waste & Electronics Disposal (13)](#5-e-waste--electronics-disposal-new-service-opportunity)
-- [Cluster 6: Office & Commercial Junk Removal (16)](#6-office--commercial-junk-removal)
-- [Cluster 7: Garden & Green Waste Removal (15)](#7-garden--green-waste-removal)
+- [Cluster 6: Office & Commercial Junk Removal (17)](#6-office--commercial-junk-removal)
+- [Cluster 7: Garden & Green Waste Removal (17)](#7-garden--green-waste-removal)
 - [Cluster 8: Villa & Apartment Cleanouts / Handover (18)](#8-villa--apartment-cleanouts--handover)
 - [Cluster 9: Warehouse & Industrial Clearance (12)](#9-warehouse--industrial-clearance)
 - [Cluster 10: Mattress & Bulky Item Removal (16)](#10-mattress--bulky-item-removal)
@@ -208,6 +208,7 @@
 | 111 | office relocation junk removal dubai | I | Blog Article |
 | 112 | decluttering the workplace productivity | I | Blog Article |
 | 336 | how to dispose of old filing cabinets in dubai | Q | Blog Article |
+| 345 | how to dispose of an office chair in dubai | Q | Blog Article |
 
 ---
 
@@ -235,6 +236,8 @@
 | 325 | how to dispose of old plant pots in dubai | Q | Blog Article |
 | 333 | how to dispose of a garden shed in dubai | Q | Blog Article |
 | 341 | how to dispose of artificial grass in dubai | Q | Blog Article |
+| 343 | how to dispose of a gazebo in dubai | Q | Blog Article |
+| 344 | how to dispose of outdoor play equipment in dubai | Q | Blog Article |
 
 ---
 
