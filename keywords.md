@@ -536,3 +536,11 @@
 | 296 | storeroom clearance dubai | C | Blog Article |
 | 297 | what to do with junk when leaving uae | Q | Blog Article |
 | 298 | downsizing home dubai tips | I | Blog Article |
+
+### New question-intent blog targets (Batch 29)
+
+| # | Keyword | Intent | Recommended Page |
+| :-: | :--- | :---: | :--- |
+| 349 | how to dispose of an air purifier in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-air-purifier-in-dubai`) |
+| 350 | how to dispose of a cat tree in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-cat-tree-and-pet-bed-in-dubai`) |
+| 351 | how to dispose of old lamps in dubai | Q | Blog Article (`/blog/how-to-dispose-of-old-table-and-floor-lamps-in-dubai`) |

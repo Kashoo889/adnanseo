@@ -419,6 +419,19 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 ## Publishing Cadence & Execution Plan
 
+### Track 32: Small Indoor Appliances, Pet Furniture & Portable Lighting (Clusters 2, 3 & 10)
+*Three distinct household questions: dusty filter containment and electrical recycling; hygienic reuse of pet furniture; and separating portable lamp bulbs, shades and wiring.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B107** | *How to Dispose of an Air Purifier in Dubai: Filters, Motors and E-Waste* | `how to dispose of an air purifier in dubai` | `air purifier recycling dubai`, `small appliance recycling dubai` | Q | `/services/appliance-removal` |
+| **B108** | *How to Dispose of a Cat Tree and Pet Bed in Dubai: Hygiene, Reuse and Bulky Pickup* | `how to dispose of a cat tree in dubai` | `pet bed disposal dubai`, `pet furniture removal dubai` | Q | `/services/household-junk-removal` |
+| **B109** | *How to Dispose of Old Table and Floor Lamps in Dubai: Bulbs, Cords and Mixed Materials* | `how to dispose of old lamps in dubai` | `floor lamp disposal dubai`, `lamp recycling dubai` | Q | `/services/household-junk-removal` |
+
+**Overlap check (content-rules §16):** B107 addresses used filter containment and model-specific replacement, beyond B96's vacuum-cleaner motor dust and battery handling. B108 addresses hygiene and multi-material pet furniture, separate from B105's human bedding and B94's shelving. B109 addresses portable lamps, bulbs and mixed-material shades; B86 covers wired ceiling fixtures and specialist lowering. Primary terms are Q-intent blog topics. Internal links point to the named service pages and related disposal guides.
+
+---
+
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
 2. **Batch 2 (Articles B08–B14):** Municipality Rules, Skip Comparisons & Sustainability (establishes trust & snippet dominance) — **100% Completed (7/7 Live)**.
 3. **Batch 3 (Articles B15–B21):** Expat Move-Outs, Handover Checklists & Situational Guides (high seasonal demand) — **100% Completed (7/7 Live)**.
@@ -447,3 +460,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 26. **Batch 26 (Articles B98–B100):** Major Appliance Lifecycle, Balcony Turf & Entryway Storage — **100% Completed (3/3 Live)**.
 27. **Batch 27 (Articles B101–B103):** Outdoor Shade, Play Equipment & Ergonomic Seating — **100% Completed (3/3 Live)**.
 28. **Batch 28 (Articles B104–B106):** Kitchen Cookware, Bedding & Mobile Phones — **100% Completed (3/3 Live)**.
+29. **Batch 29 (Articles B107–B109):** Air Purifiers, Pet Furniture & Portable Lamps — **100% Completed (3/3 Live)**.

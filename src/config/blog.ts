@@ -178,6 +178,12 @@ import blogB105Cover from "@/assets/blog-b31-bedroom-sorting-body.jpg";
 import blogB105Body from "@/assets/blog-b24-mattress-sorting-body.jpg";
 import blogB106Cover from "@/assets/blog-b45-electronics-recycling-cover.webp";
 import blogB106Body from "@/assets/blog-b61-ewaste-sorting-depot-body.webp";
+import blogB107Cover from "@/assets/blog-b107-air-purifier-cover.webp";
+import blogB107Body from "@/assets/blog-b107-air-purifier-filter-body.webp";
+import blogB108Cover from "@/assets/blog-b108-pet-furniture-cover.webp";
+import blogB108Body from "@/assets/blog-b108-cat-tree-dismantling-body.webp";
+import blogB109Cover from "@/assets/blog-b109-old-lamps-cover.webp";
+import blogB109Body from "@/assets/blog-b109-lamp-parts-sorting-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -13617,6 +13623,185 @@ export const blogPosts: BlogPost[] = [
         label: "Google Android Help — Reset your Android device to factory settings",
       },
     ],
+  },
+  {
+    slug: "how-to-dispose-of-an-air-purifier-in-dubai",
+    title: "How to Dispose of an Air Purifier in Dubai: Filters, Motors and E-Waste",
+    excerpt: "A spent filter and a broken purifier need different routes. Check the unit, contain the dust and choose reuse or an electronics collection point.",
+    category: "Eco & Recycling",
+    coverImage: blogB107Cover,
+    coverImageAlt: "Used white air purifier and replacement filter beside a collection box in a sunlit Dubai apartment",
+    publishedAt: "2026-10-10",
+    readingTime: "5 min read",
+    author: defaultAuthor,
+    tags: ["Air Purifier Disposal", "Filter Disposal", "Small Appliance Recycling", "Dubai E-Waste"],
+    seoTitle: "How to Dispose of an Air Purifier in Dubai Safely",
+    seoDescription: "How to dispose of an air purifier in Dubai: contain dusty filters, remove batteries, test the motor and choose resale, repair or small appliance recycling.",
+    keyTakeaways: [
+      "Unplug the purifier and bag the used filter before moving it; a full filter can shed trapped dust.",
+      "A working unit may be reused after cleaning and fitting a compatible fresh filter.",
+      "A failed motor or control board makes the unit small electronic waste, not ordinary rubbish.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an air purifier in Dubai?",
+        paragraphs: [
+          "Unplug it, remove and bag the used filter, and check whether the fan and controls still work. Offer a working unit for reuse with its model number so the next owner can buy the right filter. Take a broken purifier to a small e-waste collection point or include it in an appliance pickup. Keep loose batteries separate.",
+          "A purifier can look clean outside while its filter is packed with fine dust. Opening it in a lift lobby or shaking the filter over a bin spreads exactly what the machine captured. Do that preparation on a wipeable floor at home, with the unit switched off and cool.",
+        ],
+      },
+      {
+        heading: "Separate the filter from the machine",
+        paragraphs: [
+          "Follow the model's filter-removal instructions. Slide the cartridge into a bag without beating or vacuuming it, then seal the bag. A disposable HEPA or carbon cartridge is usually a mixed-material item; do not put it in a paper-recycling stream just because its frame looks like cardboard. Check the maker's guidance for washable pre-filters and dry them fully before reuse.",
+          "If the machine has a remote control or a battery backup, remove the batteries and use a battery collection point. Keep the power lead with a working purifier; for a broken one, the cable and motor belong with its electronic components. Our [small appliance recycling guide](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-old-vacuum-cleaner-in-dubai) explains why battery-powered devices need extra care.",
+        ],
+        image: blogB107Body,
+        imageAlt: "Gloved hands removing a dusty filter from an unplugged air purifier on an apartment floor",
+        imageCaption: "Bag a used filter before carrying the purifier through shared areas.",
+      },
+      {
+        heading: "Can it be repaired or passed on?",
+        paragraphs: [
+          "Test the fan at each speed, check that the control panel responds, and look for a replacement filter sold for the exact model. A dirty filter alone is not a reason to scrap a working machine. If a replacement costs more than the unit is worth, say so honestly in a giveaway listing rather than passing the expense to someone without warning.",
+          "A burning smell, damaged cord or fan that stalls is a repair question. Do not run the unit again to demonstrate it to a buyer. Ask a qualified repairer for an assessment or send it through an electronics collection route. See our [electronics disposal overview](https://dubaijunkcollection.com/blog/is-it-illegal-to-throw-electronics-in-the-bin-dubai) for the wider e-waste route.",
+        ],
+      },
+      {
+        heading: "Plan the collection with the rest of your clear-out",
+        paragraphs: [
+          "For one purifier, a retailer or municipal e-waste drop-off may be simplest; confirm the point accepts small appliances before travelling. During a flat clearance, tell the collection crew about the purifier, bagged filter and any loose batteries when sending photos. We can plan the appliance with other [household junk removal](https://dubaijunkcollection.com/services/household-junk-removal), while keeping electronics out of the mixed load.",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can I recycle a used HEPA filter with paper?", answer: "Usually not. A used HEPA cartridge combines filter media, seals and often plastic or metal, and it holds captured dust. Bag it and follow the manufacturer's local disposal guidance. Do not place it in clean-paper recycling unless the specific collection programme explicitly accepts that filter." },
+      { question: "Should I clean a purifier before donating it?", answer: "Yes. Wipe the housing, wash only the parts the manufacturer marks as washable, and tell the recipient whether the main cartridge needs replacing. Include the model number and power cable. Do not donate a unit with a damaged cord, burning smell or faulty fan." },
+      { question: "What if the purifier has a built-in battery?", answer: "Check the manual before opening the casing. If the battery is designed to be removed, protect its terminals and use a battery collection route. If it is sealed inside, leave it in the device and tell the e-waste collector. Never puncture or force out a swollen battery." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-an-old-vacuum-cleaner-in-dubai", "is-it-illegal-to-throw-electronics-in-the-bin-dubai", "responsible-appliance-disposal-dubai"],
+    serviceLink: { href: "/services/appliance-removal", label: "Arrange small appliance collection" },
+    sources: [{ href: "https://www.dm.gov.ae/", label: "Dubai Municipality — waste and recycling services" }],
+  },
+  {
+    slug: "how-to-dispose-of-a-cat-tree-and-pet-bed-in-dubai",
+    title: "How to Dispose of a Cat Tree and Pet Bed in Dubai: Hygiene, Reuse and Bulky Pickup",
+    excerpt: "Sort worn pet furniture by hygiene and stability before offering it away. Dismantle bulky towers and bag loose fabric for collection.",
+    category: "Guides & Tips",
+    coverImage: blogB108Cover,
+    coverImageAlt: "Worn cat tree and frayed pet bed beside the balcony door of a Dubai apartment",
+    publishedAt: "2026-10-10",
+    readingTime: "5 min read",
+    author: defaultAuthor,
+    tags: ["Cat Tree Disposal", "Pet Bed Disposal", "Pet Furniture", "Bulky Item Collection"],
+    seoTitle: "How to Dispose of a Cat Tree and Pet Bed in Dubai",
+    seoDescription: "How to dispose of a cat tree and pet bed in Dubai: decide what can be reused, contain fur and damaged fabric, dismantle towers and arrange bulky collection.",
+    keyTakeaways: [
+      "Only offer pet furniture for reuse if it is clean, stable and free of fleas or mould.",
+      "Bag removable fabric, fur and loose sisal before moving a tower through shared corridors.",
+      "A large tower is bulky furniture; do not leave it beside a building chute.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a cat tree or pet bed in Dubai?",
+        paragraphs: [
+          "Inspect it for pests, odour, broken fixings and unstable platforms. Wash removable covers and offer a sound, clean item to a pet owner or rescue group that has confirmed it wants it. Bag stained or torn bedding. Dismantle an unusable cat tree into manageable sections, contain loose sisal and arrange bulky collection rather than leaving it in a chute room.",
+          "The deciding factor is often hygiene, not age. A tower can be structurally sound but carry years of fur and scent that another animal will reject. Conversely, a washable bed with a sound insert may have plenty of use left after a proper clean.",
+        ],
+      },
+      {
+        heading: "Decide what is safe to pass on",
+        paragraphs: [
+          "Push each platform gently from several directions. If a post rotates, a shelf tips or the base is warped, do not give the tower to someone else. Check the underside and fabric seams for pests and mould. If an animal has been ill or the bed is heavily soiled, keep it out of donation streams; ask your veterinarian about cleaning or disposal if an infection is involved.",
+          "Pet rescues have different needs and limited storage. Contact one before bringing a used tower or bedding. Send photos and dimensions, describe any wear, and be ready to use another route if they decline it. Our [guide to unwanted household items](https://dubaijunkcollection.com/blog/what-to-do-with-unwanted-household-items-dubai) gives the broader reuse decision.",
+        ],
+      },
+      {
+        heading: "Take down a bulky tower without scattering debris",
+        paragraphs: [
+          "Photograph the tower if you plan to reuse it. Remove toys and loose cushions, then unbolt the top platforms before the base. Put hardware in a small bag. Worn sisal rope can unravel as a post is carried; wrap it or place the post in a large sack. Vacuum the cleared floor and keep dusty sections away from open food and laundry.",
+          "A tall tower may fit inside an apartment but not turn through a service-lift door. Measure the longest section and check your building's lift booking rules before carrying it out. The same access planning applies to other [bulky furniture removal](https://dubaijunkcollection.com/services/furniture-removal).",
+        ],
+        image: blogB108Body,
+        imageAlt: "Gloved worker separating a worn sisal post and pet fabric from a dismantled cat tree",
+        imageCaption: "Separate loose textiles and rope before taking the rigid frame through a lift.",
+      },
+      {
+        heading: "Choose the route for each material",
+        paragraphs: [
+          "A removable, washable cover may be reusable; a foam insert soaked through with odour generally is not. Cat trees combine particleboard, fabric, glue, rope and metal fasteners, so putting the whole tower into one recycling bin is rarely appropriate. Keep a sound tower intact for reuse. For a broken one, separate practical components and declare the remainder when booking a household pickup.",
+          "If the tower, litter cabinet and bags of bedding are leaving together, send one photo showing everything for a quote. We can collect them alongside a wider [apartment clear-out](https://dubaijunkcollection.com/services/villa-apartment-cleanouts), with the route and lift access planned in advance.",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Will animal shelters take a used cat tree?", answer: "Some may, but do not assume they can. Space, cleaning capacity and infection control vary by shelter. Send clear photos, measurements and the item's condition, then wait for confirmation. A wobbly, mouldy or pest-affected tower should not be donated." },
+      { question: "Can a pet bed go in a clothing donation bin?", answer: "Usually no. Clothing bins are intended for accepted textiles, and a bulky pet bed may block the opening or be rejected on hygiene grounds. Check the operator's accepted-items list. If the cover is washable and wanted by a rescue, donate it directly; otherwise arrange a suitable household-waste route." },
+      { question: "Do I need to dismantle a cat tree for pickup?", answer: "Only when its size prevents safe movement through doorways or the service lift. Send its height and a photo to the collector first. If you take it apart, work from the top down, keep fingers clear of falling platforms and bag loose rope and screws." },
+    ],
+    relatedSlugs: ["what-to-do-with-unwanted-household-items-dubai", "how-to-dispose-of-old-pillows-and-duvets-in-dubai", "can-you-throw-away-furniture-in-dubai"],
+    serviceLink: { href: "/services/household-junk-removal", label: "Arrange pet furniture collection" },
+    sources: [{ href: "https://www.dm.gov.ae/", label: "Dubai Municipality — waste and recycling services" }],
+  },
+  {
+    slug: "how-to-dispose-of-old-table-and-floor-lamps-in-dubai",
+    title: "How to Dispose of Old Table and Floor Lamps in Dubai: Bulbs, Cords and Mixed Materials",
+    excerpt: "Portable lamps contain reusable parts and electrical components. Remove bulbs safely, check cords and sort the base, shade and fitting.",
+    category: "Eco & Recycling",
+    coverImage: blogB109Cover,
+    coverImageAlt: "Old table and floor lamps with a cracked shade and unplugged cord in a Dubai living room",
+    publishedAt: "2026-10-10",
+    readingTime: "5 min read",
+    author: defaultAuthor,
+    tags: ["Lamp Disposal", "Floor Lamp Recycling", "Light Bulb Disposal", "Household E-Waste"],
+    seoTitle: "How to Dispose of Old Table and Floor Lamps in Dubai",
+    seoDescription: "How to dispose of old table and floor lamps in Dubai: remove bulbs, assess damaged cords, separate mixed materials and choose reuse or e-waste collection.",
+    keyTakeaways: [
+      "Unplug a lamp and let its bulb cool before handling the shade or socket.",
+      "Working lamps with safe cords are good reuse candidates; damaged wiring needs repair or electrical recycling.",
+      "Bulbs and mixed-material shades should be separated from the metal or ceramic base.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of old table and floor lamps in Dubai?",
+        paragraphs: [
+          "Unplug the lamp, let the bulb cool and remove it carefully. Check the cord and socket before offering a working lamp for reuse. If wiring is damaged, arrange repair or take the lamp through an electrical collection route. Separate loose shades and bulbs, wrap fragile ceramic or glass bases, and book bulky pickup for a long floor lamp if needed.",
+          "Portable lamps are a different job from fixed ceiling lights. They can leave a tenancy without an electrician, but the shade, bulb, cord and weighted base rarely belong in one recycling stream. Sorting them first also makes an awkward floor lamp much easier to transport.",
+        ],
+      },
+      {
+        heading: "Remove the bulb and check the electrical parts",
+        paragraphs: [
+          "Switch the lamp off at the wall and unplug it; wait until the bulb is cool. Use the fitting's normal release method rather than twisting hard against a cracked socket. Keep an unbroken bulb protected for reuse or use the collection route appropriate to its type. Fluorescent and other mercury-containing lamps need particular care: do not crush them or place them in glass recycling.",
+          "Run your eyes along the cord and plug. Split insulation, exposed conductors, scorch marks or a loose socket make the lamp unsuitable for a casual giveaway. Do not tape over damage and call it repaired. A qualified repairer can assess a valuable lamp; otherwise declare it as electrical waste. Our [electronics collection guide](https://dubaijunkcollection.com/blog/is-it-illegal-to-throw-electronics-in-the-bin-dubai) explains why electrical items should be kept out of general bins.",
+        ],
+      },
+      {
+        heading: "Sort the base and shade by material",
+        paragraphs: [
+          "A fabric shade glued to a metal frame is mixed material. A sound shade can be passed on with its lamp; a stained or brittle one may need residual disposal after any easy-to-remove metal frame is separated. Ceramic and decorative glass bases are not the same as bottle-and-jar glass. Wrap a broken base in a rigid box, label it as sharp and tell the collector.",
+          "Metal stems and weighted bases may be recoverable through a scrap route, while cords and fittings belong with electrical equipment. For a collection, you do not need to strip a lamp to bare wire; simply keep detached parts together and describe the materials. The same sorting principle appears in our [chandelier removal guide](https://dubaijunkcollection.com/blog/how-to-dispose-of-chandeliers-in-dubai), although fixed fittings require electrical isolation first.",
+        ],
+        image: blogB109Body,
+        imageAlt: "Gloved hands sorting an unplugged table lamp into shade, glass base, metal stem and cable",
+        imageCaption: "Detaching easy-to-remove parts keeps fragile glass and electrical components protected.",
+      },
+      {
+        heading: "Move a floor lamp through an apartment building",
+        paragraphs: [
+          "Measure the longest section before trying the lift. Detach a removable shade, wrap the bulb separately and tie the cord to the stem so nobody trips over it. Do not carry a tall lamp by its shade or flexible neck. If the base is heavy, keep it supported from below and protect the lift wall and apartment doorway.",
+          "One lamp may fit a local electrical drop-off; several lamps from a move-out can be listed with other [household junk removal](https://dubaijunkcollection.com/services/household-junk-removal). Send photos that show the bases, shades and bulbs so the quote covers the whole set.",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can I put a broken table lamp in a recycling bin?", answer: "Do not put the complete lamp in a single-material bin. It contains electrical parts and may also have fabric, ceramic, glass and metal. Remove the bulb safely, then use an electrical collection point or a collector that accepts small appliances. Follow the point's separate instructions for the bulb." },
+      { question: "What should I do with a broken fluorescent bulb?", answer: "Keep people away from the fragments, ventilate the room and follow the manufacturer's cleanup instructions; avoid sweeping it into general recycling. Seal the collected material and ask a hazardous-waste or bulb collection point how it accepts breakages before travelling. Do not crush intact fluorescent bulbs to save space." },
+      { question: "Is a floor lamp considered a bulky item in a tower?", answer: "Often yes if it cannot fit safely in a normal bin or lift without taking it apart. Building policies differ, so check the management rules and collection access. Never leave a tall lamp leaning in a chute room where it can fall or obstruct the door." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-chandeliers-in-dubai", "is-it-illegal-to-throw-electronics-in-the-bin-dubai", "how-to-dispose-of-large-mirror-glass-dubai"],
+    serviceLink: { href: "/services/household-junk-removal", label: "Arrange lamp and household-item collection" },
+    sources: [{ href: "https://www.dm.gov.ae/", label: "Dubai Municipality — waste and recycling services" }],
   },
 ];
 
