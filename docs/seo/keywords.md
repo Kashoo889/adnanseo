@@ -1,7 +1,7 @@
 # Dubai Junk Collection — Master Keyword Database
 
 > **Full Documentation Location:** [`docs/seo/keywords.md`](file:///d:/Projects/Dubai/rasheed/docs/seo/keywords.md)  
-> **Source:** SEO Keyword Research Report plus approved content-gap expansion (345 Target Keywords across 20 Clusters)
+> **Source:** SEO Keyword Research Report plus approved content-gap expansion (348 Target Keywords across 20 Clusters)
 > **Rule:** Every keyword has a single designated destination URL/page type to prevent cannibalization.
 
 ---
@@ -90,6 +90,7 @@
 | 44 | spring cleaning junk removal dubai | I | Blog Article |
 | 313 | how to dispose of old books in dubai | Q | Blog Article |
 | 338 | how to dispose of old curtains in dubai | Q | Blog Article |
+| 346 | how to dispose of old pots and pans in dubai | Q | Blog Article |
 
 ---
 
@@ -183,6 +184,7 @@
 | 96 | data safe electronics disposal dubai | I | Blog Article |
 | 301 | how to dispose of old tv in dubai | Q | Blog Article |
 | 327 | how to dispose of an old printer in dubai | Q | Blog Article |
+| 348 | how to dispose of old mobile phones in dubai | Q | Blog Article |
 
 ---
 
@@ -315,6 +317,7 @@
 | 330 | how to dispose of a safe in dubai | Q | Blog Article |
 | 334 | how to dispose of old luggage in dubai | Q | Blog Article |
 | 340 | how to dispose of an old ironing board in dubai | Q | Blog Article |
+| 347 | how to dispose of old pillows and duvets in dubai | Q | Blog Article |
 
 ---
 

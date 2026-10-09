@@ -2,7 +2,7 @@
 
 > **Full Documentation Location:** [`docs/seo/roadmap.md`](file:///d:/Projects/Dubai/rasheed/docs/seo/roadmap.md)  
 > **Objective:** Systematically establish topical authority, capture high-intent commercial and informational searches, and funnel organic traffic to WhatsApp/Call conversions across Dubai.  
-> **Based on:** 342 Target Keywords & 20 Topic Clusters.
+> **Based on:** 348 Target Keywords & 20 Topic Clusters.
 
 ---
 
@@ -404,6 +404,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B101 is distinguished from B87 (garden sheds) and B58 (balcony furniture) by open structural timber/aluminum framing, fabric canopy detachment, developer modification NOC clauses (Emaar/Nakheel handover requirements), and unbolting footings from patio interlocks. B102 is distinguished from B72 (trampolines) and B68 (nursery baby gear) by rigid multi-point play towers, deep ground anchor extraction, backfilling lawn depressions for Ejari inspections, and thermal embrittlement of heavy outdoor HDPE slides. B103 is distinguished from B77 (living room recliner chairs) and B80 (standing desks) by Class 3/4 nitrogen gas-lift explosion hazards in hydraulic waste compactors, peeling PU faux leather caused by Dubai humidity cycles, 5-star castor base disassembly, and metal scrap segregation.
 
+### Track 31: Kitchen Cookware, Bedding & Mobile Phones (Clusters 2, 5 & 10)
+*Covers three household items that pile up quietly and are harder to give away than expected: worn cookware split between donation and scrap metal, used pillows and duvets that donation points refuse on hygiene grounds, and drawers of old phones locked to accounts and carrying ageing lithium batteries.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B104** | *How to Dispose of Old Pots and Pans in Dubai: Worn Non-Stick, Scrap Metal and Oven Glass* | `how to dispose of old pots and pans in dubai` | `what to do with unwanted household items dubai`, `where to donate used items dubai`, `how to recycle in dubai` | Q | `/services/household-junk-removal` |
+| **B105** | *How to Dispose of Old Pillows and Duvets in Dubai: Hygiene Limits, Donation Rules and Bulky Bedding* | `how to dispose of old pillows and duvets in dubai` | `bulky item removal dubai`, `where to donate clothes in dubai`, `textile recycling dubai` | Q | `/services/mattress-bulky-item-removal` |
+| **B106** | *How to Dispose of Old Mobile Phones in Dubai: SIM Cards, Account Locks and Swollen Batteries* | `how to dispose of old mobile phones in dubai` | `where to recycle electronics in dubai`, `e-waste recycling centres dubai`, `data safe electronics disposal dubai` | Q | `/services/household-junk-removal` |
+
+**Overlap check (content-rules §16):** B104 is distinguished from B34 (four-pathway decision for general household goods) and B78 (microwaves) by cookware condition triage, retiring worn non-stick while recovering the metal body, cast-iron restoration, separating oven glass and ceramics from container-glass recycling, and wrapping knives and breakages. B105 is distinguished from B57 (clothes and textile bins), B24/B48 (mattresses) and B95 (curtains) by hygiene-based refusal of used pillows, the fold test and duvet condition checks, animal-welfare bedding requests, foam versus textile recovery for fillings, chute-blocking risk and furnished-flat inventory checks. B106 is distinguished from B27 (laptops), B45 (electronics drop-off directory), B61 (electronics-bin legality) and B90 (certified data destruction) by UAE number, OTP and authenticator migration before reset, Activation Lock and Factory Reset Protection, default phone encryption, swollen phone-battery handling and trade-in versus donation by handset condition.
+
 ---
 
 ## Publishing Cadence & Execution Plan
@@ -435,3 +446,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 25. **Batch 25 (Articles B95–B97):** Curtains & Blinds, Small Appliances & Laundry Gear — **100% Completed (3/3 Live)**.
 26. **Batch 26 (Articles B98–B100):** Major Appliance Lifecycle, Balcony Turf & Entryway Storage — **100% Completed (3/3 Live)**.
 27. **Batch 27 (Articles B101–B103):** Outdoor Shade, Play Equipment & Ergonomic Seating — **100% Completed (3/3 Live)**.
+28. **Batch 28 (Articles B104–B106):** Kitchen Cookware, Bedding & Mobile Phones — **100% Completed (3/3 Live)**.

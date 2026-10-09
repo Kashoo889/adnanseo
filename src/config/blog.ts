@@ -172,6 +172,12 @@ import blogB102Cover from "@/assets/blog-b17-villa-patio-clearance.jpg";
 import blogB102Body from "@/assets/blog-b33-truck-loading-body.jpg";
 import blogB103Cover from "@/assets/blog-b39-workplace-decluttering-cover.webp";
 import blogB103Body from "@/assets/blog-b38-office-loading-access-body.webp";
+import blogB104Cover from "@/assets/blog-b34-unwanted-items-cover.jpg";
+import blogB104Body from "@/assets/blog-b34-charity-sorting-body.jpg";
+import blogB105Cover from "@/assets/blog-b31-bedroom-sorting-body.jpg";
+import blogB105Body from "@/assets/blog-b24-mattress-sorting-body.jpg";
+import blogB106Cover from "@/assets/blog-b45-electronics-recycling-cover.webp";
+import blogB106Body from "@/assets/blog-b61-ewaste-sorting-depot-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -13243,6 +13249,372 @@ export const blogPosts: BlogPost[] = [
       {
         href: "https://dlp.dubai.gov.ae/Legislation%20Reference/2024/Law%20No.%20(18)%20of%202024%20Regulating%20Waste%20Management.html",
         label: "Dubai Legislation Portal — Law No. (18) of 2024 Regulating Waste Management in the Emirate of Dubai",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-old-pots-and-pans-in-dubai",
+    title: "How to Dispose of Old Pots and Pans in Dubai: Worn Non-Stick, Scrap Metal and Oven Glass",
+    excerpt:
+      "A scratched non-stick pan, a warped baking tray and a chipped casserole dish each need a different route. Here is how to sort a kitchen cupboard in Dubai into donation, metal recycling and safe disposal.",
+    category: "Eco & Recycling",
+    coverImage: blogB104Cover,
+    coverImageAlt:
+      "Villa entrance hall with labelled boxes for kitchenware, decor and clothing, small kitchen appliances on a table and green recycling crates for glass and paper",
+    publishedAt: "2026-10-09",
+    readingTime: "6 min read",
+    author: defaultAuthor,
+    tags: ["Pots and Pans Disposal", "Kitchenware Donation Dubai", "Scrap Metal Recycling", "Kitchen Decluttering", "Recycling Dubai"],
+    seoTitle: "How to Dispose of Old Pots and Pans in Dubai Kitchens",
+    seoDescription:
+      "How to dispose of old pots and pans in Dubai: when cookware is still donatable, why worn non-stick goes for metal recycling, and what to do with oven glass.",
+    keyTakeaways: [
+      "Sort cookware by condition first, then by material: usable sets go to donation, worn metal goes to scrap recycling.",
+      "A non-stick pan with flaking or deeply scratched coating should not be donated, but its aluminium or steel body is still recyclable metal.",
+      "Oven glass, ceramic dishes and crockery do not belong with bottle-and-jar glass recycling; wrap breakages and keep them separate.",
+      "Remove plastic or wooden handles where they unscrew, and wrap knives and broken glass before anything goes in a bag.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of old pots and pans in Dubai?",
+        paragraphs: [
+          "Start with condition. Clean, undamaged pots, pans and baking trays can go to a registered charity or a resale group. Pans with worn or flaking non-stick, warped bases or broken handles should go to scrap metal recycling, because aluminium, stainless steel and cast iron are all recoverable. Oven glass and ceramics are kept separate from glass-bottle recycling.",
+          "Cookware is the part of a kitchen clear-out that people tend to leave until last. It is heavy, it rattles, and it is hard to tell what anyone else would still want. Most cupboards in Dubai flats hold a mix of three things: a decent set bought on arrival, a few cheap replacements from a supermarket run, and items inherited from the previous tenant. Each of those usually ends up in a different place.",
+        ],
+      },
+      {
+        heading: "Sort by condition before material",
+        paragraphs: [
+          "Lay everything out on the counter and make three piles. The first is cookware someone could use tomorrow: flat bases, intact handles, lids that fit and coatings without scratches. The second is metal that has had its day. The third is anything that is not metal at all, such as glass bakeware, ceramic dishes, stoneware and crockery.",
+          "Be honest about the first pile. Donation centres sort through large volumes of kitchenware and set aside items that are scorched, sticky with old grease or missing parts. A wash and a scrub with a paste of baking soda takes ten minutes and makes the difference between a pan that is used and one that is thrown away at the sorting table.",
+        ],
+        table: {
+          caption: "Common cookware, what to check and where it usually goes",
+          headers: ["Item", "What to check", "Usual route"],
+          rows: [
+            ["Stainless steel pots and pans", "Flat base, secure handles, no pitting", "Donate if sound; otherwise scrap metal recycling"],
+            ["Non-stick frying pans", "Coating smooth, no flaking or deep scratches", "Donate only if the coating is intact; worn pans go to metal recycling"],
+            ["Cast iron skillets and dutch ovens", "Cracks (rust alone can be scrubbed off and re-seasoned)", "Restore and reuse, or scrap metal recycling if cracked"],
+            ["Aluminium baking trays and tins", "Warping, heavy burnt-on residue", "Metal recycling"],
+            ["Glass bakeware and casserole dishes", "Chips and cracks", "Donate if intact; broken pieces wrapped for general waste"],
+            ["Ceramic, stoneware and crockery", "Chips, crazed glaze", "Donate full sets if intact; damaged pieces wrapped for general waste"],
+          ],
+        },
+      },
+      {
+        heading: "Worn non-stick pans: retire them, then recycle the metal",
+        paragraphs: [
+          "Once a non-stick coating starts flaking or has deep scratches down to the bare metal, the pan is at the end of its working life. Food sticks, the surface keeps breaking down, and it is not something to pass on to another household. Do not put it in a donation box.",
+          "The body underneath is usually aluminium or stainless steel, which scrap metal recyclers accept. If the handle unscrews, take it off: plastic and wooden handles are not metal and slow down sorting. A pan with a riveted handle can simply go in as it is.",
+        ],
+        callout: {
+          type: "tip",
+          title: "Keep the lids with the right pile",
+          text: "Glass lids with a steel rim are the item people most often get wrong. If the pan is being donated, tape the lid to it so they stay together. If the pan is going for scrap, the lid goes with the glass and ceramic pile instead, wrapped in newspaper.",
+        },
+      },
+      {
+        heading: "Oven glass, ceramics and broken crockery",
+        paragraphs: [
+          "Heat-resistant oven glass, ceramic dishes and drinking glasses are made differently from bottles and jars and melt at different temperatures, so they should not go into glass recycling banks meant for containers. Mixing them in can spoil a whole batch of recycled glass.",
+          "Intact sets of plates, bowls and baking dishes are worth donating. Broken pieces are general waste, but they need wrapping first: fold them into newspaper or a cardboard sleeve, tape it closed and write 'broken glass' on the outside, so nobody handling the bag is cut. Knives, graters and mandoline blades should be wrapped in the same way or have their edges covered with cardboard and tape.",
+        ],
+        image: blogB104Body,
+        imageAlt:
+          "Volunteers in gloves sorting donated pots, pans, plates and small kitchen appliances on long tables at a charity sorting centre in Dubai",
+        imageCaption:
+          "Donated cookware is checked piece by piece; clean, complete items are the ones that make it back into homes.",
+      },
+      {
+        heading: "Where usable cookware can go",
+        paragraphs: [
+          "Registered charities and their collection points, building community groups and online resale sites all take good kitchenware, and complete sets move fastest. Many people leaving Dubai find that a box labelled 'full kitchen starter set' is one of the easiest things to pass on to new arrivals. Our guide on [what to do with unwanted household items](https://dubaijunkcollection.com/blog/what-to-do-with-unwanted-household-items-dubai) covers the wider donate, sell or recycle decision for the rest of the home.",
+          "Check with the charity before you drop off. Acceptance lists change, and some collection points only take kitchenware at certain times or in sealed boxes.",
+        ],
+      },
+      {
+        heading: "When cookware is part of a bigger kitchen clear-out",
+        paragraphs: [
+          "If you are emptying a whole kitchen before a move or handover, pack the three piles into clearly labelled boxes as you go: donate, metal, wrapped glass and ceramics. Small appliances such as old kettles and toasters are electrical items and follow their own e-waste route, so keep them out of the cookware boxes.",
+          "Send us a photo of the boxes and any larger items. We collect the lot in one visit, take metal to recycling, drop off what can be reused, and tell you upfront if anything needs separate handling.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can I put old pots and pans in my building's recycling bin?",
+        answer:
+          "It depends on the building. Many residential recycling bins in Dubai are set up for paper, plastic and cans rather than heavy kitchen metal. A pan dropped in a chute can also damage the chute or the bin room equipment. Collect metal cookware together and take it to a scrap metal recycler or include it in a clearance.",
+      },
+      {
+        question: "Is it safe to keep using a scratched non-stick pan?",
+        answer:
+          "Light surface marks are normal, but once the coating is flaking, peeling or scratched through to the metal, it is time to replace the pan. Food will stick more and pieces of coating can come away. Retire it and send the metal body for recycling rather than passing it on.",
+      },
+      {
+        question: "Will charities accept single pans or mismatched cookware?",
+        answer:
+          "Many will, as long as each item is clean, complete and safe to use. Matching sets and pans with their lids are easier to place, so group items together where you can. Always check the charity's current acceptance list or call ahead, because some collection points are full or only take kitchenware on certain days.",
+      },
+    ],
+    relatedSlugs: [
+      "what-to-do-with-unwanted-household-items-dubai",
+      "how-to-recycle-in-dubai",
+      "how-to-dispose-of-old-microwave-dubai",
+    ],
+    serviceLink: {
+      href: "/services/household-junk-removal",
+      label: "Book a kitchen and household clear-out",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/",
+        label: "Dubai Municipality — Waste collection and recycling services",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-old-pillows-and-duvets-in-dubai",
+    title: "How to Dispose of Old Pillows and Duvets in Dubai: Hygiene Limits, Donation Rules and Bulky Bedding",
+    excerpt:
+      "Most donation points will not take a used pillow, and a king-size duvet will not fit in a clothes bin. Here is how to decide what bedding can be reused in Dubai and how to clear the rest.",
+    category: "Guides & Tips",
+    coverImage: blogB105Cover,
+    coverImageAlt:
+      "Woman folding linens into boxes labelled keep, donation and recycling in a Dubai apartment bedroom beside an open wardrobe",
+    publishedAt: "2026-10-09",
+    readingTime: "6 min read",
+    author: defaultAuthor,
+    tags: ["Pillow Disposal Dubai", "Duvet Disposal", "Bedding Donation Dubai", "Textile Recycling", "Bulky Item Removal"],
+    seoTitle: "How to Dispose of Old Pillows and Duvets in Dubai",
+    seoDescription:
+      "How to dispose of old pillows and duvets in Dubai: what donation points refuse, which bedding animal shelters may want, and how to bag bulky bedding for removal.",
+    keyTakeaways: [
+      "Used pillows are almost always refused for donation on hygiene grounds; clean duvets and blankets in good condition have a better chance.",
+      "Fold a pillow in half: if it does not spring back, the filling has broken down and it is ready to go.",
+      "Some animal welfare groups ask for old towels and blankets, but check their current list before taking bedding anywhere.",
+      "Bulky bedding must be bagged and sealed, never stuffed down a chute, where it can jam the chute and block it for every floor.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of old pillows and duvets in Dubai?",
+        paragraphs: [
+          "Wash or air everything first, then sort. Clean duvets, blankets and unused pillows still in their packaging can go to charities or community groups that accept bedding. Used pillows and stained or flattened duvets are not donatable; bag them in large sealed sacks for textile recovery where accepted, or include them in a household or mattress collection. Do not push bedding into a building chute.",
+          "Bedding builds up quietly. Guest pillows that were never used, a summer duvet, a winter duvet nobody needs in Dubai, the cot quilt from years ago. It lives on the top shelf of the wardrobe until a move forces a decision, and then it turns out to be bulky, light and awkward, and harder to give away than people expect.",
+        ],
+      },
+      {
+        heading: "Is it time to replace them? Three quick checks",
+        paragraphs: [
+          "For pillows, use the fold test. Fold a fibre or down pillow in half and let go. A good pillow springs back open; one that stays folded has lost its support. Lumps, a sour smell that survives washing, and yellow sweat stains are all signs that it has reached the end.",
+          "For duvets, hold them up to the light. Thin patches where the filling has shifted to the corners, broken stitching between the baffles and feathers escaping through the cover mean it is no longer doing its job. In Dubai, the constant switch between air-conditioned rooms and humid air also encourages musty smells in bedding stored for months without airing.",
+        ],
+      },
+      {
+        heading: "What donation points will and won't accept",
+        paragraphs: [
+          "Pillows are the item donation centres refuse most often. They are worn against the face, hold sweat and dust, and are difficult to clean properly, so most charities and textile collectors will not take used ones at all. New pillows still sealed in their packaging are the exception.",
+          "Duvets, blankets and bedspreads are judged on condition. Freshly washed, complete and without stains or tears, they are welcome at many collection points. Stained, torn or flattened bedding is not, and filling a donation bin with it only creates a disposal job for the charity. Our [guide to donating clothes in Dubai](https://dubaijunkcollection.com/blog/where-to-donate-clothes-in-dubai) explains how textile collection boxes work and why bulky items are often refused.",
+          "Some animal shelters and rescue groups in the UAE ask for old towels and blankets for bedding. Requests change with what they already have, so check their current wishlist or message them first rather than arriving with bags.",
+        ],
+        table: {
+          caption: "Bedding types and the usual route for each",
+          headers: ["Item", "Condition", "Usual route"],
+          rows: [
+            ["New pillows in sealed packaging", "Unused", "Charity donation or community giveaway"],
+            ["Used pillows (fibre, down or memory foam)", "Any", "Not donatable; bag for textile recovery where accepted, or household collection"],
+            ["Duvets and comforters", "Clean, intact, no stains", "Charity donation"],
+            ["Duvets and comforters", "Stained, torn or flattened", "Bag for textile recovery or household collection"],
+            ["Blankets and throws", "Clean, worn", "Animal welfare groups if requested; otherwise textile recovery"],
+            ["Mattress toppers and foam pillows", "Any", "Foam route, usually alongside a mattress collection"],
+          ],
+        },
+      },
+      {
+        heading: "What happens to bedding that can't be reused",
+        paragraphs: [
+          "Bedding that cannot be reused still contains material worth recovering. At a recycling facility, textile covers can be separated from fillings, foam can be shredded for reuse as underlay or padding, and fibres can be processed into lower-grade products such as insulation or cleaning cloths.",
+          "Memory foam pillows and mattress toppers follow the foam route rather than the textile one. If you are getting rid of a mattress at the same time, put the topper and foam pillows in with it. Our [mattress disposal guide](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-mattress-in-dubai) explains how that collection works in an apartment building.",
+        ],
+        image: blogB105Body,
+        imageAlt:
+          "Workers in hard hats at a Dubai recycling facility sorting foam blocks, textiles and steel springs into separate labelled bins",
+        imageCaption:
+          "Foam, textile and metal are separated at the recycling line so worn bedding and mattresses do not end up as one mixed load.",
+      },
+      {
+        heading: "Bagging bulky bedding for collection",
+        paragraphs: [
+          "A king-size duvet takes up a surprising amount of space in a bag. Roll it tightly from one end, tie it with string or tape, and put it in a large heavy-duty sack. Vacuum storage bags work well for clean bedding going to donation, because they cut the volume dramatically and keep it dry and dust-free.",
+          "Keep bedding out of the chute. Soft, bulky items wedge in the chute, block it for every floor above and can cost you a building fine. Bag it, seal it and take it down to the bin room only if your building allows bulky bags there, or keep it for a collection.",
+        ],
+        callout: {
+          type: "info",
+          title: "Moving out? Check what came with the flat",
+          text: "In furnished apartments, pillows, duvets and linen are often listed on the landlord's inventory. Before throwing anything out, check the inventory so you do not dispose of something you are expected to hand back or replace.",
+        },
+      },
+      {
+        heading: "When bedding is part of a bigger clear-out",
+        paragraphs: [
+          "Bedding is rarely the whole job. It usually leaves with a mattress, a bed frame or the contents of a spare room. When you send photos for a quote, include the bags of bedding and any mattresses. We remove everything together, keep foam and textiles apart for recovery, and drop clean, donatable items off for you.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can I put old pillows in a clothes donation bin in Dubai?",
+        answer:
+          "Generally no. Clothes donation bins are meant for wearable clothing and some household textiles, and used pillows are usually refused on hygiene grounds. A bulky pillow can also block the bin opening for other donors. Check the label on the bin, and take used pillows to a household collection instead.",
+      },
+      {
+        question: "Should I wash bedding before donating it?",
+        answer:
+          "Yes. Wash and fully dry duvets and blankets before donating them, or have them dry-cleaned if the care label requires it. Bedding that smells musty or still has stains is likely to be rejected at the sorting stage. Fold it neatly and pack it in a clean, sealed bag so it stays fresh until it is collected.",
+      },
+      {
+        question: "How often should pillows be replaced?",
+        answer:
+          "There is no fixed date, and it depends on the filling and how the pillow is used. Replace it when it fails the fold test, has lumps you cannot shake out, carries stains or smells after washing, or no longer supports your neck. Pillow protectors and regular washing help them last longer.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-a-mattress-in-dubai",
+      "where-to-donate-clothes-in-dubai",
+      "how-to-dispose-of-old-curtains-in-dubai",
+    ],
+    serviceLink: {
+      href: "/services/mattress-bulky-item-removal",
+      label: "Book a mattress and bedding collection",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/",
+        label: "Dubai Municipality — Waste collection and recycling services",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-old-mobile-phones-in-dubai",
+    title: "How to Dispose of Old Mobile Phones in Dubai: SIM Cards, Account Locks and Swollen Batteries",
+    excerpt:
+      "Most homes in Dubai have a drawer of old phones nobody uses. Here is how to unlock, wipe and clear them safely, from trade-ins and donations to e-waste drop-off points.",
+    category: "Eco & Recycling",
+    coverImage: blogB106Cover,
+    coverImageAlt:
+      "Man checking an old smartphone at a desk covered with stacked used phones, a tablet, a laptop, chargers and spare batteries in a Dubai apartment",
+    publishedAt: "2026-10-09",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Mobile Phone Disposal Dubai", "Phone Recycling", "E-Waste Dubai", "Smartphone Data Wipe", "Battery Safety"],
+    seoTitle: "How to Dispose of Old Mobile Phones in Dubai Safely",
+    seoDescription:
+      "How to dispose of old mobile phones in Dubai: moving your number and OTPs, removing account locks, handling swollen batteries and choosing trade-in or e-waste.",
+    keyTakeaways: [
+      "Move banking OTPs, two-factor codes and messaging apps to your new phone before the old SIM or eSIM is removed.",
+      "Turn off Find My or remove the Google account before resetting, or the phone stays locked to you and cannot be reused.",
+      "Modern phones are encrypted, so a full factory reset after signing out leaves the data unreadable; very old phones need more care.",
+      "A swollen battery is a fire risk: stop charging it, keep it away from heat and take it to an e-waste point, never the bin.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an old mobile phone in Dubai?",
+        paragraphs: [
+          "Back up the phone, move your number, OTPs and two-factor codes to your new device, then sign out of your Apple or Google account so the activation lock is removed. Take out the SIM and memory card and do a full factory reset. Working phones can be traded in, sold or donated; broken ones go to an e-waste collection point, never the household bin.",
+          "Old phones rarely leave a home one at a time. They pile up in a kitchen drawer with tangled chargers, a cracked tablet and a power bank nobody trusts. Most still hold photos, chats and saved logins, and some have batteries that are starting to swell. Sorting the drawer properly takes an evening, and most of that time goes on account settings rather than the phones themselves.",
+        ],
+      },
+      {
+        heading: "Before anything else: your number, OTPs and two-factor codes",
+        paragraphs: [
+          "In the UAE, a phone number is tied to a lot more than calls. Banks send one-time passwords to it, government and utility accounts use it for login, and authenticator apps may live only on that handset. Before an old phone is reset, make sure each of those is working on your new device.",
+          "If you are keeping your number, move the SIM or transfer the eSIM to the new phone through your operator and confirm you can receive an OTP. Transfer authenticator apps using their own export or account-sync options, and move WhatsApp and other messaging apps with their built-in transfer tools. Only then reset the old phone.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Do not reset a phone that still holds your only authenticator",
+          text: "If an authenticator app exists only on the old phone, resetting it can lock you out of email, banking or work accounts. Check every account that uses it and switch them to the new device first.",
+        },
+      },
+      {
+        heading: "Remove account locks, then wipe",
+        paragraphs: [
+          "iPhones have Activation Lock through Find My, and Android phones have Factory Reset Protection linked to the Google account. If either is still switched on, the phone asks for your login after a reset and nobody else can use it. A refurbisher has to treat it as scrap, and a charity cannot pass it on.",
+          "Sign out of your Apple ID (or remove your Google and manufacturer accounts on Android), and remove the phone from your list of trusted devices. Take out the SIM tray and any microSD card. Then do a full factory reset from the settings menu. Current iPhones and Android phones encrypt their storage by default, so once the reset has deleted the encryption keys, the old data cannot be read. Very old handsets and microSD cards are different: keep the cards, or destroy them, and see our [data-safe electronics disposal guide](https://dubaijunkcollection.com/blog/data-safe-electronics-disposal-dubai) for how certified destruction works.",
+        ],
+      },
+      {
+        heading: "Swollen batteries: handle with care",
+        paragraphs: [
+          "Lithium-ion phone batteries can swell as they age, especially after months in a hot car, a sunny room or a drawer beside a heater. A screen lifting away from the frame, a back panel that bulges or a phone that rocks on a flat surface are all signs.",
+          "Do not charge it, press on it or try to prise the battery out. Put the phone in a non-flammable container such as a metal tin or a ceramic dish, keep it somewhere cool and away from anything combustible, and take it to an e-waste collection point soon. A damaged lithium battery in a household bin or compactor can catch fire. Our article on [why electronics don't belong in the bin](https://dubaijunkcollection.com/blog/is-it-illegal-to-throw-electronics-in-the-bin-dubai) explains the fire risk in more detail.",
+        ],
+      },
+      {
+        heading: "Trade in, sell, donate or recycle",
+        paragraphs: [
+          "Working phones that are a few years old still have value. Manufacturers, electronics retailers and mobile operators in the UAE run trade-in schemes that credit an old phone against a new one, and second-hand buyers and resale apps take recent models. A cracked screen lowers the price but does not always rule a phone out.",
+          "Older but working phones can be useful to a relative, a domestic worker who needs a basic handset or a community programme. Phones that are dead, smashed or too old for anyone to use go to e-waste recycling, where the metals in circuit boards and batteries can be recovered.",
+        ],
+        table: {
+          caption: "Old phone condition and the best route",
+          headers: ["Condition", "Best route", "Before handing it over"],
+          rows: [
+            ["Recent model, working", "Trade-in or resale", "Sign out, remove locks, reset; keep the box and charger if you have them"],
+            ["Older model, working", "Family, staff or community donation", "Sign out, remove locks, reset; include a charging cable"],
+            ["Cracked or faulty, still powers on", "Trade-in (reduced value) or e-waste", "Sign out and reset if the screen still works"],
+            ["Dead or will not switch on", "E-waste collection point", "Remove SIM and memory card; ask the recycler about data handling"],
+            ["Swollen battery", "E-waste collection point as soon as possible", "Do not charge; transport in a non-flammable container"],
+          ],
+        },
+      },
+      {
+        heading: "Where to drop off phones, chargers and cables",
+        paragraphs: [
+          "E-waste collection points in Dubai include bins at shopping malls and supermarkets, electronics retailers and municipal recycling drop-off centres. Phones, chargers, cables, earphones and power banks can usually all go together, though some points ask for loose batteries to be kept separate. Tape over the terminals of any spare batteries before dropping them off.",
+          "If the phone drawer is part of a bigger clear-out, put all the small electronics into one box and tell us when you ask for a quote. We take them with the rest of the load and deliver them to licensed e-waste recycling, separated from general waste.",
+        ],
+        image: blogB106Body,
+        imageAlt:
+          "Resident handing a crate of old electronics and cables to an attendant at a Dubai recycling drop-off centre with bins for small appliances and electronic cables",
+        imageCaption:
+          "Municipal drop-off centres separate small appliances, cables and computer equipment so each stream can be recycled properly.",
+      },
+    ],
+    faqs: [
+      {
+        question: "Is a factory reset enough to protect my data?",
+        answer:
+          "For current iPhones and Android phones, yes, if you sign out of your accounts first and then do a full reset from the settings menu, because their storage is encrypted by default. Remove the SIM and any memory card separately. For very old phones or phones that will not switch on, ask the recycler how data is handled, or keep the device.",
+      },
+      {
+        question: "Can I throw an old phone in the household bin in Dubai?",
+        answer:
+          "No. Phones contain lithium batteries and electronic components that belong in e-waste recycling, not general waste. A damaged battery can start a fire in a bin, a chute or a collection truck. Take the phone to an e-waste collection point, a retailer take-back scheme or include it in a licensed clearance.",
+      },
+      {
+        question: "What should I do with old SIM cards?",
+        answer:
+          "Once you have moved your number or cancelled the line, cut the old SIM through the gold chip with scissors and throw it away. If a line is still active in your name, cancel or transfer it with your operator first, so the number is not left linked to your accounts.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-old-laptop-dubai",
+      "is-it-illegal-to-throw-electronics-in-the-bin-dubai",
+      "data-safe-electronics-disposal-dubai",
+    ],
+    serviceLink: {
+      href: "/services/household-junk-removal",
+      label: "Clear a drawer of old electronics with your next household pickup",
+    },
+    sources: [
+      {
+        href: "https://support.apple.com/en-us/109511",
+        label: "Apple Support — What to do before you sell, give away or trade in your iPhone",
+      },
+      {
+        href: "https://support.google.com/android/answer/6088915",
+        label: "Google Android Help — Reset your Android device to factory settings",
       },
     ],
   },
