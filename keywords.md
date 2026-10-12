@@ -544,3 +544,11 @@
 | 349 | how to dispose of an air purifier in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-air-purifier-in-dubai`) |
 | 350 | how to dispose of a cat tree in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-cat-tree-and-pet-bed-in-dubai`) |
 | 351 | how to dispose of old lamps in dubai | Q | Blog Article (`/blog/how-to-dispose-of-old-table-and-floor-lamps-in-dubai`) |
+
+### New question-intent blog targets (Batch 30)
+
+| # | Keyword | Intent | Recommended Page |
+| :-: | :--- | :---: | :--- |
+| 352 | how to dispose of old golf clubs in dubai | Q | Blog Article (`/blog/how-to-dispose-of-old-golf-clubs-in-dubai`) |
+| 353 | how to dispose of an artificial christmas tree in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-artificial-christmas-tree-in-dubai`) |
+| 354 | how to dispose of old camping gear in dubai | Q | Blog Article (`/blog/how-to-dispose-of-old-camping-gear-in-dubai`) |

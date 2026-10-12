@@ -430,6 +430,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B107 addresses used filter containment and model-specific replacement, beyond B96's vacuum-cleaner motor dust and battery handling. B108 addresses hygiene and multi-material pet furniture, separate from B105's human bedding and B94's shelving. B109 addresses portable lamps, bulbs and mixed-material shades; B86 covers wired ceiling fixtures and specialist lowering. Primary terms are Q-intent blog topics. Internal links point to the named service pages and related disposal guides.
 
+### Track 33: Sports Kit, Seasonal Decorations & Desert Camping Gear (Clusters 2, 10 & 14)
+*Covers three kinds of stored leisure equipment that surface in garage and storeroom clear-outs: golf sets with trolley batteries, artificial Christmas trees with built-in wiring, and sun-worn camping kit with fuel canisters.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B110** | *How to Dispose of Old Golf Clubs in Dubai: Trade-Ins, Bags and Electric Trolleys* | `how to dispose of old golf clubs in dubai` | `garage clearance dubai`, `single item junk removal dubai`, `bulky item removal dubai` | Q | `/services/mattress-bulky-item-removal` |
+| **B111** | *How to Dispose of an Artificial Christmas Tree in Dubai: Pre-Lit Wiring, Stands and Decorations* | `how to dispose of an artificial christmas tree in dubai` | `storeroom clearance dubai`, `where to recycle electronics in dubai` | Q | `/services/household-junk-removal` |
+| **B112** | *How to Dispose of Old Camping Gear in Dubai: Gas Canisters, Tents and Desert-Worn Kit* | `how to dispose of old camping gear in dubai` | `hazardous waste disposal dubai`, `garage clearance dubai` | Q | `/services/household-junk-removal` |
+
+**Overlap check (content-rules §16):** B110 is distinguished from B54 (gym equipment) and B35 (garage clearance as a space) by club-by-club playability triage, graphite versus steel shaft handling, retailer trade-ins and electric trolley battery removal. B111 is distinguished from B36 (storeroom clearance) and B109 (portable lamps) by seasonal resale timing, pre-lit branch wiring treated as electrical waste, PVC branch and steel stand separation, and decoration sorting. B112 is distinguished from B76 (barbecues and LPG cylinders) and B46 (general household hazardous waste) by small butane cartridges, lithium camping electronics, UV and sand damage to tent fabric and zips, and pre-season resale of camping kit.
+
 ---
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -461,3 +472,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 27. **Batch 27 (Articles B101–B103):** Outdoor Shade, Play Equipment & Ergonomic Seating — **100% Completed (3/3 Live)**.
 28. **Batch 28 (Articles B104–B106):** Kitchen Cookware, Bedding & Mobile Phones — **100% Completed (3/3 Live)**.
 29. **Batch 29 (Articles B107–B109):** Air Purifiers, Pet Furniture & Portable Lamps — **100% Completed (3/3 Live)**.
+30. **Batch 30 (Articles B110–B112):** Sports Kit, Seasonal Decorations & Desert Camping Gear — **100% Completed (3/3 Live)**.

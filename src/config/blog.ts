@@ -184,6 +184,12 @@ import blogB108Cover from "@/assets/blog-b108-pet-furniture-cover.webp";
 import blogB108Body from "@/assets/blog-b108-cat-tree-dismantling-body.webp";
 import blogB109Cover from "@/assets/blog-b109-old-lamps-cover.webp";
 import blogB109Body from "@/assets/blog-b109-lamp-parts-sorting-body.webp";
+import blogB110Cover from "@/assets/blog-b35-garage-clearance-cover.jpg";
+import blogB110Body from "@/assets/blog-b35-garage-sorting-body.jpg";
+import blogB111Cover from "@/assets/blog-b36-storage-declutter-body.jpg";
+import blogB111Body from "@/assets/blog-b49-sorted-collection-body.webp";
+import blogB112Cover from "@/assets/blog-b46-hazardous-waste-sorting-cover.webp";
+import blogB112Body from "@/assets/blog-b88-luggage-disposal-cover.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -13801,6 +13807,234 @@ export const blogPosts: BlogPost[] = [
     ],
     relatedSlugs: ["how-to-dispose-of-chandeliers-in-dubai", "is-it-illegal-to-throw-electronics-in-the-bin-dubai", "how-to-dispose-of-large-mirror-glass-dubai"],
     serviceLink: { href: "/services/household-junk-removal", label: "Arrange lamp and household-item collection" },
+    sources: [{ href: "https://www.dm.gov.ae/", label: "Dubai Municipality — waste and recycling services" }],
+  },
+  {
+    slug: "how-to-dispose-of-old-golf-clubs-in-dubai",
+    title: "How to Dispose of Old Golf Clubs in Dubai: Trade-Ins, Bags and Electric Trolleys",
+    excerpt: "A golf set that has sat in a villa garage for years is rarely all scrap. Sort playable clubs from broken ones, pull the trolley battery and route each part properly.",
+    category: "Guides & Tips",
+    coverImage: blogB110Cover,
+    coverImageAlt: "Golf bags and clubs stored beside wall-mounted bicycles in a Dubai villa garage",
+    publishedAt: "2026-10-11",
+    readingTime: "6 min read",
+    author: defaultAuthor,
+    tags: ["Golf Club Disposal", "Garage Clearance", "Sports Equipment", "Bulky Item Removal"],
+    seoTitle: "How to Dispose of Old Golf Clubs in Dubai: Sets, Bags & Trolleys",
+    seoDescription: "How to dispose of old golf clubs in Dubai: check which clubs are still playable, trade in or donate a set, remove trolley batteries and scrap broken heads.",
+    keyTakeaways: [
+      "Most old sets are worth sorting club by club: worn grips are cheap to replace, cracked heads and split shafts are not.",
+      "An electric trolley battery must come out and go to a battery or e-waste route, never a bin or chute.",
+      "Empty every bag pocket before collection; rangefinders, GPS devices and spare batteries tend to hide there.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of old golf clubs in Dubai?",
+        paragraphs: [
+          "Sort the set before choosing a route. Playable clubs can be sold, traded in where a golf retailer runs a scheme, or given to a beginner. Clubs with cracked heads or split shafts go for metal recovery. Take the battery out of an electric trolley and recycle it separately, then book bags and carts as bulky items.",
+          "Golf sets in Dubai usually come to us from villa garages, often stored through several summers. Heat hardens the grips and fades the bag, which makes a set look finished when the heads and shafts are perfectly sound. The decision is about each club, not the whole bag.",
+        ],
+      },
+      {
+        heading: "Check which clubs still have a second life",
+        paragraphs: [
+          "Lay the clubs on the floor and look at three things. The grip: hard, shiny or cracked rubber is normal after garage storage and is a routine regrip for a buyer. The shaft: on steel, look for bends and deep rust pitting; on graphite, look for splintering or cracks near the head, which make the club unsafe to swing. The head: a dented or cracked driver face means the club is done, while scuffed irons are simply used.",
+          "Beginners rarely need fourteen clubs. A driver, a hybrid or fairway wood, a few irons, a wedge and a putter make a useful half set, so a mixed bag can still be passed on after removing the broken clubs. Left-handed sets and very old persimmon woods are harder to place, so expect fewer takers for those.",
+        ],
+        callout: {
+          type: "tip",
+          title: "Photograph the labels",
+          text: "Before listing or offering a set, photograph each head and the shaft band showing the flex. Buyers and trade-in counters ask for model and flex first, and the photos save a second trip to the garage.",
+        },
+      },
+      {
+        heading: "Where playable clubs can go",
+        paragraphs: [
+          "Start with the routes that keep the set in use. Ask before you carry a full bag anywhere, because acceptance depends on age, brand and condition.",
+        ],
+        bulletPoints: [
+          "Trade-in: some golf retailers offer credit against new equipment. Older models may be refused or valued modestly, so call ahead with your photos.",
+          "Resale: recent drivers, putters and matched iron sets sell steadily through online classifieds and community groups, especially before the cooler playing season.",
+          "Gifting: friends taking up the game, junior players and coaching groups sometimes welcome clean beginner sets. Confirm they want them first.",
+          "Partial sets: sell or give away the good clubs individually rather than holding the whole bag back for one broken iron.",
+        ],
+      },
+      {
+        heading: "Golf bags, trolleys and the battery problem",
+        paragraphs: [
+          "Electric trolleys run on a removable lithium or lead-acid battery. Take it off the trolley, cover the terminals with tape and keep it apart from the rest of the load. A damaged or swollen battery should not be charged or stored in a hot garage. Batteries belong in a battery or e-waste route, never in household bins or a tower chute, where compaction can start a fire. Our [electronics recycling guide](https://dubaijunkcollection.com/blog/where-to-recycle-electronics-in-dubai) covers suitable drop-off options.",
+          "Push trolleys fold into an aluminium or steel frame with plastic wheels and are often worth offering with the clubs. Bags with broken stand legs or torn bases are usually residual waste. Before anything leaves, empty every pocket: old balls, tees, gloves, sunscreen and, surprisingly often, a rangefinder or GPS device that should be treated as electronics.",
+        ],
+        image: blogB110Body,
+        imageAlt: "Clearance crew carrying boxes and an old exercise machine from a Dubai villa garage to a collection truck",
+        imageCaption: "Sports kit from a garage clearance is easier to route when clubs, batteries and bags are separated first.",
+      },
+      {
+        heading: "Clubs that are finished: scrap and collection",
+        paragraphs: [
+          "Club heads are usually steel or titanium and steel shafts are recoverable metal. Graphite shafts are composite material and are not handled by ordinary recycling, so they go as residual waste. Do not snap graphite shafts to make them fit a bag; they splinter into sharp fibres. Put broken clubs head-down in an old bag or tape them into a bundle so nobody grabs a jagged end.",
+          "A single bag is light, but a set, trolley and cart bag together are awkward in a lift. If you are clearing the whole garage, our [garage clearance guide](https://dubaijunkcollection.com/blog/garage-clearance-dubai) explains how to sort sports kit alongside everything else, and the [home gym equipment guide](https://dubaijunkcollection.com/blog/how-to-dispose-of-gym-equipment-in-dubai) covers heavier items. For just the golf gear, send a photo for [single-item and bulky collection](https://dubaijunkcollection.com/services/mattress-bulky-item-removal) and we will quote it as one load.",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can I put old golf clubs in the building bin in Dubai?", answer: "It is better not to. Long clubs can jam a chute or damage a compactor, and steel heads are recoverable metal. Sort playable clubs for reuse, bundle broken ones safely, and use a scrap or bulky-item collection. Check your building rules before leaving anything in a bin room." },
+      { question: "What should I do with hundreds of old golf balls?", answer: "Clean, unmarked balls are easy to give to beginners or practising friends. Golf balls combine rubber cores with ionomer or urethane covers, which ordinary household recycling does not process. Offer them for reuse first, and put only split or badly cut balls into general waste in sensible quantities." },
+      { question: "Is a graphite shaft recyclable?", answer: "Not through ordinary household recycling. Graphite shafts are carbon-fibre composite, so they are normally treated as residual waste once the metal head is detached. A club repairer may reuse a sound graphite shaft. Never break one by hand, because the splintered fibres are sharp." },
+    ],
+    relatedSlugs: ["garage-clearance-dubai", "how-to-dispose-of-gym-equipment-in-dubai", "how-to-dispose-of-old-bicycle-dubai"],
+    serviceLink: { href: "/services/mattress-bulky-item-removal", label: "Arrange golf set and trolley collection" },
+    sources: [{ href: "https://www.dm.gov.ae/", label: "Dubai Municipality — waste and recycling services" }],
+  },
+  {
+    slug: "how-to-dispose-of-an-artificial-christmas-tree-in-dubai",
+    title: "How to Dispose of an Artificial Christmas Tree in Dubai: Pre-Lit Wiring, Stands and Decorations",
+    excerpt: "An artificial tree mixes PVC, wire, metal and sometimes built-in lights. Offer it at the right time of year, separate the electrical parts and clear the decoration boxes with it.",
+    category: "Eco & Recycling",
+    coverImage: blogB111Cover,
+    coverImageAlt: "Resident sorting storeroom items into donate, recycle and junk boxes beside shelves of labelled seasonal boxes",
+    publishedAt: "2026-10-11",
+    readingTime: "6 min read",
+    author: defaultAuthor,
+    tags: ["Christmas Tree Disposal", "Seasonal Decorations", "Storeroom Clearance", "Household E-Waste"],
+    seoTitle: "How to Dispose of an Artificial Christmas Tree in Dubai",
+    seoDescription: "How to dispose of an artificial Christmas tree in Dubai: when to offer it for reuse, how to handle pre-lit wiring, and what to do with stands and decorations.",
+    keyTakeaways: [
+      "A complete, working artificial tree is easiest to pass on in November and early December, not in January.",
+      "Pre-lit trees are electrical items; do not cut the wiring out to make them look like plain plastic.",
+      "Split the load: metal stand, PVC branches, lights, baubles and dry cardboard boxes each go a different way.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an artificial Christmas tree in Dubai?",
+        paragraphs: [
+          "Check whether the tree is complete and clean. If it is, offer it for reuse before the festive season starts. If not, separate it: the metal stand goes for metal recovery, pre-lit branches go through an electrical route, and plain PVC branches go as residual waste. Recycle the dry cardboard box and book a collection for bulky sections.",
+          "Most artificial trees we collect come out of apartment storerooms and villa lofts during move-outs, often with three or four boxes of decorations alongside. The tree itself is the easy part. The decorations, the tangled light strings and the box that has gone soft in a humid storeroom take most of the sorting.",
+        ],
+      },
+      {
+        heading: "Decide whether the tree can be passed on",
+        paragraphs: [
+          "Assemble it once before deciding. Count the sections and confirm the stand and all its bolts are there; a tree missing its middle tier is not much use to anyone. Look for branches that have snapped at the hinge, heavy needle shedding and dust or a musty smell from storage in a room without air conditioning. A wipe-down solves dust, but mould in the foliage does not come out.",
+          "Timing matters more than condition. Families moving to Dubai look for trees in November and early December. In January, the same groups fill up with trees nobody wants. If you are leaving the UAE in summer, you can still offer a good tree through community groups, but expect fewer takers and set a firm date after which it goes for collection.",
+        ],
+        callout: {
+          type: "tip",
+          title: "List it assembled",
+          text: "A photo of the tree standing, with the lights on if it is pre-lit, gets far more interest than a picture of a battered box. Note its height and the number of sections so a buyer knows whether it suits a ceiling.",
+        },
+      },
+      {
+        heading: "Pre-lit trees are electrical items",
+        paragraphs: [
+          "Plug the tree in and check each section. Many pre-lit trees run through connectors between sections, and a failed connector can darken a whole tier. If the lights still work, the tree can be offered as it is. If the lights have failed and are woven through the branches, treat the whole tree as electrical waste rather than spending an evening cutting wire out of PVC; the cut ends are sharp and the result still contains copper.",
+          "Detachable light strings, transformers and plug-in adaptors should be bagged together and sent through an electronics route. Our [guide to recycling electronics in Dubai](https://dubaijunkcollection.com/blog/where-to-recycle-electronics-in-dubai) covers suitable drop-off options, and the [lamp disposal guide](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-table-and-floor-lamps-in-dubai) explains how to keep bulbs and cords apart from mixed materials.",
+        ],
+      },
+      {
+        heading: "Separate the stand, the branches and the box",
+        paragraphs: [
+          "The folding metal stand is usually steel and is recoverable on its own. The branches are PVC or PE needles wrapped around wire, a mixture that ordinary recycling does not separate, so unlit branches go as residual waste. Keep sections whole and slide them into strong bags; loose branches catch on doorframes and shed needles through a corridor.",
+          "The storage box can go into paper and cardboard recycling if it is dry and clean. Flatten it and tie it with other cardboard. A box that has absorbed storeroom humidity or grown mould should go with the general waste instead.",
+        ],
+        image: blogB111Body,
+        imageAlt: "Collection crew member checking a list beside flattened cardboard, bagged items and a crate of electronics in a Dubai building forecourt",
+        imageCaption: "Flattened boxes, bagged branches and electrical parts are logged separately before loading.",
+      },
+      {
+        heading: "Baubles, tinsel and the rest of the decoration boxes",
+        paragraphs: [
+          "Sort decorations into what someone else would hang and what is finished. Shatterproof baubles, tree toppers and ornaments in good condition are worth offering with the tree. Wrap broken glass baubles in newspaper, label the bag as sharp and put it in general waste; decorative glass is not bottle-and-jar glass. Tinsel and glitter-coated items are not recyclable and should be bagged, not loose.",
+          "Battery-operated decorations need their batteries removed and taken to a battery collection point. Inflatable outdoor figures contain fans and are electrical items too. If the decorations are part of a wider clear-out, our [storeroom clearance guide](https://dubaijunkcollection.com/blog/storeroom-clearance-dubai) shows how to work through the rest of the room in one pass.",
+        ],
+      },
+      {
+        heading: "Getting a tall tree out of an apartment building",
+        paragraphs: [
+          "Take the tree apart before moving it and carry the sections bagged, not assembled. A two-metre tree with its branches open will not turn in most corridors without scraping the walls. Never leave a tree or its box in a chute room or beside the bins; most towers treat that as an unauthorised bulky item, as our [guide to throwing away furniture in Dubai](https://dubaijunkcollection.com/blog/can-you-throw-away-furniture-in-dubai) explains.",
+          "If the tree, the lights and several decoration boxes need to go together, send a photo through our [household junk removal service](https://dubaijunkcollection.com/services/household-junk-removal) and we will collect the sorted load in one visit.",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can I put an artificial Christmas tree in a recycling bin?", answer: "No. A tree mixes PVC needles, wire cores and often electrical lighting, which household recycling bins cannot separate. Recycle only the dry cardboard box and the bare metal stand through suitable routes. Send pre-lit sections through an electronics route and unlit branches as general waste." },
+      { question: "What happens to a real Christmas tree after the holidays in Dubai?", answer: "Remove every decoration, light and the stand first, then treat the tree as green waste. Ask your building or community management whether they arrange a seasonal collection; otherwise cut it into manageable lengths for a garden-waste route. Never leave it in a corridor or chute room, where dry needles create a fire risk." },
+      { question: "How do I store an artificial tree if I am keeping it?", answer: "Store it in a sealed bag or plastic box in an air-conditioned room, not a hot balcony cupboard or a humid storeroom. Wrap the lights loosely and keep the stand bolts in a labelled pouch. This prevents the mould, brittle needles and missing parts that send most trees for disposal." },
+    ],
+    relatedSlugs: ["storeroom-clearance-dubai", "how-to-dispose-of-old-table-and-floor-lamps-in-dubai", "where-to-recycle-electronics-in-dubai"],
+    serviceLink: { href: "/services/household-junk-removal", label: "Arrange tree and decoration collection" },
+    sources: [{ href: "https://www.dm.gov.ae/", label: "Dubai Municipality — waste and recycling services" }],
+  },
+  {
+    slug: "how-to-dispose-of-old-camping-gear-in-dubai",
+    title: "How to Dispose of Old Camping Gear in Dubai: Gas Canisters, Tents and Desert-Worn Kit",
+    excerpt: "Desert camping kit wears out fast in the sun and sand. Deal with gas canisters and batteries first, then sort tents, chairs and cool boxes into reuse, metal and waste.",
+    category: "Guides & Tips",
+    coverImage: blogB112Cover,
+    coverImageAlt: "Gas canisters, aerosols and batteries sorted into separate trays on a Dubai villa patio",
+    publishedAt: "2026-10-11",
+    readingTime: "6 min read",
+    author: defaultAuthor,
+    tags: ["Camping Gear Disposal", "Gas Canister Safety", "Garage Clearance", "Outdoor Equipment"],
+    seoTitle: "How to Dispose of Old Camping Gear in Dubai Safely",
+    seoDescription: "How to dispose of old camping gear in Dubai: handle gas canisters and lithium batteries safely, test sun-worn tents and sort chairs and cool boxes for reuse.",
+    keyTakeaways: [
+      "Fuel canisters and batteries come out of the load first; neither belongs in a bin, a chute or a collection truck mixed with other junk.",
+      "Pinch-test old tent fabric: if UV damage makes it tear like paper, the tent is waste even when it looks fine.",
+      "Rigid cool boxes, metal-framed chairs and sound tents resell well before the winter camping season.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of old camping gear in Dubai?",
+        paragraphs: [
+          "Separate fuel and batteries first: gas canisters go to a hazardous or specialist route, and lanterns, power banks and power stations go to e-waste. Then test tents and shade for sun damage. Offer sound tents, chairs and cool boxes for reuse before winter, send metal poles and frames for recovery, and bag sand-filled worn fabric as waste.",
+          "Camping in Dubai means desert weekends between roughly October and March, so the same kit spends half the year in a hot garage and the other half in sand and sun. That combination ages gear faster than in milder climates, and it is why so much of it ends up in villa garage clear-outs.",
+        ],
+      },
+      {
+        heading: "Deal with fuel and batteries first",
+        paragraphs: [
+          "Small butane cartridges for camping stoves, screw-on gas canisters and lighter fluid are the dangerous part of any camping clear-out. Never puncture or crush a canister, never put one in a household bin, and never send one down a tower chute, where compaction can rupture it. Even a canister that feels empty can hold residual gas. Keep them upright in a shaded, ventilated spot and use a hazardous waste route; our [household hazardous waste guide](https://dubaijunkcollection.com/blog/hazardous-waste-disposal-dubai) explains how. Larger barbecue gas cylinders are covered in the [barbecue disposal guide](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-barbecue-dubai).",
+          "Rechargeable lanterns, head torches, fans, power banks and portable power stations all contain batteries, usually lithium. Remove loose batteries, tape the terminals and set aside anything swollen or heat-damaged without charging it. These go through an [electronics recycling route](https://dubaijunkcollection.com/blog/where-to-recycle-electronics-in-dubai), not general waste.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Tell the collector about fuel",
+          text: "If any canisters or batteries are still in the garage when the crew arrives, point them out before loading begins. A pressurised canister hidden inside a tent bag is the single most avoidable hazard in a camping clear-out.",
+        },
+      },
+      {
+        heading: "Tents and shade: what sun and sand do to fabric",
+        paragraphs: [
+          "Polyester and nylon tents lose strength under strong UV long before they look worn. Pinch a sun-exposed panel and pull gently; if it tears like paper or flakes, the tent is finished. Check zips too, because fine sand grinds the teeth and sliders until they no longer close. Shake sand out outdoors, never inside an apartment, where it ends up in the AC returns and the lift tracks.",
+          "Poles decide what can be salvaged. Aluminium poles and steel pegs are recoverable metal. Fibreglass poles crack into sharp splinters, so tape broken ends before bagging them. A sound tent with all its poles, pegs and fly is worth offering through community groups in September and October, when desert-camping season starts and demand peaks.",
+        ],
+      },
+      {
+        heading: "Sleeping bags, mats, chairs and cool boxes",
+        paragraphs: [
+          "Sleeping bags are bulky textiles, and many clothing collections do not accept them, so check with the bin or charity operator first; our [clothes donation guide](https://dubaijunkcollection.com/blog/where-to-donate-clothes-in-dubai) explains what textile routes usually take. Self-inflating and foam mats with failed valves or crumbling foam go as general waste.",
+          "Folding chairs split easily: steel or aluminium frames for metal recovery, sun-rotted fabric for waste. Rigid cool boxes are among the easiest camping items to pass on if they are clean and dry, but check for mould in the lid seal and drain plug. Electric cool boxes and 12-volt fridges are electrical items and go the same way as other small appliances.",
+        ],
+        image: blogB112Body,
+        imageAlt: "Worn duffel bags and travel holdalls lined up for inventory inside a Dubai villa entrance",
+        imageCaption: "Emptying and listing every bag before collection keeps fuel canisters and batteries out of the load.",
+      },
+      {
+        heading: "Selling, gifting or arranging a collection",
+        paragraphs: [
+          "Group usable gear into a complete bundle, such as tent, chairs and cool box, because a starter kit is easier to sell or give away than single pieces. Desert-camping groups and online classifieds move well-kept gear quickly in the run-up to winter. Anything that has not found a taker by your deadline should go in one organised collection rather than drifting back into the garage.",
+          "If the camping kit is part of a wider sort-out, the [garage clearance guide](https://dubaijunkcollection.com/blog/garage-clearance-dubai) covers the rest of the space. Once fuel and batteries are set aside, send a photo of the remaining load through our [household junk removal service](https://dubaijunkcollection.com/services/household-junk-removal) for a fixed quote.",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can I throw empty gas canisters in the bin in Dubai?", answer: "Avoid it. A canister that seems empty can still contain gas, and bins, chutes and collection trucks compact their load. Keep canisters upright in a shaded, ventilated place and ask a hazardous-waste or specialist collection point how it accepts them. Never puncture one yourself." },
+      { question: "Do I need to clean sand out of camping gear before collection?", answer: "Shake out loose sand outdoors and empty bags and tents, but there is no need to wash gear that is going for disposal. Clean gear matters only if you are selling or donating it. Removing sand before carrying kit through a building protects corridors, lifts and the AC system." },
+      { question: "Can old tents be recycled?", answer: "Tent fabric is usually a coated polyester or nylon that household recycling does not take, so a worn-out tent is generally residual waste. Metal poles, pegs and frames can be separated for metal recovery. A tent in sound condition is better offered for reuse before the camping season." },
+    ],
+    relatedSlugs: ["hazardous-waste-disposal-dubai", "how-to-dispose-of-old-barbecue-dubai", "garage-clearance-dubai"],
+    serviceLink: { href: "/services/household-junk-removal", label: "Arrange camping gear collection" },
     sources: [{ href: "https://www.dm.gov.ae/", label: "Dubai Municipality — waste and recycling services" }],
   },
 ];
