@@ -190,6 +190,12 @@ import blogB111Cover from "@/assets/blog-b36-storage-declutter-body.jpg";
 import blogB111Body from "@/assets/blog-b49-sorted-collection-body.webp";
 import blogB112Cover from "@/assets/blog-b46-hazardous-waste-sorting-cover.webp";
 import blogB112Body from "@/assets/blog-b88-luggage-disposal-cover.webp";
+import blogB113Cover from "@/assets/blog-b29-garden-waste-cover.jpg";
+import blogB113Body from "@/assets/blog-b46-specialist-waste-collection-body.webp";
+import blogB114Cover from "@/assets/blog-b17-villa-patio-clearance.jpg";
+import blogB114Body from "@/assets/blog-b42-bulky-load-access-body.webp";
+import blogB115Cover from "@/assets/blog-b25-appliance-disposal-cover.jpg";
+import blogB115Body from "@/assets/blog-b98-appliance-degassing-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -14036,6 +14042,222 @@ export const blogPosts: BlogPost[] = [
     relatedSlugs: ["hazardous-waste-disposal-dubai", "how-to-dispose-of-old-barbecue-dubai", "garage-clearance-dubai"],
     serviceLink: { href: "/services/household-junk-removal", label: "Arrange camping gear collection" },
     sources: [{ href: "https://www.dm.gov.ae/", label: "Dubai Municipality — waste and recycling services" }],
+  },
+  {
+    slug: "how-to-dispose-of-a-lawn-mower-in-dubai",
+    title: "How to Dispose of a Lawn Mower in Dubai: Fuel Drainage, Blades and Cordless Batteries",
+    excerpt: "Lawn mowers combine sharp rotary blades with combustible petrol or high-output lithium batteries. Drain fluids, isolate electrical cells and safely arrange villa garden pickup.",
+    category: "Villa & Garden",
+    coverImage: blogB113Cover,
+    coverImageAlt: "A Dubai villa lawn and garden border beside a stone patio and hedge line",
+    publishedAt: "2026-10-13",
+    readingTime: "6 min read",
+    author: defaultAuthor,
+    tags: ["Lawn Mower Disposal", "Garden Equipment", "Villa Clearance", "Appliance Removal"],
+    seoTitle: "How to Dispose of a Lawn Mower in Dubai Safely",
+    seoDescription: "How to dispose of a lawn mower in Dubai: drain petrol and oil, isolate lithium batteries, cover cutting blades, and organise villa garden equipment pickup.",
+    keyTakeaways: [
+      "Petrol mowers must be completely drained of fuel and crankcase oil before collection crews or transport trucks can accept them under UAE transport safety rules.",
+      "Rechargeable cordless lithium batteries must be detached and channelled through dedicated e-waste facilities rather than mixed with scrap metal.",
+      "Rotary cutting blades require double-layer cardboard shielding and heavy tape to eliminate laceration hazards in villa driveways and corridors.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a lawn mower in Dubai?",
+        paragraphs: [
+          "To dispose of a lawn mower in Dubai, drain all petrol and engine oil into sealed containers, remove any rechargeable lithium battery, and tape heavy cardboard over the blades. Sell working mowers through community portals before winter, send metal chassis for scrap recovery, or book a licensed bulky waste collection.",
+          "Natural grass lawns in Dubai villa communities like Arabian Ranches, The Springs, Jumeirah Islands and Damac Hills require steady mowing throughout the mild winter months. By late spring, intense summer heat and water conservation often lead residents to overhaul outdoor spaces, leaving worn-out petrol or cordless mowers sitting idle in hot carports.",
+        ],
+      },
+      {
+        heading: "Draining fuel and crankcase oil before collection",
+        paragraphs: [
+          "Petrol lawn mowers contain combustible fuel and lubricating engine oil that cannot travel in standard municipal collection trucks or residential skips. In Dubai's extreme ambient heat, residual petrol in a sealed tank quickly vaporises, building dangerous pressure inside moving vehicles or storage depots. Use an automotive siphon pump to draw fuel into a certified jerry can, then start the engine and let it run until the carburettor stalls dry.",
+          "Next, locate the oil drain plug or use an extraction syringe to empty the crankcase into a leakproof oil pan. Seal the drained oil and petrol into rigid plastic jugs for drop-off at an authorised automotive service centre or municipal hazardous collection point; our [household hazardous waste guide](https://dubaijunkcollection.com/blog/hazardous-waste-disposal-dubai) details safe liquid drop-offs.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Never transport a mower with fuel inside",
+          text: "Collection teams and logistics providers across Dubai will refuse any garden machinery with liquid fuel in the tank. Vaporised fuel poses an immediate flash fire hazard in closed trucks during transit.",
+        },
+      },
+      {
+        heading: "Cordless electric, robotic and petrol: sorting components",
+        paragraphs: [
+          "Modern cordless electric mowers run on high-voltage 36V, 40V, or 56V lithium-ion battery packs. Never leave lithium batteries inside a mower headed for scrap. Unclip the battery pack, insulate the electrical terminals with electrical tape, and route it to an [electronics recycling depot](https://dubaijunkcollection.com/blog/where-to-recycle-electronics-in-dubai). Discarded lithium packs crushed in heavy compactor trucks pose severe fire risks.",
+          "Robotic mowers feature separate docking stations, low-voltage power bricks, and plastic boundary wire reels. Group these electronic components together for e-waste recovery. Petrol engine blocks, by contrast, yield cast aluminium and steel scrap once the spark plug is pulled and all combustion fluids are eliminated.",
+        ],
+        image: blogB113Body,
+        imageAlt: "Specialist waste containers and segregated materials prepared for safe villa clearance in Dubai",
+        imageCaption: "Draining fluids and detaching battery packs turns hazardous machinery into recyclable scrap metal.",
+      },
+      {
+        heading: "Blade safety, plastic decks and scrap metal recycling",
+        paragraphs: [
+          "Mower blades—whether horizontal rotary blades or reel cylinder cutters—remain sharp enough to cause deep lacerations even when nicked and rusty. Before rolling the machine out for collection, fold heavy corrugated cardboard over both cutting edges and wrap it tightly with duct tape. This protects crew members, security personnel, and your own hands during loading.",
+          "Plastic grass catchers and polypropylene deck hoods are high-density polyethylene (HDPE) or polypropylene (PP), which can be separated from the metal chassis. Pressed steel decks and cast alloy cutter housings are valuable commodities at scrap metal yards in Al Quoz and Dubai Industrial City, diverting substantial bulk from Jebel Ali landfills.",
+        ],
+      },
+      {
+        heading: "Resale, donation or booking a villa collection",
+        paragraphs: [
+          "If your mower still runs reliably, list it on neighbourhood community boards between September and November, when incoming villa tenants begin overseeding winter lawns. Gardeners and landscaping contractors often purchase sturdy petrol machines for spare parts or secondary maintenance routes.",
+          "When a mower is completely broken or you are vacating a property, coordinate pickup alongside hedge trimmings, planters, and old outdoor seating through our [garden waste removal service](https://dubaijunkcollection.com/services/garden-waste-removal). If you are preparing for a full tenancy handover, our [villa cleanout team](https://dubaijunkcollection.com/services/villa-apartment-cleanout) handles community gate passes and gate security documentation seamlessly.",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can I leave an old lawn mower next to my villa community communal bin?", answer: "No. Gated communities across Dubai, including Emaar, Nakheel, and Damac estates, strictly prohibit placing machinery, engine parts, or bulky tools next to communal waste bins. Violations carry municipal and master-community fines starting at AED 500. All machinery must be collected privately." },
+      { question: "What should I do with drained lawn mower petrol and oil in Dubai?", answer: "Pour drained petrol and motor oil into sealed plastic bottles or jerry cans and deliver them to an automotive maintenance workshop or petrol station service bay equipped for waste oil reclamation. Never dump hydrocarbons down municipal storm drains or onto villa garden soil." },
+      { question: "Will a junk removal service dismantle the lawn mower before hauling?", answer: "Professional crews will remove the complete lawn mower as long as fluids are drained. If the handle folds down, fold and secure it with bungee cords to minimise vehicle volume; crews will manage blade shielding and metal yard delivery directly." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-garden-waste-in-dubai", "hazardous-waste-disposal-dubai", "garage-clearance-dubai"],
+    serviceLink: { href: "/services/garden-waste-removal", label: "Book villa garden equipment clearance" },
+    sources: [{ href: "https://www.dm.gov.ae/", label: "Dubai Municipality — Waste Management Department" }],
+  },
+  {
+    slug: "how-to-dispose-of-a-patio-heater-in-dubai",
+    title: "How to Dispose of a Patio Heater in Dubai: Gas Lines, Glass Tubes and Metal Frames",
+    excerpt: "Freestanding patio heaters feature tall frames, delicate glass tubes and pressurised LPG fittings. Disconnect fuel tanks safely and prepare outdoor heaters for recycling.",
+    category: "Villa & Garden",
+    coverImage: blogB114Cover,
+    coverImageAlt: "A Dubai villa patio terrace with outdoor seating and garden pergola",
+    publishedAt: "2026-10-13",
+    readingTime: "6 min read",
+    author: defaultAuthor,
+    tags: ["Patio Heater Disposal", "Outdoor Furniture", "Bulky Item Removal", "Villa Clearance"],
+    seoTitle: "How to Dispose of a Patio Heater in Dubai Safely",
+    seoDescription: "How to dispose of a patio heater in Dubai: disconnect LPG cylinders safely, remove quartz glass flame tubes, dismantle tall frames, and arrange bulky collection.",
+    keyTakeaways: [
+      "LPG gas cylinders must be decoupled and returned to licensed gas distributors for deposit refunds; they must never enter scrap trucks or skips.",
+      "Pyramid heaters house delicate quartz glass tubes that must be extracted and wrapped separately to prevent dangerous shattering during transport.",
+      "Tall 2.2-metre mushroom and pyramid masts must be split at the centre collar to navigate residential service elevators and vehicle canopies.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a patio heater in Dubai?",
+        paragraphs: [
+          "To dispose of a patio heater in Dubai, disconnect and return the LPG cylinder to a gas distributor, remove fragile quartz glass tubes, and unbolt the reflector hood. Working units can be sold before winter; broken stainless steel and aluminium frames should be collected for certified scrap metal recycling.",
+          "Outdoor gas and electric heaters are essential fixtures for winter dining on Palm Jumeirah terraces, Arabian Ranches backyards and Downtown penthouses between November and March. However, after enduring months of 45°C summer heat, sun degradation, and coastal salt humidity, pilot valves seize, hoses dry rot, and stainless shells develop stubborn surface rust.",
+        ],
+      },
+      {
+        heading: "LPG cylinder safety and regulator disconnection",
+        paragraphs: [
+          "Most freestanding outdoor heaters operate on blue 11kg or 22kg LPG cylinders concealed in the pedestal base. Under UAE civil defence and municipal regulations, gas cylinders remain the property of licensed gas bottling companies (such as Emirates Gas or Lootah BC Gas). You cannot throw a gas cylinder in a disposal truck or scrap pile.",
+          "Ensure the top handwheel valve is closed tightly, then rotate the regulator coupling clockwise (left-hand thread) to decouple the hose. Contact your building's authorized gas vendor or local supplier to collect the empty bottle and recover your original deposit receipt; our [barbecue disposal guide](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-barbecue-dubai) covers additional outdoor gas safety protocols.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Do not scrap gas bottles with the heater",
+          text: "Junk collection vehicles and scrap processors will reject any patio heater containing an attached LPG cylinder. Pressurised tanks present catastrophic explosion risks inside metal balers and shredders.",
+        },
+      },
+      {
+        heading: "Dismantling tall frames, hoods and fragile quartz tubes",
+        paragraphs: [
+          "Commercial pyramid gas heaters feature a central cylindrical quartz glass flame tube. Open the lower door, release the protective wire cage latches, and carefully pull the glass cylinder downward and out. Wrap the glass tube in cardboard or bubble foil to prevent shattering before placing it with glass disposal.",
+          "Mushroom-style heaters stand over 2.2 metres tall with an 80-centimetre domed aluminium reflector hood. Unthread the three wingnuts holding the reflector to prevent it bending against doorframes. Next, loosen the bolts joining the upper post to the lower cylinder chamber. Breaking the unit into two manageable sections allows easy transport through residential freight lifts in Marina towers or through villa pedestrian gates.",
+        ],
+        image: blogB114Body,
+        imageAlt: "Bulky outdoor equipment and clearance items being prepared for transport along a Dubai residential access corridor",
+        imageCaption: "Unbolting the reflector hood and separating the pole makes tall outdoor heaters manageable in service lifts and narrow gates.",
+      },
+      {
+        heading: "Electric infrared heaters vs gas models: electrical recycling",
+        paragraphs: [
+          "Wall-mounted infrared patio heaters and quartz freestanding standing lamps are increasingly popular on apartment balconies where open flame gas is prohibited by building management. When retiring electric heaters, turn off the dedicated outdoor isolator switch and decouple the unit from exterior waterproof junction boxes.",
+          "Infrared units contain quartz halogen heating elements, anodised aluminium heat sinks, and copper wiring harnesses. Do not toss these into general rubbish chutes; instead, treat them as high-recovery [electronic waste](https://dubaijunkcollection.com/blog/where-to-recycle-electronics-in-dubai). Specialized recyclers recover the pure aluminium casings and precious wiring conductors efficiently.",
+        ],
+      },
+      {
+        heading: "Scrap metal recovery, pre-season resale and booking removal",
+        paragraphs: [
+          "If your heater functions properly but you are downsizing or moving abroad, list it on local expat marketplaces in October. Demand peaks dramatically ahead of the winter holiday season, allowing you to recoup value quickly.",
+          "When equipment is irreparably corroded, broken, or abandoned during a tenancy transition, scrap yards welcome the heavy stainless steel grade 304 and alloy framing. Combine your heater with rusted outdoor tables and broken loungers using our [household junk removal service](https://dubaijunkcollection.com/services/household-junk-removal) or our dedicated [mattress and bulky item removal](https://dubaijunkcollection.com/services/mattress-bulky-item-removal) for prompt collection.",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can I dispose of a patio heater with the gas cylinder still inside?", answer: "No. Gas cylinders must be removed prior to collection. They are pressurised assets owned by registered UAE gas distributors. Arrange a bottle exchange or return with your local gas distributor to retrieve your container deposit safely." },
+      { question: "Will a patio heater fit in an apartment freight elevator in Dubai?", answer: "Standard assembled patio heaters stand 2.2 to 2.3 metres tall, which often exceeds elevator ceiling clearances. You must unbolt the top reflector hood and unscrew the center pole section so the unit travels in two pieces without damaging elevator walls." },
+      { question: "Can scrap metal dealers in Dubai take corroded outdoor heaters?", answer: "Yes. Once the gas hose, rubber regulator, and glass flame tube are stripped away, the stainless steel body, base weight, and aluminium reflector provide high-grade recyclable metals accepted across industrial sorting hubs." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-old-barbecue-dubai", "how-to-dispose-of-garden-furniture-in-dubai", "how-to-dispose-of-a-gazebo-in-dubai"],
+    serviceLink: { href: "/services/household-junk-removal", label: "Schedule patio heater and bulky pickup" },
+    sources: [{ href: "https://www.dm.gov.ae/", label: "Dubai Municipality — Waste Management Guidelines" }],
+  },
+  {
+    slug: "how-to-dispose-of-a-dehumidifier-in-dubai",
+    title: "How to Dispose of a Dehumidifier in Dubai: Refrigerants, Water Tanks and E-Waste",
+    excerpt: "Compressor dehumidifiers contain closed-loop refrigerant gas and internal drainage tanks. Empty moisture reservoirs and recycle motors through certified e-waste channels.",
+    category: "Eco & Recycling",
+    coverImage: blogB115Cover,
+    coverImageAlt: "Domestic appliances lined up for recycling and recovery in a Dubai sorting yard",
+    publishedAt: "2026-10-13",
+    readingTime: "6 min read",
+    author: defaultAuthor,
+    tags: ["Dehumidifier Disposal", "Appliance Recycling", "E-Waste Dubai", "Refrigerant Safety"],
+    seoTitle: "How to Dispose of a Dehumidifier in Dubai Safely",
+    seoDescription: "How to dispose of a dehumidifier in Dubai: drain condensate tanks, safely handle compressor refrigerants, recycle electrical motors, and book appliance removal.",
+    keyTakeaways: [
+      "Compressor dehumidifiers contain sealed refrigerant gas (such as R134a or R290) that requires certified vacuum degassing under UAE environmental regulations.",
+      "Always slide out, empty, and rinse the internal condensate tank before pickup to prevent stagnant water leaks across floors, lifts, and collection vans.",
+      "Desiccant dehumidifiers contain no refrigerants and can be processed as standard small electrical appliances (WEEE), unlike heavy compressor units.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a dehumidifier in Dubai?",
+        paragraphs: [
+          "To dispose of a dehumidifier in Dubai, empty the condensate bucket, identify whether it is a compressor or desiccant model, and never throw it in regular garbage. Compressor units require certified refrigerant recovery before recycling. Sell working units before summer, drop at e-waste centres, or arrange licensed appliance collection.",
+          "In coastal districts like Dubai Marina, Jumeirah Beach Residence, Palm Jumeirah and Dubai Creek Harbour, outdoor humidity frequently reaches 85% to 90% during high summer. Portable dehumidifiers operate constantly in apartments to protect walk-in wardrobes, leather goods, and interior air quality. When these machines break down, proper disposal requires addressing both electrical and chemical components.",
+        ],
+      },
+      {
+        heading: "Compressor vs desiccant models: why refrigerants matter",
+        paragraphs: [
+          "Most residential dehumidifiers sold across the UAE use a refrigeration compressor cycle identical to a compact bar fridge or portable air conditioner. These units circulate closed-loop chemical refrigerants—typically hydrofluorocarbons like R134a or eco-hydrocarbons like R290—through chilled evaporator coils to condense atmospheric moisture.",
+          "Under Dubai Municipality environmental protection regulations, releasing refrigerants into the atmosphere is prohibited due to global warming and ozone depletion impacts. Before the metal casing can be shredded, certified recycling engineers must connect extraction hoses to capture and bottle the gas. Desiccant units, which use a rotating moisture-absorbent wheel without a compressor, bypass this requirement and qualify directly as standard small electronic waste.",
+        ],
+        callout: {
+          type: "info",
+          title: "Check the rear specification label",
+          text: "Inspect the silver data plate on the rear casing. It indicates the refrigerant type and charge weight (for example, 'R134a / 140g'). This classification determines whether the unit requires certified degassing or standard e-waste sorting.",
+        },
+      },
+      {
+        heading: "Emptying water tanks, preventing stagnant mould and filter prep",
+        paragraphs: [
+          "Before taking a dehumidifier out of service, slide out the lower condensate collection bucket and pour out standing water. In Dubai's warm indoor environment, stagnant reservoir water rapidly fosters black mould, foul odours, and bacterial slime. Wipe down the plastic tank with diluted disinfectant.",
+          "If the unit was plumbed with a continuous gravity drainage hose, detach the plastic tubing and coil it with the power cord. Pop open the rear air intake grille to inspect the washable nylon pre-filter. A clean, dry appliance prevents water from dripping onto carpeted apartment corridors or slick service lift tiles during collection.",
+        ],
+        image: blogB115Body,
+        imageAlt: "Technician operating specialized refrigerant recovery and degassing equipment in a UAE recycling depot",
+        imageCaption: "Certified degassing removes closed-loop compressor gas before copper motor windings and steel chassis are recycled.",
+      },
+      {
+        heading: "E-waste recycling routes and municipal drop-offs in Dubai",
+        paragraphs: [
+          "Dumping a dehumidifier in a tower garbage room or beside a municipal street skip violates Dubai Municipality Local Order No. 115. Heavy compressor motors and electronic control boards damage mechanical chute compactors and leak chemical residues into municipal landfills.",
+          "Approved municipal recycling centres, smart e-waste collection bins, and commercial scrap processors extract high-grade copper from the electric motor windings and compressor coils. The external ABS plastic chassis and aluminium condenser fins are separated and remelted, supporting circular manufacturing in accordance with national sustainability goals; learn more in our guide on [where to recycle electronics in Dubai](https://dubaijunkcollection.com/blog/where-to-recycle-electronics-in-dubai).",
+        ],
+      },
+      {
+        heading: "Resale windows, tenancy move-outs and professional appliance pickup",
+        paragraphs: [
+          "If your dehumidifier remains fully functional when preparing to leave Dubai, market it between May and August. Expat tenants moving into coastal towers actively search for reliable moisture control units during peak summer months, creating strong secondary market demand.",
+          "If the unit has suffered compressor failure or you need quick handover clearance before an Ejari tenancy inspection, avoid deposit deductions by clearing all non-landlord items; see our checklist on [how to get your security deposit back in Dubai](https://dubaijunkcollection.com/blog/how-to-get-security-deposit-back-dubai). You can bundle your broken unit with unwanted microwaves, fridges, or bulky items using our licensed [appliance removal service](https://dubaijunkcollection.com/services/appliance-removal).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can I throw a broken dehumidifier in my building's garbage chute or bin?", answer: "No. High-rise trash chutes in Dubai are engineered exclusively for light, bagged domestic food waste. A dehumidifier contains a heavy iron compressor and electrical components that will block chute hoppers, break compactor rams, and incur building management penalties." },
+      { question: "How do I know if my dehumidifier contains hazardous refrigerant gas?", answer: "Look at the manufacturer specification sticker on the back or bottom of the housing. If it specifies refrigerants such as R134a, R290, or R410A alongside a compressor wattage, it contains pressurised gas requiring certified mechanical evacuation before disposal." },
+      { question: "Will scrap collectors in Dubai take a dehumidifier?", answer: "Informal scrap collectors often seek the copper wiring and compressor iron, but they may vent the refrigerant gas unlawfully. Booking an authorised junk removal provider guarantees responsible gas capture and certified e-waste material recovery." },
+    ],
+    relatedSlugs: ["responsible-appliance-disposal-dubai", "where-to-recycle-electronics-in-dubai", "how-to-dispose-of-an-air-purifier-in-dubai"],
+    serviceLink: { href: "/services/appliance-removal", label: "Book certified dehumidifier removal" },
+    sources: [{ href: "https://www.dm.gov.ae/", label: "Dubai Municipality — Environment and Waste Operations" }],
   },
 ];
 

@@ -552,3 +552,12 @@
 | 352 | how to dispose of old golf clubs in dubai | Q | Blog Article (`/blog/how-to-dispose-of-old-golf-clubs-in-dubai`) |
 | 353 | how to dispose of an artificial christmas tree in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-artificial-christmas-tree-in-dubai`) |
 | 354 | how to dispose of old camping gear in dubai | Q | Blog Article (`/blog/how-to-dispose-of-old-camping-gear-in-dubai`) |
+
+### New question-intent blog targets (Batch 31)
+
+| # | Keyword | Intent | Recommended Page |
+| :-: | :--- | :---: | :--- |
+| 355 | how to dispose of a lawn mower in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-lawn-mower-in-dubai`) |
+| 356 | how to dispose of a patio heater in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-patio-heater-in-dubai`) |
+| 357 | how to dispose of a dehumidifier in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-dehumidifier-in-dubai`) |
+

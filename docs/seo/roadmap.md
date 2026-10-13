@@ -441,6 +441,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B110 is distinguished from B54 (gym equipment) and B35 (garage clearance as a space) by club-by-club playability triage, graphite versus steel shaft handling, retailer trade-ins and electric trolley battery removal. B111 is distinguished from B36 (storeroom clearance) and B109 (portable lamps) by seasonal resale timing, pre-lit branch wiring treated as electrical waste, PVC branch and steel stand separation, and decoration sorting. B112 is distinguished from B76 (barbecues and LPG cylinders) and B46 (general household hazardous waste) by small butane cartridges, lithium camping electronics, UV and sand damage to tent fabric and zips, and pre-season resale of camping kit.
 
+### Track 34: Garden Machinery, Outdoor Heaters & Domestic Dehumidifiers (Clusters 4, 7 & 10)
+*Covers three heavy household and outdoor utility items common in Dubai villas and apartments: petrol and cordless lawn mowers with fuel and blade hazards; freestanding patio heaters with gas regulators and glass flame tubes; and domestic dehumidifiers with refrigerant compressors and water tanks.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B113** | *How to Dispose of a Lawn Mower in Dubai: Fuel Drainage, Blades and Cordless Batteries* | `how to dispose of a lawn mower in dubai` | `garden waste removal dubai`, `lawn mower recycling dubai`, `appliance removal dubai` | Q | `/services/garden-waste-removal` |
+| **B114** | *How to Dispose of a Patio Heater in Dubai: Gas Lines, Glass Tubes and Metal Frames* | `how to dispose of a patio heater in dubai` | `outdoor heater disposal dubai`, `bulky item removal dubai`, `villa garden waste removal dubai` | Q | `/services/household-junk-removal` |
+| **B115** | *How to Dispose of a Dehumidifier in Dubai: Refrigerants, Water Tanks and E-Waste* | `how to dispose of a dehumidifier in dubai` | `dehumidifier disposal dubai`, `small appliance recycling dubai`, `where to recycle electronics in dubai` | Q | `/services/appliance-removal` |
+
+**Overlap check (content-rules §16):** B113 is distinguished from B29 (green vegetative waste) and B35 (general garage space) by mandatory petrol and engine oil drainage before transport, cutting-blade safety containment, lithium-ion battery isolation, and steel versus cast deck scrap recycling. B114 is distinguished from B76 (barbecues) and B112 (camping stoves) by tall freestanding patio/mushroom heater disassembly, gas regulator disconnection, fragile quartz glass flame tubes, coastal corrosion, and building elevator height constraints. B115 is distinguished from B25/B98 (refrigerators/freezers) and B107 (air purifiers) by domestic dehumidifier compressor degassing (R134a/R290 refrigerants), preventing stagnant water spillage from condensate tanks, and copper motor coil recovery.
+
 ---
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -473,3 +484,5 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 28. **Batch 28 (Articles B104–B106):** Kitchen Cookware, Bedding & Mobile Phones — **100% Completed (3/3 Live)**.
 29. **Batch 29 (Articles B107–B109):** Air Purifiers, Pet Furniture & Portable Lamps — **100% Completed (3/3 Live)**.
 30. **Batch 30 (Articles B110–B112):** Sports Kit, Seasonal Decorations & Desert Camping Gear — **100% Completed (3/3 Live)**.
+31. **Batch 31 (Articles B113–B115):** Garden Machinery, Outdoor Heaters & Domestic Dehumidifiers — **100% Completed (3/3 Live)**.
+
