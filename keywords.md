@@ -561,3 +561,12 @@
 | 356 | how to dispose of a patio heater in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-patio-heater-in-dubai`) |
 | 357 | how to dispose of a dehumidifier in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-dehumidifier-in-dubai`) |
 
+### New question-intent blog targets (Batch 32)
+
+| # | Keyword | Intent | Recommended Page |
+| :-: | :--- | :---: | :--- |
+| 358 | how to dispose of a bean bag in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-bean-bag-in-dubai`) |
+| 359 | how to dispose of a water filter in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-water-filter-in-dubai`) |
+| 360 | how to dispose of speakers in dubai | Q | Blog Article (`/blog/how-to-dispose-of-audio-speakers-and-soundbars-in-dubai`) |
+
+

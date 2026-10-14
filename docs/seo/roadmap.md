@@ -452,6 +452,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B113 is distinguished from B29 (green vegetative waste) and B35 (general garage space) by mandatory petrol and engine oil drainage before transport, cutting-blade safety containment, lithium-ion battery isolation, and steel versus cast deck scrap recycling. B114 is distinguished from B76 (barbecues) and B112 (camping stoves) by tall freestanding patio/mushroom heater disassembly, gas regulator disconnection, fragile quartz glass flame tubes, coastal corrosion, and building elevator height constraints. B115 is distinguished from B25/B98 (refrigerators/freezers) and B107 (air purifiers) by domestic dehumidifier compressor degassing (R134a/R290 refrigerants), preventing stagnant water spillage from condensate tanks, and copper motor coil recovery.
 
+### Track 35: Soft Furnishings, Water Treatment & Home Audio (Clusters 2, 4, 5 & 10)
+*Covers three everyday household and utility items that create unique disposal challenges during apartment move-outs and villa cleanouts: bean bags filled with static expanded polystyrene (EPS) micro-beads that cause explosive chute spills; plumbed under-sink reverse osmosis (RO) systems with pressurised accumulator tanks and landlord handover fittings; and multi-channel home audio speakers, soundbars and subwoofers with magnetic drivers and recyclable copper power transformers.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B116** | *How to Dispose of a Bean Bag in Dubai: Micro-Beads, Chute Bans and Spill Prevention* | `how to dispose of a bean bag in dubai` | `bean bag disposal dubai`, `bulky item removal dubai`, `where to throw away furniture in dubai`, `household waste collection dubai` | Q | `/services/household-junk-removal`, `/services/mattress-bulky-item-removal` |
+| **B117** | *How to Dispose of a Water Filter in Dubai: Under-Sink RO Systems, Tanks and Move-Out Plumbing* | `how to dispose of a water filter in dubai` | `water filter disposal dubai`, `responsible appliance disposal dubai`, `old appliance removal dubai`, `e-waste recycling dubai` | Q | `/services/appliance-removal`, `/services/villa-apartment-cleanouts` |
+| **B118** | *How to Dispose of Audio Speakers and Soundbars in Dubai: AV Receivers, Subwoofers and E-Waste* | `how to dispose of speakers in dubai` | `soundbar disposal dubai`, `audio equipment recycling dubai`, `where to recycle electronics in dubai`, `e-waste recycling centres dubai` | Q | `/services/household-junk-removal`, `/services/office-junk-removal` |
+
+**Overlap check (content-rules §16):** B116 is distinguished from B23 (sofas) and B77 (recliners) by focusing on loose virgin and recycled expanded polystyrene (EPS) micro-bead containment, static electricity dispersion, severe apartment building trash chute burst hazards, and double-bagging protocols. B117 is distinguished from B71 (freestanding 5-gallon bottled water dispensers) and B74 (dishwashers) by focusing on under-sink multi-stage reverse osmosis filtration manifolds, angle-stop tee disconnection and Ejari deposit plumbing reinstatement, depressurising and draining heavy internal water accumulator tanks, and segregating 24V booster pumps for electronic waste. B118 is distinguished from B55 (televisions) and B27/B90 (computers and storage media sanitization) by addressing acoustic loudspeaker enclosures, permanent ferrite and neodymium magnets that disrupt automated scrap shredders, MDF composite cabinetry separation, and copper toroidal transformer recovery from AV receivers and soundbars.
+
 ---
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -485,4 +496,5 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 29. **Batch 29 (Articles B107–B109):** Air Purifiers, Pet Furniture & Portable Lamps — **100% Completed (3/3 Live)**.
 30. **Batch 30 (Articles B110–B112):** Sports Kit, Seasonal Decorations & Desert Camping Gear — **100% Completed (3/3 Live)**.
 31. **Batch 31 (Articles B113–B115):** Garden Machinery, Outdoor Heaters & Domestic Dehumidifiers — **100% Completed (3/3 Live)**.
+32. **Batch 32 (Articles B116–B118):** Soft Furnishings, Water Treatment & Home Audio — **100% Completed (3/3 Live)**.
 
