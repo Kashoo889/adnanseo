@@ -569,4 +569,11 @@
 | 359 | how to dispose of a water filter in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-water-filter-in-dubai`) |
 | 360 | how to dispose of speakers in dubai | Q | Blog Article (`/blog/how-to-dispose-of-audio-speakers-and-soundbars-in-dubai`) |
 
+### New question-intent blog targets (Batch 33)
+
+| # | Keyword | Intent | Recommended Page |
+| :-: | :--- | :---: | :--- |
+| 361 | how to dispose of a coffee machine in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-coffee-machine-in-dubai`) |
+| 362 | how to dispose of a ceiling fan in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-ceiling-fan-in-dubai`) |
+| 363 | how to dispose of a massage chair in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-massage-chair-in-dubai`) |
 

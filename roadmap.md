@@ -463,6 +463,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B116 is distinguished from B23 (sofas) and B77 (recliners) by focusing on loose virgin and recycled expanded polystyrene (EPS) micro-bead containment, static electricity dispersion, severe apartment building trash chute burst hazards, and double-bagging protocols. B117 is distinguished from B71 (freestanding 5-gallon bottled water dispensers) and B74 (dishwashers) by focusing on under-sink multi-stage reverse osmosis filtration manifolds, angle-stop tee disconnection and Ejari deposit plumbing reinstatement, depressurising and draining heavy internal water accumulator tanks, and segregating 24V booster pumps for electronic waste. B118 is distinguished from B55 (televisions) and B27/B90 (computers and storage media sanitization) by addressing acoustic loudspeaker enclosures, permanent ferrite and neodymium magnets that disrupt automated scrap shredders, MDF composite cabinetry separation, and copper toroidal transformer recovery from AV receivers and soundbars.
 
+### Track 36: Kitchen Countertop Appliances, Fixed Fans & Motorized Seating (Clusters 3, 5 & 10)
+*Covers three mixed-material items whose safe removal depends on preparation before collection: draining pressurized coffee machines, electrically isolating fixed ceiling fans, and planning lift access for extremely heavy motorized massage chairs.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B119** | *How to Dispose of a Coffee Machine in Dubai: Boilers, Grounds and E-Waste* | `how to dispose of a coffee machine in dubai` | `coffee machine recycling dubai`, `small appliance recycling dubai`, `e-waste collection dubai` | Q | `/services/appliance-removal` |
+| **B120** | *How to Dispose of a Ceiling Fan in Dubai: Wiring, Blades and Handover Checks* | `how to dispose of a ceiling fan in dubai` | `ceiling fan removal dubai`, `electrical waste recycling dubai`, `Ejari handover repairs` | Q | `/services/household-junk-removal`, `/services/villa-apartment-cleanouts` |
+| **B121** | *How to Dispose of a Massage Chair in Dubai: Weight, Motors and Lift Access* | `how to dispose of a massage chair in dubai` | `massage chair removal dubai`, `bulky item removal dubai`, `motorized furniture disposal dubai` | Q | `/services/mattress-bulky-item-removal` |
+
+**Overlap check (content-rules §16):** B119 differs from B78 (microwaves) and B117 (plumbed water filters) through boiler depressurization, coffee-residue separation, capsule routes and repair triage. B120 differs from B86 (chandeliers) and B109 (portable lamps) through rotating blade removal, motor/capacitor recovery, fan balancing and fixed-circuit isolation. B121 differs from B77 (recliners) and B54 (gym equipment) through full-body track mechanisms, air pumps, model-specific detachable modules, exceptional weight and route measurement for service lifts.
+
 ---
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -497,4 +508,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 30. **Batch 30 (Articles B110–B112):** Sports Kit, Seasonal Decorations & Desert Camping Gear — **100% Completed (3/3 Live)**.
 31. **Batch 31 (Articles B113–B115):** Garden Machinery, Outdoor Heaters & Domestic Dehumidifiers — **100% Completed (3/3 Live)**.
 32. **Batch 32 (Articles B116–B118):** Soft Furnishings, Water Treatment & Home Audio — **100% Completed (3/3 Live)**.
-
+33. **Batch 33 (Articles B119–B121):** Kitchen Countertop Appliances, Fixed Fans & Motorized Seating — **100% Completed (3/3 Live)**.

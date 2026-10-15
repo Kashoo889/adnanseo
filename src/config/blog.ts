@@ -202,6 +202,12 @@ import blogB117Cover from "@/assets/blog-b47-washing-machine-disposal-cover.webp
 import blogB117Body from "@/assets/blog-b46-specialist-waste-collection-body.webp";
 import blogB118Cover from "@/assets/blog-b45-electronics-recycling-cover.webp";
 import blogB118Body from "@/assets/blog-b61-ewaste-sorting-depot-body.webp";
+import blogB119Cover from "@/assets/blog-b119-coffee-machine-cover.webp";
+import blogB119Body from "@/assets/blog-b119-coffee-machine-preparation-body.webp";
+import blogB120Cover from "@/assets/blog-b120-ceiling-fan-removal-cover.webp";
+import blogB120Body from "@/assets/blog-b120-ceiling-fan-components-body.webp";
+import blogB121Cover from "@/assets/blog-b121-massage-chair-removal-cover.webp";
+import blogB121Body from "@/assets/blog-b121-massage-chair-lift-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -14480,6 +14486,222 @@ export const blogPosts: BlogPost[] = [
     relatedSlugs: ["where-to-recycle-electronics-in-dubai", "is-it-illegal-to-throw-electronics-in-the-bin-dubai", "how-to-dispose-of-old-tv-in-dubai"],
     serviceLink: { href: "/services/household-junk-removal", label: "Schedule audio gear and e-waste pickup" },
     sources: [{ href: "https://www.dm.gov.ae/", label: "Dubai Municipality — Environment and Waste Operations" }],
+  },
+  {
+    slug: "how-to-dispose-of-a-coffee-machine-in-dubai",
+    title: "How to Dispose of a Coffee Machine in Dubai: Boilers, Grounds and E-Waste",
+    excerpt: "Coffee machines retain water, grounds and pressure after unplugging. Prepare pod, bean-to-cup and espresso machines for reuse or responsible e-waste collection.",
+    category: "Eco & Recycling",
+    coverImage: blogB119Cover,
+    coverImageAlt: "Unplugged espresso machine with an empty tank, drip tray and portafilter on a Dubai kitchen counter",
+    publishedAt: "2026-10-15",
+    readingTime: "6 min read",
+    author: defaultAuthor,
+    tags: ["Coffee Machine Disposal", "Small Appliance Recycling", "E-Waste Dubai", "Kitchen Clear-Out"],
+    seoTitle: "How to Dispose of a Coffee Machine in Dubai Safely",
+    seoDescription: "How to dispose of a coffee machine in Dubai: cool and drain the boiler, remove grounds and pods, assess reuse, and route broken machines through e-waste.",
+    keyTakeaways: [
+      "Let the machine cool, unplug it and empty every removable water, milk and coffee container before moving it.",
+      "A working machine is best sold, repaired or donated with its accessories; a broken one belongs in an electrical-appliance recovery stream.",
+      "Do not open a pressurized boiler or put a complete coffee machine in a recycling bin intended only for packaging.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a coffee machine in Dubai?",
+        paragraphs: [
+          "To dispose of a coffee machine in Dubai, unplug it, let it cool completely, empty the water tank and drip tray, remove coffee grounds or pods, and secure loose parts. Offer a working unit for reuse or repair; send a failed machine through a bulky-appliance or licensed e-waste collection route.",
+          "An espresso machine is not dry simply because its tank looks empty. Water can remain in the thermoblock, boiler, hoses and steam wand. When tilted in a service lift, stale water and coffee residue can spill onto polished floors and leave the resident with a cleaning charge.",
+        ],
+      },
+      {
+        heading: "Cool, depressurize and drain it before collection",
+        paragraphs: [
+          "Switch the machine off after its final cycle and leave it unplugged until every metal surface is cold. Empty the reservoir, drip tray, capsule drawer and used-ground container. On a manual espresso machine, release the portafilter only after the pressure gauge returns to zero; never force a locked group head or loosen a boiler fitting.",
+          "Do not run another cleaning cycle if the fault involves leaking, tripping power or a burning smell. Wipe the exterior, stand the machine upright on an absorbent towel and tell the collector what failed. Follow only the manufacturer’s user-cleaning instructions; do not open the electrical casing.",
+        ],
+        callout: { type: "warning", title: "A boiler is not a DIY dismantling job", text: "Espresso boilers, capacitors and heating circuits can remain hazardous after unplugging. Remove only user-serviceable trays, tanks and brew parts; leave sealed electrical and pressure components intact." },
+      },
+      {
+        heading: "Keep food waste separate from electrical waste",
+        paragraphs: [
+          "Dry coffee grounds can follow the food-waste route available in your building. Aluminium or plastic capsules should follow the supplier’s confirmed return scheme after draining. Do not leave wet grounds inside the appliance: Dubai heat turns residue sour quickly and can attract insects while a pickup waits in a loading bay.",
+          "The machine combines steel, aluminium, copper wiring, pumps, circuit boards and engineering plastics. It belongs with used electrical appliances, not in a packaging bank. Dubai Municipality’s bulky-waste service includes household electrical and electronic appliances, although development-zone residents may need their community manager or an authorized private collector.",
+        ],
+        image: blogB119Body,
+        imageAlt: "Retired espresso machine with drained tank, dry coffee grounds and coiled lead prepared for e-waste collection",
+        imageCaption: "Draining water and removing food residue keeps collection clean without opening the electrical casing.",
+      },
+      {
+        heading: "Choose repair, reuse or recycling",
+        paragraphs: [
+          "Scale buildup, a blocked steam wand or a worn gasket may be repairable. If the machine heats consistently and does not leak, obtain a quote first. A clean working unit with its portafilter, jug, lead and manual is easier to sell or donate than a box of unidentified parts.",
+          "Retire it when the casing is heat-damaged, the cable is split, it repeatedly trips the circuit, or repair is uneconomic. Our [appliance removal service](https://dubaijunkcollection.com/services/appliance-removal) can combine it with other kitchen appliances. For drop-off options, see our guide to [electronics recycling in Dubai](https://dubaijunkcollection.com/blog/where-to-recycle-electronics-in-dubai).",
+        ],
+      },
+      {
+        heading: "Plan the building handover and pickup route",
+        paragraphs: [
+          "A countertop machine is easy to carry, but a plumbed unit may need a technician. Isolate its water feed, cap the line properly and retain landlord fittings. Photograph the restored connection before an Ejari handover.",
+          "Bag removable pieces, tape the reservoir and drip tray in position, and keep the machine upright in a shallow crate. Confirm any service-lift booking or move-out pass. A whole kitchen clear-out can be coordinated through our [villa and apartment cleanout service](https://dubaijunkcollection.com/services/villa-apartment-cleanouts).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can I put a broken coffee machine in my apartment bin?", answer: "No. It is electrical equipment containing metal, wiring and electronic parts, and is unsuitable for a chute or ordinary bin. Use your community’s e-waste route, an eligible municipal bulky-waste service or an authorized collector." },
+      { question: "Should I descale a coffee machine before donating it?", answer: "If it operates safely, a normal manufacturer-approved descale makes reuse more likely. Do not run it if the machine leaks, smells burnt or trips the power; disclose the fault for repair assessment." },
+      { question: "What should I do with leftover coffee capsules?", answer: "Empty and drain them, then check the capsule brand’s current UAE return rules. Do not place coffee-filled pods in a general metal or plastic packaging bin without confirmation." },
+      { question: "Can a removal crew disconnect a plumbed coffee machine?", answer: "Confirm this when booking. The feed must be isolated and capped without disturbing landlord plumbing. Arrange a qualified appliance technician or plumber for hard-plumbed or commercial machines." },
+    ],
+    relatedSlugs: ["where-to-recycle-electronics-in-dubai", "how-to-dispose-of-old-microwave-dubai", "responsible-appliance-disposal-dubai"],
+    serviceLink: { href: "/services/appliance-removal", label: "Arrange coffee machine and appliance collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Household appliance and furniture disposal service" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-ceiling-fan-in-dubai",
+    title: "How to Dispose of a Ceiling Fan in Dubai: Wiring, Blades and Handover Checks",
+    excerpt: "A ceiling fan is a fixed electrical fitting, not an ordinary bulky item. Remove it safely, protect long blades and restore the ceiling point before reuse or recycling.",
+    category: "Moving & Tenancy",
+    coverImage: blogB120Cover,
+    coverImageAlt: "Qualified workers supporting a ceiling fan motor while removing it from a Dubai apartment",
+    publishedAt: "2026-10-15",
+    readingTime: "6 min read",
+    author: defaultAuthor,
+    tags: ["Ceiling Fan Disposal", "Electrical Safety", "Ejari Handover", "Metal Recycling"],
+    seoTitle: "How to Dispose of a Ceiling Fan in Dubai Safely",
+    seoDescription: "How to dispose of a ceiling fan in Dubai: confirm ownership, isolate the circuit, use a qualified electrician, protect blades and recycle the motor safely.",
+    keyTakeaways: [
+      "Confirm the fan is yours to remove, especially in a furnished or managed rental, before touching a fixed ceiling fitting.",
+      "Isolate the circuit and use a qualified electrician; switching off only the wall control is not a safe disconnection method.",
+      "Remove blades before lowering the motor, then separate lamps and remote-control electronics for recovery.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a ceiling fan in Dubai?",
+        paragraphs: [
+          "To dispose of a ceiling fan in Dubai, first confirm you own the fitting, then have a qualified electrician isolate the circuit and disconnect it. Remove and wrap the blades before lowering the motor. Reuse a safe working fan, or route its metal motor, wiring and electronic controller through electrical-waste recovery.",
+          "Collection is the easy part; de-installation needs planning. A fan’s canopy can conceal a hook, drop rod, receiver module and live conductors. In a rental, the whole fitting may also be recorded on the property inventory.",
+        ],
+      },
+      {
+        heading: "Check ownership and approval before removal",
+        paragraphs: [
+          "Review the inventory and ask the landlord or facilities team whether the fan came with the property. If you installed it, confirm whether management expects the original light reinstated and whether contractor access requires a permit or NOC. Keep the written answer and original fitting together.",
+          "Our [security-deposit handover guide](https://dubaijunkcollection.com/blog/how-to-get-security-deposit-back-dubai) explains why missing fixtures, open fixings and exposed connections become move-out snags.",
+        ],
+        callout: { type: "warning", title: "The wall switch is not isolation", text: "A receiver or wiring fault can leave conductors energized. The correct circuit must be isolated at the distribution board, proved dead with suitable equipment and made safe by a qualified electrician." },
+      },
+      {
+        heading: "Use a blade-first, two-person lowering sequence",
+        paragraphs: [
+          "Work from a stable platform, not furniture. One person removes the lamp shade and blades while the second supports each piece. Label matching blades and brackets if the fan may be reused; mixing them can disturb its original balance and cause wobble.",
+          "With the blades off, support the motor before undoing the canopy and mount. The electrician disconnects and terminates the supply conductors while a helper controls the weight. Double-height villa ceilings require specialist access equipment, not an improvised extension-ladder reach.",
+        ],
+        image: blogB120Body,
+        imageAlt: "Wrapped ceiling fan blades, motor housing and bracket sorted on a protective blanket beside a service lift",
+        imageCaption: "Blade-first dismantling reduces the span and lets the heavy motor housing be lowered under control.",
+      },
+      {
+        heading: "Sort the motor, blades, lamps and controls",
+        paragraphs: [
+          "The motor contains steel laminations, copper windings and a capacitor. Newer DC fans may also contain a control board and receiver. Keep electrical parts intact for an appliance or e-waste route; do not cut open the motor or puncture the capacitor at home.",
+          "Steel brackets can enter metal recovery. Timber-composite or plastic blades are handled separately, and decorative glass should be wrapped rather than put automatically into bottle banks. Remove remote batteries for a battery collection point. Our [portable lamp guide](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-table-and-floor-lamps-in-dubai) covers related material sorting.",
+        ],
+      },
+      {
+        heading: "Book a route that protects lifts and the property",
+        paragraphs: [
+          "Bundle wrapped blades flat, bag the fasteners and place the motor upright in a crate. Towers may require a contractor ID, service-lift slot and loading-bay booking. Never leave the fan in a corridor, electrical room or basement beside a communal bin.",
+          "After safe disconnection, our [household junk removal service](https://dubaijunkcollection.com/services/household-junk-removal) can coordinate collection with other items, or include it in a full [villa or apartment cleanout](https://dubaijunkcollection.com/services/villa-apartment-cleanouts).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can I remove a ceiling fan after turning off the wall switch?", answer: "No. A wall control is not reliable isolation, and the motor is awkward to support while disconnecting fixed wiring. Use a qualified electrician who can isolate and test the circuit." },
+      { question: "Does a broken ceiling fan count as e-waste?", answer: "Yes. Its motor, capacitor, wiring and electronic receiver are electrical waste. Metal brackets and copper can be recovered, while blades and shades are separated by material." },
+      { question: "Must I reinstall the original light before an Ejari handover?", answer: "Often, if you added the fan to a rental. Check the inventory and obtain written landlord instructions. Never leave exposed wiring, open fixings or an unapproved replacement." },
+      { question: "Can a ceiling fan go down an apartment rubbish chute?", answer: "Never. The motor is heavy, blades can jam the chute and electrical parts need a separate recovery route. Keep it in your unit until collection." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-chandeliers-in-dubai", "how-to-dispose-of-old-table-and-floor-lamps-in-dubai", "where-to-recycle-electronics-in-dubai"],
+    serviceLink: { href: "/services/household-junk-removal", label: "Book collection after safe fan disconnection" },
+    sources: [
+      { href: "https://www.dewa.gov.ae/-/media/DEWA_Regulations_for_Electrical_Installations_2017_Edition.ashx", label: "DEWA — Regulations for Electrical Installations" },
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Household appliance and furniture disposal service" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-massage-chair-in-dubai",
+    title: "How to Dispose of a Massage Chair in Dubai: Weight, Motors and Lift Access",
+    excerpt: "Motorized massage chairs are heavier and wider than ordinary recliners. Measure the route, secure moving sections and choose repair, resale or responsible bulky-item collection.",
+    category: "Moving & Tenancy",
+    coverImage: blogB121Cover,
+    coverImageAlt: "Two uniformed crew members securing a motorized massage chair on a dolly inside a Dubai villa",
+    publishedAt: "2026-10-15",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Massage Chair Disposal", "Bulky Item Removal", "Furniture Removal", "Service Lift Planning"],
+    seoTitle: "How to Dispose of a Massage Chair in Dubai",
+    seoDescription: "How to dispose of a massage chair in Dubai: test repair or resale, secure motors and footrests, measure doors and lifts, and book a trained bulky-item crew.",
+    keyTakeaways: [
+      "Find the model’s weight and transport instructions before moving it; full-body chairs are heavier than their footprint suggests.",
+      "Unplug it, return it to transport position, secure the footrest and remote, and remove only approved detachable sections.",
+      "A failed chair combines upholstered furniture with motors and boards, so choose a route that recovers electronics and metal.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a massage chair in Dubai?",
+        paragraphs: [
+          "To dispose of a massage chair in Dubai, test whether repair or resale is practical, then unplug it, retract and secure the footrest, remove only approved detachable sections, and measure every doorway and lift. Use a trained two-person bulky-item crew, and route failed motors, wiring and control boards through electrical-waste recovery.",
+          "A massage chair moves differently from an ordinary recliner. Steel frames, tracks, pumps and motors put much of the weight low and toward the back. Tilt it without securing the mechanism and the foot carriage or shell can extend into a wall or lift door.",
+        ],
+      },
+      {
+        heading: "Check whether repair or resale is realistic",
+        paragraphs: [
+          "Start with the model label, error code and a video of the fault. A damaged remote cable, power supply or air hose may be replaceable, while a seized track or unavailable control board may not be. Ask the UAE distributor about parts before declaring the chair waste.",
+          "For resale, demonstrate every program, roller, heater, airbag and reclining action. Disclose noise, tears and intermittent controls, and keep the remote, lead, manual and cushions together. Give the buyer exact dimensions plus the floor and lift details.",
+        ],
+        callout: { type: "tip", title: "Photograph the model plate first", text: "The serial label may become inaccessible once the chair is on a dolly. Photograph it so a repairer, buyer or recycler can identify the electrical system without tipping the chair again." },
+      },
+      {
+        heading: "Prepare the chair without opening its powered frame",
+        paragraphs: [
+          "Run a working chair to the manufacturer’s transport position, then switch off and unplug it. Coil the cable, bag the remote and loose cushions, and strap the footrest and arms so they cannot open. Never place straps across a control panel or pull on upholstery seams.",
+          "Some models have a documented removable calf unit or side panels; others hide sensor wires and air tubes there. Follow the manual. Do not cut the frame, disconnect capacitors or expose motor wiring. If it cannot clear the route intact, use a model-aware technician first.",
+        ],
+        image: blogB121Body,
+        imageAlt: "Motorized massage chair secured on a heavy-duty dolly beside a protected Dubai apartment service lift",
+        imageCaption: "A heavy-duty dolly and protected lift route keep the chair stable without dragging its base across marble.",
+      },
+      {
+        heading: "Measure the entire route, not just the front door",
+        paragraphs: [
+          "Record width, depth, height and listed weight, then measure the narrowest doorway, corridor turn, lift opening and loading-bay clearance. Protect thresholds and floors with rigid sheets and blankets; tiny furniture sliders are not designed for the chair’s concentrated load.",
+          "Reserve the service lift and send management the item size. A tight vestibule turn is often the real obstacle. At a villa, check steps, gravel and gate width, then schedule earlier during hot months so the chair is not left in direct sun while the truck is positioned.",
+        ],
+      },
+      {
+        heading: "Choose a bulky-item route that accounts for electronics",
+        paragraphs: [
+          "A failed chair contains steel, copper motors, wiring, boards, plastics, foam and upholstery. Do not abandon it beside a community bin or crush it whole. Ask whether the route separates electrical components and metal. Dubai Municipality includes furniture and used electronics in its bulky-waste service, subject to service-area conditions.",
+          "Our [bulky-item removal service](https://dubaijunkcollection.com/services/mattress-bulky-item-removal) provides trained handling, while a furnished handover can use our [villa and apartment cleanout service](https://dubaijunkcollection.com/services/villa-apartment-cleanouts). For lighter chairs, see our [recliner disposal guide](https://dubaijunkcollection.com/blog/how-to-dispose-of-recliner-chair-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can two people carry a massage chair without special equipment?", answer: "Do not assume so. Check its listed weight and instructions. A crew may need a heavy-duty or powered dolly, straps, floor protection and extra people for stairs or tight turns." },
+      { question: "Can I take a massage chair apart to fit it in the lift?", answer: "Only remove manufacturer-approved sections. Side panels and foot units can conceal tubes, sensors and powered cables. A model-specific technician should handle further dismantling." },
+      { question: "Is a broken massage chair furniture or e-waste?", answer: "It is both. The shell is bulky furniture, while motors, transformers, wiring, remotes and control boards are electrical waste. Use a route that separates those streams." },
+      { question: "Will management allow it in the passenger lift?", answer: "Policies vary, but many towers require a reserved service lift and loading bay. Send management the chair dimensions, collector details and proposed time before booking." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-recliner-chair-dubai", "how-to-dispose-of-gym-equipment-in-dubai", "diy-junk-removal-vs-hiring-dubai"],
+    serviceLink: { href: "/services/mattress-bulky-item-removal", label: "Book safe massage chair collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Household appliance and furniture disposal service" },
+      { href: "https://www.dm.gov.ae/municipality-business/waste-department-technical-guidelines-2/", label: "Dubai Municipality — Waste technical guidelines" },
+    ],
   },
 ];
 
