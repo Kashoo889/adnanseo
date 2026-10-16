@@ -474,6 +474,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B119 differs from B78 (microwaves) and B117 (plumbed water filters) through boiler depressurization, coffee-residue separation, capsule routes and repair triage. B120 differs from B86 (chandeliers) and B109 (portable lamps) through rotating blade removal, motor/capacitor recovery, fan balancing and fixed-circuit isolation. B121 differs from B77 (recliners) and B54 (gym equipment) through full-body track mechanisms, air pumps, model-specific detachable modules, exceptional weight and route measurement for service lifts.
 
+### Track 37: Storage Furniture, Laundry Appliances & Modular Offices (Clusters 3, 4, 5 & 6)
+*Extends the item-specific disposal series with three different preparation problems: securing drawer furniture for narrow residential routes, identifying refrigerant-bearing heat-pump dryers, and decommissioning powered modular office partitions without disrupting occupied floors.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B122** | *How to Dispose of a Chest of Drawers in Dubai: Safe Emptying, Lifting and Reuse* | `how to dispose of a chest of drawers in dubai` | `chest of drawers disposal dubai`, `furniture collection dubai`, `sell vs donate old furniture dubai` | Q | `/services/furniture-removal` |
+| **B123** | *How to Dispose of a Tumble Dryer in Dubai: Heat Pumps, Lint and Safe Collection* | `how to dispose of a tumble dryer in dubai` | `tumble dryer disposal dubai`, `appliance recycling dubai`, `heat pump dryer recycling` | Q | `/services/appliance-removal` |
+| **B124** | *How to Dispose of Office Cubicles in Dubai: Power Isolation, Panels and Lift Access* | `how to dispose of office cubicles in dubai` | `cubicle disposal dubai`, `office furniture recycling dubai`, `office decommissioning dubai` | Q | `/services/office-junk-removal` |
+
+**Overlap check (content-rules §16):** B122 differs from B75 (wardrobes), B94 (shelving) and B100 (shoe racks) through drawer-runner restraint, anti-tip hardware retention, balanced carrying and chest-specific reuse checks. B123 differs from B47 (washing machines), B74 (dishwashers), B98 (general large appliances) and B115 (dehumidifiers) through lint removal, condensate handling, stacked-unit lowering and tumble-dryer heat-pump circuits. B124 differs from B28/B38 (whole-office workflow), B80 (desks), B93 (filing cabinets) and the commercial service page through modular panel sequencing, integrated power/data isolation, proprietary connector inventories and occupied-floor logistics.
+
 ---
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -509,3 +520,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 31. **Batch 31 (Articles B113–B115):** Garden Machinery, Outdoor Heaters & Domestic Dehumidifiers — **100% Completed (3/3 Live)**.
 32. **Batch 32 (Articles B116–B118):** Soft Furnishings, Water Treatment & Home Audio — **100% Completed (3/3 Live)**.
 33. **Batch 33 (Articles B119–B121):** Kitchen Countertop Appliances, Fixed Fans & Motorized Seating — **100% Completed (3/3 Live)**.
+34. **Batch 34 (Articles B122–B124):** Storage Furniture, Laundry Appliances & Modular Offices — **100% Completed (3/3 Live)**.

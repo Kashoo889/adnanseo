@@ -577,3 +577,10 @@
 | 362 | how to dispose of a ceiling fan in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-ceiling-fan-in-dubai`) |
 | 363 | how to dispose of a massage chair in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-massage-chair-in-dubai`) |
 
+### New question-intent blog targets (Batch 34)
+
+| # | Keyword | Intent | Recommended Page |
+| :-: | :--- | :---: | :--- |
+| 364 | how to dispose of a chest of drawers in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-chest-of-drawers-in-dubai`) |
+| 365 | how to dispose of a tumble dryer in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-tumble-dryer-in-dubai`) |
+| 366 | how to dispose of office cubicles in dubai | Q | Blog Article (`/blog/how-to-dispose-of-office-cubicles-in-dubai`) |

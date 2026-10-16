@@ -208,6 +208,12 @@ import blogB120Cover from "@/assets/blog-b120-ceiling-fan-removal-cover.webp";
 import blogB120Body from "@/assets/blog-b120-ceiling-fan-components-body.webp";
 import blogB121Cover from "@/assets/blog-b121-massage-chair-removal-cover.webp";
 import blogB121Body from "@/assets/blog-b121-massage-chair-lift-body.webp";
+import blogB122Cover from "@/assets/blog-b100-shoe-cabinet-cover.webp";
+import blogB122Body from "@/assets/blog-b100-shoe-rack-dismantling-body.webp";
+import blogB123Cover from "@/assets/blog-b47-washing-machine-disposal-cover.webp";
+import blogB123Body from "@/assets/blog-b98-appliance-disposal-cover.webp";
+import blogB124Cover from "@/assets/blog-b38-office-relocation-cover.webp";
+import blogB124Body from "@/assets/blog-b38-office-loading-access-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -14701,6 +14707,225 @@ export const blogPosts: BlogPost[] = [
     sources: [
       { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Household appliance and furniture disposal service" },
       { href: "https://www.dm.gov.ae/municipality-business/waste-department-technical-guidelines-2/", label: "Dubai Municipality — Waste technical guidelines" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-chest-of-drawers-in-dubai",
+    title: "How to Dispose of a Chest of Drawers in Dubai: Safe Emptying, Lifting and Reuse",
+    excerpt: "A chest of drawers becomes unstable when moved with loaded or loose drawers. Empty it, secure the moving parts, measure the lift route and choose reuse or furniture recovery.",
+    category: "Guides & Tips",
+    coverImage: blogB122Cover,
+    coverImageAlt: "Two uniformed movers wrapping a wooden chest of drawers in a Dubai apartment corridor",
+    publishedAt: "2026-10-16",
+    readingTime: "6 min read",
+    author: defaultAuthor,
+    tags: ["Chest of Drawers Disposal", "Furniture Reuse", "Apartment Move-Out", "Service Lift Planning"],
+    seoTitle: "How to Dispose of a Chest of Drawers in Dubai Safely",
+    seoDescription: "How to dispose of a chest of drawers in Dubai: empty and secure it, check reuse, measure the lift route and arrange responsible furniture collection.",
+    keyTakeaways: [
+      "Empty every drawer before moving the cabinet and remove drawers only when the construction allows it safely.",
+      "Measure the cabinet, doorways, corridor turns and service-lift opening before booking a collection slot.",
+      "Keep sound solid-wood furniture intact for reuse; dismantle damaged flat-pack units only when access requires it.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a chest of drawers in Dubai?",
+        paragraphs: [
+          "To dispose of a chest of drawers in Dubai, empty it completely, secure or remove loose drawers, check whether the cabinet can be reused, and measure the route to the loading bay. Book the service lift where required, then use a furniture collector that separates reusable timber, metal runners and damaged composite board.",
+          "The awkward part is balance, not just weight. Drawers can slide toward the person carrying the lower end, while a tall narrow chest can twist at a corridor turn. Moving it loaded also strains runners and joints that may otherwise survive for reuse.",
+        ],
+      },
+      {
+        heading: "Decide whether to sell, donate or retire it",
+        paragraphs: [
+          "Check the back panel, feet, drawer bottoms and anti-tip fixing. A dry, odour-free cabinet with square joints and working runners may suit resale or donation. Photograph it in daylight with every drawer open, and give buyers the exact dimensions, material, floor number and collection deadline.",
+          "Retire a unit with swollen particleboard, active pest damage, mould, broken structural joints or a frame that racks sideways. Our guide to [selling or donating old furniture](https://dubaijunkcollection.com/blog/sell-vs-donate-old-furniture-dubai) helps match condition to the right route without promising that a charity will accept it.",
+        ],
+        callout: { type: "tip", title: "Keep the wall-fixing hardware", text: "If the chest can be reused, bag its anti-tip strap, brackets and screws and tape the bag inside an empty drawer. The next owner needs them to anchor tall furniture safely." },
+      },
+      {
+        heading: "Empty and prepare the cabinet before lifting",
+        paragraphs: [
+          "Remove clothes, liners, jewellery and documents, then inspect behind and underneath the unit. Take out drawers only if they release normally; forced removal can damage concealed stops. Number each drawer with low-tack tape because hand-fitted timber drawers may not interchange cleanly.",
+          "Lock removable drawers inside the unit with stretch wrap, or carry them separately in a labelled stack. Do not tape directly onto veneer. Protect corners with blankets and keep hands beneath the structural base rather than pulling on knobs, the top overhang or a thin back panel.",
+        ],
+        image: blogB122Body,
+        imageAlt: "Technician removing drawer hardware from a wooden storage cabinet before transport",
+        imageCaption: "Controlled disassembly protects reusable panels and prevents drawer mechanisms from opening during the move.",
+      },
+      {
+        heading: "Plan the apartment or villa exit route",
+        paragraphs: [
+          "Measure the chest at its widest fixed point, then check the front door, corridor corner, lift opening and loading-bay access. In managed towers, reserve the service lift and confirm whether security needs a move-out pass, contractor ID or protective floor covering. Never leave the unit in a fire corridor while paperwork is resolved.",
+          "At villas, clear the driveway and avoid leaving wrapped veneer in direct summer sun. For a complete bedroom clear-out, compare the steps in our [wardrobe disposal guide](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-wardrobe-dubai) and use our [furniture removal service](https://dubaijunkcollection.com/services/furniture-removal) for coordinated collection.",
+        ],
+      },
+      {
+        heading: "Separate materials only when reuse is no longer possible",
+        paragraphs: [
+          "A chest may combine solid timber or laminated board with steel runners, aluminium handles, mirrors and plastic stops. Keep a sound item whole for reuse. If it is irreparable, a collector can separate clean metal hardware and suitable timber while routing composite panels according to the receiving facility's rules.",
+          "Do not break the cabinet in a shared hallway or force panels down a rubbish chute. Screws, sharp runner edges and large boards create injury and blockage risks. Dubai Municipality lists household furniture among its bulky-waste services, subject to the property's location and current service conditions.",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Should I remove drawers before moving a chest?", answer: "Usually, yes, if they release normally and can be labelled. Removing them reduces weight and prevents sudden sliding. If stops are concealed or the drawers form part of the cabinet's rigidity, secure them closed instead of forcing them out." },
+      { question: "Can I leave a chest of drawers beside the building bins?", answer: "Not without written confirmation from building management. Bulky furniture can obstruct waste rooms, loading bays and fire routes. Keep it inside the property until the approved collection window." },
+      { question: "Will a charity collect a damaged chest of drawers?", answer: "Acceptance varies, but furniture with swollen board, mould, pests, broken runners or unsafe joints is unlikely to be reusable. Send honest photos and dimensions before arranging a donation pickup." },
+      { question: "Can a flat-pack chest be dismantled for collection?", answer: "Yes, when access requires it, but older particleboard may not survive reassembly. Photograph the construction first, retain fixings and dismantle inside the room so loose panels do not block common areas." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-old-wardrobe-dubai", "how-to-dispose-of-a-shoe-rack-in-dubai", "sell-vs-donate-old-furniture-dubai"],
+    serviceLink: { href: "/services/furniture-removal", label: "Arrange chest of drawers collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Household appliance and furniture disposal service" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-tumble-dryer-in-dubai",
+    title: "How to Dispose of a Tumble Dryer in Dubai: Heat Pumps, Lint and Safe Collection",
+    excerpt: "Tumble dryers need more than unplugging. Empty lint and water, identify heat-pump refrigerant, release stacked units safely and keep the appliance intact for specialist recovery.",
+    category: "Eco & Recycling",
+    coverImage: blogB123Cover,
+    coverImageAlt: "Uniformed crew moving a white laundry appliance through a protected Dubai apartment doorway",
+    publishedAt: "2026-10-16",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Tumble Dryer Disposal", "Heat Pump Appliance", "E-Waste Recycling", "Laundry Appliances"],
+    seoTitle: "How to Dispose of a Tumble Dryer Safely in Dubai",
+    seoDescription: "How to dispose of a tumble dryer in Dubai: clear lint and water, identify heat-pump refrigerant, unstack it safely and use appliance recovery.",
+    keyTakeaways: [
+      "Unplug the dryer, clear lint, empty its condensate tank and let internal moisture dry before collection.",
+      "Heat-pump dryers contain a sealed refrigerant circuit that must remain intact for specialist recovery.",
+      "A stacked dryer must be released from its proper stacking kit by people able to control its weight at height.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a tumble dryer in Dubai?",
+        paragraphs: [
+          "To dispose of a tumble dryer in Dubai, unplug it, empty the lint filter and condensate tank, identify whether it is vented, condenser or heat-pump, and detach only external hoses. Have a stacked unit lowered safely, keep any refrigerant circuit sealed, and use an appliance route that recovers metal, wiring and electronics.",
+          "Dryers look similar to washing machines but create different preparation problems. Lint remains combustible, condenser water spills in lifts, and a heat-pump model contains a refrigeration system. A stacked installation adds a high, awkward lift before the appliance even reaches the doorway.",
+        ],
+      },
+      {
+        heading: "Check repair, resale and the dryer type",
+        paragraphs: [
+          "Record the model number and fault code before unplugging it. A worn belt, blocked condenser or failed door switch may be repairable; a technician can compare that cost with the machine's age and condition. For resale, demonstrate a complete heated cycle and disclose unusual noise, smells or intermittent faults.",
+          "Read the rating label or manual to distinguish vented, condenser and heat-pump models. A heat-pump dryer may name a refrigerant such as R134a or R290. Do not pierce pipes, remove the compressor or treat it as ordinary scrap; the sealed circuit belongs with a qualified appliance-recovery route.",
+        ],
+        callout: { type: "warning", title: "Do not cut a heat-pump dryer apart", text: "A heat-pump model contains pressurised refrigerant and compressor oil. Keep the cabinet and tubing intact and tell the collector the model type before pickup." },
+      },
+      {
+        heading: "Clear lint and water before the crew arrives",
+        paragraphs: [
+          "Switch off and unplug the machine. Remove lint from the door filter into a closed bag, empty and rinse the condensate tank, and clean only user-serviceable condenser parts described in the manual. Let them dry before refitting so dirty water does not drain across a corridor or service lift.",
+          "Disconnect a removable vent hose and bag it with the manual and stacking-kit hardware. Coil the lead, secure the door without sealing dampness inside, and keep the dryer upright. Do not run a final cycle if the plug is heat-damaged, the drum smells burnt or the appliance trips the circuit.",
+        ],
+        image: blogB123Body,
+        imageAlt: "Appliance recovery team sorting washing machines and dryers at a Dubai recycling facility",
+        imageCaption: "Keeping laundry appliances intact lets a recovery facility separate steel, motors, wiring and electronic controls safely.",
+      },
+      {
+        heading: "Lower a stacked dryer without damaging the washer",
+        paragraphs: [
+          "Confirm that the dryer is held by a manufacturer-approved stacking kit, not improvised screws or adhesive. Clear space around the machines, remove the retaining parts as instructed and use two capable people to bring the dryer down under control. Do not stand on the washer or drag the dryer across its top.",
+          "If the machine is hard-wired, installed behind fitted joinery or connected to a shared building exhaust, ask a qualified technician or facilities team to release it. DEWA advises using accredited technicians for appliance installation and maintenance rather than dealing directly with electrical sources.",
+        ],
+      },
+      {
+        heading: "Book access and the correct appliance route",
+        paragraphs: [
+          "Send the collector the model, dimensions, floor, stack arrangement and lift details. Towers may require contractor identification, a service-lift reservation and loading-bay slot. Schedule earlier in hot weather so the machine is not stored in an unventilated corridor or left outside while access is arranged.",
+          "Our [appliance removal service](https://dubaijunkcollection.com/services/appliance-removal) can coordinate collection after safe disconnection. For an adjacent washer, follow the [washing-machine disposal guide](https://dubaijunkcollection.com/blog/where-to-dispose-washing-machine-dubai); for refrigerant handling, see our [responsible appliance disposal guide](https://dubaijunkcollection.com/blog/responsible-appliance-disposal-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Does a heat-pump dryer contain refrigerant?", answer: "Yes. Heat-pump models use a sealed refrigeration circuit. Check the rating label or manual for the refrigerant type, keep the pipework intact and tell the appliance collector that it is a heat-pump dryer." },
+      { question: "Can I put a tumble dryer beside the community bin?", answer: "No, unless building management has explicitly designated an approved bulky-appliance collection point and time. A dryer can block waste rooms and contains electrical parts requiring a separate route." },
+      { question: "Must I remove a dryer from the top of the washing machine?", answer: "Usually the units must be separated for safe transport. Ask the collector whether its crew handles stacking-kit removal, and disclose any fitted cabinetry, hard wiring or restricted access before arrival." },
+      { question: "Should a broken dryer be kept upright?", answer: "Yes. Upright transport protects the drum suspension and, for heat-pump models, the compressor and sealed circuit. Secure the door, lead, tank and loose hose without opening the cabinet." },
+    ],
+    relatedSlugs: ["where-to-dispose-washing-machine-dubai", "responsible-appliance-disposal-dubai", "where-to-recycle-electronics-in-dubai"],
+    serviceLink: { href: "/services/appliance-removal", label: "Arrange tumble dryer collection" },
+    sources: [
+      { href: "https://www.dewa.gov.ae/en/about-us/media-publications/latest-news/2023/07/dewa-urges-customers-to-implement-precautionary-measures", label: "DEWA — Electrical appliance safety and accredited technicians" },
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Household appliance and furniture disposal service" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-office-cubicles-in-dubai",
+    title: "How to Dispose of Office Cubicles in Dubai: Power Isolation, Panels and Lift Access",
+    excerpt: "Cubicles are building systems, not loose desks. Audit power and data, label reusable modules, dismantle in sequence and plan after-hours loading without disrupting occupied floors.",
+    category: "Commercial & Office",
+    coverImage: blogB124Cover,
+    coverImageAlt: "Uniformed crew moving office chairs and boxed equipment during a Dubai office clearance",
+    publishedAt: "2026-10-16",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Office Cubicle Disposal", "Office Decommissioning", "Commercial Clearance", "Furniture Reuse"],
+    seoTitle: "How to Dispose of Office Cubicles Safely in Dubai",
+    seoDescription: "How to dispose of office cubicles in Dubai: isolate power and data, inventory reusable modules, dismantle safely and plan service-lift access.",
+    keyTakeaways: [
+      "Have facilities or a qualified contractor isolate any power and data feeds before the first panel is released.",
+      "Photograph, label and count panels, connectors, worktops and hardware before dismantling to preserve reuse value.",
+      "Agree freight-lift, loading-bay, parking and after-hours rules with building management before scheduling the crew.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of office cubicles in Dubai?",
+        paragraphs: [
+          "To dispose of office cubicles in Dubai, first audit ownership, power, data and reusable modules. Have qualified contractors isolate connected services, then label and dismantle panels in the manufacturer's sequence. Protect occupied routes, reserve the freight lift and loading bay, and separate steel, aluminium, timber board, cabling and reusable components.",
+          "A cubicle is not simply a desk with screens. Its panels may stabilize worktops, carry power sockets and conceal network cables. Removing the wrong connector first can drop a return top, damage a live feed or turn a reusable modular system into mixed debris.",
+        ],
+      },
+      {
+        heading: "Audit ownership, records and services before dismantling",
+        paragraphs: [
+          "Confirm whether the system belongs to the tenant, landlord or fit-out contractor, and compare it with the lease and reinstatement scope. Record the maker, panel sizes, finishes, workstation layout and damaged modules. Photograph cable paths and floor-box positions before equipment is unplugged.",
+          "IT should remove computers, desk phones and data-bearing devices, while facilities identifies circuits, floor boxes and any under-desk power modules. Fixed electrical work requires the appropriate qualified contractor. Our [office relocation clearance plan](https://dubaijunkcollection.com/blog/office-relocation-junk-removal-dubai) covers sequencing equipment, records and furniture around a live workday.",
+        ],
+        callout: { type: "warning", title: "Treat panel sockets as live until proved otherwise", text: "Turning off a workstation power strip does not isolate a circuit feeding modular panels. Facilities or a qualified electrical contractor must identify, isolate and make the connection safe before dismantling." },
+      },
+      {
+        heading: "Preserve reuse value with a labelled dismantling sequence",
+        paragraphs: [
+          "Create a bay-by-bay plan and mark matching panels, worktops, brackets and legs with removable labels. Bag proprietary clips and fasteners by workstation. Remove screens, cable trays and return tops in the maker's sequence while temporary supports hold any surface that depends on the panels.",
+          "Keep fabric panels dry and upright; do not fold or stack weight on them. Protect laminate edges and wrap glass divider panels individually. Complete one test bay first, which reveals hidden fixings and produces an accurate time estimate before the main after-hours clearance begins.",
+        ],
+        image: blogB124Body,
+        imageAlt: "Office clearance crew moving modular furniture through a reserved service corridor in Dubai",
+        imageCaption: "A labelled, protected route keeps reusable office modules organized and reduces disruption to occupied floors.",
+      },
+      {
+        heading: "Plan a building-approved route and work window",
+        paragraphs: [
+          "Send management the contractor list, method statement, insurance documents and vehicle details they request. Reserve the freight lift and loading bay, confirm parking-height limits, and protect floors and lift walls. DIFC and Business Bay offices often share service areas, so an unbooked truck can lose the planned window.",
+          "Separate noisy dismantling from quiet occupied periods and maintain clear fire exits throughout. Use closed carts for fasteners and short components, and never lean tall panels against a corridor wall. A floor marshal should control lift movements so staff and visitors do not enter the work zone.",
+        ],
+      },
+      {
+        heading: "Choose reuse, resale or material recovery by module",
+        paragraphs: [
+          "Complete systems with a known maker, consistent sizes and intact connectors are easier to resell than mixed loose panels. Offer an inventory, layout drawing, photographs and a collection deadline. Damaged fabric, cut cable looms or missing proprietary hardware should be disclosed rather than hidden in a bulk lot.",
+          "When reuse is not possible, separate steel frames, aluminium trims, recoverable cable and clean worktops according to the receiving facility's rules. Our [office junk removal service](https://dubaijunkcollection.com/services/office-junk-removal) can coordinate phased loading, while the [workplace decluttering guide](https://dubaijunkcollection.com/blog/decluttering-the-workplace-productivity) helps decide what should leave before dismantling starts.",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can an office removal crew disconnect powered cubicles?", answer: "Only if the agreed crew includes an appropriately qualified contractor for the electrical scope. Tell the provider whether feeds are plug-connected, hard-wired or supplied through floor boxes, and obtain facilities approval before work." },
+      { question: "Are used cubicle panels worth reselling in Dubai?", answer: "They can be when the system is complete, clean and identifiable. Value falls sharply when connectors are missing, panel sizes are mixed or worktops have been cut. A labelled inventory and layout drawing improve the chance of reuse." },
+      { question: "How should confidential material be handled during cubicle removal?", answer: "Clear every pedestal, overhead bin and cable tray before contractors start. Place confidential paper in the organization's approved locked shredding stream and send data-bearing devices through the IT asset process." },
+      { question: "Do office cubicles need a freight-lift booking?", answer: "Most managed commercial towers require one, along with a loading-bay slot and contractor documentation. Confirm the building's rules because passenger lifts and public lobbies may be prohibited for fit-out materials." },
+      { question: "Can cubicle panels be broken up to save truck space?", answer: "Not if reuse is possible. Destructive handling mixes fabric, foam, board and metal and creates sharp edges. Dismantle at connectors first, then let the receiving route decide which irreparable modules need material separation." },
+    ],
+    relatedSlugs: ["office-relocation-junk-removal-dubai", "how-to-clear-an-office-in-dubai", "decluttering-the-workplace-productivity"],
+    serviceLink: { href: "/services/office-junk-removal", label: "Plan a phased cubicle clearance" },
+    sources: [
+      { href: "https://www.dewa.gov.ae/-/media/DEWA_Regulations_for_Electrical_Installations_2017_Edition.ashx", label: "DEWA — Regulations for Electrical Installations" },
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.2-Waste-Collection-and-Transport.pdf", label: "Dubai Municipality — Waste collection and transport technical guideline" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
     ],
   },
 ];
