@@ -485,6 +485,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B122 differs from B75 (wardrobes), B94 (shelving) and B100 (shoe racks) through drawer-runner restraint, anti-tip hardware retention, balanced carrying and chest-specific reuse checks. B123 differs from B47 (washing machines), B74 (dishwashers), B98 (general large appliances) and B115 (dehumidifiers) through lint removal, condensate handling, stacked-unit lowering and tumble-dryer heat-pump circuits. B124 differs from B28/B38 (whole-office workflow), B80 (desks), B93 (filing cabinets) and the commercial service page through modular panel sequencing, integrated power/data isolation, proprietary connector inventories and occupied-floor logistics.
 
+### Track 38: Bunk Beds, Kitchen Extraction & Vending Equipment (Clusters 3, 4 & 6)
+*Adds three distinct removal workflows: dismantling a two-level children's bed without destabilizing the upper frame, releasing a fixed kitchen extractor without damaging wiring or ducts, and retiring a leased or connected vending machine with stock, payment and refrigeration controls.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B125** | *How to Dispose of a Bunk Bed in Dubai: Rails, Ladders and Safe Dismantling* | `how to dispose of a bunk bed in dubai` | `bunk bed disposal dubai`, `bed frame disposal dubai`, `furniture collection dubai` | Q | `/services/furniture-removal` |
+| **B126** | *How to Dispose of a Cooker Hood in Dubai: Wiring, Ducts and Grease Filters* | `how to dispose of a cooker hood in dubai` | `cooker hood disposal dubai`, `kitchen appliance recycling dubai`, `electrical waste recycling dubai` | Q | `/services/appliance-removal` |
+| **B127** | *How to Dispose of a Vending Machine in Dubai: Stock, Payments and Heavy Access* | `how to dispose of a vending machine in dubai` | `vending machine disposal dubai`, `commercial appliance recycling dubai`, `office equipment removal dubai` | Q | `/services/office-junk-removal` |
+
+**Overlap check (content-rules §16):** B125 differs from B65 (standard bed frames), B68 (general baby items) and B105 (bedding) through load-bearing upper-frame sequencing, guard rails, ladders, paired mattresses and long component routes. B126 differs from B66 (ovens), B82 (fitted cabinets) and B120 (ceiling fans) through grease containment, extract-versus-recirculate identification, duct preservation and under-cabinet mounting. B127 differs from B81 (printers), B90 (data-safe IT assets) and B98 (domestic appliances) through operator ownership contracts, stock and cash reconciliation, merchant and telemetry accounts, payment modules, vending spirals and chilled commercial cabinets.
+
 ---
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -521,3 +532,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 32. **Batch 32 (Articles B116–B118):** Soft Furnishings, Water Treatment & Home Audio — **100% Completed (3/3 Live)**.
 33. **Batch 33 (Articles B119–B121):** Kitchen Countertop Appliances, Fixed Fans & Motorized Seating — **100% Completed (3/3 Live)**.
 34. **Batch 34 (Articles B122–B124):** Storage Furniture, Laundry Appliances & Modular Offices — **100% Completed (3/3 Live)**.
+35. **Batch 35 (Articles B125–B127):** Bunk Beds, Kitchen Extraction & Vending Equipment — **100% Completed (3/3 Live)**.

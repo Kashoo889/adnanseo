@@ -214,6 +214,12 @@ import blogB123Cover from "@/assets/blog-b47-washing-machine-disposal-cover.webp
 import blogB123Body from "@/assets/blog-b98-appliance-disposal-cover.webp";
 import blogB124Cover from "@/assets/blog-b38-office-relocation-cover.webp";
 import blogB124Body from "@/assets/blog-b38-office-loading-access-body.webp";
+import blogB125Cover from "@/assets/blog-b125-bunk-bed-removal-cover.webp";
+import blogB125Body from "@/assets/blog-b125-bunk-bed-components-body.webp";
+import blogB126Cover from "@/assets/blog-b126-cooker-hood-removal-cover.webp";
+import blogB126Body from "@/assets/blog-b126-cooker-hood-parts-body.webp";
+import blogB127Cover from "@/assets/blog-b127-vending-machine-removal-cover.webp";
+import blogB127Body from "@/assets/blog-b127-vending-machine-preparation-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -14922,6 +14928,204 @@ export const blogPosts: BlogPost[] = [
     ],
     relatedSlugs: ["office-relocation-junk-removal-dubai", "how-to-clear-an-office-in-dubai", "decluttering-the-workplace-productivity"],
     serviceLink: { href: "/services/office-junk-removal", label: "Plan a phased cubicle clearance" },
+    sources: [
+      { href: "https://www.dewa.gov.ae/-/media/DEWA_Regulations_for_Electrical_Installations_2017_Edition.ashx", label: "DEWA — Regulations for Electrical Installations" },
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.2-Waste-Collection-and-Transport.pdf", label: "Dubai Municipality — Waste collection and transport technical guideline" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-bunk-bed-in-dubai",
+    title: "How to Dispose of a Bunk Bed in Dubai: Rails, Ladders and Safe Dismantling",
+    excerpt: "Bunk beds must come apart in a stable sequence. Remove both mattresses, support the upper frame, label every fixing and plan long rails around lifts and corridor turns.",
+    category: "Guides & Tips",
+    coverImage: blogB125Cover,
+    coverImageAlt: "Two uniformed movers dismantling a wooden bunk bed in a bright Dubai apartment bedroom",
+    publishedAt: "2026-10-17",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Bunk Bed Disposal", "Furniture Removal", "Apartment Move-Out", "Bulky Items"],
+    seoTitle: "How to Dispose of a Bunk Bed in Dubai | Safe Removal",
+    seoDescription: "How to dispose of a bunk bed in Dubai: remove mattresses, dismantle the upper frame safely, label fixings and plan building-approved collection.",
+    keyTakeaways: [
+      "Remove mattresses and bedding first, then dismantle the upper frame while every released rail remains supported.",
+      "Photograph joints and label the complete hardware set if the bunk bed may be reused or sold.",
+      "Measure the longest fixed part and reserve the service lift before moving rails into a shared corridor.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a bunk bed in Dubai?",
+        paragraphs: [
+          "To dispose of a bunk bed in Dubai, remove bedding and mattresses, photograph the assembly, check wall fixings, then dismantle from top to bottom while supporting each rail. Label hardware, wrap long parts, reserve building access, and send a complete sound frame for reuse or damaged materials through an approved bulky-item route.",
+          "The upper bunk changes the job. Its guard rails, ladder and long side rails form a load-bearing system, so removing one unsupported part can twist the frame or drop a heavy section. Clear the whole room and work from the maker's instructions where they are available.",
+        ],
+      },
+      {
+        heading: "Check ownership, condition and the complete set",
+        paragraphs: [
+          "In a furnished tenancy, compare the bed with the inventory and obtain the landlord's written instruction before removing it. For an owner-supplied bed, check for cracked rails, loose ladder treads, missing guard-rail parts, stripped threads, mould and pest evidence. Do not advertise a structurally doubtful children's bed as ready to use.",
+          "A reusable frame needs its ladder, guard rails, slats, support beam and correct fixings. Photograph every side before dismantling, note the maker and model, and label paired components. List the two mattresses separately because their hygiene and collection route differ from the timber or metal frame.",
+        ],
+        callout: { type: "warning", title: "Never work beneath an unsupported upper bunk", text: "Once a connector is loosened, another adult must support that rail or upper section. Do not let a child enter the room, climb the frame or retrieve belongings during dismantling." },
+      },
+      {
+        heading: "Dismantle from the top without losing stability",
+        paragraphs: [
+          "Strip both beds and remove the mattresses. Detach accessories such as shelves or drawers, then remove the ladder and guard-rail pieces only while the upper side is supported. Lift out slats in order, release the upper frame according to the maker's sequence, and leave the lower rectangle stable until the top is safely on the floor.",
+          "Use the correct hex key or socket rather than rounding bolts with pliers. Put hardware from each stage in a labelled bag and attach it to the matching wrapped rail. Painted metal edges and timber ends should be covered before they pass walls, door frames or lift panels.",
+        ],
+        image: blogB125Body,
+        imageAlt: "Labelled bunk bed rails, ladder and slats wrapped on a trolley in a protected Dubai apartment corridor",
+        imageCaption: "Keeping long rails, guard pieces and their fixings together preserves reuse value and protects the building route.",
+      },
+      {
+        heading: "Plan the lift route and choose the right destination",
+        paragraphs: [
+          "Measure the longest rail, stair landing and service-lift opening before dismantling day. Managed towers may require contractor identification, a move-out pass, protective floor covering and a booked loading bay. Keep components inside the apartment until the approved window instead of leaning them in a fire corridor.",
+          "A complete safe frame can be sold or donated after the recipient confirms dimensions and collects every component. Damaged composite board, bent steel and broken timber need a bulky-item route rather than a rubbish chute. Our [furniture removal service](https://dubaijunkcollection.com/services/furniture-removal) can coordinate collection; see the [bed-frame disposal guide](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-bed-frame-in-dubai) and [mattress disposal guide](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-mattress-in-dubai) for the two separate parts of the job.",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can a bunk bed be moved without dismantling it?", answer: "Usually not safely. A complete bunk bed is tall, difficult to control and unlikely to clear apartment doors or lift corners. Removing the mattresses and dismantling the frame also prevents joints from twisting during transport." },
+      { question: "Should I keep the bunk-bed mattresses with the frame?", answer: "Only if they are clean, dry, pest-free and the recipient wants their exact sizes. Otherwise arrange the mattresses separately and disclose their condition; a reusable frame does not make stained or damaged bedding reusable." },
+      { question: "Can I leave bunk-bed parts in the building waste room?", answer: "Not without management approval and a confirmed bulky-item collection. Long rails can block doors, waste equipment and escape routes. Keep them wrapped inside the unit until the scheduled handover." },
+      { question: "What if the bunk bed is fixed to the wall?", answer: "Remove wall restraints only after both bunks are empty and the frame is supported. Retain the brackets for reuse, extract anchors carefully, and patch the holes if your tenancy handover requires reinstatement." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-a-bed-frame-in-dubai", "how-to-dispose-of-a-mattress-in-dubai", "how-to-dispose-of-old-wardrobe-dubai"],
+    serviceLink: { href: "/services/furniture-removal", label: "Arrange bunk bed collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Household appliance and furniture disposal service" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-cooker-hood-in-dubai",
+    title: "How to Dispose of a Cooker Hood in Dubai: Wiring, Ducts and Grease Filters",
+    excerpt: "A cooker hood is fixed electrical equipment, not loose scrap. Isolate the circuit, protect the hob and cabinets, release the duct correctly and contain greasy filters.",
+    category: "Eco & Recycling",
+    coverImage: blogB126Cover,
+    coverImageAlt: "Two uniformed technicians carefully lowering a stainless-steel cooker hood in a Dubai apartment kitchen",
+    publishedAt: "2026-10-17",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Cooker Hood Disposal", "Kitchen Appliance", "Electrical Waste", "Move-Out Repairs"],
+    seoTitle: "How to Dispose of a Cooker Hood in Dubai | Safe Guide",
+    seoDescription: "How to dispose of a cooker hood in Dubai: isolate fixed wiring, contain greasy filters, release the duct and route the motor and metal housing correctly.",
+    keyTakeaways: [
+      "Have fixed wiring isolated and proved safe before any mounting screws or duct connections are released.",
+      "Remove and bag greasy filters separately so residue does not spread across cabinets, lifts or vehicles.",
+      "Confirm whether the replacement will reuse the duct, wall opening and cabinet fixings before removing them.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a cooker hood in Dubai?",
+        paragraphs: [
+          "To dispose of a cooker hood in Dubai, isolate and verify the circuit, let the appliance cool, remove greasy filters, and have a qualified technician disconnect fixed wiring and ductwork. Protect cabinets and the hob, retain reusable fixings, then route the motor, controls, lamps and metal housing through an appropriate electrical-waste collection.",
+          "Unlike a countertop appliance, the hood is part of the kitchen installation. It may be hard-wired, screwed through a cabinet, sealed to a wall and joined to a concealed duct. The removal plan must preserve whatever the landlord or replacement appliance still needs.",
+        ],
+      },
+      {
+        heading: "Confirm approval, power and the extraction arrangement",
+        paragraphs: [
+          "If you rent, check whether the hood appears on the inventory and obtain approval before replacing it. Photograph the cabinet, splashback, duct cover and external vent. Note whether the unit extracts outdoors or recirculates through carbon filters, because blanking a live duct or leaving an open wall penetration creates a separate repair.",
+          "Switching the control panel off is not electrical isolation. A qualified technician should identify the circuit, isolate it, prove it safe and disconnect any fixed cable. If the hood shares fitted joinery or a fire-rated shaft, ask building management whether its facilities contractor must handle part of the work.",
+        ],
+        callout: { type: "warning", title: "Do not pull a hood away on its cable", text: "The housing may conceal fixed wiring and sharp sheet-metal edges. Support the appliance at its rated mounting points while a qualified technician releases the electrical connection." },
+      },
+      {
+        heading: "Contain grease before releasing the housing",
+        paragraphs: [
+          "Allow the hob and hood to cool, clear the counter and cover the cooking surface with a rigid board and padded blanket. Release washable mesh filters or sealed carbon cartridges according to the manual. Put greasy filters in a leak-resistant bag or tray rather than washing old oil into a building corridor or transport blanket.",
+          "Photograph the fastener positions, remove decorative duct covers and release the duct clamp without crushing a section needed by the replacement. With two people supporting a wide canopy hood, undo mounting screws in the specified order and lower the housing level. Cap or protect the safe disconnected cable as the technician requires.",
+        ],
+        image: blogB126Body,
+        imageAlt: "Technician sorting a cooker hood grease filter, fan housing, duct and fixings on a protected kitchen counter",
+        imageCaption: "Separating greasy filters from the clean metal housing keeps the removal route tidy and makes recovery easier.",
+      },
+      {
+        heading: "Reuse parts, repair surfaces and route electrical materials",
+        paragraphs: [
+          "A working hood with its brackets, duct adapter, controls and model details may be reusable. If it has failed, keep the motor, control board, lamps and wiring with the appliance rather than stripping them into a general bin. The stainless or painted housing can then be separated by the receiving recycler under its own rules.",
+          "Before handover, agree who will reinstate cabinet holes, wall plugs, duct seals and the electrical point. Our [appliance removal service](https://dubaijunkcollection.com/services/appliance-removal) can collect the released unit; the [old oven disposal guide](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-oven-dubai) covers the appliance below it, while the [kitchen-cabinet guide](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-kitchen-cabinets-dubai) explains wider fitted-kitchen work.",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can I remove a cooker hood myself?", answer: "Only if it is plug-connected, the manufacturer permits user removal and you can support it safely. Fixed wiring, shared ducts, fitted cabinetry or inaccessible isolators require the appropriate qualified technician and any building approval." },
+      { question: "Do cooker-hood filters go in household recycling?", answer: "Not automatically. Grease-soaked mesh, carbon cartridges and mixed filter media can contaminate ordinary packaging bins. Check the manufacturer and local receiving route, and keep used filters bagged separately from the metal housing." },
+      { question: "Should the duct be removed with the hood?", answer: "Not until you know the replacement and handover plan. A fixed duct, wall sleeve or external grille may belong to the property and remain useful. Remove only the appliance-side section approved for the job." },
+      { question: "What should I tell the collector before pickup?", answer: "Send the hood type, width, floor, access details and a clear photo after safe disconnection. Mention glass panels, long duct covers, loose filters and any sharp or greasy surfaces so the crew brings suitable wrapping." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-old-oven-dubai", "how-to-dispose-of-old-kitchen-cabinets-dubai", "responsible-appliance-disposal-dubai"],
+    serviceLink: { href: "/services/appliance-removal", label: "Arrange cooker hood collection" },
+    sources: [
+      { href: "https://www.dewa.gov.ae/-/media/DEWA_Regulations_for_Electrical_Installations_2017_Edition.ashx", label: "DEWA — Regulations for Electrical Installations" },
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Household appliance and furniture disposal service" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-vending-machine-in-dubai",
+    title: "How to Dispose of a Vending Machine in Dubai: Stock, Payments and Heavy Access",
+    excerpt: "Vending machines may be leased, data-connected and refrigerated. Confirm ownership, empty stock and cash, close payment accounts and plan a freight-lift route before collection.",
+    category: "Commercial & Office",
+    coverImage: blogB127Cover,
+    coverImageAlt: "Two uniformed movers guiding an empty vending machine into a Dubai office freight lift",
+    publishedAt: "2026-10-17",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Vending Machine Disposal", "Commercial Appliance", "Office Clearance", "E-Waste"],
+    seoTitle: "How to Dispose of a Vending Machine in Dubai | Guide",
+    seoDescription: "How to dispose of a vending machine in Dubai: confirm ownership, clear stock and payment data, identify refrigeration and plan safe freight-lift collection.",
+    keyTakeaways: [
+      "Check the supply, lease and service contracts before moving a machine that may belong to its operator.",
+      "Remove stock, cash and customer or network data, then secure payment hardware and loose internal parts.",
+      "Identify chilled models early because the sealed refrigerant circuit must remain intact for specialist recovery.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a vending machine in Dubai?",
+        paragraphs: [
+          "To dispose of a vending machine in Dubai, confirm ownership, cancel the operator agreement, empty stock and cash, close connected payment accounts, and secure loose shelves and modules. Identify any refrigeration circuit, measure the full access route, then use a rated appliance trolley and an electronics or commercial-appliance recovery service.",
+          "The machine may look like office furniture, but it combines a heavy cabinet, mains electricity, payment equipment and sometimes refrigeration. Moving it before the operator, IT team and building manager have signed off can create contract, data and access problems that cost more than the clearance itself.",
+        ],
+      },
+      {
+        heading: "Resolve ownership, payment and stock before unplugging",
+        paragraphs: [
+          "Check the asset register, serial number and supplier agreement. Many machines are leased, revenue-shared or supplied with mandatory collection at contract end. Ask the operator to confirm in writing whether it will collect the unit, transfer it to another site or release it for disposal.",
+          "Count and remove saleable stock, dated products, cash floats and coin tubes under the business's normal controls. Export any reports that finance needs, close the merchant or telemetry account, remove SIM cards where the provider instructs, and have the payment terminal handled under the organization's IT and payment-security process.",
+        ],
+        callout: { type: "warning", title: "Do not scrap a leased machine", text: "A vending operator may own the cabinet, payment module and stock even when the machine has occupied your site for years. Confirm title and end-of-contract instructions before authorizing removal." },
+      },
+      {
+        heading: "Prepare the cabinet without opening sealed systems",
+        paragraphs: [
+          "Follow the model's shutdown instructions, unplug it and let the supplier address any hard-wired connection. Empty drip trays, water tanks and perishable compartments. Secure spirals, shelves, doors and the power lead with non-damaging restraints, and keep keys, manuals and service records in a labelled handover pouch.",
+          "A chilled drinks or combination machine may contain a compressor and sealed refrigerant circuit. Do not cut tubing, remove the compressor or lie the machine down merely to fit a lift. Record the refrigerant label and tell the collector so the unit can remain upright and reach an appropriate appliance-recovery route.",
+        ],
+        image: blogB127Body,
+        imageAlt: "Technician documenting an empty vending machine with payment modules and removable shelves secured for collection",
+        imageCaption: "An asset record and organized components help the operator, buyer or recycler account for the whole machine.",
+      },
+      {
+        heading: "Survey the freight route and choose reuse or recovery",
+        paragraphs: [
+          "Measure the machine, doorways, corridor turns, freight-lift opening, lift capacity and loading-bay height. Tell management the machine's weight from its plate or manual and request the required method statement, contractor documents and work window. Never drag levelling feet across stone floors or leave the cabinet in a shared escape route.",
+          "A working machine with keys, payment documentation and service support has more reuse value than an unknown locked cabinet. A failed unit should remain intact for separation of steel, electronics, wiring, payment hardware and any refrigeration equipment. Our [office junk removal service](https://dubaijunkcollection.com/services/office-junk-removal) can plan the heavy route; compare the [office-clearance guide](https://dubaijunkcollection.com/blog/how-to-clear-an-office-in-dubai) and [responsible appliance disposal guide](https://dubaijunkcollection.com/blog/responsible-appliance-disposal-dubai) when clearing a larger workplace.",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Who owns an office vending machine?", answer: "The vending operator often does, but the contract and asset register decide. Check for lease, revenue-share, maintenance and end-of-term collection clauses before anyone moves or dismantles the unit." },
+      { question: "Can a vending machine be transported on its side?", answer: "Avoid it, especially for refrigerated models. Side transport can damage cabinet mechanisms and move compressor oil through the sealed circuit. Give the collector dimensions and refrigerant details so an upright route can be planned." },
+      { question: "Does a vending machine store personal data?", answer: "Connected machines may retain network settings, transaction logs, operator credentials or telemetry identifiers. The business, operator and payment provider should close accounts and sanitize or remove modules according to their security process before disposal." },
+      { question: "Can a broken vending machine go to metal scrap?", answer: "Not as an unidentified complete unit. Electronics, payment modules and any refrigerant-bearing system need appropriate handling first. Keep the cabinet intact and use a commercial appliance or e-waste route that can document separation." },
+      { question: "What access information does a removal crew need?", answer: "Provide the model, dimensions, stated weight, floor, door widths, freight-lift capacity, loading-bay booking and parking limits. Mention steps, ramps, bolted feet and fixed power before the crew arrives." },
+    ],
+    relatedSlugs: ["how-to-clear-an-office-in-dubai", "office-relocation-junk-removal-dubai", "responsible-appliance-disposal-dubai"],
+    serviceLink: { href: "/services/office-junk-removal", label: "Plan vending machine collection" },
     sources: [
       { href: "https://www.dewa.gov.ae/-/media/DEWA_Regulations_for_Electrical_Installations_2017_Edition.ashx", label: "DEWA — Regulations for Electrical Installations" },
       { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.2-Waste-Collection-and-Transport.pdf", label: "Dubai Municipality — Waste collection and transport technical guideline" },

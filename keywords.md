@@ -584,3 +584,11 @@
 | 364 | how to dispose of a chest of drawers in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-chest-of-drawers-in-dubai`) |
 | 365 | how to dispose of a tumble dryer in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-tumble-dryer-in-dubai`) |
 | 366 | how to dispose of office cubicles in dubai | Q | Blog Article (`/blog/how-to-dispose-of-office-cubicles-in-dubai`) |
+
+### New question-intent blog targets (Batch 35)
+
+| # | Keyword | Intent | Recommended Page |
+| :-: | :--- | :---: | :--- |
+| 367 | how to dispose of a bunk bed in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-bunk-bed-in-dubai`) |
+| 368 | how to dispose of a cooker hood in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-cooker-hood-in-dubai`) |
+| 369 | how to dispose of a vending machine in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-vending-machine-in-dubai`) |
