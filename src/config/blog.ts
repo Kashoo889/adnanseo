@@ -220,6 +220,12 @@ import blogB126Cover from "@/assets/blog-b126-cooker-hood-removal-cover.webp";
 import blogB126Body from "@/assets/blog-b126-cooker-hood-parts-body.webp";
 import blogB127Cover from "@/assets/blog-b127-vending-machine-removal-cover.webp";
 import blogB127Body from "@/assets/blog-b127-vending-machine-preparation-body.webp";
+import blogB128Cover from "@/assets/blog-b41-sell-vs-donate-furniture-cover.webp";
+import blogB128Body from "@/assets/blog-b42-bulky-load-access-body.webp";
+import blogB129Cover from "@/assets/blog-b98-appliance-disposal-cover.webp";
+import blogB129Body from "@/assets/blog-b98-appliance-degassing-body.webp";
+import blogB130Cover from "@/assets/blog-b39-workplace-decluttering-cover.webp";
+import blogB130Body from "@/assets/blog-b39-office-storage-audit-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -15128,6 +15134,201 @@ export const blogPosts: BlogPost[] = [
     serviceLink: { href: "/services/office-junk-removal", label: "Plan vending machine collection" },
     sources: [
       { href: "https://www.dewa.gov.ae/-/media/DEWA_Regulations_for_Electrical_Installations_2017_Edition.ashx", label: "DEWA — Regulations for Electrical Installations" },
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.2-Waste-Collection-and-Transport.pdf", label: "Dubai Municipality — Waste collection and transport technical guideline" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-sofa-bed-in-dubai",
+    title: "How to Dispose of a Sofa Bed in Dubai: Folding Frames, Weight and Safe Removal",
+    excerpt: "A sofa bed is heavier and less predictable than an ordinary sofa. Secure the folding deck, remove loose cushions, measure the lift route and separate reusable upholstery from damaged metalwork.",
+    category: "Guides & Tips",
+    coverImage: blogB128Cover,
+    coverImageAlt: "Dubai resident assessing an upholstered sofa before a move-out furniture collection",
+    publishedAt: "2026-10-20",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Sofa Bed Disposal", "Furniture Removal", "Bulky Item Collection", "Apartment Move-Out"],
+    seoTitle: "How to Dispose of a Sofa Bed in Dubai | Safe Guide",
+    seoDescription: "How to dispose of a sofa bed in Dubai: secure the folding frame, reduce safe removable parts, measure lift access and choose reuse or responsible collection.",
+    keyTakeaways: [
+      "Close and secure the pull-out deck before lifting so the mechanism cannot open on stairs or inside a lift.",
+      "Remove only cushions, feet and manufacturer-approved detachable sections; do not dismantle a sprung steel mechanism under tension.",
+      "Tell the collector it is a sofa bed, not a standard sofa, because its hidden steel frame changes the weight and carrying plan.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a sofa bed in Dubai?",
+        paragraphs: [
+          "To dispose of a sofa bed in Dubai, remove bedding and loose cushions, close and secure the pull-out deck, detach only safe removable feet or modules, and measure every doorway and lift turn. Keep the sprung mechanism intact, then arrange bulky-furniture collection for reuse, material recovery or responsible disposal according to condition.",
+          "The key difference is hidden inside the upholstery. A sofa bed combines a timber or composite carcass with a heavy steel deck, hinges and springs. A crew expecting an ordinary sofa may arrive without enough people, suitable straps or the right route plan.",
+        ],
+      },
+      {
+        heading: "Inspect the bed mechanism before anyone lifts",
+        paragraphs: [
+          "Open the bed once while the sofa is still in place, using its handle rather than pulling the frame from the side. Remove the mattress, photograph the mechanism and check for bent links, missing retainers or a deck that will not latch closed. Do not put hands between scissor joints while testing it.",
+          "Close the platform fully and use a non-damaging furniture strap around the approved frame members to prevent accidental opening. The strap is a transport restraint, not a repair. If the mechanism is jammed open, tell the collector and leave it supported; forcing it shut can release stored spring force or tear the surrounding upholstery.",
+        ],
+        callout: { type: "warning", title: "A folding deck can open during a carry", text: "Never rely on an old latch alone. Secure the closed mechanism without compressing upholstery, and keep fingers away from hinges and spring-loaded linkages." },
+      },
+      {
+        heading: "Reduce the load without dismantling the dangerous parts",
+        paragraphs: [
+          "Bag loose cushions and the sofa-bed mattress separately so they do not obscure the crew's footing. Unscrew feet only if that creates useful clearance, and label them with their fixings. Modular arms or chaise sections can be separated when the maker's connectors are visible and the main deck remains properly supported.",
+          "Do not cut through upholstery to find bolts or remove springs to chase scrap value. Sharp steel, staples and a partly released mechanism turn a controlled furniture move into an injury risk. Keep the main assembly complete for the receiving team to assess on a protected work surface.",
+        ],
+        image: blogB128Body,
+        imageAlt: "Wrapped sofa beside a Dubai removal crew loading bulky furniture into a truck",
+        imageCaption: "A planned loading route protects the mechanism, building surfaces and other items while the sofa bed remains under control.",
+      },
+      {
+        heading: "Book building access and decide between reuse and recovery",
+        paragraphs: [
+          "Measure the sofa at its widest fixed points, then check the apartment door, corridor corners and service-lift opening. In managed towers, reserve the service lift and loading bay and ask whether security needs a move-out pass or contractor details. Residents in [Dubai Marina](https://dubaijunkcollection.com/service-areas/dubai-marina) often face tight lift turns, so dimensions matter more than the straight-line distance to the lobby.",
+          "A clean, fully working sofa bed with its mattress dimensions and operating instructions may be suitable for resale or donation. Sagging upholstery, pest evidence, a cracked frame or a faulty deck usually makes it a collection job. Our [furniture removal service](https://dubaijunkcollection.com/services/furniture-removal) can plan the carry; the guides to [ordinary sofa disposal](https://dubaijunkcollection.com/blog/where-to-dispose-old-sofa-in-dubai), [bed-frame disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-bed-frame-in-dubai) and [mattress disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-mattress-in-dubai) explain the separate material decisions.",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can I leave the mattress inside a sofa bed for collection?", answer: "Remove it unless the maker explicitly requires it to stay. A separate mattress makes the sofa lighter, exposes the mechanism for inspection and lets the collector assess whether the upholstery and mattress need different destinations." },
+      { question: "Can a sofa bed go down an apartment rubbish chute?", answer: "No. It is a bulky item with a rigid steel mechanism and can block the chute, damage waste equipment and create a fire-route obstruction. Keep it inside the unit until an approved collection window." },
+      { question: "Should I take the folding mechanism out first?", answer: "Usually not. The steel deck may use springs, scissor joints and concealed fasteners under load. Leave it assembled unless the manufacturer's instructions identify a safe removable module and you have the equipment to support it." },
+      { question: "What photos should I send for a sofa-bed quote?", answer: "Send the sofa closed, the bed open, the model label if present, and the narrowest doorway or lift. Mention the floor, stairs, parking restrictions and whether the mechanism closes securely." },
+    ],
+    relatedSlugs: ["where-to-dispose-old-sofa-in-dubai", "how-to-dispose-of-a-bed-frame-in-dubai", "how-to-dispose-of-a-mattress-in-dubai"],
+    serviceLink: { href: "/services/furniture-removal", label: "Arrange sofa bed collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Household appliance and furniture disposal service" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-chest-freezer-in-dubai",
+    title: "How to Dispose of a Chest Freezer in Dubai: Defrosting, Refrigerant and Heavy Lifting",
+    excerpt: "Empty and defrost a chest freezer without flooding the route, secure its lid and baskets, preserve the sealed cooling circuit and plan an upright lift with appliance specialists.",
+    category: "Eco & Recycling",
+    coverImage: blogB129Cover,
+    coverImageAlt: "Appliance collection crew moving a large white freezer on a trolley in Dubai",
+    publishedAt: "2026-10-20",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Chest Freezer Disposal", "Refrigerated Appliance", "Appliance Recycling", "Move-Out Preparation"],
+    seoTitle: "How to Dispose of a Chest Freezer in Dubai | Guide",
+    seoDescription: "How to dispose of a chest freezer in Dubai: defrost it without leaks, keep refrigerant pipework sealed, secure the lid and arrange upright appliance recovery.",
+    keyTakeaways: [
+      "Remove food and complete defrosting before collection; hidden ice around the liner can release water long after the visible frost melts.",
+      "Keep the compressor and refrigerant circuit sealed so a qualified recovery route can handle the cooling system correctly.",
+      "Secure the lid, baskets, drain plug and power lead, then move the freezer upright with a trolley rated for its full weight.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a chest freezer in Dubai?",
+        paragraphs: [
+          "To dispose of a chest freezer in Dubai, remove all food, unplug and fully defrost it, drain and dry the cabinet, secure the lid, baskets, plug and cable, and keep the refrigerant circuit intact. Measure the route, transport the unit upright, and use an appliance collection service that accepts refrigerated equipment for specialist recovery.",
+          "Chest freezers create a different access problem from upright fridges. Their footprint is wider, the lifting points sit low and an unsecured top can swing open while the cabinet is tilted. Meltwater hidden below baskets is the mess that most often reaches the corridor.",
+        ],
+      },
+      {
+        heading: "Empty, defrost and dry the cabinet completely",
+        paragraphs: [
+          "Move usable food to another freezer or insulated containers before unplugging. Follow the manual's defrost procedure, protect the floor with shallow trays and towels, and open the drain only into a container you can control. Never chip ice with a knife or screwdriver; puncturing the liner may damage concealed cooling pipework.",
+          "Remove baskets after the ice releases, clean spills and leave the lid open in a ventilated room until the seals and corners are dry. Refit the drain plug so it is not lost, then place baskets inside and restrain them. Do not leave an unplugged freezer closed with moisture and food residue in Dubai's heat, where odour and mould develop quickly.",
+        ],
+        callout: { type: "tip", title: "Plan defrosting before the pickup day", text: "A thickly iced chest freezer can take much longer than expected to drain. Start early enough for the liner, drain channel and seals to dry before the crew arrives." },
+      },
+      {
+        heading: "Keep the sealed cooling system intact",
+        paragraphs: [
+          "Read the rating plate and photograph the model and refrigerant information for the collector. The compressor, oil and refrigerant-bearing tubing belong together until handled by a suitable appliance-recovery specialist. Do not cut copper pipes, remove the compressor or drill the cabinet to make it lighter.",
+          "If the freezer still works, include a short temperature test and the lid-seal condition in any resale listing. A failed thermostat may be repairable; a punctured liner, severe cabinet corrosion or compressor fault usually points toward recovery rather than reuse. Disconnecting it safely does not mean dismantling its refrigeration system at home.",
+        ],
+        image: blogB129Body,
+        imageAlt: "Refrigerated appliances kept intact while a technician prepares cooling components for specialist recovery",
+        imageCaption: "Keeping the compressor and pipework sealed allows refrigerant and recoverable materials to be handled through the correct process.",
+      },
+      {
+        heading: "Secure the lid and survey the whole removal route",
+        paragraphs: [
+          "Close the lid and hold it with a removable strap that will not crush the gasket. Coil the cable, protect exposed hinges and keep the cabinet upright on a rated appliance trolley. Measure its width against doors, kitchen islands, villa gates and service-lift openings, allowing room for hands and protective blankets.",
+          "Building management may require a service-lift and loading-bay booking even for one appliance. Our [appliance removal service](https://dubaijunkcollection.com/services/appliance-removal) can plan collection; residents can also check coverage in [Jumeirah Village Circle](https://dubaijunkcollection.com/service-areas/jumeirah-village-circle). For adjacent decisions, see the guides to [old fridge disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-fridge-in-dubai), [responsible appliance recovery](https://dubaijunkcollection.com/blog/responsible-appliance-disposal-dubai) and [large-appliance building rules](https://dubaijunkcollection.com/blog/can-you-throw-away-furniture-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "How long should a chest freezer defrost before collection?", answer: "There is no reliable universal time because ice thickness, room temperature and the model vary. Start well before pickup, follow the manual, and confirm that the drain channel, inner corners and seals are dry rather than relying on a fixed number of hours." },
+      { question: "Can a chest freezer be transported on its side?", answer: "Upright transport is the safest default because it protects the compressor, oil and pipework. If an unavoidable tilt is permitted by the manufacturer, the receiving technician should decide the resting period before the appliance is powered again." },
+      { question: "Can I remove the compressor to make the freezer lighter?", answer: "No. Removing it can release refrigerant and oil and creates sharp, contaminated components. Keep the sealed circuit intact and declare the appliance type and refrigerant label to the collector." },
+      { question: "What happens to food left inside an unwanted freezer?", answer: "It must be removed before appliance collection. Separate safe food for use or donation under the recipient's rules, and bag spoiled contents through the building's approved household-waste route; appliance recyclers are not food-waste collectors." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-old-fridge-in-dubai", "responsible-appliance-disposal-dubai", "where-to-dispose-washing-machine-dubai"],
+    serviceLink: { href: "/services/appliance-removal", label: "Arrange chest freezer collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Household appliance and furniture disposal service" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-an-office-paper-shredder-in-dubai",
+    title: "How to Dispose of an Office Paper Shredder in Dubai: Documents, Blades and E-Waste",
+    excerpt: "A retired shredder can still contain confidential paper around its cutters. Clear records under supervision, isolate the heavy cutting head and route the motor and controls as electronic waste.",
+    category: "Commercial & Office",
+    coverImage: blogB130Cover,
+    coverImageAlt: "Dubai office being cleared with workstations and document storage arranged for sorting",
+    publishedAt: "2026-10-20",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Paper Shredder Disposal", "Office E-Waste", "Confidential Records", "Office Clearance"],
+    seoTitle: "How to Dispose of an Office Paper Shredder in Dubai",
+    seoDescription: "How to dispose of an office paper shredder in Dubai: secure trapped records, isolate the cutter head and route the motor and controls through e-waste collection.",
+    keyTakeaways: [
+      "Treat paper trapped around the cutters as confidential until an authorized person has cleared or destroyed it.",
+      "Unplug the shredder and keep hands and tools away from the feed slot; the motor-and-cutter head is the heaviest part.",
+      "Separate clean paper and an empty removable bin only when safe, then send the powered head, cable and controls through an electronics route.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an office paper shredder in Dubai?",
+        paragraphs: [
+          "To dispose of an office paper shredder in Dubai, finish or securely remove confidential paper under your records process, switch off and unplug the machine, empty its bin, and secure the heavy cutting head. Keep fingers and tools out of the feed slot, then send the motor, controls and cable through an electronics collection route.",
+          "A shredder is not just a plastic office bin. Strip-cut fragments may still reveal information, jammed sheets can remain around the cutters, and the top assembly concentrates a motor, steel blades, sensors and electronics into a deceptively heavy lift.",
+        ],
+      },
+      {
+        heading: "Resolve the documents before treating the machine as waste",
+        paragraphs: [
+          "Ask the records owner to confirm which paper is approved for destruction and which must remain archived. Run only the manufacturer's normal jam-clearing process while the unit is serviceable. If sensitive pages remain trapped after that, isolate the machine and send it to a provider able to maintain the required chain of custody; do not leave it in a shared e-waste cage.",
+          "Empty the collection bin into the organization's approved confidential-paper stream. Cross-cut material is harder to reconstruct than strip-cut paper, but the disposal decision should follow the information on the pages, not the fragment size. Remove ordinary staples or plastic sleeves only where the document process requires it.",
+        ],
+        callout: { type: "warning", title: "Unplugging does not make the cutters safe to touch", text: "Blades remain sharp and a jammed mechanism may move as pressure is released. Use only the maker's controls and access points; never reach through the feed slot." },
+      },
+      {
+        heading: "Prepare the cutter head, bin and consumables",
+        paragraphs: [
+          "Switch off, unplug and coil the lead. For a small unit, lift the cutting head using its intended handles and set it on a stable board, not on the office carpet. For a console model, lock castors if fitted and secure doors and the waste bin so they cannot slide open in the lift.",
+          "Check the manual for oil reservoirs, automatic oiler cartridges or aerosol lubricant cans. Keep loose consumables separate and tell the collector what is present. Do not wash oily paper dust into a sink or dismantle the cutter stack; the receiving processor is better equipped to separate steel, copper, circuit boards and plastics.",
+        ],
+        image: blogB130Body,
+        imageAlt: "Office team auditing document boxes and equipment before a controlled Dubai workplace clearance",
+        imageCaption: "Records approval comes before equipment removal so confidential paper never leaves in an untracked machine or mixed office load.",
+      },
+      {
+        heading: "Choose repair, redeployment or electronics recovery",
+        paragraphs: [
+          "A shredder that overheats because its duty cycle is exceeded may still suit a smaller team; one with a damaged cable, cracked safety interlock or recurring mechanical jam needs repair assessment before reuse. Remove asset labels only after finance or IT has recorded the model, serial number and disposal decision.",
+          "For a larger decommission, our [office junk removal service](https://dubaijunkcollection.com/services/office-junk-removal) can coordinate equipment and building access, including managed offices in [Business Bay](https://dubaijunkcollection.com/service-areas/business-bay). Use the [office-clearance guide](https://dubaijunkcollection.com/blog/how-to-clear-an-office-in-dubai) for sequencing, the [electronics recycling guide](https://dubaijunkcollection.com/blog/where-to-recycle-electronics-in-dubai) for the powered unit and the [filing-cabinet guide](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-filing-cabinets-in-dubai) for the records storage around it.",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can a paper shredder go in a normal office recycling bin?", answer: "No. The powered cutting head contains a motor, wiring and controls, while the bin may be a separate clean plastic component. Keep the machine intact and use an electronics collection route that confirms what it accepts." },
+      { question: "What should I do if confidential paper is jammed inside?", answer: "Stop using the machine, unplug it and restrict access. Let the authorized records or security owner choose supervised clearing, repair or secure destruction. Do not send the shredder to an open scrap pile with readable material trapped inside." },
+      { question: "Can the plastic paper bin be recycled separately?", answer: "Possibly, if it is clean, removable and the receiving program accepts that resin and item shape. Check its material marking and local acceptance rather than placing it automatically in an office packaging bin." },
+      { question: "Does a shredder need data wiping like a printer?", answer: "Most basic shredders do not store document images, but networked or managed equipment may retain usage logs, user details or access settings. Check the model documentation and have IT remove it from connected systems before collection." },
+    ],
+    relatedSlugs: ["how-to-clear-an-office-in-dubai", "where-to-recycle-electronics-in-dubai", "how-to-dispose-of-old-filing-cabinets-in-dubai"],
+    serviceLink: { href: "/services/office-junk-removal", label: "Plan office shredder collection" },
+    sources: [
       { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.2-Waste-Collection-and-Transport.pdf", label: "Dubai Municipality — Waste collection and transport technical guideline" },
       { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
     ],

@@ -592,3 +592,11 @@
 | 367 | how to dispose of a bunk bed in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-bunk-bed-in-dubai`) |
 | 368 | how to dispose of a cooker hood in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-cooker-hood-in-dubai`) |
 | 369 | how to dispose of a vending machine in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-vending-machine-in-dubai`) |
+
+### New question-intent blog targets (Batch 36)
+
+| # | Keyword | Intent | Recommended Page |
+| :-: | :--- | :---: | :--- |
+| 370 | how to dispose of a sofa bed in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-sofa-bed-in-dubai`) |
+| 371 | how to dispose of a chest freezer in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-chest-freezer-in-dubai`) |
+| 372 | how to dispose of an office paper shredder in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-office-paper-shredder-in-dubai`) |

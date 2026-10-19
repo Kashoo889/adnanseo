@@ -496,6 +496,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B125 differs from B65 (standard bed frames), B68 (general baby items) and B105 (bedding) through load-bearing upper-frame sequencing, guard rails, ladders, paired mattresses and long component routes. B126 differs from B66 (ovens), B82 (fitted cabinets) and B120 (ceiling fans) through grease containment, extract-versus-recirculate identification, duct preservation and under-cabinet mounting. B127 differs from B81 (printers), B90 (data-safe IT assets) and B98 (domestic appliances) through operator ownership contracts, stock and cash reconciliation, merchant and telemetry accounts, payment modules, vending spirals and chilled commercial cabinets.
 
+### Track 39: Convertible Seating, Frozen Storage & Secure Office Equipment (Clusters 3, 4, 5 & 6)
+*Continues the item-specific disposal series with three distinct preparation risks: securing a sprung sofa-bed deck before a bulky carry, fully defrosting a wide chest freezer while preserving its sealed cooling circuit, and retiring an office shredder without exposing trapped confidential records or its powered cutter head.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B128** | *How to Dispose of a Sofa Bed in Dubai: Folding Frames, Weight and Safe Removal* | `how to dispose of a sofa bed in dubai` | `sofa bed disposal dubai`, `bulky furniture collection dubai`, `sleeper sofa removal dubai` | Q | `/services/furniture-removal` |
+| **B129** | *How to Dispose of a Chest Freezer in Dubai: Defrosting, Refrigerant and Heavy Lifting* | `how to dispose of a chest freezer in dubai` | `chest freezer disposal dubai`, `freezer recycling dubai`, `refrigerated appliance collection dubai` | Q | `/services/appliance-removal` |
+| **B130** | *How to Dispose of an Office Paper Shredder in Dubai: Documents, Blades and E-Waste* | `how to dispose of an office paper shredder in dubai` | `paper shredder disposal dubai`, `office e-waste collection dubai`, `confidential document equipment disposal` | Q | `/services/office-junk-removal` |
+
+**Overlap check (content-rules §16):** B128 differs from B23 (ordinary sofas), B65 (bed frames) and B77 (recliners) through its sprung folding deck, hidden steel mass, mattress separation and the need to restrain the mechanism during carrying. B129 differs from B25 (upright fridges), B98 (general appliance recovery) and B123 (heat-pump dryers) through top-opening access, a broad low lifting position, meltwater drainage, loose baskets and lid control. B130 differs from B81 (printers), B90 (data-bearing IT assets) and B93 (filing cabinets) through residual paper caught at the cutters, confidential-paper chain of custody, sharp cutter stacks, removable waste bins and automatic-oiler consumables.
+
 ---
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -533,3 +544,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 33. **Batch 33 (Articles B119–B121):** Kitchen Countertop Appliances, Fixed Fans & Motorized Seating — **100% Completed (3/3 Live)**.
 34. **Batch 34 (Articles B122–B124):** Storage Furniture, Laundry Appliances & Modular Offices — **100% Completed (3/3 Live)**.
 35. **Batch 35 (Articles B125–B127):** Bunk Beds, Kitchen Extraction & Vending Equipment — **100% Completed (3/3 Live)**.
+36. **Batch 36 (Articles B128–B130):** Convertible Seating, Frozen Storage & Secure Office Equipment — **100% Completed (3/3 Live)**.
