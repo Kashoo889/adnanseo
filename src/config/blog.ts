@@ -226,6 +226,12 @@ import blogB129Cover from "@/assets/blog-b98-appliance-disposal-cover.webp";
 import blogB129Body from "@/assets/blog-b98-appliance-degassing-body.webp";
 import blogB130Cover from "@/assets/blog-b39-workplace-decluttering-cover.webp";
 import blogB130Body from "@/assets/blog-b39-office-storage-audit-body.webp";
+import blogB131Cover from "@/assets/blog-b131-tv-stand-removal-cover.webp";
+import blogB131Body from "@/assets/blog-b131-media-console-glass-body.webp";
+import blogB132Cover from "@/assets/blog-b132-wine-cooler-removal-cover.webp";
+import blogB132Body from "@/assets/blog-b132-wine-cooler-racks-body.webp";
+import blogB133Cover from "@/assets/blog-b133-server-rack-removal-cover.webp";
+import blogB133Body from "@/assets/blog-b133-server-rack-inventory-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -15329,6 +15335,205 @@ export const blogPosts: BlogPost[] = [
     relatedSlugs: ["how-to-clear-an-office-in-dubai", "where-to-recycle-electronics-in-dubai", "how-to-dispose-of-old-filing-cabinets-in-dubai"],
     serviceLink: { href: "/services/office-junk-removal", label: "Plan office shredder collection" },
     sources: [
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.2-Waste-Collection-and-Transport.pdf", label: "Dubai Municipality — Waste collection and transport technical guideline" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-tv-stand-in-dubai",
+    title: "How to Dispose of a TV Stand in Dubai: Glass Shelves, Cables and Safe Collection",
+    excerpt: "Empty the media console, separate the television and electronics, protect loose glass, retain the fixings and measure the lift route before arranging furniture collection.",
+    category: "Guides & Tips",
+    coverImage: blogB131Cover,
+    coverImageAlt: "Clearance crew preparing a wooden TV stand with glass doors for removal from a Dubai apartment",
+    publishedAt: "2026-10-20",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["TV Stand Disposal", "Media Console Removal", "Furniture Collection", "Apartment Move-Out"],
+    seoTitle: "How to Dispose of a TV Stand in Dubai | Safe Guide",
+    seoDescription: "How to dispose of a TV stand in Dubai: disconnect devices, wrap loose glass, secure drawers and plan safe reuse or furniture collection through the lift.",
+    keyTakeaways: [
+      "Remove the television, streaming devices, power boards and every cable before anyone moves the stand.",
+      "Take out loose glass shelves and wrap them upright; secure fixed glass doors without applying tape to finished surfaces.",
+      "Keep brackets, feet and fasteners labelled so a reusable console reaches its next owner complete.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a TV stand in Dubai?",
+        paragraphs: [
+          "To dispose of a TV stand in Dubai, disconnect every device, photograph and label the cables, empty the cabinet, remove and wrap loose glass shelves, and secure doors or drawers. Confirm whether wall-mounted pieces belong to the tenancy, then choose reuse for sound furniture or book furniture collection for damaged mixed-material units.",
+          "A media console looks lighter once the screen is gone, but stone tops, tempered glass, long unsupported spans and hidden cable bundles change the carry. Preparing those parts separately prevents a reusable cabinet becoming broken mixed waste in the corridor.",
+        ],
+      },
+      {
+        heading: "Separate the screen, electronics and cable network first",
+        paragraphs: [
+          "Switch equipment off, unplug it and let powered components cool. Photograph the rear connections before removing HDMI, aerial, speaker, network and power cables. Coil and label each lead, remove batteries from loose remotes, and keep routers or provider-owned TV boxes with the account holder rather than inside the furniture load.",
+          "Lift the television from its stand or wall bracket with the support its manufacturer recommends, then pack it as a separate electronic item. A cracked screen, soundbar or game console follows an electronics route, not the furniture route. The [old-TV disposal guide](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-tv-in-dubai) covers screen protection and e-waste decisions in detail.",
+        ],
+        callout: { type: "warning", title: "Never move a console with the television on top", text: "A small threshold or lift gap can make the screen slide while the cabinet twists. Remove and protect the television before the stand moves even a few metres." },
+      },
+      {
+        heading: "Protect glass, doors and the long cabinet frame",
+        paragraphs: [
+          "Empty every drawer and cupboard. Remove loose glass shelves with gloved hands, mark their orientation and wrap each piece upright between rigid cardboard and a moving blanket. If glass doors are fixed, close them and use a removable furniture strap around the cabinet; avoid adhesive tape on veneer, lacquer or glass coatings.",
+          "Bag shelf pins, wall restraints, feet and bracket bolts by location. Remove legs only when that creates useful clearance and the cabinet remains supported. Do not carry a long unit by its top or open shelves: place hands under structural ends so the middle does not bow and joints do not pull apart.",
+        ],
+        image: blogB131Body,
+        imageAlt: "Empty media console beside a wrapped glass shelf and labelled cables before apartment collection",
+        imageCaption: "Separating glass and small hardware protects the route while preserving the console for possible reuse.",
+      },
+      {
+        heading: "Check ownership, access and the best destination",
+        paragraphs: [
+          "A fitted media wall, floating cabinet or landlord-supplied console may form part of a furnished tenancy. Check the inventory and obtain approval before releasing wall fixings; patching anchor holes and cable openings may also form part of the Ejari handover. In managed towers, reserve the service lift and keep dismantled pieces inside the apartment until the approved window.",
+          "A straight, complete stand with safe glass and all fittings can be sold or donated. Swollen particleboard, cracked panels or missing structural fixings usually make recovery or disposal more realistic. Our [furniture collection service](https://dubaijunkcollection.com/services/furniture-removal) can plan the route, including apartments in [Downtown Dubai](https://dubaijunkcollection.com/service-areas/downtown-dubai). Compare the guides to [general furniture disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-furniture-in-dubai) and [old shelving units](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-shelving-units-in-dubai) for adjacent items.",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can a TV stand go down an apartment rubbish chute?", answer: "No. Even a partly dismantled stand can jam the chute, break glass and obstruct a shared waste area. Keep it in the apartment until building management confirms an approved bulky-item collection point and time." },
+      { question: "Should I dismantle a flat-pack TV stand before collection?", answer: "Only if the fixings are visible, the panels can be supported and dismantling improves the route. Photograph each stage, label the hardware and stop if glued joints or fixed glass would need force; an intact reusable unit is usually more valuable." },
+      { question: "Can glass shelves go in a bottle-recycling bin?", answer: "Do not assume so. Furniture glass may be tempered or treated and is not the same collection material as bottles and jars. Wrap it against breakage and ask the collector or receiving facility which glass route it accepts." },
+      { question: "What details help price a media-console pickup?", answer: "Send a full photo, approximate width and depth, material, glass or stone details, floor number and the narrowest doorway or lift. Mention whether the television and electronics are separate and whether wall fixings must be released." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-old-tv-in-dubai", "how-to-dispose-of-old-furniture-in-dubai", "how-to-dispose-of-old-shelving-units-in-dubai"],
+    serviceLink: { href: "/services/furniture-removal", label: "Arrange TV stand collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Household appliance and furniture disposal service" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-wine-cooler-in-dubai",
+    title: "How to Dispose of a Wine Cooler in Dubai: Glass Doors, Racks and Refrigerant",
+    excerpt: "Empty and dry the cabinet, secure its bottle racks and glass door, identify the cooling system and keep any refrigerant circuit sealed for appliance recovery.",
+    category: "Eco & Recycling",
+    coverImage: blogB132Cover,
+    coverImageAlt: "Crew moving an empty glass-door wine cooler upright on an appliance trolley in a Dubai home",
+    publishedAt: "2026-10-20",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Wine Cooler Disposal", "Refrigerated Appliance", "Appliance Recycling", "Glass Door Handling"],
+    seoTitle: "How to Dispose of a Wine Cooler in Dubai | Safe Guide",
+    seoDescription: "How to dispose of a wine cooler in Dubai: empty and dry it, secure racks and glass, identify refrigerant and arrange upright appliance recovery.",
+    keyTakeaways: [
+      "Remove every bottle and loose rack, then dry the drain channel, seals and condensation tray before collection.",
+      "Photograph the rating plate so the collector can identify whether the cooler uses a compressor, refrigerant or a thermoelectric module.",
+      "Protect the glass door and move a compressor model upright without cutting or opening its sealed cooling system.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a wine cooler in Dubai?",
+        paragraphs: [
+          "To dispose of a wine cooler in Dubai, remove all bottles, unplug and dry the cabinet, secure or separately wrap the racks, protect the glass door, photograph the rating plate and keep the cooling system intact. Move it upright and arrange appliance collection that can direct refrigerant-bearing or electronic components to appropriate recovery.",
+          "The glass front makes a wine cooler look like display furniture, but many models are compact refrigerators. Others use thermoelectric cooling. That distinction affects the receiving route, while the loose bottle shelves and high centre of gravity determine how it should be carried.",
+        ],
+      },
+      {
+        heading: "Empty, clean and dry every water-catching part",
+        paragraphs: [
+          "Move bottles to temperature-appropriate storage before unplugging. Take out wooden or wire racks one at a time, photograph their positions and wipe up residue. Clean according to the manual, then dry the cabinet, door gasket, drain channel and removable condensation tray so stale liquid does not leak across a lift or develop odour in Dubai's heat.",
+          "Wrap wooden shelves flat with spacers so their runners do not split. Metal racks can be bundled without allowing ends to touch the glass. Reinstall only parts that lock securely; otherwise label them with the model and transport them beside the appliance.",
+        ],
+        callout: { type: "tip", title: "Check the tenancy inventory before removal", text: "An under-counter cooler may belong to the landlord or fitted kitchen. Confirm ownership and whether a replacement must fill the opening before the handover inspection." },
+      },
+      {
+        heading: "Identify the cooling system without opening it",
+        paragraphs: [
+          "Photograph the rear rating plate and send it with the booking. A compressor model normally lists a refrigerant, while a thermoelectric unit uses fans and electronic modules. Both still contain powered components, but a refrigerant-bearing cabinet needs a route equipped to recover the sealed system rather than release it.",
+          "Do not cut copper tubing, remove the compressor or pierce the inner liner. If the unit failed after overheating, a blocked vent or fan fault may be repairable; record the symptoms rather than repeatedly powering it. Keep rear vents clear and let a repairer or recovery facility decide what can be salvaged.",
+        ],
+        image: blogB132Body,
+        imageAlt: "Technician photographing a wine cooler rating plate with bottle racks wrapped separately for collection",
+        imageCaption: "The rating plate and separated racks tell the collector how to route and transport the appliance safely.",
+      },
+      {
+        heading: "Protect the glass door and plan upright collection",
+        paragraphs: [
+          "Close the door and hold it with a non-adhesive strap around the cabinet, taking care not to crush the gasket. Coil the cable, protect the corners and use an appliance trolley rated for the whole unit. Do not lift by the handle or lay a compressor cooler flat simply to clear a service-lift door.",
+          "Measure built-in openings, kitchen turns and lift access before collection. Our [appliance removal service](https://dubaijunkcollection.com/services/appliance-removal) can coordinate the route, including homes in [Dubai Hills Estate](https://dubaijunkcollection.com/service-areas/dubai-hills-estate). The guides to [old-fridge disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-fridge-in-dubai), [chest-freezer preparation](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-chest-freezer-in-dubai) and [responsible appliance recovery](https://dubaijunkcollection.com/blog/responsible-appliance-disposal-dubai) explain the related refrigerant and material decisions.",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Does every wine cooler contain refrigerant?", answer: "No. Compressor models use a sealed refrigerant circuit, while some smaller coolers use thermoelectric modules. Check the rating plate and manual rather than guessing, and give that information to the collector before pickup." },
+      { question: "Can a working wine cooler be donated or sold?", answer: "Yes, if it cools reliably, the glass and gasket are sound, all racks are present and ownership is clear. Disclose temperature variation, unusual noise or error codes and provide the model dimensions so the recipient can confirm ventilation space." },
+      { question: "Should bottle racks stay inside during transport?", answer: "Only when the manufacturer provides positive retainers and the shelves cannot move. Loose wooden or metal racks should be removed, wrapped and labelled because they can slide forward, chip the glass door or damage their runners." },
+      { question: "Can a wine cooler be transported on its side?", answer: "Upright is the safest default, especially for a compressor model. Side transport can stress the glass and shift compressor oil. If the manual permits a particular orientation, the receiving technician should decide how long it must stand before power is restored." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-old-fridge-in-dubai", "how-to-dispose-of-a-chest-freezer-in-dubai", "responsible-appliance-disposal-dubai"],
+    serviceLink: { href: "/services/appliance-removal", label: "Arrange wine cooler collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Household appliance and furniture disposal service" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+      { href: "https://www.epa.gov/section608/appliance-disposal", label: "US EPA — Appliance disposal and refrigerant recovery" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-server-rack-in-dubai",
+    title: "How to Dispose of a Server Rack in Dubai: Data, Cabling and Heavy Access",
+    excerpt: "Retire the equipment and data before treating the cabinet as metal: inventory every device, isolate power, remove rack-mounted loads and survey the raised-floor route.",
+    category: "Commercial & Office",
+    coverImage: blogB133Cover,
+    coverImageAlt: "Specialist crew moving an empty network server rack on a heavy-duty trolley through a Dubai office",
+    publishedAt: "2026-10-20",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Server Rack Disposal", "Data Centre Decommissioning", "Office E-Waste", "IT Asset Removal"],
+    seoTitle: "How to Dispose of a Server Rack in Dubai | IT Guide",
+    seoDescription: "How to dispose of a server rack in Dubai: inventory IT assets, sanitize storage, isolate power, empty the cabinet and plan a controlled heavy-access route.",
+    keyTakeaways: [
+      "IT must inventory, back up and sanitize data-bearing devices before any server, switch or storage array leaves the controlled room.",
+      "A rack should be powered down by authorized personnel, disconnected from building services and emptied from the top down before it moves.",
+      "Record doors, panels, rails, cage nuts and keys so the empty steel cabinet can be redeployed or recovered as a complete asset.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a server rack in Dubai?",
+        paragraphs: [
+          "To dispose of a server rack in Dubai, approve the IT asset list, back up and sanitize storage media, shut systems down, have authorized technicians isolate power and network connections, and remove rack-mounted equipment before moving the cabinet. Inventory panels and rails, then survey floor loading, lift capacity and the secure loading route.",
+          "The steel enclosure is the final item, not the first. A populated rack may contain business-critical systems, retained data, batteries, fibre links and weight high above its castors. Treating the whole assembly as scrap bypasses the controls that make a decommission safe and auditable.",
+        ],
+      },
+      {
+        heading: "Close the data and asset record before touching the rack",
+        paragraphs: [
+          "Assign an IT owner to reconcile server, storage, switch, firewall, UPS and console serial numbers against the asset register. Confirm backups and service migration, remove devices from monitoring and support accounts, and choose a sanitization method appropriate to each storage technology and information classification. Deleting files or reformatting a drive is not automatically an adequate disposal control.",
+          "Keep released drives and removable media in numbered, tamper-evident containers with a handover record. NIST's current media-sanitization guidance frames clear, purge and destroy as different outcomes selected through an organizational policy. The [data-safe electronics guide](https://dubaijunkcollection.com/blog/data-safe-electronics-disposal-dubai) explains the practical separation between equipment reuse and media destruction.",
+        ],
+        callout: { type: "warning", title: "An empty-looking rack can still hold data-bearing devices", text: "Check management modules, KVM consoles, firewall appliances, removable media and small storage units before the cabinet is released from IT custody." },
+      },
+      {
+        heading: "Isolate services and unload in a controlled sequence",
+        paragraphs: [
+          "Authorized IT and facilities staff should confirm shutdown, power isolation, earthing, network and any overhead or under-floor connections. Photograph cable paths and label what will be reused. Remove batteries through the applicable UPS or battery process; do not mix swollen or damaged units into a general electronics load.",
+          "Unload equipment systematically, supporting heavy servers on rails until a lift aid or enough people are in position. Work from the top down to lower the centre of gravity, fit blanking covers over sharp openings and collect rails, cage nuts and keys in labelled containers. Secure or remove doors and side panels before the empty frame travels.",
+        ],
+        image: blogB133Body,
+        imageAlt: "IT technician inventorying an empty server rack with panels and storage drives kept in controlled containers",
+        imageCaption: "Asset reconciliation and media custody happen before the empty cabinet enters the furniture or metal-recovery stream.",
+      },
+      {
+        heading: "Survey raised floors, freight lifts and secure loading",
+        paragraphs: [
+          "Record the empty rack's dimensions and stated weight, then check doorway clearances, floor transitions, ramps, freight-lift capacity and loading-bay rules. Raised-floor tiles are not a casual trolley route: facilities should approve protective sheets or a load-spreading method. Keep the cabinet upright and never rely on small levelling feet as transport castors.",
+          "A standard cabinet with complete rails and keys may be redeployed; a bent or proprietary frame can be separated as metal after hardware and electronics are removed. Our [office clearance service](https://dubaijunkcollection.com/services/office-junk-removal) can coordinate access in [Dubai Internet City](https://dubaijunkcollection.com/service-areas/dubai-internet-city). For the wider project, use the [office-clearance sequence](https://dubaijunkcollection.com/blog/how-to-clear-an-office-in-dubai), [electronics recycling guide](https://dubaijunkcollection.com/blog/where-to-recycle-electronics-in-dubai) and [office relocation checklist](https://dubaijunkcollection.com/blog/office-relocation-junk-removal-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can a populated server rack be moved as one unit?", answer: "It should not be the default. Installed equipment raises the weight and centre of gravity, can exceed castor or lift limits and leaves data-bearing assets exposed. Decommission and remove devices under IT control before a specialist moves the empty cabinet." },
+      { question: "Does deleting files make old server drives safe to recycle?", answer: "Not necessarily. The organization should choose and verify a sanitization method based on the media type, condition and data classification. Keep evidence of the decision and execution before drives leave custody for reuse or destruction." },
+      { question: "Who should disconnect a hard-wired rack or UPS?", answer: "An authorized, competent electrical or facilities professional should isolate fixed supplies and verify the safe state. The removal crew should receive written confirmation and should not improvise disconnection at a distribution board, PDU or battery cabinet." },
+      { question: "What information is needed for a server-rack removal quote?", answer: "Provide cabinet dimensions, empty and current loaded weight if known, equipment count, floor type, door and freight-lift measurements, loading-bay controls and the planned IT release time. Flag stairs, raised floors, batteries and fixed services in advance." },
+      { question: "Can an empty rack go directly to metal recycling?", answer: "It can follow a metal route after IT assets, cables, batteries, power strips and electronic controls are removed and ownership is released. Complete standard racks may have better reuse value when doors, panels, rails and keys remain together." },
+    ],
+    relatedSlugs: ["data-safe-electronics-disposal-dubai", "where-to-recycle-electronics-in-dubai", "how-to-clear-an-office-in-dubai"],
+    serviceLink: { href: "/services/office-junk-removal", label: "Plan server rack collection" },
+    sources: [
+      { href: "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-88r2.pdf", label: "NIST — Guidelines for Media Sanitization, Revision 2" },
+      { href: "https://www.dewa.gov.ae/-/media/DEWA_Regulations_for_Electrical_Installations_2017_Edition.ashx", label: "DEWA — Regulations for Electrical Installations" },
       { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.2-Waste-Collection-and-Transport.pdf", label: "Dubai Municipality — Waste collection and transport technical guideline" },
       { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
     ],

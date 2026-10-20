@@ -600,3 +600,11 @@
 | 370 | how to dispose of a sofa bed in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-sofa-bed-in-dubai`) |
 | 371 | how to dispose of a chest freezer in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-chest-freezer-in-dubai`) |
 | 372 | how to dispose of an office paper shredder in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-office-paper-shredder-in-dubai`) |
+
+### New question-intent blog targets (Batch 37)
+
+| # | Keyword | Intent | Recommended Page |
+| :-: | :--- | :---: | :--- |
+| 373 | how to dispose of a tv stand in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-tv-stand-in-dubai`) |
+| 374 | how to dispose of a wine cooler in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-wine-cooler-in-dubai`) |
+| 375 | how to dispose of a server rack in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-server-rack-in-dubai`) |

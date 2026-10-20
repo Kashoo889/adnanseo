@@ -507,6 +507,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B128 differs from B23 (ordinary sofas), B65 (bed frames) and B77 (recliners) through its sprung folding deck, hidden steel mass, mattress separation and the need to restrain the mechanism during carrying. B129 differs from B25 (upright fridges), B98 (general appliance recovery) and B123 (heat-pump dryers) through top-opening access, a broad low lifting position, meltwater drainage, loose baskets and lid control. B130 differs from B81 (printers), B90 (data-bearing IT assets) and B93 (filing cabinets) through residual paper caught at the cutters, confidential-paper chain of custody, sharp cutter stacks, removable waste bins and automatic-oiler consumables.
 
+### Track 40: Media Furniture, Specialist Cooling & IT Infrastructure (Clusters 3, 4, 5 & 6)
+*Extends the furniture–appliance–office sequence with three distinct controls: separating screens, glass and cabling from a media console; identifying the sealed cooling technology behind a glass-door wine cabinet; and releasing an empty network rack only after IT assets, storage media and fixed services are closed out.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B131** | *How to Dispose of a TV Stand in Dubai: Glass Shelves, Cables and Safe Collection* | `how to dispose of a tv stand in dubai` | `tv stand disposal dubai`, `media console removal dubai`, `glass furniture collection dubai` | Q | `/services/furniture-removal` |
+| **B132** | *How to Dispose of a Wine Cooler in Dubai: Glass Doors, Racks and Refrigerant* | `how to dispose of a wine cooler in dubai` | `wine fridge disposal dubai`, `refrigerated appliance collection dubai`, `appliance recycling dubai` | Q | `/services/appliance-removal` |
+| **B133** | *How to Dispose of a Server Rack in Dubai: Data, Cabling and Heavy Access* | `how to dispose of a server rack in dubai` | `server cabinet removal dubai`, `data centre decommissioning dubai`, `office e-waste collection dubai` | Q | `/services/office-junk-removal` |
+
+**Overlap check (content-rules §16):** B131 differs from B22 (general furniture), B55 (televisions), B94 (shelving) and B100 (shoe storage) through device disconnection, cable mapping, removable tempered-glass protection and media-wall tenancy ownership. B132 differs from B25 (upright refrigerators), B115 (dehumidifiers), B123 (heat-pump dryers) and B129 (chest freezers) through glass-door restraint, bottle-rack inventories, under-counter ventilation and compressor-versus-thermoelectric identification. B133 differs from B28/B38 (whole-office workflows), B81 (printers), B90 (data-safe electronics) and B124 (cubicles) through rack-unit asset reconciliation, top-down unloading, rails and cage-nut inventories, UPS and PDU isolation, raised-floor loading and secure media custody.
+
 ---
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -545,3 +556,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 34. **Batch 34 (Articles B122–B124):** Storage Furniture, Laundry Appliances & Modular Offices — **100% Completed (3/3 Live)**.
 35. **Batch 35 (Articles B125–B127):** Bunk Beds, Kitchen Extraction & Vending Equipment — **100% Completed (3/3 Live)**.
 36. **Batch 36 (Articles B128–B130):** Convertible Seating, Frozen Storage & Secure Office Equipment — **100% Completed (3/3 Live)**.
+37. **Batch 37 (Articles B131–B133):** Media Furniture, Specialist Cooling & IT Infrastructure — **100% Completed (3/3 Live)**.
