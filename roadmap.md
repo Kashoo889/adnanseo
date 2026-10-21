@@ -518,6 +518,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B131 differs from B22 (general furniture), B55 (televisions), B94 (shelving) and B100 (shoe storage) through device disconnection, cable mapping, removable tempered-glass protection and media-wall tenancy ownership. B132 differs from B25 (upright refrigerators), B115 (dehumidifiers), B123 (heat-pump dryers) and B129 (chest freezers) through glass-door restraint, bottle-rack inventories, under-counter ventilation and compressor-versus-thermoelectric identification. B133 differs from B28/B38 (whole-office workflows), B81 (printers), B90 (data-safe electronics) and B124 (cubicles) through rack-unit asset reconciliation, top-down unloading, rails and cage-nut inventories, UPS and PDU isolation, raised-floor loading and secure media custody.
 
+### Track 41: Bedroom Furniture, Portable Cooling & Home Networks (Clusters 3, 4, 5 & 10)
+*Extends the item-specific sequence with three distinct preparation controls: separating a fragile dressing-table mirror from a drawer cabinet, draining a portable air conditioner while preserving its sealed refrigerant circuit, and retiring routers or modems only after provider ownership, stored configuration and linked accounts are closed out.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B134** | *How to Dispose of a Dressing Table in Dubai: Mirrors, Drawers and Safe Dismantling* | `how to dispose of a dressing table in dubai` | `dressing table disposal dubai`, `mirrored furniture collection dubai`, `bedroom furniture removal dubai` | Q | `/services/furniture-removal` |
+| **B135** | *How to Dispose of a Portable Air Conditioner in Dubai: Water, Refrigerant and Accessories* | `how to dispose of a portable air conditioner in dubai` | `portable ac disposal dubai`, `air conditioner recycling dubai`, `refrigerant appliance collection dubai` | Q | `/services/appliance-removal` |
+| **B136** | *How to Dispose of a Wi-Fi Router and Modem in Dubai: Accounts, Data and E-Waste* | `how to dispose of a wifi router and modem in dubai` | `old router disposal dubai`, `modem recycling dubai`, `network equipment e-waste dubai` | Q | `/services/household-junk-removal` |
+
+**Overlap check (content-rules §16):** B134 differs from B62 (standalone mirrors), B75 (wardrobes), B122 (chests of drawers) and the general furniture guide through its joined mirror-and-cabinet assembly, personal-item sweep, vanity fixings and matching-set reuse decision. B135 differs from the fixed AC guide, B115 (dehumidifiers) and B132 (wine coolers) through condensate reservoirs, exhaust hoses, window kits, mobile upright handling and the evaporative-cooler distinction. B136 differs from B45 (general electronics recycling), B90 (data-bearing storage media) and B133 (server racks) through provider ownership, account closure, Wi-Fi configuration, certificates, mesh nodes and optical-network equipment.
+
 ---
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -557,3 +568,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 35. **Batch 35 (Articles B125–B127):** Bunk Beds, Kitchen Extraction & Vending Equipment — **100% Completed (3/3 Live)**.
 36. **Batch 36 (Articles B128–B130):** Convertible Seating, Frozen Storage & Secure Office Equipment — **100% Completed (3/3 Live)**.
 37. **Batch 37 (Articles B131–B133):** Media Furniture, Specialist Cooling & IT Infrastructure — **100% Completed (3/3 Live)**.
+38. **Batch 38 (Articles B134–B136):** Bedroom Furniture, Portable Cooling & Home Networks — **100% Completed (3/3 Live)**.

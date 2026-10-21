@@ -232,6 +232,12 @@ import blogB132Cover from "@/assets/blog-b132-wine-cooler-removal-cover.webp";
 import blogB132Body from "@/assets/blog-b132-wine-cooler-racks-body.webp";
 import blogB133Cover from "@/assets/blog-b133-server-rack-removal-cover.webp";
 import blogB133Body from "@/assets/blog-b133-server-rack-inventory-body.webp";
+import blogB134Cover from "@/assets/blog-b62-large-mirror-disposal-cover.webp";
+import blogB134Body from "@/assets/blog-b100-shoe-rack-dismantling-body.webp";
+import blogB135Cover from "@/assets/blog-b98-appliance-disposal-cover.webp";
+import blogB135Body from "@/assets/blog-b98-appliance-degassing-body.webp";
+import blogB136Cover from "@/assets/blog-b45-electronics-recycling-cover.webp";
+import blogB136Body from "@/assets/blog-b45-ewaste-dropoff-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -15536,6 +15542,203 @@ export const blogPosts: BlogPost[] = [
       { href: "https://www.dewa.gov.ae/-/media/DEWA_Regulations_for_Electrical_Installations_2017_Edition.ashx", label: "DEWA — Regulations for Electrical Installations" },
       { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.2-Waste-Collection-and-Transport.pdf", label: "Dubai Municipality — Waste collection and transport technical guideline" },
       { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-dressing-table-in-dubai",
+    title: "How to Dispose of a Dressing Table in Dubai: Mirrors, Drawers and Safe Dismantling",
+    excerpt: "Separate and protect the mirror, empty and secure every drawer, check whether the unit belongs to the tenancy, and dismantle only where the exit route requires it.",
+    category: "Guides & Tips",
+    coverImage: blogB134Cover,
+    coverImageAlt: "Uniformed crew carrying a wrapped dressing-table mirror through a Dubai apartment",
+    publishedAt: "2026-10-21",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Dressing Table Disposal", "Mirrored Furniture", "Furniture Collection", "Apartment Handover"],
+    seoTitle: "How to Dispose of a Dressing Table in Dubai | Guide",
+    seoDescription: "How to dispose of a dressing table in Dubai: secure its mirror and drawers, check tenancy ownership, measure lift access and arrange safe collection.",
+    keyTakeaways: [
+      "Confirm that the dressing table is tenant-owned before removing a fitted or inventory-listed unit from a rented home.",
+      "Detach the mirror only at its designed brackets, wrap it as a separate fragile item and keep hardware in a labelled bag.",
+      "Empty and secure drawers, measure the complete route and preserve a sound set for reuse before choosing material recovery.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a dressing table in Dubai?",
+        paragraphs: [
+          "To dispose of a dressing table in Dubai, confirm ownership, empty every drawer, remove loose cosmetics, detach and wrap the mirror only at its proper fixings, and secure or remove the drawers. Measure doors and the service lift, then offer a sound complete set for reuse or book approved furniture collection.",
+          "The awkward part is the combination of a fragile upright mirror and a low cabinet with weight that shifts as drawers move. Taking the mirror off correctly often solves the access problem; breaking glass or forcing glued panels apart creates a riskier load and removes most reuse value.",
+        ],
+      },
+      {
+        heading: "Check ownership and clear the contents first",
+        paragraphs: [
+          "Compare the table with the tenancy inventory before dismantling it. A wall-fixed mirror, fitted vanity shelf or matching unit supplied with the bedroom may belong to the landlord. Photograph its condition and obtain written direction where ownership is uncertain so the Ejari handover does not end with a replacement deduction.",
+          "Empty drawers completely, including removable liners, jewellery, medicines and personal papers. Cosmetics, perfume bottles, aerosol products and powered beauty tools need their own keep, donation or disposal decision; leaving them inside creates spills and hidden sharp items during lifting. Clean the empty surfaces so a reuse recipient can assess the furniture honestly.",
+        ],
+        callout: { type: "tip", title: "Photograph the complete set before taking it apart", text: "A clear front, rear and fixing photo records condition, shows how the mirror was mounted and gives a buyer or collection crew the information needed to plan the route." },
+      },
+      {
+        heading: "Remove the mirror and control the drawers",
+        paragraphs: [
+          "Support the mirror with two people before loosening its brackets. Use the manufacturer's fixing points, never pry against the glass, and retain spacers, bolts and decorative caps in a labelled bag. Protect the face with a clean non-marking layer, add rigid corner guards and carry it upright rather than flat under other furniture.",
+          "Take out fully removable drawers and bundle them separately, or secure captive drawers without applying tape to the finish. Bag handles that could snag a corridor wall. If the cabinet must be reduced, photograph the frame and label each safe screw-fastened piece; glued joints, stone tops and integrated lighting are reasons to stop and use a trained crew.",
+        ],
+        image: blogB134Body,
+        imageAlt: "Technician releasing hardware from a wooden mirrored furniture cabinet before collection",
+        imageCaption: "Labelled fixings and controlled moving parts make a dressing table safer to carry and more likely to be reused.",
+      },
+      {
+        heading: "Plan building access and choose reuse before disposal",
+        paragraphs: [
+          "Measure the cabinet, mirror and narrowest door separately, then check lift dimensions, corridor turns and the loading-bay booking. Managed towers may require a move-out NOC, protective lift padding or an approved service window. Keep all pieces inside the apartment until security confirms the collection route; do not stage them in a fire corridor or refuse room.",
+          "A stable table with an unchipped mirror, smooth drawers and complete fittings is a good reuse candidate. Swollen board, loose joints or cracked glass may require separate material routes. Our [furniture collection service](https://dubaijunkcollection.com/services/furniture-removal) can plan access in homes such as [Jumeirah Village Circle](https://dubaijunkcollection.com/service-areas/jumeirah-village-circle). The guides to [large-mirror disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-large-mirror-glass-dubai), [chest-of-drawers removal](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-chest-of-drawers-in-dubai) and [selling or donating furniture](https://dubaijunkcollection.com/blog/sell-vs-donate-old-furniture-dubai) cover the adjacent decisions.",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can I leave an old dressing table in the building bin room?", answer: "Only if building management has explicitly assigned that location and collection time. A dressing table can obstruct waste handling, and an unsecured mirror can break. Keep the set inside your unit until the approved handover point is ready, then transfer it directly to the collector." },
+      { question: "Should I tape across a dressing-table mirror?", answer: "Tape is not a substitute for rigid protection and may damage coatings or leave residue. Use clean wrapping, corner guards and a rigid board where appropriate, keep the mirror upright and tell the crew immediately if the glass is already chipped, loose or cracked." },
+      { question: "Can a mirrored dressing table be donated?", answer: "Yes, when the frame is stable, drawers operate properly, the mirror is safe and all mounting hardware is present. Photograph defects and dimensions clearly. A charity or recipient may still decline flat-pack furniture that has swollen board, missing fixings or cannot be reassembled reliably." },
+      { question: "What should I send for a dressing-table collection quote?", answer: "Send clear photos of the front, rear, mirror brackets and any damage, plus the cabinet and mirror dimensions. Include your floor, lift size, parking or loading access, the narrowest doorway and whether building management requires an NOC or service-lift reservation." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-large-mirror-glass-dubai", "how-to-dispose-of-a-chest-of-drawers-in-dubai", "sell-vs-donate-old-furniture-dubai"],
+    serviceLink: { href: "/services/furniture-removal", label: "Arrange dressing table collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Household appliance and furniture disposal service" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-portable-air-conditioner-in-dubai",
+    title: "How to Dispose of a Portable Air Conditioner in Dubai: Water, Refrigerant and Accessories",
+    excerpt: "Drain condensate, retain the exhaust kit, photograph the refrigerant label and keep the sealed cooling circuit intact before arranging upright appliance recovery.",
+    category: "Eco & Recycling",
+    coverImage: blogB135Cover,
+    coverImageAlt: "Cooling appliances separated for responsible recovery at a Dubai recycling facility",
+    publishedAt: "2026-10-21",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Portable AC Disposal", "Refrigerant Recovery", "Appliance Recycling", "Summer Cooling"],
+    seoTitle: "How to Dispose of a Portable AC in Dubai | Safe Guide",
+    seoDescription: "How to dispose of a portable air conditioner in Dubai: drain water, keep refrigerant sealed, pack its exhaust kit and arrange upright recovery.",
+    keyTakeaways: [
+      "Drain and dry the condensate system before collection so water does not leak across floors, lifts or the transport vehicle.",
+      "Keep the cabinet and refrigerant pipework sealed; a recovery facility, not the resident or removal crew, handles refrigerant extraction.",
+      "Pack the exhaust hose, window panel, drain tube and remote with the correct unit because a complete working set has greater reuse value.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a portable air conditioner in Dubai?",
+        paragraphs: [
+          "To dispose of a portable air conditioner in Dubai, unplug it, let it stand, drain and dry its condensate system, clean removable filters, secure the cable, and pack the exhaust hose, window kit and remote. Photograph the refrigerant label, keep the cooling circuit sealed, move the unit upright and arrange appliance recovery.",
+          "A portable AC rolls like a small cabinet but still contains a compressor, refrigerant, oil, electronics and collected water. It should not be treated as ordinary plastic or metal. A complete, dry unit is also much easier to test, resell or repair before recycling becomes the final option.",
+        ],
+      },
+      {
+        heading: "Drain condensate and keep every accessory together",
+        paragraphs: [
+          "Switch the unit off, unplug it and follow the manual's standing period before handling. Move it to a suitable drainage point, open only the user drain provided by the maker and empty both upper and lower reservoirs where fitted. Replace drain caps, wipe the cabinet and allow the evaporator and collection tray time to dry.",
+          "Vacuum or wash user-serviceable filters according to the manual, then let them dry fully. Coil the power cable without crushing it. Label the exhaust hose, window slider, connector collars, drain tube and remote; these pieces are often separated during a move, even though a missing proprietary adapter can make an otherwise working unit difficult to reuse.",
+        ],
+        callout: { type: "warning", title: "Do not vent or cut the sealed cooling circuit", text: "Copper lines and the compressor can hold refrigerant and oil under pressure. Do not puncture, flatten or remove them for scrap; send the intact unit to a route equipped for refrigerant recovery." },
+      },
+      {
+        heading: "Identify the appliance before it is collected",
+        paragraphs: [
+          "Photograph the model and rating plate, including the refrigerant type and charge. Share that image with the collector so the receiving facility can prepare the appropriate route. A failed fan, sensor or drain pump may be repairable; describe the fault, error code, noise and whether the compressor starts instead of repeatedly testing a unit that overheats.",
+          "Do not confuse a portable evaporative air cooler with a refrigerant air conditioner. An evaporative cooler usually has a refillable water tank and no compressor circuit, while a true portable AC exhausts heat through a hose. Both contain electrical parts, but only the latter normally requires refrigerant management.",
+        ],
+        image: blogB135Body,
+        imageAlt: "Recycling technician recovering refrigerant from a cooling appliance before separating metals",
+        imageCaption: "Specialist recovery keeps refrigerant contained before copper, steel, plastics and electronic controls are separated.",
+      },
+      {
+        heading: "Move it upright and plan the summer collection window",
+        paragraphs: [
+          "Keep the appliance upright on a stable trolley and use its castors only on smooth indoor floors. Do not drag it over lift gaps or stairs, lift by the exhaust collar, or stack items on top. In Dubai's summer heat, avoid leaving the unit in a closed vehicle or outdoor loading area while access is still being arranged.",
+          "Confirm the service-lift booking and loading route before bringing the unit out. Our [appliance removal service](https://dubaijunkcollection.com/services/appliance-removal) can coordinate collection in areas such as [Dubai Marina](https://dubaijunkcollection.com/service-areas/dubai-marina). See the guides to [old AC unit disposal](https://dubaijunkcollection.com/blog/how-to-get-rid-of-old-ac-unit-dubai), [dehumidifier disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-dehumidifier-in-dubai) and [responsible appliance recovery](https://dubaijunkcollection.com/blog/responsible-appliance-disposal-dubai) for related cooling equipment.",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can I put a portable air conditioner beside the communal bins?", answer: "Do not leave it there without explicit building or collection approval. The appliance is bulky, may leak water and contains electrical and refrigerant components. Arrange an accepted appliance route and keep it inside your unit until the confirmed collection window and handover point are ready." },
+      { question: "Must a portable AC be emptied before pickup?", answer: "Yes. Drain through the manufacturer-provided outlets, replace the caps and dry the reservoirs as far as practical. Tell the crew if the drain is blocked or the cabinet still contains water so they can protect the route, vehicle and lift while keeping the unit upright." },
+      { question: "Can I remove the copper from a broken portable AC?", answer: "No. Cutting the cabinet or tubing can release refrigerant and compressor oil and creates sharp edges. Leave the sealed system intact for a qualified recovery facility that can remove controlled materials before separating recyclable metals, wiring, plastics and electronic controls." },
+      { question: "Is a portable evaporative cooler handled the same way?", answer: "Not exactly. Drain and dry its water tank and route its motor, pump and controls as electrical equipment. Because it normally has no refrigerant circuit, the recovery step differs; confirm the model from its rating plate and manual rather than judging by appearance alone." },
+    ],
+    relatedSlugs: ["how-to-get-rid-of-old-ac-unit-dubai", "how-to-dispose-of-a-dehumidifier-in-dubai", "responsible-appliance-disposal-dubai"],
+    serviceLink: { href: "/services/appliance-removal", label: "Arrange portable AC collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Household appliance and furniture disposal service" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+      { href: "https://www.epa.gov/section608/safe-disposal-procedures-household-appliances-use-refrigerants", label: "US EPA — Safe disposal of appliances that use refrigerants" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-wifi-router-and-modem-in-dubai",
+    title: "How to Dispose of a Wi-Fi Router and Modem in Dubai: Accounts, Data and E-Waste",
+    excerpt: "Confirm whether the provider owns the equipment, migrate the connection, remove account links, reset stored configuration and send the device through an electronics route.",
+    category: "Eco & Recycling",
+    coverImage: blogB136Cover,
+    coverImageAlt: "Dubai resident sorting an old Wi-Fi router, cables and electronic devices for recycling",
+    publishedAt: "2026-10-21",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Router Disposal", "Modem Return", "Network Security", "E-Waste Recycling"],
+    seoTitle: "How to Dispose of a Wi-Fi Router in Dubai | Data Guide",
+    seoDescription: "How to dispose of a Wi-Fi router or modem in Dubai: check provider ownership, remove account links, reset configuration and use an e-waste route.",
+    keyTakeaways: [
+      "Ask the telecom provider whether the router, modem, ONT or TV box must be returned before treating it as your equipment.",
+      "Move the connection first, remove account and app links, then follow the exact model instructions to erase configuration and restore factory settings.",
+      "Keep power adapters and mesh nodes labelled, remove loose batteries and route unwanted network equipment through electronics reuse or recycling.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a Wi-Fi router or modem in Dubai?",
+        paragraphs: [
+          "To dispose of a Wi-Fi router or modem in Dubai, first confirm whether the telecom provider owns it or requires a return. Migrate your connection, remove account and app links, back up only needed settings, follow the model's factory-reset instructions, label matching power supplies, and use an approved electronics reuse or recycling route.",
+          "Unplugging is not the same as decommissioning. A network device can retain Wi-Fi names, administrative settings, logs, certificates or provider provisioning. It may also be one part of a set that includes an optical network terminal, mesh nodes, a telephone adapter or television box with separate return terms.",
+        ],
+      },
+      {
+        heading: "Separate provider equipment from devices you own",
+        paragraphs: [
+          "Check the installation receipt, account portal and labels on every box before clearing the cabinet. Ask the provider which serial-numbered devices must be returned and where. Do not remove fibre connectors, fixed wall boxes or building distribution equipment just because the Wi-Fi service has ended; an apartment handover may require those components to remain.",
+          "Photograph the connections before migration and label the router, power adapter, mesh nodes and Ethernet cables as a set. Once the new service is working, cancel or transfer the old account and remove the device from its management app. Return provider-owned items through the specified channel and retain the receipt or reference number.",
+        ],
+        callout: { type: "warning", title: "A reset cannot fix an unfinished provider return", text: "Factory-resetting a leased router does not transfer ownership or close the account. Confirm the provider's return requirement first so a missing device charge does not appear after move-out." },
+      },
+      {
+        heading: "Erase configuration before reuse or recycling",
+        paragraphs: [
+          "Use the manufacturer's instructions for the exact model. Record anything required for the replacement connection, sign out of cloud management, revoke remote administration or certificates where applicable, and then perform the documented erase or factory reset. A button press varies by device, so verify that the unit restarts in its initial setup state instead of assuming the lights prove a reset.",
+          "For business routers, firewalls and managed access points, let the IT owner export required records, revoke credentials and document sanitization before release. The UK National Cyber Security Centre advises wiping configuration data, resetting network devices and revoking associated credentials as general disposal precautions. Higher-risk equipment may require the organization's formal sanitization process rather than a consumer reset.",
+        ],
+        image: blogB136Body,
+        imageAlt: "Old router, laptop, cables and small electronics being accepted at a Dubai recycling point",
+        imageCaption: "Keeping adapters and components together helps working network equipment qualify for reuse before material recycling.",
+      },
+      {
+        heading: "Choose reuse for supported devices and e-waste for the rest",
+        paragraphs: [
+          "A personally owned router can be reused if it powers on, receives security updates, supports current encryption and has no damaged cable or swollen backup battery. Give the next owner its correct adapter and clean setup instructions, not your old password. Separate removable batteries and do not place the equipment in a household rubbish chute.",
+          "Unsupported, failed or provider-rejected devices belong in an electronics collection stream. Our [household junk removal service](https://dubaijunkcollection.com/services/household-junk-removal) can coordinate mixed-item collection in communities such as [Business Bay](https://dubaijunkcollection.com/service-areas/business-bay). For larger loads, read the [Dubai electronics recycling guide](https://dubaijunkcollection.com/blog/where-to-recycle-electronics-in-dubai), [data-safe disposal guide](https://dubaijunkcollection.com/blog/data-safe-electronics-disposal-dubai) and [mobile-phone disposal checklist](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-mobile-phones-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Do internet providers in Dubai take old routers back?", answer: "Return rules depend on the provider, contract and device type. Check the account and contact the provider with the serial number before recycling anything. Keep proof of return, especially for a modem, optical terminal, TV box, telephone adapter or mesh unit supplied during installation." },
+      { question: "Does a factory reset remove my Wi-Fi password?", answer: "A correct model-specific factory reset normally clears the user configuration, including the customized network name and password, but verification matters. Follow the manufacturer's instructions and confirm that the device returns to its initial setup screen or default state before it leaves your control or enters reuse." },
+      { question: "Can I donate an old router?", answer: "Yes, if you own it, it is still supported, uses current security standards, has been reset and includes the correct power adapter. Do not donate provider-locked equipment or a device that can only use obsolete Wi-Fi protection; disclose any intermittent ports or power faults." },
+      { question: "What should I do with a router that has a backup battery?", answer: "Remove the battery only through the user-accessible compartment and protect its terminals. A swollen, leaking or hot battery needs a specialist battery route and should not travel loose with cables or general e-waste. Keep it away from heat, and do not puncture or compress it." },
+    ],
+    relatedSlugs: ["where-to-recycle-electronics-in-dubai", "data-safe-electronics-disposal-dubai", "how-to-dispose-of-old-mobile-phones-in-dubai"],
+    serviceLink: { href: "/services/household-junk-removal", label: "Arrange electronics collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Household appliance and furniture disposal service" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+      { href: "https://www.ncsc.gov.uk/guidance/acquiring-managing-and-disposing-network-devices", label: "UK NCSC — Acquiring, managing and disposing of network devices" },
     ],
   },
 ];

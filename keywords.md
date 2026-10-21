@@ -608,3 +608,11 @@
 | 373 | how to dispose of a tv stand in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-tv-stand-in-dubai`) |
 | 374 | how to dispose of a wine cooler in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-wine-cooler-in-dubai`) |
 | 375 | how to dispose of a server rack in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-server-rack-in-dubai`) |
+
+### New question-intent blog targets (Batch 38)
+
+| # | Keyword | Intent | Recommended Page |
+| :-: | :--- | :---: | :--- |
+| 376 | how to dispose of a dressing table in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-dressing-table-in-dubai`) |
+| 377 | how to dispose of a portable air conditioner in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-portable-air-conditioner-in-dubai`) |
+| 378 | how to dispose of a wifi router and modem in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-wifi-router-and-modem-in-dubai`) |
