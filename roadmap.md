@@ -529,6 +529,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B134 differs from B62 (standalone mirrors), B75 (wardrobes), B122 (chests of drawers) and the general furniture guide through its joined mirror-and-cabinet assembly, personal-item sweep, vanity fixings and matching-set reuse decision. B135 differs from the fixed AC guide, B115 (dehumidifiers) and B132 (wine coolers) through condensate reservoirs, exhaust hoses, window kits, mobile upright handling and the evaporative-cooler distinction. B136 differs from B45 (general electronics recycling), B90 (data-bearing storage media) and B133 (server racks) through provider ownership, account closure, Wi-Fi configuration, certificates, mesh nodes and optical-network equipment.
 
+### Track 42: Personal Mobility, Bathroom Fixtures & Outdoor Water Play (Clusters 3, 4, 5 & 10)
+*Extends the item-specific sequence with three distinct preparation controls: keeping a lithium-ion scooter battery sealed and inspected, isolating water before a bathroom vanity is separated from its stone top, and draining and drying an inflatable pool before it becomes bulky outdoor waste.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B137** | *How to Dispose of an Electric Scooter in Dubai: Batteries, Chargers and Safe Collection* | `how to dispose of an electric scooter in dubai` | `electric scooter disposal dubai`, `lithium battery recycling dubai`, `e-scooter collection dubai` | Q | `/services/household-junk-removal` |
+| **B138** | *How to Dispose of a Bathroom Vanity Unit in Dubai: Basins, Taps and Tenancy Checks* | `how to dispose of a bathroom vanity unit in dubai` | `bathroom vanity disposal dubai`, `bathroom refit waste dubai`, `basin cabinet removal dubai` | Q | `/services/furniture-removal` |
+| **B139** | *How to Dispose of an Inflatable Pool in Dubai: Draining, Folding and Sun-Damaged Vinyl* | `how to dispose of an inflatable pool in dubai` | `paddling pool disposal dubai`, `outdoor pool removal dubai`, `villa garden item collection dubai` | Q | `/services/villa-apartment-cleanouts` |
+
+**Overlap check (content-rules §16):** B137 differs from B45 (general electronics recycling), B46 (specialist waste), B69 (bicycles), B106 (mobile phones) and B113 (lawn mowers) through scooter battery inspection, charger pairing, folding-latch handling and permit or registration checks. B138 differs from B82 (kitchen cabinets), B70 (bathtubs), B62 (standalone mirrors) and the general furniture guide through isolation valves, basin and tap disconnection, stone-top handling and landlord-fixture ownership. B139 differs from B72 (trampolines), B102 (play equipment), B85 (pool chemicals) and B73 (aquariums) through water drainage rules, vinyl drying, pump separation and sun-degraded material reuse.
+
 ---
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -569,3 +580,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 36. **Batch 36 (Articles B128–B130):** Convertible Seating, Frozen Storage & Secure Office Equipment — **100% Completed (3/3 Live)**.
 37. **Batch 37 (Articles B131–B133):** Media Furniture, Specialist Cooling & IT Infrastructure — **100% Completed (3/3 Live)**.
 38. **Batch 38 (Articles B134–B136):** Bedroom Furniture, Portable Cooling & Home Networks — **100% Completed (3/3 Live)**.
+39. **Batch 39 (Articles B137–B139):** Personal Mobility, Bathroom Fixtures & Outdoor Water Play — **100% Completed (3/3 Live)**.

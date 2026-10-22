@@ -616,3 +616,11 @@
 | 376 | how to dispose of a dressing table in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-dressing-table-in-dubai`) |
 | 377 | how to dispose of a portable air conditioner in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-portable-air-conditioner-in-dubai`) |
 | 378 | how to dispose of a wifi router and modem in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-wifi-router-and-modem-in-dubai`) |
+
+### New question-intent blog targets (Batch 39)
+
+| # | Keyword | Intent | Recommended Page |
+| :-: | :--- | :---: | :--- |
+| 379 | how to dispose of an electric scooter in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-electric-scooter-in-dubai`) |
+| 380 | how to dispose of a bathroom vanity unit in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-bathroom-vanity-unit-in-dubai`) |
+| 381 | how to dispose of an inflatable pool in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-inflatable-pool-in-dubai`) |

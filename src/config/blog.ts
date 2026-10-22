@@ -238,6 +238,12 @@ import blogB135Cover from "@/assets/blog-b98-appliance-disposal-cover.webp";
 import blogB135Body from "@/assets/blog-b98-appliance-degassing-body.webp";
 import blogB136Cover from "@/assets/blog-b45-electronics-recycling-cover.webp";
 import blogB136Body from "@/assets/blog-b45-ewaste-dropoff-body.webp";
+import blogB137Cover from "@/assets/blog-b61-illegal-electronics-bin-cover.webp";
+import blogB137Body from "@/assets/blog-b61-ewaste-sorting-depot-body.webp";
+import blogB138Cover from "@/assets/blog-b40-renovation-detail-clean-body.webp";
+import blogB138Body from "@/assets/blog-b40-renovation-cleanup-cover.webp";
+import blogB139Cover from "@/assets/blog-b99-artificial-grass-slicing-body.webp";
+import blogB139Body from "@/assets/blog-b99-artificial-grass-cover.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -15739,6 +15745,202 @@ export const blogPosts: BlogPost[] = [
       { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Household appliance and furniture disposal service" },
       { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
       { href: "https://www.ncsc.gov.uk/guidance/acquiring-managing-and-disposing-network-devices", label: "UK NCSC — Acquiring, managing and disposing of network devices" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-an-electric-scooter-in-dubai",
+    title: "How to Dispose of an Electric Scooter in Dubai: Batteries, Chargers and Safe Collection",
+    excerpt: "Check the battery condition, keep the pack sealed, bundle the charger and arrange electronics collection so a lithium-ion scooter never travels as ordinary bulky waste.",
+    category: "Eco & Recycling",
+    coverImage: blogB137Cover,
+    coverImageAlt: "Technician sorting dismantled electronics, circuit boards and cables on a recycling workbench",
+    publishedAt: "2026-10-22",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Electric Scooter Disposal", "Lithium Battery Recycling", "E-Waste Collection", "Personal Mobility"],
+    seoTitle: "How to Dispose of an Electric Scooter in Dubai | Guide",
+    seoDescription: "How to dispose of an electric scooter in Dubai: inspect the lithium battery, keep it sealed, bundle the charger and use a safe electronics route.",
+    keyTakeaways: [
+      "Treat the lithium-ion battery as the controlling hazard: never crush, open or charge a swollen, hot, leaking or damaged pack.",
+      "Check whether the scooter is still worth reselling or repairing before sending it for material recovery, and keep the charger with the correct unit.",
+      "Tell the collection team about battery condition, scooter weight and the lift route before the visit so the right handling plan is agreed.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an electric scooter in Dubai?",
+        paragraphs: [
+          "To dispose of an electric scooter in Dubai, switch it off, unplug the charger, inspect the battery for swelling, heat or leakage, and keep the pack sealed inside the frame. Bundle the charger, fold the unit safely and arrange electronics reuse or recycling rather than putting it in a building bin.",
+          "A scooter looks like light sports equipment, but its lithium-ion battery changes how it must be stored and moved. Damage to the pack can lead to heat or fire, so the sensible decision is made before the scooter reaches a corridor, lift or vehicle, not at the kerb.",
+        ],
+      },
+      {
+        heading: "Inspect the battery before you move anything",
+        paragraphs: [
+          "Look at the deck, stem and charging port in good light. A swollen casing, hot surface, strong chemical smell, hissing, leaking liquid or a charger that no longer fits is a warning sign. Do not charge the scooter again, do not try to open the battery housing and keep it on a hard, non-flammable surface away from curtains, sofas and cardboard.",
+          "If the battery appears normal, leave it connected inside the scooter. Cover a damaged charging port with non-conductive tape and store the scooter indoors at normal room temperature. Summer heat in a parked car or on an open balcony is a poor place to leave any lithium-ion battery waiting for collection.",
+        ],
+        callout: { type: "warning", title: "A damaged battery needs a specialist route", text: "If the pack is swollen, burnt, leaking or has been in a crash, stop handling it and tell the collection team before booking. It must not be compressed, pierced, mixed with general rubbish or loaded under other items." },
+      },
+      {
+        heading: "Decide between resale, repair and recycling",
+        paragraphs: [
+          "A scooter that powers on, brakes properly and holds a charge may be worth selling or donating. Photograph the controls, note the model and age, and include the original charger because a missing or mismatched one reduces both value and safety. Disclose any range loss, tyre damage or folding-latch wear plainly.",
+          "Where the battery no longer holds a useful charge, the frame, motor, wiring and pack should enter an electronics recovery stream. Remove personal accessories such as phone mounts, lights and locks first, but leave the battery inside unless the manufacturer's instructions describe a user-removable design. Check with the seller or the relevant authority whether any registration or permit linked to the scooter needs to be cancelled.",
+        ],
+        image: blogB137Body,
+        imageAlt: "Worker in a high-visibility vest handing electronic equipment to a Dubai recycling drop-off point",
+        imageCaption: "Used electronics are safest when they are handed over intact and sorted at a dedicated recycling point.",
+      },
+      {
+        heading: "Plan the lift, the load and the collection",
+        paragraphs: [
+          "Note the manufacturer's stated weight, fold the scooter where the design allows and carry it by the frame rather than the handlebar stem. Managed towers may restrict battery storage in common areas, so keep it inside your unit until security confirms the collection window and lift reservation.",
+          "Our [household junk removal service](https://dubaijunkcollection.com/services/household-junk-removal) can coordinate scooter collection alongside other unwanted items in communities such as [Dubai Marina](https://dubaijunkcollection.com/service-areas/dubai-marina). The guides to [electronics recycling in Dubai](https://dubaijunkcollection.com/blog/where-to-recycle-electronics-in-dubai), [hazardous waste disposal](https://dubaijunkcollection.com/blog/hazardous-waste-disposal-dubai) and [bicycle disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-bicycle-dubai) cover the neighbouring questions.",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can I put an electric scooter in the building bin?", answer: "No. A scooter contains a lithium-ion battery and electronic components that should not go in a bin, chute or bulky-waste pile. Keep it inside your unit and arrange an electronics collection or approved recycling drop-off." },
+      { question: "Can I remove the battery myself?", answer: "Only if the manufacturer designed it to be user-removable and the instructions explain how. Do not force open sealed housings. If the battery is swollen, hot or leaking, stop and ask a specialist handler for advice instead." },
+      { question: "What should I send for a scooter collection quote?", answer: "Send photos of the whole scooter, the battery area and the charger, plus the brand and model. Mention battery damage, floor, lift size and any building restrictions so the crew can plan handling and timing." },
+      { question: "Is a scooter with a dead battery still collectable?", answer: "Usually yes, provided the pack is not damaged. Tell the team that the scooter will not charge and describe its condition, because a battery that has failed deeply may still need separate handling." },
+    ],
+    relatedSlugs: ["where-to-recycle-electronics-in-dubai", "hazardous-waste-disposal-dubai", "how-to-dispose-of-old-bicycle-dubai"],
+    serviceLink: { href: "/services/household-junk-removal", label: "Arrange scooter collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Household appliance and furniture disposal service" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+      { href: "https://www.epa.gov/recycle/used-lithium-ion-batteries", label: "US EPA — Used lithium-ion batteries" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-bathroom-vanity-unit-in-dubai",
+    title: "How to Dispose of a Bathroom Vanity Unit in Dubai: Basins, Taps and Tenancy Checks",
+    excerpt: "Check who owns the vanity, isolate the water, disconnect the basin and taps, protect the stone top and plan a safe carry before the cabinet leaves the bathroom.",
+    category: "Guides & Tips",
+    coverImage: blogB138Cover,
+    coverImageAlt: "Technician inspecting built-in cabinetry beside a sink while another crew member cleans the Dubai apartment floor",
+    publishedAt: "2026-10-22",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Bathroom Vanity Disposal", "Bathroom Refit", "Furniture Collection", "Tenancy Handover"],
+    seoTitle: "How to Dispose of a Bathroom Vanity in Dubai | Guide",
+    seoDescription: "How to dispose of a bathroom vanity unit in Dubai: confirm ownership, isolate water, remove the basin and taps, protect the top and book collection.",
+    keyTakeaways: [
+      "Confirm that the vanity belongs to you, or has landlord approval, before removing it from a rented bathroom.",
+      "Close the isolation valves, disconnect plumbing properly and let a competent technician or building maintenance team handle fixed connections.",
+      "Separate the stone or ceramic top, mirror cabinet and carcass because each has a different weight, fragility and disposal route.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a bathroom vanity unit in Dubai?",
+        paragraphs: [
+          "To dispose of a bathroom vanity unit in Dubai, confirm ownership, empty the cabinet, close the water isolation valves, disconnect the taps, waste and basin, and separate the top from the carcass. Wrap fragile surfaces, measure the route out and book collection of the cabinet, top and fittings together.",
+          "The sink area is where a vanity gets complicated. Water connections, silicone seals, a stone top and a wall-fixed mirror can all stop a simple lift-and-carry job. Sorting those pieces before the crew arrives keeps the bathroom from flooding and the building corridor from being scratched.",
+        ],
+      },
+      {
+        heading: "Check ownership and permissions first",
+        paragraphs: [
+          "Look at the tenancy inventory and Ejari paperwork. In a rented apartment a vanity, mirror cabinet or basin is often a fitted landlord item, even when it looks dated. Photograph the existing condition and request written approval before replacing it, otherwise the handover can end with a deduction for missing or altered fixtures.",
+          "Managed buildings may require notice for plumbing work, particularly if isolating water affects other units. Ask building management about working hours and any contractor access rule. If you own the property and are refitting the bathroom, arrange the replacement fixture and the removal on the same day so the room is not left without a working basin.",
+        ],
+        callout: { type: "info", title: "Fixed plumbing is not a casual DIY job", text: "Incorrectly disconnected supply or waste lines can leak behind walls or into the unit below. Use a competent technician where valves are stiff, pipes are corroded or the vanity has been sealed to the wall." },
+      },
+      {
+        heading: "Disconnect and separate the components",
+        paragraphs: [
+          "Empty drawers and shelves, and clear toiletries, razors and medicines. Close both isolation valves, open the tap briefly to release pressure and place a bucket under the trap before loosening connections. Remove flexible hoses, tap sets and the waste kit, photograph how they were arranged and cap any open pipe ends.",
+          "Cut the sealant line with a thin blade rather than prising a heavy top away. A marble, quartz or ceramic top should be lifted by two people, wrapped and moved upright if the design allows, never stacked flat under the cabinet. Handle fixings, taps and the mirror cabinet as separate items. If the carcass is chipboard, expect moisture damage and treat it as bulky waste rather than reuse stock.",
+        ],
+        image: blogB138Body,
+        imageAlt: "Crew members sorting timber offcuts, cardboard and metal fittings on a floor in a Dubai apartment",
+        imageCaption: "Separating timber, packaging and metal fittings keeps a refit load organised and easier to recycle.",
+      },
+      {
+        heading: "Plan the carry and the final route",
+        paragraphs: [
+          "Measure the cabinet, the stone top and the narrowest door or corridor turn. Booking a service lift and bringing protective flooring matter more than usual because a wet or sharp-edged cabinet marks tiles and lift walls quickly. Keep every piece inside the bathroom or apartment until the crew and lift are ready.",
+          "Our [furniture collection service](https://dubaijunkcollection.com/services/furniture-removal) can handle vanity units alongside other refit waste in communities such as [Dubai Hills Estate](https://dubaijunkcollection.com/service-areas/dubai-hills-estate). The guides to [bathtub disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-bathtub-dubai), [kitchen cabinet removal](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-kitchen-cabinets-dubai) and [large mirror disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-large-mirror-glass-dubai) cover related jobs.",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can I leave an old vanity by the building bin?", answer: "Only where management has assigned a bulky-item location and time. Otherwise it can block waste handling and attract a fine. Keep the unit inside until collection is ready, then take it directly to the vehicle." },
+      { question: "Do I need a plumber to remove a vanity?", answer: "Not always. If the isolation valves work and the connections are standard, a competent person can disconnect them. A plumber is sensible for stiff valves, corroded pipes or wall-fixed units, and a landlord may expect one." },
+      { question: "Can a marble vanity top be reused?", answer: "Sometimes. A top without cracks or chips and with a sink cut-out that fits another unit may suit a refit. Check measurements and condition, and carry it upright with two people to avoid snapping." },
+      { question: "What should I send for a vanity collection quote?", answer: "Send photos of the whole unit, the top, the plumbing area and the route out, plus width, depth and weight if known. Mention your floor, lift size and whether the plumbing is already disconnected." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-old-bathtub-dubai", "how-to-dispose-of-old-kitchen-cabinets-dubai", "how-to-dispose-of-large-mirror-glass-dubai"],
+    serviceLink: { href: "/services/furniture-removal", label: "Arrange vanity unit collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Household appliance and furniture disposal service" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-an-inflatable-pool-in-dubai",
+    title: "How to Dispose of an Inflatable Pool in Dubai: Draining, Folding and Sun-Damaged Vinyl",
+    excerpt: "Drain the water responsibly, clean and dry the vinyl, separate the pump and accessories, and choose reuse or collection before a split pool becomes a heavy, mouldy load.",
+    category: "Villa & Garden",
+    coverImage: blogB139Cover,
+    coverImageAlt: "Crew member cutting a large flexible sheet into manageable sections on a sunlit Dubai lawn",
+    publishedAt: "2026-10-22",
+    readingTime: "6 min read",
+    author: defaultAuthor,
+    tags: ["Inflatable Pool Disposal", "Villa Garden", "Outdoor Items", "Summer Clearance"],
+    seoTitle: "How to Dispose of an Inflatable Pool in Dubai | Guide",
+    seoDescription: "How to dispose of an inflatable pool in Dubai: drain water properly, dry the vinyl, separate the pump and accessories and arrange collection.",
+    keyTakeaways: [
+      "Drain the pool only to an approved drain or garden area and never into a stormwater inlet or the road.",
+      "Dry the vinyl completely before folding so mould, odour and trapped water do not make the load heavier and dirtier.",
+      "Keep the pump, repair patches and accessories separate, and reuse an undamaged pool where the material is still sound.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an inflatable pool in Dubai?",
+        paragraphs: [
+          "To dispose of an inflatable pool in Dubai, drain it to an approved drain or garden area, scrub away algae, dry the vinyl in the shade, deflate and fold it, and separate the pump and accessories. Reuse it if undamaged; otherwise arrange collection with other bulky outdoor waste.",
+          "A paddling pool seems harmless until it is full, split or green. Water weight, sun-baked vinyl and the community's drainage rules are the real difficulties. Doing the draining and drying properly first usually turns a messy job into a single manageable bundle.",
+        ],
+      },
+      {
+        heading: "Drain the water without creating a problem",
+        paragraphs: [
+          "Use a siphon or pump rather than tipping the pool over, which can wash soil or chemicals across paving. If the water contained chlorine or other treatment, follow your community or building rules and direct it to an approved sanitary drain, not the road, a neighbour's garden or a stormwater inlet. A villa gardener can often advise the safest outlet.",
+          "Once emptied, scrub the base and sides with mild soap, rinse away slime and leave the pool open in the shade. Direct summer sun can bake residue into the vinyl and weaken seams. Wait until both faces are dry before folding, otherwise the pool can leave a damp, smelly bundle in a car or a lift.",
+        ],
+        callout: { type: "tip", title: "Photograph any splits or valve damage", text: "A clear photo of tears, seams and valves helps a buyer or the collection team judge whether the pool can be reused or should be treated as bulky waste." },
+      },
+      {
+        heading: "Separate the pump, accessories and frame",
+        paragraphs: [
+          "Remove inflation pumps, filter cartridges, drain adaptors, ladders and pool covers and keep them with the correct pool if they are reusable. Battery-operated or electric pumps should follow their own electronics route. For a pool with a metal frame, loosen the connectors and label the poles so the pieces are easier to stack.",
+          "Most flexible vinyl pools are not accepted by general recycling streams, so be realistic about what happens after collection. Reuse by a neighbour or community group is the best outcome for a sound pool. A split, brittle or sun-faded pool will usually leave your property as bulky waste, so fold it flat, tape it loosely and keep it away from sharp edges.",
+        ],
+        image: blogB139Body,
+        imageAlt: "Rolled sheets of synthetic material stacked on a balcony overlooking the Dubai skyline",
+        imageCaption: "Folding or rolling flexible material tightly makes it easier to carry through villa gates and apartment corridors.",
+      },
+      {
+        heading: "Arrange collection with the rest of the outdoor items",
+        paragraphs: [
+          "Pools often leave at the same time as other garden waste, toys or shade items. Ask your community about any bulky-item booking or collection window, and keep the bundle in the garden or garage until the crew arrives. A damp, dirty bundle in a corridor is more likely to cause a complaint.",
+          "Our [villa and apartment cleanout service](https://dubaijunkcollection.com/services/villa-apartment-cleanouts) can collect inflatable pools together with other unwanted items in communities such as [Arabian Ranches](https://dubaijunkcollection.com/service-areas/arabian-ranches). The guides to [trampoline disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-trampoline-dubai), [outdoor play equipment](https://dubaijunkcollection.com/blog/how-to-dispose-of-outdoor-play-equipment-in-dubai) and [pool chemical disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-pool-chemicals-dubai) cover neighbouring decisions.",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can I tip pool water down the street drain?", answer: "No. Water that has been treated with chemicals or carries algae should not enter a stormwater inlet or road. Use an approved sanitary drain or garden area and follow your community's instructions on drainage." },
+      { question: "Can an inflatable pool be donated?", answer: "Yes, if it holds air, has no splits, and the valves and pump work. Clean and dry it thoroughly and photograph the seams. A recipient may still decline a faded or brittle pool because sun damage limits its safe life." },
+      { question: "Can I put a deflated pool in a household bin?", answer: "Only if it fits and building rules allow it. Large pools usually count as bulky waste, so keep it indoors or in the garden and book collection instead of leaving it beside the bin area." },
+      { question: "What should I send for an inflatable pool collection quote?", answer: "Send a photo of the pool, its approximate size, and whether it has a metal frame or pump. Mention damage, the garden gate width and any community collection rules so the crew can plan the visit." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-trampoline-dubai", "how-to-dispose-of-outdoor-play-equipment-in-dubai", "how-to-dispose-of-pool-chemicals-dubai"],
+    serviceLink: { href: "/services/villa-apartment-cleanouts", label: "Arrange villa outdoor clearance" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Household appliance and furniture disposal service" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
     ],
   },
 ];
