@@ -244,6 +244,12 @@ import blogB138Cover from "@/assets/blog-b40-renovation-detail-clean-body.webp";
 import blogB138Body from "@/assets/blog-b40-renovation-cleanup-cover.webp";
 import blogB139Cover from "@/assets/blog-b99-artificial-grass-slicing-body.webp";
 import blogB139Body from "@/assets/blog-b99-artificial-grass-cover.webp";
+import blogB140Cover from "@/assets/blog-b140-ups-battery-disposal-cover.webp";
+import blogB140Body from "@/assets/blog-b140-ups-battery-packing-body.webp";
+import blogB141Cover from "@/assets/blog-b141-shower-enclosure-removal-cover.webp";
+import blogB141Body from "@/assets/blog-b141-shower-glass-sorting-body.webp";
+import blogB142Cover from "@/assets/blog-b142-air-fryer-disposal-cover.webp";
+import blogB142Body from "@/assets/blog-b142-air-fryer-cleaning-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -15940,6 +15946,203 @@ export const blogPosts: BlogPost[] = [
     serviceLink: { href: "/services/villa-apartment-cleanouts", label: "Arrange villa outdoor clearance" },
     sources: [
       { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Household appliance and furniture disposal service" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-ups-and-backup-batteries-in-dubai",
+    title: "How to Dispose of a UPS and Backup Batteries in Dubai: Shutdown, Battery Safety and IT Handover",
+    excerpt: "Shut down connected equipment, identify the battery chemistry, protect exposed terminals and keep every module upright before arranging a specialist electronics or battery collection.",
+    category: "Commercial & Office",
+    coverImage: blogB140Cover,
+    coverImageAlt: "Technician inspecting a UPS and sealed backup batteries on a trolley in a Dubai office IT room",
+    publishedAt: "2026-10-23",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["UPS Disposal", "Backup Batteries", "Office E-Waste", "Battery Recycling"],
+    seoTitle: "How to Dispose of a UPS in Dubai | Battery Guide",
+    seoDescription: "How to dispose of a UPS in Dubai: shut down loads, identify battery chemistry, protect terminals and arrange safe electronics and battery collection.",
+    keyTakeaways: [
+      "Have an authorized IT or facilities person shut down connected equipment and isolate any hard-wired supply before the UPS is moved.",
+      "Keep sealed battery modules intact and upright, protect exposed terminals and never open a casing or drain electrolyte.",
+      "Record model and serial numbers, remove network-management cards or stored settings where required, and use a battery-aware recycling route.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a UPS and backup batteries in Dubai?",
+        paragraphs: [
+          "To dispose of a UPS in Dubai, transfer or shut down its connected load, isolate the supply, identify the battery type, remove only user-serviceable modules, protect exposed terminals and keep batteries upright. Record company assets, then book a recycler or collection team that accepts both electronics and the battery chemistry.",
+          "A UPS is not an ordinary computer accessory. Even after it is unplugged, its battery can deliver high current, and rack-mounted units are deceptively heavy. The safe job starts with the IT owner, not with a trolley at the server-room door.",
+        ],
+      },
+      {
+        heading: "Close the IT and ownership trail before moving anything",
+        paragraphs: [
+          "Ask the system owner to identify every server, switch, phone system or workstation supported by the UPS. Schedule an approved shutdown or transfer the load to another protected supply, then confirm that bypass circuits, remote battery cabinets and hard-wired feeds are isolated by a competent electrical or facilities professional. A removal crew should not improvise at a distribution board.",
+          "For office assets, photograph the model, rating plate and serial number and reconcile them against the register. Remove a network-management card only if the IT team wants it retained, and clear saved network settings according to company policy. Where a UPS is leased or covered by a maintenance agreement, contact the provider first because it may own the unit or offer take-back.",
+        ],
+        callout: { type: "warning", title: "A switched-off UPS may still be energized", text: "Do not open the chassis, bridge terminals with a tool or assume an unplugged unit is electrically dead. Follow the manufacturer's shutdown procedure and use authorized technical staff for fixed supplies or internal battery work." },
+      },
+      {
+        heading: "Identify and contain the batteries safely",
+        paragraphs: [
+          "Many office UPS units use sealed lead-acid modules; newer models may use lithium-ion packs. Read the rating label rather than guessing. If the manufacturer designed the cartridge for user replacement, disconnect it exactly as instructed. Otherwise leave it inside the UPS for the specialist. Never pry open a sealed battery, drain liquid or combine loose modules in an unlined box.",
+          "Inspect for swelling, cracks, corrosion, heat or odour. Isolate a damaged pack from combustible material and tell the collector before the visit. Intact removable batteries should remain upright in a rigid crate with dividers, with exposed terminals protected against contact. Keep them in an air-conditioned, supervised area rather than a hot loading bay while the building gate pass and service lift are arranged.",
+        ],
+        image: blogB140Body,
+        imageAlt: "Gloved technician packing intact UPS battery modules upright in a divided recycling crate",
+        imageCaption: "Rigid dividers and protected terminals stop heavy battery modules shifting or shorting during collection.",
+      },
+      {
+        heading: "Choose a route that accepts batteries as well as electronics",
+        paragraphs: [
+          "A general metal collector may accept the UPS casing but not its batteries. Confirm the chemistry, module count and approximate weight with the recycler before booking, and ask what documentation is available for a business asset. Dubai Municipality lists used electrical and electronic appliances within its household bulky-waste service, but commercial offices and development zones should verify the route that applies to their site.",
+          "Our [office junk removal team](https://dubaijunkcollection.com/services/office-junk-removal) can coordinate access and equipment collection in business districts such as [Dubai Internet City](https://dubaijunkcollection.com/service-areas/dubai-internet-city). For the rest of an IT room, see the guides to [server rack disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-server-rack-in-dubai), [data-safe electronics disposal](https://dubaijunkcollection.com/blog/data-safe-electronics-disposal-dubai) and [electronics recycling in Dubai](https://dubaijunkcollection.com/blog/where-to-recycle-electronics-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can a UPS go in an office bin or general skip?", answer: "No. A UPS contains electronic circuitry and a rechargeable battery that needs a compatible collection route. It is also dense enough to damage a bin or injure a handler. Keep it in the IT room or another supervised area until collection." },
+      { question: "Should I remove the batteries before collection?", answer: "Only when the manufacturer describes a user-replaceable cartridge and an authorized person follows that procedure. Leave sealed internal packs and hard-wired battery cabinets to a specialist. Tell the collector whether batteries are installed, separate or damaged before confirming the booking." },
+      { question: "What if a UPS battery is swollen or leaking?", answer: "Stop handling it, keep people and ignition sources away, and contact a battery-aware specialist immediately. Do not tape over a leak, place the pack in a normal parcel or transport it with intact units. Describe the damage before anyone attends." },
+      { question: "What information is needed for a UPS collection quote?", answer: "Send photos of the UPS, rating plate, battery cabinet and access route. Include quantity, rack or floor position, battery chemistry if known, approximate weight, lift and loading-bay rules, and whether technical staff have already isolated the electrical supply safely onsite." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-a-server-rack-in-dubai", "data-safe-electronics-disposal-dubai", "where-to-recycle-electronics-in-dubai"],
+    serviceLink: { href: "/services/office-junk-removal", label: "Arrange UPS and office equipment collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Household appliance and furniture disposal service" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+      { href: "https://www.epa.gov/electronics-batteries-management/battery-collection-action-case-study-lead-acid-battery-collection", label: "US EPA — Lead-acid battery collection and recycling" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-shower-enclosure-in-dubai",
+    title: "How to Dispose of a Shower Enclosure in Dubai: Tempered Glass, Fixings and Handover Repairs",
+    excerpt: "Confirm the enclosure belongs to you, isolate nearby services, support each tempered-glass panel before releasing its fixings and protect the bathroom route before removal.",
+    category: "Guides & Tips",
+    coverImage: blogB141Cover,
+    coverImageAlt: "Two technicians supporting a frameless glass shower door during removal in a Dubai apartment bathroom",
+    publishedAt: "2026-10-23",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Shower Enclosure Disposal", "Bathroom Refit", "Tempered Glass", "Tenancy Handover"],
+    seoTitle: "How to Dispose of a Shower Enclosure in Dubai",
+    seoDescription: "How to dispose of a shower enclosure in Dubai: confirm ownership, support tempered glass, remove channels safely and repair tiles before handover.",
+    keyTakeaways: [
+      "Check the tenancy inventory and obtain written landlord or building approval before removing a fitted shower enclosure.",
+      "Use two trained people, glass suction lifters and floor protection; keep panels upright and never drill, score or strike tempered glass.",
+      "Remove silicone and fixings without damaging waterproofing, then agree how holes, tiles and seals will be reinstated for handover.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a shower enclosure in Dubai?",
+        paragraphs: [
+          "To dispose of a shower enclosure in Dubai, confirm ownership and approval, measure every glass panel, protect the bathroom and route, and have trained handlers support each panel before releasing hinges or channels. Store tempered glass upright in a padded rack, separate metal fittings, and repair holes and seals before handover.",
+          "The door may look light because it swings easily, but its entire weight sits on two or three small fixings. Tempered glass also behaves differently from a mirror: a knock on an exposed corner can turn one rigid panel into thousands of fragments without warning.",
+        ],
+      },
+      {
+        heading: "Confirm the fixture and the refit approval",
+        paragraphs: [
+          "A shower screen fitted when you moved in usually belongs to the landlord. Check the tenancy inventory, move-in photographs and maintenance record before touching it. Get written approval for removal and clarify whether the replacement must match the original layout. For owner-occupied apartments, building management may still restrict contractor hours or require an alteration request and access documents.",
+          "Identify what sits behind the wall before removing screws. Concealed water pipes, electric underfloor heating and waterproofing membranes can turn a small fixing job into a leak affecting the unit below. If the enclosure is part of a full bathroom refit, coordinate the glass contractor, plumber, clearance crew and tiler so the wet area is not left unsafe between visits.",
+        ],
+        callout: { type: "warning", title: "Do not cut or drill tempered glass", text: "Tempered panels are shaped and drilled before heat treatment. Trying to add a hole, trim an edge or force a seized fitting can make the entire panel shatter. Release hardware while the glass is fully supported." },
+      },
+      {
+        heading: "Support the glass before releasing the hardware",
+        paragraphs: [
+          "Empty the bathroom, dry the tray and lay rigid protection over tiles, thresholds and the carry path. Measure the door, fixed panels and narrowest turn to the service lift. Two trained handlers should use rated suction lifters, steady the top and bottom edges, and remove doors before fixed panels. Tape is not a substitute for proper support and does not make tempered glass unbreakable.",
+          "Cut silicone along the frame without digging into grout or waterproofing. Keep corner guards on exposed edges and move every panel upright to a padded A-frame; never lay one flat beneath rubble. Sort aluminum channels, stainless hinges and handles separately. Broken glass needs rigid containment and a collector who has agreed to accept it, not a loose sack carried through a residential corridor.",
+        ],
+        image: blogB141Body,
+        imageAlt: "Tempered shower-glass panels stored upright in a padded rack beside sorted metal channels and hinges",
+        imageCaption: "Shower panels travel upright on padding while channels, hinges and handles are kept as a separate metal fraction.",
+      },
+      {
+        heading: "Repair the wet area and plan the exit",
+        paragraphs: [
+          "After the enclosure is out, remove residual sealant carefully and inspect tiles, screw holes, the shower tray and wall junctions. Agree whether the installer will plug and seal holes or replace damaged tiles. A cosmetic filler is not enough where a fixing penetrated the wet-area system. Photograph the finished repair for the landlord and keep invoices from the competent contractor.",
+          "Our [villa and apartment cleanout service](https://dubaijunkcollection.com/services/villa-apartment-cleanouts) can coordinate bathroom refit loads in communities such as [Downtown Dubai](https://dubaijunkcollection.com/service-areas/downtown-dubai). The guides to [large mirror disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-large-mirror-glass-dubai), [bathtub removal](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-bathtub-dubai) and [bathroom vanity disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-bathroom-vanity-unit-in-dubai) cover the other fragile and fixed items in the room.",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can a shower-glass panel be reused?", answer: "Yes, when it is unchipped, its holes and dimensions suit the new opening, and compatible hardware is available. Because tempered glass cannot be resized or redrilled, measure carefully and keep every gasket, hinge and channel labelled before offering it for reuse." },
+      { question: "Can I tape shower glass before removing it?", answer: "Tape may retain a small amount of loose material if breakage occurs, but it does not prevent tempered glass from shattering and can hide edge damage. Proper support, suction lifters, corner protection and upright transport are the controls that matter." },
+      { question: "What happens to broken tempered glass?", answer: "Keep people out of the room, wear suitable eye and hand protection and place fragments in rigid, clearly identified containers. Tempered glass is not the same as bottle glass, so confirm the receiving facility or collection route rather than using a normal glass-recycling bin." },
+      { question: "What should I send for a shower-enclosure collection quote?", answer: "Send wide photos, panel count and approximate dimensions, plus close-ups of hinges, channels and any cracks. Include your floor, service-lift size, parking route, building contractor rules and whether a glass specialist has already dismantled the complete enclosure safely for collection." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-large-mirror-glass-dubai", "how-to-dispose-of-old-bathtub-dubai", "how-to-dispose-of-a-bathroom-vanity-unit-in-dubai"],
+    serviceLink: { href: "/services/villa-apartment-cleanouts", label: "Arrange bathroom refit clearance" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Household appliance and furniture disposal service" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-an-air-fryer-in-dubai",
+    title: "How to Dispose of an Air Fryer in Dubai: Grease, Baskets and Small-Appliance Recycling",
+    excerpt: "Let the appliance cool, remove food and grease, separate washable accessories and keep the powered body intact before choosing repair, reuse or electronics collection.",
+    category: "Eco & Recycling",
+    coverImage: blogB142Cover,
+    coverImageAlt: "Worker inspecting an unplugged air fryer and removable basket in a Dubai apartment kitchen",
+    publishedAt: "2026-10-23",
+    readingTime: "6 min read",
+    author: defaultAuthor,
+    tags: ["Air Fryer Disposal", "Small Appliances", "E-Waste Recycling", "Kitchen Clearance"],
+    seoTitle: "How to Dispose of an Air Fryer in Dubai | Guide",
+    seoDescription: "How to dispose of an air fryer in Dubai: cool and clean it, keep electronics dry, separate accessories and choose repair, reuse or e-waste collection.",
+    keyTakeaways: [
+      "Unplug the air fryer, let it cool fully and remove loose food and grease before it is stored or transported.",
+      "Keep the heating element, controls and fan housing intact; only separate baskets, trays and accessories designed to be removable.",
+      "Offer a safe working unit for reuse, seek repair for a clear fault, or send a failed appliance through an electronics collection route.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an air fryer in Dubai?",
+        paragraphs: [
+          "To dispose of an air fryer in Dubai, unplug it, let it cool, remove food and grease, wash and dry the basket and tray, and keep the powered body intact. Reuse or repair a safe working unit; otherwise take it to an e-waste point or book small-appliance collection.",
+          "The appliance is small enough to fit in a bin, but that is the wrong test. Its heating element, fan, controls, cable and circuit board make it electrical equipment, while old oil and crumbs can contaminate a clean electronics load or attract pests in a storeroom.",
+        ],
+      },
+      {
+        heading: "Cool, clean and dry every removable part",
+        paragraphs: [
+          "Switch off at the socket, unplug the lead and wait until the heating chamber is completely cool. Tip dry crumbs into household waste, wipe grease with paper and wash only the basket, rack and drip tray that the manual identifies as removable. Dry them fully. Do not pour water or degreaser into the fan vents or powered housing.",
+          "A drawer that still carries liquid oil can spill in a lift or contaminate other appliances in the truck. Decant reusable cooking oil for an appropriate food-oil route; absorb a very small residue before cleaning rather than tipping it into a sink. Coil the cable loosely and place all matching accessories inside or beside the unit so they do not disappear during a kitchen clear-out.",
+        ],
+        callout: { type: "tip", title: "Keep the model label visible", text: "A clear photo of the rating label helps a repairer, buyer or collection team identify the model and electrical specification without powering up an appliance of uncertain condition." },
+      },
+      {
+        heading: "Decide whether it is safe to reuse or worth repairing",
+        paragraphs: [
+          "A recent air fryer that heats evenly, has an intact non-stick basket and shows no plug or cable damage is easy to sell or give away after cleaning. Include its tray, divider and manual and disclose cosmetic wear. Stop using a unit that smells burnt, trips the circuit, has a cracked casing or shows melted insulation; do not demonstrate it for a buyer.",
+          "Repair can make sense for a premium model with a replaceable fan, thermostat or drawer switch. A badly flaking basket may be replaceable even when the powered body is sound. If repair is uneconomic, leave the housing assembled. Breaking it open at home exposes sharp sheet metal and can separate parts in a way that makes safe electronics handling harder.",
+        ],
+        image: blogB142Body,
+        imageAlt: "Air fryer basket and tray separated for cleaning beside the intact powered appliance body",
+        imageCaption: "Clean removable food-contact parts, but keep water away from the fan, heating element and control housing.",
+      },
+      {
+        heading: "Use a small-appliance or e-waste collection route",
+        paragraphs: [
+          "Ask the retailer whether replacement delivery includes take-back, or use a community electronics drop-off that accepts small kitchen appliances. Dubai Municipality includes used electrical and electronic appliances in its household bulky-waste service, subject to its current eligibility and area limits. In a managed tower, confirm the handover point rather than leaving the appliance beside a bin or in a corridor.",
+          "Our [appliance removal service](https://dubaijunkcollection.com/services/appliance-removal) can combine an air fryer with larger unwanted kitchen equipment in communities such as [Jumeirah Village Circle](https://dubaijunkcollection.com/service-areas/jumeirah-village-circle). For nearby decisions, see the guides to [coffee machine disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-coffee-machine-in-dubai), [microwave disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-microwave-dubai) and [electronics recycling locations](https://dubaijunkcollection.com/blog/where-to-recycle-electronics-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can I put an air fryer in the household rubbish bin?", answer: "Use an electronics or small-appliance route instead. An air fryer contains a cable, heating element, motor, controls and circuit board that can be recovered separately. Building bins and chutes also expose the appliance to crushing before those components are sorted." },
+      { question: "Should I remove the heating element before recycling it?", answer: "No. Remove only the basket, tray and accessories intended for routine cleaning. Leave the heating element, fan and controls inside the housing so a recycler can dismantle the appliance with suitable tools and protective equipment at its specialist recycling facility." },
+      { question: "Can I donate an air fryer with a scratched basket?", answer: "Light cosmetic marking may be acceptable, but peeling non-stick coating, exposed metal, a damaged latch or uncertain electrical safety makes donation a poor choice. Replace the basket if the manufacturer supplies one; otherwise route the appliance to repair or recycling." },
+      { question: "What should I send for an air-fryer collection quote?", answer: "Send one photo of the complete appliance and accessories, plus the model label and any visible cable, plug or casing damage. Mention whether it is clean, whether it powers on, and what other appliances need to leave in the same visit." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-a-coffee-machine-in-dubai", "how-to-dispose-of-old-microwave-dubai", "where-to-recycle-electronics-in-dubai"],
+    serviceLink: { href: "/services/appliance-removal", label: "Arrange small-appliance collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Household appliance and furniture disposal service" },
+      { href: "https://www.dm.gov.ae/dubai-municipality-promotes-waste-segregation-through-free-bulky-waste-disposal-service/", label: "Dubai Municipality — Bulky waste segregation and recycling" },
       { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
     ],
   },

@@ -624,3 +624,11 @@
 | 379 | how to dispose of an electric scooter in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-electric-scooter-in-dubai`) |
 | 380 | how to dispose of a bathroom vanity unit in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-bathroom-vanity-unit-in-dubai`) |
 | 381 | how to dispose of an inflatable pool in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-inflatable-pool-in-dubai`) |
+
+### New question-intent blog targets (Batch 40)
+
+| # | Keyword | Intent | Recommended Page |
+| :-: | :--- | :---: | :--- |
+| 382 | how to dispose of a ups in dubai | Q | Blog Article (`/blog/how-to-dispose-of-ups-and-backup-batteries-in-dubai`) |
+| 383 | how to dispose of a shower enclosure in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-shower-enclosure-in-dubai`) |
+| 384 | how to dispose of an air fryer in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-air-fryer-in-dubai`) |

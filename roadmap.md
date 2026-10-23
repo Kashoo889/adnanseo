@@ -540,6 +540,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B137 differs from B45 (general electronics recycling), B46 (specialist waste), B69 (bicycles), B106 (mobile phones) and B113 (lawn mowers) through scooter battery inspection, charger pairing, folding-latch handling and permit or registration checks. B138 differs from B82 (kitchen cabinets), B70 (bathtubs), B62 (standalone mirrors) and the general furniture guide through isolation valves, basin and tap disconnection, stone-top handling and landlord-fixture ownership. B139 differs from B72 (trampolines), B102 (play equipment), B85 (pool chemicals) and B73 (aquariums) through water drainage rules, vinyl drying, pump separation and sun-degraded material reuse.
 
+### Track 43: Backup Power, Shower Glass & Countertop Cooking (Clusters 3, 4, 5 & 6)
+*Extends the item-specific sequence with three different preparation risks: isolating stored electrical energy in office UPS systems, supporting fixed tempered-glass panels during bathroom refits, and removing grease before a small cooking appliance enters an electronics stream.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B140** | *How to Dispose of a UPS and Backup Batteries in Dubai: Shutdown, Battery Safety and IT Handover* | `how to dispose of a ups in dubai` | `ups battery disposal dubai`, `backup battery recycling dubai`, `office e-waste collection dubai` | Q | `/services/office-junk-removal` |
+| **B141** | *How to Dispose of a Shower Enclosure in Dubai: Tempered Glass, Fixings and Handover Repairs* | `how to dispose of a shower enclosure in dubai` | `shower glass disposal dubai`, `bathroom refit waste dubai`, `tempered glass removal dubai` | Q | `/services/villa-apartment-cleanouts` |
+| **B142** | *How to Dispose of an Air Fryer in Dubai: Grease, Baskets and Small-Appliance Recycling* | `how to dispose of an air fryer in dubai` | `air fryer recycling dubai`, `small appliance recycling dubai`, `kitchen appliance disposal dubai` | Q | `/services/appliance-removal` |
+
+**Overlap check (content-rules §16):** B140 differs from B90 (data-safe electronics), B133 (server racks) and B137 (scooter batteries) through UPS load transfer, stored-energy isolation, sealed lead-acid versus lithium module identification, terminal protection and office asset records. B141 differs from B62 (mirrors), B70 (bathtubs) and B138 (vanities) through tempered-glass edge risk, suction handling, hinged and channelled panel sequencing, waterproofing penetrations and wet-area reinstatement. B142 differs from B78 (microwaves), B104 (cookware) and B119 (coffee machines) through grease removal, removable non-stick basket triage, forced-air heating components and small-appliance reuse checks.
+
 ---
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -581,3 +592,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 37. **Batch 37 (Articles B131–B133):** Media Furniture, Specialist Cooling & IT Infrastructure — **100% Completed (3/3 Live)**.
 38. **Batch 38 (Articles B134–B136):** Bedroom Furniture, Portable Cooling & Home Networks — **100% Completed (3/3 Live)**.
 39. **Batch 39 (Articles B137–B139):** Personal Mobility, Bathroom Fixtures & Outdoor Water Play — **100% Completed (3/3 Live)**.
+40. **Batch 40 (Articles B140–B142):** Backup Power, Shower Glass & Countertop Cooking — **100% Completed (3/3 Live)**.
