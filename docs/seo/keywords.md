@@ -632,3 +632,11 @@
 | 382 | how to dispose of a ups in dubai | Q | Blog Article (`/blog/how-to-dispose-of-ups-and-backup-batteries-in-dubai`) |
 | 383 | how to dispose of a shower enclosure in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-shower-enclosure-in-dubai`) |
 | 384 | how to dispose of an air fryer in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-air-fryer-in-dubai`) |
+
+### New question-intent blog targets (Batch 41)
+
+| # | Keyword | Intent | Recommended Page |
+| :-: | :--- | :---: | :--- |
+| 385 | how to dispose of old power tools in dubai | Q | Blog Article (`/blog/how-to-dispose-of-old-power-tools-in-dubai`) |
+| 386 | how to dispose of a coffee table in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-coffee-table-in-dubai`) |
+| 387 | how to dispose of an office projector in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-office-projector-in-dubai`) |

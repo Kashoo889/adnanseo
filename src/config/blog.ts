@@ -250,6 +250,12 @@ import blogB141Cover from "@/assets/blog-b141-shower-enclosure-removal-cover.web
 import blogB141Body from "@/assets/blog-b141-shower-glass-sorting-body.webp";
 import blogB142Cover from "@/assets/blog-b142-air-fryer-disposal-cover.webp";
 import blogB142Body from "@/assets/blog-b142-air-fryer-cleaning-body.webp";
+import blogB143Cover from "@/assets/blog-b143-power-tools-cover.webp";
+import blogB143Body from "@/assets/blog-b143-power-tool-sorting-body.webp";
+import blogB144Cover from "@/assets/blog-b144-coffee-table-cover.webp";
+import blogB144Body from "@/assets/blog-b144-coffee-table-components-body.webp";
+import blogB145Cover from "@/assets/blog-b145-projector-removal-cover.webp";
+import blogB145Body from "@/assets/blog-b145-projector-inventory-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -16143,6 +16149,204 @@ export const blogPosts: BlogPost[] = [
     sources: [
       { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Household appliance and furniture disposal service" },
       { href: "https://www.dm.gov.ae/dubai-municipality-promotes-waste-segregation-through-free-bulky-waste-disposal-service/", label: "Dubai Municipality — Bulky waste segregation and recycling" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-old-power-tools-in-dubai",
+    title: "How to Dispose of Old Power Tools in Dubai: Batteries, Blades and Workshop Clear-Outs",
+    excerpt: "Separate removable batteries and guarded accessories from the tool body, then choose repair, reuse or an accepted electronics and metal recovery route.",
+    category: "Eco & Recycling",
+    coverImage: blogB143Cover,
+    coverImageAlt: "Technician inspecting cordless drills, a circular saw and battery packs in a Dubai villa garage",
+    publishedAt: "2026-10-24",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Power Tool Disposal", "Battery Recycling", "Garage Clearance", "E-Waste"],
+    seoTitle: "How to Dispose of Old Power Tools in Dubai | Safe Guide",
+    seoDescription: "How to dispose of old power tools in Dubai: isolate batteries, guard blades, sort accessories and choose repair, reuse or specialist recycling.",
+    keyTakeaways: [
+      "Remove detachable battery packs, cover exposed terminals with non-conductive tape and keep each pack protected from loose metal.",
+      "Take off only user-removable blades, discs and bits; guard sharp edges and never dismantle a sealed battery pack or powered tool housing.",
+      "Reuse safe working tools with their chargers and accessories, while failed cordless tools and batteries need confirmed electronics or battery routes.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of old power tools in Dubai?",
+        paragraphs: [
+          "To dispose of old power tools in Dubai, remove battery packs and blades, empty dust or debris, and keep each accessory with its tool. Reuse safe working equipment; otherwise send batteries through a dedicated battery route and tool bodies through accepted electronics or metal collection.",
+          "A garage box marked “tools” can contain three different risks: stored electrical energy, sharp cutting parts and fine construction dust. Sorting those parts before collection protects handlers and also preserves the useful metal, motors and battery materials that a mixed household load can lose.",
+        ],
+      },
+      {
+        heading: "Make the tool safe without opening its housing",
+        paragraphs: [
+          "Unplug corded equipment and remove the battery from cordless tools using the normal release. Take out only blades, discs, bits and sanding pads designed for user changes, then fit the original guard or cover the cutting edge in rigid packaging. Empty a dust bag outdoors without blowing fine residue through the garage or lift lobby.",
+          "Do not cut cables off, dismantle motors or open a battery pack to separate its cells. A tool that smells burnt, has melted insulation or starts by itself should not be powered up for a final test. Photograph the model label and fault instead, then tell the receiving collector exactly what condition it is in.",
+        ],
+        callout: { type: "warning", title: "Treat damaged batteries separately", text: "Do not charge, compress or tape over a hot, swollen, leaking or punctured pack. Move people away from an immediate hazard and obtain current handling instructions from the manufacturer or an appropriate battery specialist." },
+      },
+      {
+        heading: "Separate batteries, blades and reusable accessories",
+        paragraphs: [
+          "Healthy removable lithium-ion packs should travel separately from metal tools. Cover exposed terminals with non-conductive tape or place each pack in its own protective bag, and keep it away from screws, drill bits and saw blades. The US EPA specifically identifies power-tool batteries as removable lithium-ion packs suited to a dedicated battery-recycling route rather than household rubbish or mixed recycling.",
+          "Keep chargers, cases, side handles, fences and batteries with a working tool if it will be sold or donated; an incomplete kit is much harder to reuse. Group scrap blades and bits in a rigid closed container. Never leave loose cutting accessories inside a soft bag where a handler can reach them without seeing the edge.",
+        ],
+        image: blogB143Body,
+        imageAlt: "Cordless power tools, guarded blades and isolated battery packs sorted on a garage workbench",
+        imageCaption: "Battery packs, cutting accessories and powered tool bodies need separate checks before they enter their confirmed recovery routes.",
+      },
+      {
+        heading: "Plan a garage or workshop collection",
+        paragraphs: [
+          "For a few clean working tools, a repair shop, resale listing or maker take-back option may keep the equipment in use. For failed equipment, confirm that the chosen e-waste or battery point accepts the exact battery chemistry and tool size before travelling. Dubai Municipality lists used electrical and electronic appliances within its household bulky-waste service, subject to the service's current area and eligibility conditions.",
+          "Our [household junk removal team](https://dubaijunkcollection.com/services/household-junk-removal) can combine boxed tools with a wider garage clear-out in villa communities such as [Arabian Ranches](https://dubaijunkcollection.com/service-areas/arabian-ranches). The guides to [lawn-mower disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-lawn-mower-in-dubai), [old camping gear](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-camping-gear-in-dubai) and [electronics recycling](https://dubaijunkcollection.com/blog/where-to-recycle-electronics-in-dubai) cover fuel, canisters and other electrical items that should not share one unlabelled box.",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can I donate cordless tools without a charger?", answer: "Possibly, if the tool is safe, the battery platform is identifiable and the recipient agrees to take an incomplete kit. State clearly that the charger is missing. A tool with an unknown fault, cracked battery casing or damaged cable should go to repair assessment or recycling instead." },
+      { question: "Should I tape the terminals on a power-tool battery?", answer: "Yes, for an intact removable lithium-ion pack, cover exposed contacts with non-conductive tape or isolate the pack in its own protective bag before transport. Do not tape over vents, labels or visible damage, and ask a specialist for instructions if the pack is swollen, hot, leaking or punctured." },
+      { question: "What should I do with loose saw blades and drill bits?", answer: "Place sharp or pointed accessories in a rigid container that cannot be pierced, close it securely and identify the contents for the collector. Reusable blades can stay with a working tool when properly guarded; worn accessories should be kept out of ordinary soft bags and away from battery terminals." },
+      { question: "What details help price a workshop clear-out?", answer: "Send wide photos of the whole bench or shelf plus close-ups of battery packs, large saws and tool chests. Include approximate quantities, the floor and carrying route, parking access, whether cabinets are fixed, and whether any fuel, paint, gas cylinders or damaged batteries are present." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-a-lawn-mower-in-dubai", "how-to-dispose-of-old-camping-gear-in-dubai", "where-to-recycle-electronics-in-dubai"],
+    serviceLink: { href: "/services/household-junk-removal", label: "Arrange a garage or workshop clear-out" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Household appliance and furniture disposal service" },
+      { href: "https://www.epa.gov/recycle/used-lithium-ion-batteries", label: "US EPA — Used lithium-ion battery handling and recycling" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-coffee-table-in-dubai",
+    title: "How to Dispose of a Coffee Table in Dubai: Glass Tops, Stone and Lift Mechanisms",
+    excerpt: "Empty hidden storage, secure moving parts and identify whether the top is timber, tempered glass or stone before choosing reuse or bulky collection.",
+    category: "Guides & Tips",
+    coverImage: blogB144Cover,
+    coverImageAlt: "Two technicians securing a lift-top coffee table in a bright Dubai apartment living room",
+    publishedAt: "2026-10-24",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Coffee Table Disposal", "Glass Furniture", "Lift-Top Table", "Furniture Collection"],
+    seoTitle: "How to Dispose of a Coffee Table in Dubai | Safe Guide",
+    seoDescription: "How to dispose of a coffee table in Dubai: empty storage, secure lift mechanisms, protect glass or stone tops and plan safe bulky collection.",
+    keyTakeaways: [
+      "Empty drawers and lift-top storage, remove loose shelves and secure every hinge or extending mechanism before the table moves.",
+      "Carry tempered glass and stone tops upright with edge protection; never hide a cracked top inside a blanket or mixed furniture load.",
+      "Photograph the table open and closed so a buyer, donor or removal crew can judge the mechanism, materials and access requirements.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a coffee table in Dubai?",
+        paragraphs: [
+          "To dispose of a coffee table in Dubai, empty its storage, secure lift or extension mechanisms, remove loose shelves, and identify timber, glass or stone parts. Reuse a stable complete table; otherwise protect fragile tops, bag the hardware and arrange a furniture collection suited to its weight and access route.",
+          "Coffee tables sit low, so their real weight and moving parts are easy to underestimate. A lift-top spring can open during a carry, a removable glass panel can slide from its supports, and a compact marble top may need more careful handling than a much larger timber dining table.",
+        ],
+      },
+      {
+        heading: "Check the top, base and hidden mechanism",
+        paragraphs: [
+          "Open every drawer and storage compartment and remove remotes, batteries, keys and small personal items. Photograph the lift or extension hardware before dismantling it. Close the mechanism fully and use its transport lock if fitted; otherwise have a competent handler restrain it without tying across fragile veneer or forcing a sprung hinge beyond its normal range.",
+          "Look underneath before lifting. Some glass rests on loose pads, some tops are screwed to a frame, and stone may sit on a pedestal using concealed brackets. Do not assume a heavy slab is fixed because it did not move during normal use. If the design or weight is unclear, leave separation to a furniture handler rather than testing it over a finished floor.",
+        ],
+        callout: { type: "tip", title: "Photograph it both open and closed", text: "A second photo showing drawers, nested leaves or the raised lift top reveals hidden weight and pinch points. It also helps a reuse recipient confirm that the table is complete before arranging transport." },
+      },
+      {
+        heading: "Protect glass, stone and lift-top parts",
+        paragraphs: [
+          "Remove a detachable glass top only when it can be supported by two people. Fit corner guards, keep the panel upright in a padded rack and never lay tools or timber parts against it. Tempered glass cannot be cut down for a new table; chips around an edge or fixing hole can make reuse unsafe even when the centre looks clear.",
+          "Stone tops need an edge-on carry with suitable supports because a flat slab can crack under its own flex. Close and secure lift hardware before removing the top, keep fingers out of scissor arms and label each bag of bolts. If dismantling would destroy swollen chipboard or strip captive fittings, transport the stable table whole instead of creating loose sharp pieces.",
+        ],
+        image: blogB144Body,
+        imageAlt: "Coffee table base, padded glass top, drawers and labelled hardware prepared for collection",
+        imageCaption: "Fragile tops travel upright and protected, while drawers and fixings stay matched to the correct table base.",
+      },
+      {
+        heading: "Choose reuse or a building-approved collection",
+        paragraphs: [
+          "A complete table with a smooth mechanism, stable legs and unchipped top is a practical resale or donation item. Share dimensions, material and lift access, and make the recipient agree who will carry it. For broken veneer, unstable frames or damaged glass, book a bulky route and tell the collector about the fragile material before arrival.",
+          "Our [furniture removal service](https://dubaijunkcollection.com/services/furniture-removal) can plan the carry through managed towers in communities such as [Dubai Marina](https://dubaijunkcollection.com/service-areas/dubai-marina), where service-lift and loading-bay bookings may be required. Related guides cover [dining-table dismantling](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-dining-table-dubai), [large glass and mirror handling](https://dubaijunkcollection.com/blog/how-to-dispose-of-large-mirror-glass-dubai) and [chest-of-drawers disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-chest-of-drawers-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can a scratched glass coffee-table top be donated?", answer: "Light surface scratches may be acceptable when the panel is stable and every edge and fixing hole is unchipped. Disclose the condition with close photos. A cracked, badly chipped or loose panel should not be presented as safe reusable furniture; arrange a collector who accepts damaged tempered glass." },
+      { question: "Should I dismantle a lift-top coffee table myself?", answer: "Only remove parts covered by the maker's normal assembly instructions and only after the mechanism is fully closed and supported. Sprung scissor arms can move suddenly and trap fingers. If hardware is under tension or the top is stone or glass, leave dismantling to experienced handlers." },
+      { question: "Will a coffee table fit in a passenger lift?", answer: "Measure the table in its safest transport position, not only its footprint in the room. Check the lift door, internal depth, corridor turns and building rules. A long top may fit only upright, while a stone or glass panel still needs enough space to remain supported and protected." },
+      { question: "What should I send for a coffee-table collection quote?", answer: "Send front, underside and open-mechanism photos, plus dimensions and the top material. Mention cracks, loose glass, stone, drawers, nesting pieces and whether the table separates. Add your floor, lift booking rules, parking or loading-bay route and any deadline linked to a tenancy handover." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-old-dining-table-dubai", "how-to-dispose-of-large-mirror-glass-dubai", "how-to-dispose-of-a-chest-of-drawers-in-dubai"],
+    serviceLink: { href: "/services/furniture-removal", label: "Arrange careful coffee-table collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Household appliance and furniture disposal service" },
+      { href: "https://www.dm.gov.ae/dubai-municipality-promotes-waste-segregation-through-free-bulky-waste-disposal-service/", label: "Dubai Municipality — Bulky waste segregation and recycling" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-an-office-projector-in-dubai",
+    title: "How to Dispose of an Office Projector in Dubai: Lamps, Ceiling Mounts and Data",
+    excerpt: "Remove company accounts and network settings, let the unit cool, inventory its mount and cables, and keep lamp-based projectors intact for e-waste collection.",
+    category: "Commercial & Office",
+    coverImage: blogB145Cover,
+    coverImageAlt: "Technicians safely supporting a ceiling-mounted projector in a Dubai office meeting room",
+    publishedAt: "2026-10-24",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Projector Disposal", "Office E-Waste", "Ceiling Mount", "IT Asset Handover"],
+    seoTitle: "How to Dispose of an Office Projector in Dubai | Guide",
+    seoDescription: "How to dispose of an office projector in Dubai: clear accounts, cool the lamp, remove ceiling mounts safely and use an accepted e-waste route.",
+    keyTakeaways: [
+      "Sign out of apps, erase saved Wi-Fi details and remove the projector from company asset and device-management records before release.",
+      "Switch off, unplug and let lamp-based units cool fully; do not open or discard a projector lamp in ordinary office rubbish.",
+      "Isolate power at the correct circuit and support the projector before loosening a ceiling mount, then repair approved ceiling penetrations for handover.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an office projector in Dubai?",
+        paragraphs: [
+          "To dispose of an office projector in Dubai, sign out of accounts, erase saved network settings, switch it off and let it cool, then inventory the remote, cables and mount. Have a competent technician remove ceiling-fixed units, keep lamp modules intact, and send failed equipment through an accepted e-waste route.",
+          "A projector looks like a simple display device, but decommissioning can involve company credentials, a hot high-pressure lamp and a bracket above a meeting table. The safest sequence belongs in the office move plan: IT releases the device first, facilities controls the ceiling work, and the recycler receives a complete identified unit.",
+        ],
+      },
+      {
+        heading: "Close accounts and release the asset",
+        paragraphs: [
+          "Record the model and asset number, then ask IT to remove the projector from inventory, support portals and room-control software. Sign out of streaming or conferencing apps, delete paired devices and clear saved Wi-Fi credentials using the manufacturer's reset procedure. Remove USB drives, wireless presentation dongles and memory cards before the unit leaves the room.",
+          "A basic lamp projector may store very little user data, while a smart projector can retain accounts, network details and usage history. Treat those as different assets. If the device will be reused internally, preserve configuration only through an approved handover; if it is leaving the business, reset it and document who confirmed the release.",
+        ],
+        callout: { type: "info", title: "Check ownership before removal", text: "The projector, control panel or mount may belong to the landlord, fit-out contractor or an AV lease provider. Reconcile purchase records and the tenancy inventory before treating any fixed equipment as office waste." },
+      },
+      {
+        heading: "Cool the lamp and remove ceiling hardware safely",
+        paragraphs: [
+          "Use the normal shutdown cycle, wait for the cooling fan to stop and unplug the unit. Lamp-based projectors need additional care because some lamps contain mercury and manufacturer instructions direct users to follow local recycling requirements rather than ordinary trash disposal. Keep the lamp inside the projector unless the manual describes a user-removable module and the receiving route requests separation.",
+          "For a ceiling mount, isolate the correct supply and protect the table and floor below. One trained person should support the projector while another releases the safety cable and bracket hardware from a stable access platform. Coil signal and power leads separately, retain the remote and mount plate, and agree how anchors, tiles or access panels will be reinstated for the office handover.",
+        ],
+        image: blogB145Body,
+        imageAlt: "Office projector, remote, ceiling mount and coiled cables inventoried on a protected meeting table",
+        imageCaption: "Keep the projector, remote, mount and matched cables together after IT has cleared accounts and facilities has released the installation.",
+      },
+      {
+        heading: "Choose reuse, supplier return or e-waste collection",
+        paragraphs: [
+          "A working projector with useful resolution, an intact image and available replacement parts may suit another meeting room, school or resale buyer. Disclose lamp hours when the menu provides them and include the remote and mount. For failed lamps, damaged optics or obsolete smart units, ask an electronics collector whether it accepts the complete device and lamp technology.",
+          "Our [office junk removal service](https://dubaijunkcollection.com/services/office-junk-removal) can coordinate AV equipment with a wider clearance in districts such as [Business Bay](https://dubaijunkcollection.com/service-areas/business-bay). Use the guides to [printer disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-printer-dubai), [server-rack decommissioning](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-server-rack-in-dubai) and [data-safe electronics disposal](https://dubaijunkcollection.com/blog/data-safe-electronics-disposal-dubai) when the same meeting-room or IT move includes other networked assets.",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can I throw away a projector lamp after it fails?", answer: "Do not place it in ordinary office rubbish. Some projector lamps contain mercury and need a route that accepts that lamp type. Keep the module unbroken, use its original protective box if available, check the projector manual and confirm the current local or supplier take-back instructions before transport." },
+      { question: "Does an office projector contain confidential data?", answer: "A basic projector may retain only settings, but a smart or networked model can store Wi-Fi details, paired devices, app accounts and presentation history. IT should inspect the model, remove attached storage and dongles, sign out of accounts and run the manufacturer's reset before the asset leaves company control." },
+      { question: "Who should remove a ceiling-mounted projector?", answer: "Use a competent AV or facilities technician who can isolate the supply, work from a stable access platform and support the projector before releasing its safety cable and mount. Building or landlord approval may also be required when the bracket, cabling or ceiling tiles form part of the leased fit-out." },
+      { question: "What information helps quote projector removal?", answer: "Send the model, quantity and photos showing each projector, ceiling height and mount. Include whether units are owned or leased, whether IT has released them, the office floor and service-lift rules, parking access, after-hours restrictions and whether ceiling holes, cables or tiles require reinstatement." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-old-printer-dubai", "how-to-dispose-of-a-server-rack-in-dubai", "data-safe-electronics-disposal-dubai"],
+    serviceLink: { href: "/services/office-junk-removal", label: "Arrange office AV equipment collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Household appliance and furniture disposal service" },
+      { href: "https://files.support.epson.com/pdf/plpc8h/plpc8h00ug.pdf", label: "Epson — Projector lamp disposal guidance" },
       { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
     ],
   },

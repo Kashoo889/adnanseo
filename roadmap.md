@@ -551,6 +551,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B140 differs from B90 (data-safe electronics), B133 (server racks) and B137 (scooter batteries) through UPS load transfer, stored-energy isolation, sealed lead-acid versus lithium module identification, terminal protection and office asset records. B141 differs from B62 (mirrors), B70 (bathtubs) and B138 (vanities) through tempered-glass edge risk, suction handling, hinged and channelled panel sequencing, waterproofing penetrations and wet-area reinstatement. B142 differs from B78 (microwaves), B104 (cookware) and B119 (coffee machines) through grease removal, removable non-stick basket triage, forced-air heating components and small-appliance reuse checks.
 
+### Track 44: Workshop Tools, Living-Room Tables & Presentation Equipment (Clusters 3, 5, 6 & 10)
+*Extends the item-specific sequence through three distinct preparation decisions: isolating removable high-energy batteries and guarded cutting accessories from workshop tools, securing concealed lift mechanisms and fragile tops on coffee tables, and closing company accounts before lamp-based or ceiling-mounted projectors enter an e-waste route.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B143** | *How to Dispose of Old Power Tools in Dubai: Batteries, Blades and Workshop Clear-Outs* | `how to dispose of old power tools in dubai` | `power tool disposal dubai`, `power tool battery recycling dubai`, `workshop clearance dubai` | Q | `/services/household-junk-removal` |
+| **B144** | *How to Dispose of a Coffee Table in Dubai: Glass Tops, Stone and Lift Mechanisms* | `how to dispose of a coffee table in dubai` | `coffee table disposal dubai`, `glass coffee table removal dubai`, `lift-top table collection dubai` | Q | `/services/furniture-removal` |
+| **B145** | *How to Dispose of an Office Projector in Dubai: Lamps, Ceiling Mounts and Data* | `how to dispose of an office projector in dubai` | `projector disposal dubai`, `projector lamp recycling dubai`, `office av equipment removal dubai` | Q | `/services/office-junk-removal` |
+
+**Overlap check (content-rules §16):** B143 differs from B45 (general electronics drop-offs), B54 (large gym equipment), B112 (camping equipment) and B113 (lawn mowers) through interchangeable tool batteries, guarded blades and bits, motor dust and mixed workshop kits. B144 differs from B62 (standalone mirrors and glass), B80 (desks), B83 (dining sets) and B131 (TV stands) through low lift-top scissor mechanisms, hidden living-room storage, nested tables and compact glass or stone tops. B145 differs from B55 (televisions), B81 (printers), B90 (data-bearing storage) and B133 (server racks) through projector lamp technology, cooling cycles, ceiling mounts, presentation dongles and smart-projector account resets.
+
 ---
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -593,3 +604,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 38. **Batch 38 (Articles B134–B136):** Bedroom Furniture, Portable Cooling & Home Networks — **100% Completed (3/3 Live)**.
 39. **Batch 39 (Articles B137–B139):** Personal Mobility, Bathroom Fixtures & Outdoor Water Play — **100% Completed (3/3 Live)**.
 40. **Batch 40 (Articles B140–B142):** Backup Power, Shower Glass & Countertop Cooking — **100% Completed (3/3 Live)**.
+41. **Batch 41 (Articles B143–B145):** Workshop Tools, Living-Room Tables & Presentation Equipment — **100% Completed (3/3 Live)**.
