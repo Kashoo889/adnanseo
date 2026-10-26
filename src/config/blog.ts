@@ -256,6 +256,12 @@ import blogB144Cover from "@/assets/blog-b144-coffee-table-cover.webp";
 import blogB144Body from "@/assets/blog-b144-coffee-table-components-body.webp";
 import blogB145Cover from "@/assets/blog-b145-projector-removal-cover.webp";
 import blogB145Body from "@/assets/blog-b145-projector-inventory-body.webp";
+import blogB146Cover from "@/assets/blog-b146-electric-blanket-disposal-cover.webp";
+import blogB146Body from "@/assets/blog-b146-electric-blanket-components-body.webp";
+import blogB147Cover from "@/assets/blog-b147-grandfather-clock-removal-cover.webp";
+import blogB147Body from "@/assets/blog-b147-grandfather-clock-parts-body.webp";
+import blogB148Cover from "@/assets/blog-b148-office-whiteboard-removal-cover.webp";
+import blogB148Body from "@/assets/blog-b148-office-whiteboard-parts-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -16348,6 +16354,204 @@ export const blogPosts: BlogPost[] = [
       { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Household appliance and furniture disposal service" },
       { href: "https://files.support.epson.com/pdf/plpc8h/plpc8h00ug.pdf", label: "Epson — Projector lamp disposal guidance" },
       { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-an-electric-blanket-in-dubai",
+    title: "How to Dispose of an Electric Blanket in Dubai: Controls, Cords and Textile Waste",
+    excerpt: "Inspect the heating wires and controller, keep a damaged blanket out of donation, and separate its electrical parts for an accepted recovery route.",
+    category: "Eco & Recycling",
+    coverImage: blogB146Cover,
+    coverImageAlt: "Removal technicians inspecting an unplugged electric blanket in a bright Dubai apartment bedroom",
+    publishedAt: "2026-10-27",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Electric Blanket Disposal", "Textile Waste", "Small Electricals", "Bedroom Clear-Out"],
+    seoTitle: "How to Dispose of an Electric Blanket in Dubai",
+    seoDescription: "How to dispose of an electric blanket in Dubai: inspect cords and heating wires, rule out unsafe donation, and choose a suitable collection route.",
+    keyTakeaways: [
+      "Unplug the blanket, detach its controller where the design allows and inspect both faces, connectors and cord before offering it for reuse.",
+      "Do not donate a blanket with hot spots, scorch marks, fraying, exposed wiring or a damaged plug; keep the complete item dry and clearly identified.",
+      "Ask the receiving collector whether the controller and wired textile should stay together, because facilities may classify mixed electrical textiles differently.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an electric blanket in Dubai?",
+        paragraphs: [
+          "To dispose of an electric blanket in Dubai, unplug it, detach the controller if designed to separate, and inspect the fabric, connector and cord. Reuse only a clean, fully working blanket with its instructions; otherwise keep it dry, identify it as a wired electrical textile and confirm an accepted collection route.",
+          "An electric blanket is not ordinary bedding. Fine heating elements run through its fabric, while the controller, plug and thermal protection are electrical components. Putting the whole item into a clothes-donation bin hides those parts from the sorter and may pass an unsafe product to someone else.",
+        ],
+      },
+      {
+        heading: "Decide whether the blanket is genuinely safe to reuse",
+        paragraphs: [
+          "Check both sides in good light. Look for scorched or unusually dark areas, stiff sections, exposed conductors, loose connectors and fraying where the cable enters the controller or blanket. The US Consumer Product Safety Commission treats breaks in wiring, plugs or connectors and charred or frayed spots as damage that can present a fire hazard.",
+          "A reusable blanket should be clean and dry, heat evenly, have the correct controller and show no sign of a product recall. Include the model label, care instructions and storage bag if available. Do not advertise a suspect blanket as repairable merely because the fabric still looks comfortable; internal wiring cannot be assessed from appearance alone.",
+        ],
+        callout: { type: "warning", title: "Do not test a visibly damaged blanket", text: "If the cord is split, a connector is loose or the fabric has a scorched patch, leave the blanket unplugged. Photograph the damage for the collector and keep it away from moisture and children while awaiting removal." },
+      },
+      {
+        heading: "Prepare the textile and controls for collection",
+        paragraphs: [
+          "Follow the maker's instructions when removing a detachable control. Do not cut embedded wires out of the fabric or open the controller. Coil the lead loosely, protect the plug pins and place the controller beside the folded blanket so the receiving team can see that they belong together. If the blanket is damp, dry it fully before packing; never seal a wet electrical textile in plastic.",
+          "Ask the collector whether it wants the blanket intact or the detachable control separated. The fabric may be difficult to recycle because of its embedded conductors, but the controller and cable should not be concealed in a general textile sack. Dubai Municipality lists used electrical and electronic appliances within its household bulky-waste service, although building location and development-zone rules can affect access.",
+        ],
+        image: blogB146Body,
+        imageAlt: "Folded electric blanket and detachable controller separated while a technician checks the power cable",
+        imageCaption: "Keep the dry blanket, matched controller and cable visible so a collector can identify the mixed textile and electrical components.",
+      },
+      {
+        heading: "Plan the pickup around your building and move-out date",
+        paragraphs: [
+          "For one clean working blanket, direct reuse may be simpler than a dedicated collection. For a damaged blanket within a larger bedroom clear-out, add it to the inventory and disclose its condition before the crew arrives. Managed towers may require a service-lift reservation even when the blanket itself is light, because the rest of the load controls the booking.",
+          "Our [household junk removal service](https://dubaijunkcollection.com/services/household-junk-removal) can include mixed bedroom items in a planned collection in communities such as [Downtown Dubai](https://dubaijunkcollection.com/service-areas/downtown-dubai). Related guides explain [how to handle pillows and duvets](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-pillows-and-duvets-in-dubai), [portable lamp disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-table-and-floor-lamps-in-dubai) and [electronics recycling routes](https://dubaijunkcollection.com/blog/where-to-recycle-electronics-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can I put an electric blanket in a clothes donation bin?", answer: "No. Its embedded heating wires, controller and cord make it a mixed electrical textile, and unattended bins are not designed to assess electrical safety. Offer a clean working blanket only to a recipient that has agreed to accept that exact item; otherwise confirm an appropriate collection route." },
+      { question: "Should I cut the cable off before disposal?", answer: "No. Cutting can expose conductors, create sharp ends and make the item harder to identify. Unplug it, detach only a controller designed for user removal, coil the cable loosely and let the receiving facility decide whether and how the materials should be separated." },
+      { question: "Can a blanket with one cold area still be donated?", answer: "A cold area can indicate an interrupted heating element or connection fault. Stop using the blanket and do not pass it on as working bedding. Record the model and symptom, check the manufacturer's advice or recall information and route it for appropriate electrical-waste assessment." },
+      { question: "What photos help with a bedroom-clearance quote?", answer: "Send one photo of the full blanket, one of its model label and controller, and close-ups of any fraying, scorch marks or connector damage. Also show the other items being collected and provide the floor, lift-booking rules, parking access and handover deadline." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-old-pillows-and-duvets-in-dubai", "how-to-dispose-of-old-table-and-floor-lamps-in-dubai", "where-to-recycle-electronics-in-dubai"],
+    serviceLink: { href: "/services/household-junk-removal", label: "Arrange a bedroom and household collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Household appliance and furniture disposal service" },
+      { href: "https://www.cpsc.gov/s3fs-public/513.pdf", label: "US Consumer Product Safety Commission — Home electrical safety checklist" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-grandfather-clock-in-dubai",
+    title: "How to Dispose of a Grandfather Clock in Dubai: Weights, Glass and Upright Moving",
+    excerpt: "Identify the clock before giving it away, remove and wrap its weights and pendulum correctly, and keep the tall cabinet upright through the route.",
+    category: "Guides & Tips",
+    coverImage: blogB147Cover,
+    coverImageAlt: "Technicians removing the pendulum from a tall grandfather clock in a Dubai villa",
+    publishedAt: "2026-10-27",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Grandfather Clock Disposal", "Antique Furniture", "Fragile Moving", "Villa Clearance"],
+    seoTitle: "How to Dispose of a Grandfather Clock in Dubai",
+    seoDescription: "How to dispose of a grandfather clock in Dubai: assess value, remove weights and pendulum, protect glass and plan an upright collection route.",
+    keyTakeaways: [
+      "Record the maker, model, movement and faults before deciding on sale, donation, specialist repair or bulky collection.",
+      "Stop the pendulum and pack the pendulum, weights, key and removable shelves separately; do not leave heavy parts swinging inside the cabinet.",
+      "Measure the full upright route and use experienced handlers, because tilting a tall clock can damage its movement, glass and wooden case.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a grandfather clock in Dubai?",
+        paragraphs: [
+          "To dispose of a grandfather clock in Dubai, first record its maker, condition and dimensions, then choose sale, donation, restoration or bulky collection. Before moving it, stop the pendulum, remove and wrap the weights and pendulum, secure the chains or cables correctly, protect the glass and keep the cabinet upright.",
+          "The cabinet may resemble a tall bookcase, but the movement changes the job. Suspended weights are dense, the pendulum is easily bent, glass panels sit high above the handler's grip, and the case can be top-heavy. A rushed villa handover is the wrong time to discover that the clock will not clear a doorway upright.",
+        ],
+      },
+      {
+        heading: "Check identity, value and ownership before removal",
+        paragraphs: [
+          "Photograph the dial, maker's plate, movement, cabinet and any serial number. Note whether the clock runs, chimes and keeps time, but do not force a stuck winding key or operate a visibly loose mechanism. An established maker, complete movement or well-made cabinet may justify a clockmaker's assessment even when the clock has stopped.",
+          "Confirm that the clock belongs to the resident rather than the landlord or furnished-villa inventory. For reuse, disclose missing keys, cracked glass, veneer damage, non-working chimes and previous repairs. A recipient needs the clock's full dimensions and a realistic transport plan, not only a photograph of the dial.",
+        ],
+        callout: { type: "tip", title: "Match each weight to its position", text: "Some clocks use weights with different masses. Mark their left, centre and right positions before wrapping them individually, and keep the winding key and small hardware in one identified bag." },
+      },
+      {
+        heading: "Prepare the movement and cabinet for an upright move",
+        paragraphs: [
+          "Use the manufacturer's instructions for the specific movement. Howard Miller advises stopping the pendulum, removing the weights and pendulum, securing chains or supporting cable pulleys as directed, packing accessory parts and keeping a floor clock upright. Soft gloves or cloth help prevent fingerprints and corrosion on polished metal parts.",
+          "Lock or pad the glass door without putting pressure across a pane. Wrap each weight so it cannot strike another part, support long pendulum rods and retain removable shelves. Do not tape directly to finished timber. If the case top, hood or finial is designed to lift off, photograph its fittings and bag the hardware; otherwise leave the cabinet intact for experienced handlers.",
+        ],
+        image: blogB147Body,
+        imageAlt: "Grandfather clock weights and pendulum individually wrapped beside an upright wooden clock cabinet",
+        imageCaption: "Individually protect the weights and pendulum, retain the key and hardware, and transport the empty cabinet upright.",
+      },
+      {
+        heading: "Measure the route and choose specialist reuse or collection",
+        paragraphs: [
+          "Measure cabinet height, widest moulding and base depth, then check doors, chandeliers, stairs, lift height and vehicle clearance. In a villa, protect stone floors and plan the turn through the entrance. In a tower, confirm the service-lift slot and loading bay before the clock is dismantled; leaving wrapped parts overnight in a shared corridor is not a safe plan.",
+          "Our [furniture removal service](https://dubaijunkcollection.com/services/furniture-removal) can plan a tall-item route in villa communities such as [Arabian Ranches](https://dubaijunkcollection.com/service-areas/arabian-ranches). The guides to [old piano disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-piano-dubai), [large mirror and glass handling](https://dubaijunkcollection.com/blog/how-to-dispose-of-large-mirror-glass-dubai) and [chest-of-drawers removal](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-chest-of-drawers-in-dubai) cover related heavy and fragile furniture decisions.",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can a grandfather clock be transported lying flat?", answer: "Manufacturer guidance commonly calls for floor clocks to remain upright after their removable movement parts have been prepared. Laying one down can stress the case, glass and mechanism. Follow the instructions for the exact model and use a specialist mover when the route cannot accommodate an upright carry." },
+      { question: "Do all three clock weights go back in any position?", answer: "Not necessarily. Weights can have different masses for the time and chime trains. Mark their positions before removal and do not rely on appearance alone. If the original labels are missing, ask a clock technician to identify them rather than guessing during reassembly." },
+      { question: "Will a charity collect a non-working grandfather clock?", answer: "Only if it has assessed and accepted that specific clock. A decorative case does not guarantee resale value, and the recipient must account for repair and specialist transport. Send clear condition photos, dimensions, maker details and access information before moving the clock from the property." },
+      { question: "What should I send for a grandfather-clock collection quote?", answer: "Send full front and side photos, close-ups of the dial and maker label, dimensions, and images of the weights, pendulum and any damage. Include the floor, stairs or lift dimensions, tight turns, parking distance, whether dismantling has started and the property handover date." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-old-piano-dubai", "how-to-dispose-of-large-mirror-glass-dubai", "how-to-dispose-of-a-chest-of-drawers-in-dubai"],
+    serviceLink: { href: "/services/furniture-removal", label: "Arrange careful tall-clock collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Household appliance and furniture disposal service" },
+      { href: "https://support.howardmiller.com/portal/en/kb/articles/how-to-prepare-a-floor-clock-to-be-moved-16-6-2021", label: "Howard Miller — Preparing a floor clock to be moved" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-an-office-whiteboard-in-dubai",
+    title: "How to Dispose of an Office Whiteboard in Dubai: Fixings, Glass and Fit-Out Handover",
+    excerpt: "Confirm ownership, erase confidential notes, identify steel or glass construction, and support the board before releasing its wall brackets.",
+    category: "Commercial & Office",
+    coverImage: blogB148Cover,
+    coverImageAlt: "Facilities technicians supporting a large wall-mounted whiteboard in a modern Dubai office",
+    publishedAt: "2026-10-27",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Office Whiteboard Disposal", "Office Fit-Out", "Glass Board", "Commercial Clearance"],
+    seoTitle: "How to Dispose of an Office Whiteboard in Dubai",
+    seoDescription: "How to dispose of an office whiteboard in Dubai: clear confidential notes, identify its construction, release wall mounts and plan fit-out repairs.",
+    keyTakeaways: [
+      "Check the tenancy inventory and erase confidential writing, smart-board accounts and attached storage before releasing the asset.",
+      "Identify melamine, enamelled steel, glass or interactive construction, because weight, breakage risk and recovery routes differ.",
+      "Support the board with enough handlers before loosening brackets, then inventory rails and fixings and agree the wall-reinstatement standard.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an office whiteboard in Dubai?",
+        paragraphs: [
+          "To dispose of an office whiteboard in Dubai, confirm ownership, erase confidential content, remove accessories and identify whether the panel is melamine, enamelled steel, glass or electronic. Protect the room, support the board before releasing its brackets, retain the mounting hardware, and send reusable or damaged components through an appropriate office-clearance route.",
+          "A large board is easy to underestimate because most of its mass sits flat against the wall. Once the lower edge leaves its rail, handlers must control a wide panel around meeting tables and glass partitions. Glass boards and interactive displays add still more weight, fragile edges, power connections and asset records.",
+        ],
+      },
+      {
+        heading: "Close information, ownership and fit-out records first",
+        paragraphs: [
+          "Photograph the board for the asset register, then erase names, project dates, access codes and other residual writing. Remove magnetic cards, planning strips and documents from trays. For an interactive board, ask IT to sign out accounts, remove USB devices, clear saved network details and record its serial number before facilities disconnects it.",
+          "Check the lease, landlord inventory and original fit-out drawings. A board, rail or wall backing may belong to the landlord or be scheduled to remain. Agree whether the office must patch anchor holes, repaint the full wall or restore acoustic panels. That decision belongs in the reinstatement scope before the clearance crew arrives.",
+        ],
+        callout: { type: "info", title: "A white surface is not always a lightweight board", text: "Magnetic enamelled steel, laminated safety glass and interactive displays can be much heavier than a melamine panel of the same size. Record the material and dimensions before choosing crew size and handling equipment." },
+      },
+      {
+        heading: "Release wall fixings without dropping the panel",
+        paragraphs: [
+          "Clear the meeting table and protect the floor and wall corners. Identify whether the board hangs from a top rail, keyhole plates, concealed clips or through-fixings. Manufacturer installation guidance for wall boards emphasizes suitable anchors and wall studs; removal should reverse the known mounting sequence while the panel remains supported by enough competent handlers.",
+          "Do not lever a glass board away from the wall or rest it on an unprotected edge. Cap markers, empty the tray and remove loose magnets before movement. Place the panel upright on padded blocks, keep rails straight and bag the matched screws, spacers and brackets. Isolate power and data first if the installation includes a display, projector connection or motorized system.",
+        ],
+        image: blogB148Body,
+        imageAlt: "Large office whiteboard upright on padded blocks with rails, tray and bagged fixings separated",
+        imageCaption: "Support the panel upright, keep long rails straight and retain the matched tray and fixings for reuse or documented disposal.",
+      },
+      {
+        heading: "Choose reuse, material recovery or office collection",
+        paragraphs: [
+          "A flat, uncracked board with a clean writing surface and complete brackets can be reused. Share its dimensions, material and fixing type with the recipient, and confirm that transport and installation are included. Delaminated melamine, chipped glass or obsolete interactive equipment needs a collector that accepts those materials; do not hide broken edges inside a general office-furniture load.",
+          "Our [office junk removal service](https://dubaijunkcollection.com/services/office-junk-removal) can coordinate boards with a wider fit-out clearance in districts such as [Business Bay](https://dubaijunkcollection.com/service-areas/business-bay). Related guides cover [office desk removal](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-desk-dubai), [modular cubicle disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-office-cubicles-in-dubai) and [data-safe electronics clearance](https://dubaijunkcollection.com/blog/data-safe-electronics-disposal-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can a large office whiteboard go in the service lift?", answer: "Only after measuring the board in its required upright position, the lift door and cabin, corridor turns and loading route. A board may fit the cabin diagonally but still fail at the doorway. Book the service lift and protective padding under the building's move rules before removal." },
+      { question: "How can I tell whether a whiteboard is glass or steel?", answer: "Glass boards usually have a reflective surface and standoff fixings, while enamelled steel boards commonly sit inside an aluminium frame and attract magnets strongly. Do not rely on appearance alone for a large fitted panel; check product labels, fit-out records or the installer before handling it." },
+      { question: "Who repairs the wall after the board is removed?", answer: "The lease and approved reinstatement scope decide. Facilities should document each fixing point and agree whether anchors are removed, holes filled, paint blended or the full wall refinished. Obtain building approval where required, especially when the board is fixed to glass, stone, acoustic panels or a fire-rated partition." },
+      { question: "What information helps quote whiteboard removal?", answer: "Send the quantity, width and height, material, frame and fixing details, plus photos from the front, side and underside. State whether any unit is interactive, the wall type, ceiling height, office floor, service-lift and loading rules, working-hour restrictions and reinstatement requirement." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-old-desk-dubai", "how-to-dispose-of-office-cubicles-in-dubai", "data-safe-electronics-disposal-dubai"],
+    serviceLink: { href: "/services/office-junk-removal", label: "Arrange an office fit-out collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Waste and establishment services" },
+      { href: "https://resources.steelcase.com/techsupport/TSUP/Culled%2BProducts/wt_iwb/User%2BGuides/WT_UG_370-0381-00.pdf", label: "Steelcase PolyVision — Whiteboard wall-mounting guidance" },
+      { href: "https://www.dm.gov.ae/rasid/", label: "Dubai Municipality — RASID waste transport regulation" },
     ],
   },
 ];

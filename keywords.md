@@ -640,3 +640,11 @@
 | 385 | how to dispose of old power tools in dubai | Q | Blog Article (`/blog/how-to-dispose-of-old-power-tools-in-dubai`) |
 | 386 | how to dispose of a coffee table in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-coffee-table-in-dubai`) |
 | 387 | how to dispose of an office projector in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-office-projector-in-dubai`) |
+
+### New question-intent blog targets (Batch 42)
+
+| # | Keyword | Intent | Recommended Page |
+| :-: | :--- | :---: | :--- |
+| 388 | how to dispose of an electric blanket in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-electric-blanket-in-dubai`) |
+| 389 | how to dispose of a grandfather clock in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-grandfather-clock-in-dubai`) |
+| 390 | how to dispose of an office whiteboard in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-office-whiteboard-in-dubai`) |

@@ -562,6 +562,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B143 differs from B45 (general electronics drop-offs), B54 (large gym equipment), B112 (camping equipment) and B113 (lawn mowers) through interchangeable tool batteries, guarded blades and bits, motor dust and mixed workshop kits. B144 differs from B62 (standalone mirrors and glass), B80 (desks), B83 (dining sets) and B131 (TV stands) through low lift-top scissor mechanisms, hidden living-room storage, nested tables and compact glass or stone tops. B145 differs from B55 (televisions), B81 (printers), B90 (data-bearing storage) and B133 (server racks) through projector lamp technology, cooling cycles, ceiling mounts, presentation dongles and smart-projector account resets.
 
+### Track 45: Heated Textiles, Tall Clocks & Office Writing Surfaces (Clusters 3, 5, 6 & 10)
+*Extends the item-specific sequence through three different preparation problems: identifying unsafe embedded wiring in a heated textile, protecting the movement and tall cabinet of a weight-driven clock, and releasing a wide wall-mounted writing surface without losing confidential information or fit-out hardware.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B146** | *How to Dispose of an Electric Blanket in Dubai: Controls, Cords and Textile Waste* | `how to dispose of an electric blanket in dubai` | `electric blanket disposal dubai`, `electrical textile recycling dubai`, `small electrical waste dubai` | Q | `/services/household-junk-removal` |
+| **B147** | *How to Dispose of a Grandfather Clock in Dubai: Weights, Glass and Upright Moving* | `how to dispose of a grandfather clock in dubai` | `grandfather clock disposal dubai`, `antique clock removal dubai`, `fragile furniture collection dubai` | Q | `/services/furniture-removal` |
+| **B148** | *How to Dispose of an Office Whiteboard in Dubai: Fixings, Glass and Fit-Out Handover* | `how to dispose of an office whiteboard in dubai` | `office whiteboard disposal dubai`, `glass board removal dubai`, `office fit-out clearance dubai` | Q | `/services/office-junk-removal` |
+
+**Overlap check (content-rules §16):** B146 differs from B105 (ordinary pillows and duvets), B109 (portable lamps) and B45 (general electronics routes) through embedded resistance wiring, detachable heat controllers, scorch and hot-spot checks, and the incompatibility of a wired textile with unattended clothing bins. B147 differs from B64 (pianos), B62 (mirrors) and B122 (drawer furniture) through suspended weights, pendulum and chain or cable preparation, keyed movement components and upright floor-clock transport. B148 differs from B80 (desks), B124 (cubicles), B145 (projectors) and whole-office workflow guides through residual written confidentiality, wide wall-rail handling, glass-versus-steel panel identification, matched brackets and post-removal wall reinstatement.
+
 ---
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -605,3 +616,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 39. **Batch 39 (Articles B137–B139):** Personal Mobility, Bathroom Fixtures & Outdoor Water Play — **100% Completed (3/3 Live)**.
 40. **Batch 40 (Articles B140–B142):** Backup Power, Shower Glass & Countertop Cooking — **100% Completed (3/3 Live)**.
 41. **Batch 41 (Articles B143–B145):** Workshop Tools, Living-Room Tables & Presentation Equipment — **100% Completed (3/3 Live)**.
+42. **Batch 42 (Articles B146–B148):** Heated Textiles, Tall Clocks & Office Writing Surfaces — **100% Completed (3/3 Live)**.
