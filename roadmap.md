@@ -573,6 +573,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B146 differs from B105 (ordinary pillows and duvets), B109 (portable lamps) and B45 (general electronics routes) through embedded resistance wiring, detachable heat controllers, scorch and hot-spot checks, and the incompatibility of a wired textile with unattended clothing bins. B147 differs from B64 (pianos), B62 (mirrors) and B122 (drawer furniture) through suspended weights, pendulum and chain or cable preparation, keyed movement components and upright floor-clock transport. B148 differs from B80 (desks), B124 (cubicles), B145 (projectors) and whole-office workflow guides through residual written confidentiality, wide wall-rail handling, glass-versus-steel panel identification, matched brackets and post-removal wall reinstatement.
 
+### Track 46: Dining Storage, Food Preparation & Meeting Rooms (Clusters 3, 5, 6 & 10)
+*Extends the item-specific sequence through three distinct preparation problems: separating fragile tops, shelves and moving parts from a long dining-room cabinet, containing sharp food-processor tools while separating its electrical base, and isolating integrated power and data before a modular conference table is dismantled.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B149** | *How to Dispose of a Sideboard in Dubai: Tops, Glass and Safe Moving* | `how to dispose of a sideboard in dubai` | `sideboard disposal dubai`, `buffet cabinet removal dubai`, `dining room furniture collection dubai` | Q | `/services/furniture-removal` |
+| **B150** | *How to Dispose of a Food Processor in Dubai: Blades, Bowls and E-Waste* | `how to dispose of a food processor in dubai` | `food processor recycling dubai`, `small kitchen appliance disposal dubai`, `kitchen e-waste dubai` | Q | `/services/appliance-removal` |
+| **B151** | *How to Dispose of a Conference Table in Dubai: Power, Tops and Access* | `how to dispose of a conference table in dubai` | `conference table disposal dubai`, `boardroom furniture removal dubai`, `office fit-out clearance dubai` | Q | `/services/office-junk-removal` |
+
+**Overlap check (content-rules §16):** B149 differs from B83 (dining sets), B122 (chests of drawers), B131 (TV stands) and B144 (coffee tables) through long dining-storage carcasses, detachable stone tops, internal glass shelves, door-and-drawer restraint and wall anti-tip hardware. B150 differs from B78 (microwaves), B104 (cookware), B119 (coffee machines) and B142 (air fryers) through sharp blade and disc containment, bowl interlocks, model-matched accessories and separation of a motor base from food-contact parts. B151 differs from B80 (desks), B83 (dining sets), B124 (cubicles) and B148 (whiteboards) through long modular tops, integrated floor-box power and data, recorded module order, proprietary frames and meeting-room reinstatement.
+
 ---
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -617,3 +628,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 40. **Batch 40 (Articles B140–B142):** Backup Power, Shower Glass & Countertop Cooking — **100% Completed (3/3 Live)**.
 41. **Batch 41 (Articles B143–B145):** Workshop Tools, Living-Room Tables & Presentation Equipment — **100% Completed (3/3 Live)**.
 42. **Batch 42 (Articles B146–B148):** Heated Textiles, Tall Clocks & Office Writing Surfaces — **100% Completed (3/3 Live)**.
+43. **Batch 43 (Articles B149–B151):** Dining Storage, Food Preparation & Meeting Rooms — **100% Completed (3/3 Live)**.

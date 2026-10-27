@@ -262,6 +262,12 @@ import blogB147Cover from "@/assets/blog-b147-grandfather-clock-removal-cover.we
 import blogB147Body from "@/assets/blog-b147-grandfather-clock-parts-body.webp";
 import blogB148Cover from "@/assets/blog-b148-office-whiteboard-removal-cover.webp";
 import blogB148Body from "@/assets/blog-b148-office-whiteboard-parts-body.webp";
+import blogB149Cover from "@/assets/blog-b149-sideboard-removal-cover.webp";
+import blogB149Body from "@/assets/blog-b149-sideboard-parts-body.webp";
+import blogB150Cover from "@/assets/blog-b150-food-processor-cover.webp";
+import blogB150Body from "@/assets/blog-b150-food-processor-parts-body.webp";
+import blogB151Cover from "@/assets/blog-b151-conference-table-removal-cover.webp";
+import blogB151Body from "@/assets/blog-b151-conference-table-parts-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -16552,6 +16558,204 @@ export const blogPosts: BlogPost[] = [
       { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Waste and establishment services" },
       { href: "https://resources.steelcase.com/techsupport/TSUP/Culled%2BProducts/wt_iwb/User%2BGuides/WT_UG_370-0381-00.pdf", label: "Steelcase PolyVision — Whiteboard wall-mounting guidance" },
       { href: "https://www.dm.gov.ae/rasid/", label: "Dubai Municipality — RASID waste transport regulation" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-sideboard-in-dubai",
+    title: "How to Dispose of a Sideboard in Dubai: Tops, Glass and Safe Moving",
+    excerpt: "Empty and measure the cabinet, identify removable stone or glass, secure its doors and drawers, then plan a protected route for reuse or collection.",
+    category: "Guides & Tips",
+    coverImage: blogB149Cover,
+    coverImageAlt: "Clearance crew removing a stone top from a wooden sideboard in a Dubai dining room",
+    publishedAt: "2026-10-27",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Sideboard Disposal", "Buffet Cabinet", "Furniture Removal", "Apartment Clearance"],
+    seoTitle: "How to Dispose of a Sideboard in Dubai",
+    seoDescription: "How to dispose of a sideboard in Dubai: empty it, separate fragile tops and shelves, secure moving parts and plan reuse or furniture collection.",
+    keyTakeaways: [
+      "Empty every compartment and confirm whether the sideboard, wall restraints and loose top belong to the tenant or furnished-property inventory.",
+      "Remove drawers, shelves and a detachable stone or glass top in a recorded order, then retain the matched hardware and protect every edge.",
+      "Measure the cabinet and its heaviest separated component against doors, turns and the service lift before a reuse or collection booking.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a sideboard in Dubai?",
+        paragraphs: [
+          "To dispose of a sideboard in Dubai, empty it, confirm ownership and record its dimensions and materials. Remove loose shelves and drawers, separate a detachable stone or glass top with enough handlers, secure the doors, retain all fixings, then arrange reuse or a furniture collection planned around the protected cabinet and access route.",
+          "Sideboards are low, long and often much heavier than they appear. Crockery, hidden drawers, glass shelves and a stone slab can turn one cabinet into several fragile loads. Preparing those parts in order makes the main carcass lighter and gives a recipient a complete, rebuildable item instead of an unidentified pile of hardware.",
+        ],
+      },
+      {
+        heading: "Clear contents, ownership and wall restraints first",
+        paragraphs: [
+          "Empty the top, drawers and cupboards completely. Check behind drawer boxes and beneath liners for cutlery, tenancy papers, keys and small valuables. In a furnished home, compare the cabinet and any decorative top against the inventory before dismantling it. A wall restraint may belong with the furniture, while a built-in plinth or service connection may be part of the property.",
+          "Photograph the front, back, inside and underside. Record loose veneer, swollen board, cracked glass, chipped stone and missing hinges. A clean solid cabinet with all shelves and hardware can be reused; a unit with structural water damage may not survive another move. Give a buyer or charity the dimensions, material, defects and access conditions before anyone commits to collection.",
+        ],
+        callout: { type: "warning", title: "A loose top may be the heaviest component", text: "Do not assume a stone, glass or composite slab is bonded to the cabinet. Support it with enough handlers before releasing clips or adhesive, and store it upright with protected faces and edges." },
+      },
+      {
+        heading: "Remove fragile and moving parts in a recorded order",
+        paragraphs: [
+          "Remove shelves, drawer boxes and loose door pins before the cabinet moves. Mark shelf positions and wrap glass pieces individually with rigid edge protection. Bag shelf pegs, hinge screws and wall-restraint hardware by location. If a top lifts off, photograph its fixings and use suction equipment or a stable multi-person lift appropriate to the material; never drag stone or glass across the cabinet edge.",
+          "Lock doors only if the key will remain with the unit; otherwise pad and strap them without putting pressure on handles. Do not tape finished timber or veneer. Keep the carcass upright on a padded dolly and support long spans so the base does not rack. Flat-pack units may be safer to dismantle fully, but glued or dowelled cabinets can be damaged by forced disassembly.",
+        ],
+        image: blogB149Body,
+        imageAlt: "Wrapped sideboard drawers, glass shelves and stone top beside a padded cabinet at a Dubai service lift",
+        imageCaption: "Protect shelves and the loose top separately, retain matched fixings and keep the cabinet upright on a padded dolly.",
+      },
+      {
+        heading: "Measure the route and choose reuse or collection",
+        paragraphs: [
+          "Measure the cabinet height, width and depth after removable parts are taken off, then record the weight and size of the top separately. Check dining-room doors, lobby turns, lift openings and loading-bay distance. Book the service lift before the cabinet leaves the room, and use floor and corner protection required by building management.",
+          "Dubai Municipality lists household furniture within its bulky-waste service, while developer-managed areas may use their own arrangements. Confirm the route before placing furniture in a common area. Our [furniture removal team](https://dubaijunkcollection.com/services/furniture-removal) can coordinate a sideboard with dining-room items in areas such as [Dubai Marina](https://dubaijunkcollection.com/service-areas/dubai-marina). Related guides cover [dining-table disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-dining-table-dubai), [TV-stand removal](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-tv-stand-in-dubai) and [large mirror and glass handling](https://dubaijunkcollection.com/blog/how-to-dispose-of-large-mirror-glass-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can a sideboard with a stone top be donated?", answer: "Yes, if the cabinet is structurally sound, the top is uncracked and the receiving organization accepts its size and weight. Send clear photos, dimensions and material details first. Confirm whether the top detaches and make sure every shelf, drawer, fixing and key travels with the unit." },
+      { question: "Should I remove sideboard drawers before moving it?", answer: "Usually yes. Empty removable drawers make the cabinet lighter and stop them opening during a turn. Photograph their order, protect finished fronts and keep runner parts with the correct drawer. If a drawer is captive by design, secure it without forcing or damaging its release mechanism." },
+      { question: "Can I leave an old sideboard in the building bin room?", answer: "Only if management has designated that location for a confirmed bulky collection. A long cabinet can block bins, doors and escape routes. Keep it inside the property until the booked lift and loading window, then move it directly to the approved handover point." },
+      { question: "What information helps quote sideboard removal?", answer: "Send front, side and inside photos, overall dimensions, material and close-ups of any glass, stone, wall restraints or damage. State the floor, service-lift size, corridor turns, parking distance, whether parts detach and which other dining-room items will leave in the same collection." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-old-dining-table-dubai", "how-to-dispose-of-a-tv-stand-in-dubai", "how-to-dispose-of-large-mirror-glass-dubai"],
+    serviceLink: { href: "/services/furniture-removal", label: "Arrange sideboard and furniture collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Dispose of household appliances and furniture" },
+      { href: "https://www.ikea.com/ae/en/p/fjaellbo-sideboard-black-00502799/", label: "IKEA UAE — Sideboard materials, fixings and anti-tip guidance" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-food-processor-in-dubai",
+    title: "How to Dispose of a Food Processor in Dubai: Blades, Bowls and E-Waste",
+    excerpt: "Unplug and clean the machine, contain every sharp blade, match reusable accessories and route the motor base as a small electrical appliance.",
+    category: "Eco & Recycling",
+    coverImage: blogB150Cover,
+    coverImageAlt: "Unplugged food processor and sorted accessories on a bright Dubai kitchen counter",
+    publishedAt: "2026-10-27",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Food Processor Disposal", "Small Appliance Recycling", "Kitchen E-Waste", "Blade Safety"],
+    seoTitle: "How to Dispose of a Food Processor in Dubai",
+    seoDescription: "How to dispose of a food processor in Dubai: unplug and clean it, contain sharp blades, match accessories and recycle the electrical motor base.",
+    keyTakeaways: [
+      "Unplug the food processor, clean and dry its food-contact parts, and never reach into a bowl while a blade is attached.",
+      "Contain chopping blades and slicing discs in a rigid lidded box, rather than hiding loose sharp parts in a bag or appliance bowl.",
+      "Keep a working machine and its matched accessories together for reuse; route a failed motor base through an accepted small-appliance stream.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a food processor in Dubai?",
+        paragraphs: [
+          "To dispose of a food processor in Dubai, unplug it, empty and clean the bowl, dry every part and contain sharp blades in a rigid lidded box. Keep matched accessories with a working machine for reuse. Send a failed motor base through an accepted small-appliance or e-waste collection, not loose household rubbish.",
+          "A food processor looks like one countertop appliance but leaves as several different handling risks: a powered motor base, brittle plastic bowls and razor-sharp steel tools. The best route keeps those pieces identifiable without allowing a loose disc or blade to injure a resident, cleaner or recycling worker.",
+        ],
+      },
+      {
+        heading: "Decide whether repair or reuse is realistic",
+        paragraphs: [
+          "Find the model label and test only if the cord, plug, bowl and interlock appear sound. A missing lid pusher or cracked locking tab can prevent safe operation even when the motor runs. Check the manufacturer's parts list before discarding a capable machine for one replaceable bowl. Do not bypass a safety interlock or operate the motor base without its correctly locked bowl and lid.",
+          "For resale or donation, include the manual if available and count the chopping blade, dough blade, discs, spindle, bowl, lid and pusher. Clean food residue from seams and dry the parts completely. State any leak, vibration, burning smell or intermittent control. A recipient should not have to discover an unsafe fault during their first use.",
+        ],
+        callout: { type: "warning", title: "Treat every blade as live", text: "A disconnected food processor cannot start, but its blades can still cause a deep cut. Handle each tool by its hub or safe edge and place it directly into a rigid container with a lid." },
+      },
+      {
+        heading: "Prepare blades, bowls and the motor base separately",
+        paragraphs: [
+          "Unplug first and follow the manual for disassembly. Scrape food into the appropriate household-waste or compost route, wash removable food-contact pieces and dry them. Do not immerse a motor base. Inspect the power cord for damage, coil it without a tight kink and secure it to the base so it cannot trail across a corridor or catch under a crate.",
+          "Nest sound plastic parts without forcing them. Put chopping blades and metal slicing discs into a rigid container and fill gaps so the tools cannot rattle through the lid; label the container for the receiving crew without covering original model information. Keep loose screws or a detachable cable in a separate bag. Do not dismantle the motor, capacitor or control board at home.",
+        ],
+        image: blogB150Body,
+        imageAlt: "Gloved worker sorting a food processor motor, bowls and contained blades into separate crates",
+        imageCaption: "Separate the electrical base from clean accessories and keep every sharp tool contained for the entire handover.",
+      },
+      {
+        heading: "Use the route that accepts a small electrical appliance",
+        paragraphs: [
+          "A working, clean and complete processor is most useful as a set. For a failed unit, confirm that the chosen drop-off or collector accepts small kitchen appliances and ask whether removable metal accessories should arrive with it. Do not put the motor base down a tower rubbish chute or leave exposed blades in a communal bin room.",
+          "Our [appliance removal service](https://dubaijunkcollection.com/services/appliance-removal) can combine the processor with a wider kitchen clear-out in areas such as [Downtown Dubai](https://dubaijunkcollection.com/service-areas/downtown-dubai). For neighbouring decisions, see the guides to [air-fryer disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-air-fryer-in-dubai), [cookware reuse and recycling](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-cookware-in-dubai) and [electronics recycling locations](https://dubaijunkcollection.com/blog/where-to-recycle-electronics-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can I put food processor blades in the household bin?", answer: "Loose blades should never go into a bag where they can cut residents, cleaners or collection workers. Keep them for reuse with the machine, or place them in a rigid closed container and confirm the handover method with the appliance or material collector before disposal." },
+      { question: "Is the plastic bowl recyclable?", answer: "That depends on its polymer, condition and the receiving facility. A bowl mixed with metal shafts, rubber seals or food residue may not suit a normal packaging-plastic stream. Keep sound model-specific bowls with the processor for reuse and ask the recycler before separating damaged accessories." },
+      { question: "Can a food processor be donated without all its attachments?", answer: "Possibly, if it retains the parts needed for safe operation and the recipient agrees to the incomplete set. Provide the model number and an exact inventory. A missing dough tool is different from a missing lid, pusher or interlock component that affects safe use." },
+      { question: "What photos help quote small-appliance collection?", answer: "Send one photo of the assembled appliance, one of the model label and one showing all accessories. Include close-ups of cracked plastic, cord damage or corrosion, and show the other appliances or kitchen items leaving so the crew can price and route the complete load." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-an-air-fryer-in-dubai", "how-to-dispose-of-old-cookware-in-dubai", "where-to-recycle-electronics-in-dubai"],
+    serviceLink: { href: "/services/appliance-removal", label: "Arrange a kitchen-appliance collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Dispose of household appliances and furniture" },
+      { href: "https://www.cuisinart.com/manuals/food-processors/", label: "Cuisinart — Food processor manuals and safety instructions" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-conference-table-in-dubai",
+    title: "How to Dispose of a Conference Table in Dubai: Power, Tops and Access",
+    excerpt: "Clear company records, isolate integrated power and data, map the table's modules, then protect each heavy top through the office loading route.",
+    category: "Commercial & Office",
+    coverImage: blogB151Cover,
+    coverImageAlt: "Facilities crew dismantling a long conference table in a premium Dubai office",
+    publishedAt: "2026-10-27",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Conference Table Disposal", "Office Furniture", "Fit-Out Clearance", "Business Bay"],
+    seoTitle: "How to Dispose of a Conference Table in Dubai",
+    seoDescription: "How to dispose of a conference table in Dubai: confirm ownership, isolate power and data, map the modules and plan safe dismantling and collection.",
+    keyTakeaways: [
+      "Confirm company or landlord ownership and clear drawers, cable trays and room systems before any dismantling begins.",
+      "Have facilities isolate integrated power and data, photograph the module order, and support heavy top sections before releasing legs or beams.",
+      "Measure the largest protected component against every doorway, turn and service lift, then book the loading bay and building access window.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a conference table in Dubai?",
+        paragraphs: [
+          "To dispose of a conference table in Dubai, confirm ownership, clear records and accessories, and have facilities isolate integrated power and data. Photograph its module order, support each top before undoing frames, bag the matched fixings, protect fragile surfaces, and book a service-lift and loading-bay route for reuse or office collection.",
+          "A boardroom table is rarely just a larger desk. Long tops flex, stone or glass inserts concentrate weight, cable troughs conceal live connections and modular frames only stay stable in the intended sequence. The safe job starts with the room's asset and electrical records, then moves to tools and trolleys.",
+        ],
+      },
+      {
+        heading: "Close the ownership, information and services trail",
+        paragraphs: [
+          "Check the asset register, landlord inventory and fit-out drawings. The table may be tenant-owned while its floor box, audiovisual controls or under-table cabling belongs to the premises. Clear drawers and cable troughs of meeting papers, access cards, adapters and conferencing remotes. Ask IT to record or remove room-control hardware that will stay with the business.",
+          "Have a competent facilities or electrical person isolate hard-wired power and confirm which data, USB, HDMI or control cables can be disconnected. Never cut a cable simply because it disappears into the floor. Photograph every module, label connections and agree whether floor boxes need blanking plates or whether the replacement table will reuse them.",
+        ],
+        callout: { type: "warning", title: "Do not dismantle around live floor boxes", text: "Integrated table power can be fed through floor boxes, columns or linked modules. Facilities should isolate and verify the system before the clearance crew removes covers, beams or legs." },
+      },
+      {
+        heading: "Dismantle in a recorded, supported sequence",
+        paragraphs: [
+          "Remove loose lids and cable covers, then photograph the underside so leg, beam and power-module positions can be recreated. Mark multi-piece tops discreetly from one end. Support the top on padded trestles or with enough handlers before releasing frame bolts; never depend on one remaining pedestal to carry a long slab. Stone, glass and solid timber require material-specific lifting equipment and edge protection.",
+          "Bag fixings by joint and attach each bag to the matching protected component without taping a finished face. Keep long beams straight, cap protruding studs and crate power modules separately. If the table is reusable, preserve proprietary brackets, grommets and cable covers. Missing one connector can turn an otherwise valuable modular table into an unstable stack of panels.",
+        ],
+        image: blogB151Body,
+        imageAlt: "Padded conference table sections and sorted legs beside a Dubai office service lift",
+        imageCaption: "Keep top sections upright on padded dollies, retain matched fixings and inventory power modules before the loading window.",
+      },
+      {
+        heading: "Measure the protected parts, not the assembled table",
+        paragraphs: [
+          "Record the largest top section's length, width, thickness and weight estimate after padding. Check meeting-room doors, reception gates, corridor turns, service-lift height and loading-dock vehicle clearance. In occupied towers, facilities may restrict noisy work, trolley movement and lift use to an approved after-hours slot. Arrange security access and contractor documentation before tools arrive.",
+          "A complete table with sound surfaces and all hardware may suit reuse; damaged laminate, separated veneer or incomplete frames need material-aware collection. Our [office junk removal service](https://dubaijunkcollection.com/services/office-junk-removal) can coordinate a meeting-room clearance in districts such as [Business Bay](https://dubaijunkcollection.com/service-areas/business-bay). Related guides explain [office desk disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-desk-dubai), [cubicle removal](https://dubaijunkcollection.com/blog/how-to-dispose-of-office-cubicles-in-dubai) and [office projector retirement](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-office-projector-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can a conference table be moved in one piece?", answer: "Usually it should not be assumed. Long tops can flex, frames can rack and the assembled width may not clear doors or lifts. Check the manufacturer's construction, protect the surface and let experienced handlers decide whether a small solid table can remain intact after the full route is measured." },
+      { question: "Who disconnects power modules in a boardroom table?", answer: "Your facilities or electrical contractor should identify the feed, isolate it and confirm what may be unplugged or removed. A clearance crew can handle already-safe modular components, but it should not cut unknown cables, open live floor boxes or alter building electrical systems during furniture dismantling." },
+      { question: "Can a damaged conference table still be reused?", answer: "Minor cosmetic wear may be acceptable if the top is flat, the frame is stable and every proprietary fixing is present. Disclose chips, swelling, loose veneer, cracked glass and failed power modules. A recipient also needs component dimensions and an installation plan before accepting a large modular set." },
+      { question: "What information helps quote conference-table removal?", answer: "Send overall dimensions, underside photos, material, module count and details of integrated power or data. Include the office floor, service-lift size, doorway and corridor restrictions, loading-bay rules, approved work hours, security requirements and whether wall or floor reinstatement sits within the clearance scope." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-old-desk-dubai", "how-to-dispose-of-office-cubicles-in-dubai", "how-to-dispose-of-an-office-projector-in-dubai"],
+    serviceLink: { href: "/services/office-junk-removal", label: "Arrange conference-room clearance" },
+    sources: [
+      { href: "https://www.dm.gov.ae/rasid/", label: "Dubai Municipality — RASID registered waste transport" },
+      { href: "https://www.steelcase.com/content/uploads/2025/02/confandcollabtables-spec-guide.pdf", label: "Steelcase — Conference and collaborative tables specification guide" },
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality — Waste duty-of-care guideline" },
     ],
   },
 ];
