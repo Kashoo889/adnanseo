@@ -656,3 +656,11 @@
 | 391 | how to dispose of a sideboard in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-sideboard-in-dubai`) |
 | 392 | how to dispose of a food processor in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-food-processor-in-dubai`) |
 | 393 | how to dispose of a conference table in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-conference-table-in-dubai`) |
+
+### New question-intent blog targets (Batch 44)
+
+| # | Keyword | Intent | Recommended Page |
+| :-: | :--- | :---: | :--- |
+| 394 | how to dispose of a reception desk in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-reception-desk-in-dubai`) |
+| 395 | how to dispose of bar stools in dubai | Q | Blog Article (`/blog/how-to-dispose-of-bar-stools-in-dubai`) |
+| 396 | how to dispose of a blender in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-blender-in-dubai`) |

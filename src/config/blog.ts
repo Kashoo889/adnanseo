@@ -268,6 +268,12 @@ import blogB150Cover from "@/assets/blog-b150-food-processor-cover.webp";
 import blogB150Body from "@/assets/blog-b150-food-processor-parts-body.webp";
 import blogB151Cover from "@/assets/blog-b151-conference-table-removal-cover.webp";
 import blogB151Body from "@/assets/blog-b151-conference-table-parts-body.webp";
+import blogB152Cover from "@/assets/blog-b152-reception-desk-removal-cover.webp";
+import blogB152Body from "@/assets/blog-b152-reception-desk-parts-body.webp";
+import blogB153Cover from "@/assets/blog-b153-bar-stool-removal-cover.webp";
+import blogB153Body from "@/assets/blog-b153-bar-stool-parts-body.webp";
+import blogB154Cover from "@/assets/blog-b154-blender-disposal-cover.webp";
+import blogB154Body from "@/assets/blog-b154-blender-parts-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -16756,6 +16762,204 @@ export const blogPosts: BlogPost[] = [
       { href: "https://www.dm.gov.ae/rasid/", label: "Dubai Municipality — RASID registered waste transport" },
       { href: "https://www.steelcase.com/content/uploads/2025/02/confandcollabtables-spec-guide.pdf", label: "Steelcase — Conference and collaborative tables specification guide" },
       { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality — Waste duty-of-care guideline" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-reception-desk-in-dubai",
+    title: "How to Dispose of a Reception Desk in Dubai: Counters, Cables and Access",
+    excerpt: "Confirm ownership, isolate reception technology, record the desk's modules and protect heavy counters before the lobby's public route opens for removal.",
+    category: "Commercial & Office",
+    coverImage: blogB152Cover,
+    coverImageAlt: "Facilities crew inspecting a curved reception desk before dismantling it in a Dubai office lobby",
+    publishedAt: "2026-10-28",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Reception Desk Disposal", "Office Furniture", "Lobby Clearance", "Commercial Fit-Out"],
+    seoTitle: "How to Dispose of a Reception Desk in Dubai",
+    seoDescription: "How to dispose of a reception desk in Dubai: confirm ownership, isolate power and data, map its modules, protect counters and plan lobby access.",
+    keyTakeaways: [
+      "Check the fit-out inventory before removal because the desk, signage, stone counter and floor connections may have different owners.",
+      "Facilities should isolate power and data before panels open; record every module, bracket and cable route before dismantling.",
+      "Measure protected counter sections against lobby doors, service lifts and loading access, then schedule work outside public reception hours.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a reception desk in Dubai?",
+        paragraphs: [
+          "To dispose of a reception desk in Dubai, confirm who owns the joinery, stone, signage and equipment. Have facilities isolate power and data, photograph each module, support heavy counters before releasing panels, retain matched fixings, protect the lobby route, and book an approved service-lift and loading-bay window for reuse or collection.",
+          "A reception station is often part furniture and part fit-out. Curved shells hide linked brackets, transaction counters can be stone or solid surface, and floor boxes may feed phones, access control, screens and panic buttons. Treating it like a freestanding desk risks damaging both the station and the building services beneath it.",
+        ],
+      },
+      {
+        heading: "Close the ownership, security and building-services checks",
+        paragraphs: [
+          "Start with the asset register, lease inventory and fit-out drawings. Confirm whether the tenant owns the desk while the landlord owns its floor box, wall cladding or fixed signage. Remove visitor logs, access cards, spare keys and printed records. Ask IT or security to sign off any badge printer, CCTV display, duress button or access-control device before it leaves the counter.",
+          "A competent facilities or electrical person should isolate fixed power and identify data or security cables. Do not cut a lead because it disappears behind a modesty panel. Photograph connections, label only after isolation and agree who will blank floor boxes, patch anchors and make good the wall or floor before the tenancy inspection.",
+        ],
+        callout: { type: "warning", title: "Keep security systems in their own workstream", text: "Reception desks can conceal access-control and emergency devices as well as ordinary power. The clearance crew should only handle equipment that IT, security and facilities have identified, isolated and released." },
+      },
+      {
+        heading: "Map the modules before the first counter comes off",
+        paragraphs: [
+          "Photograph the desk from the lobby, staff side and underneath, then number connected sections from one end. Remove drawers, loose shelves and cable covers first. Support stone, glass or solid-surface counters on padded trestles before releasing their brackets; a long counter can crack under its own weight once the shell stops supporting it.",
+          "Bag fixings by joint and keep proprietary clips, levelling feet and cable grommets with the matching panel. Protect finished faces and corners rather than taping directly onto veneer or stone. Haworth's reception-station documentation shows why the sequence matters: desk tops, return tops, walls and counter tops are distinct components, not one object to drag through a doorway.",
+        ],
+        image: blogB152Body,
+        imageAlt: "Wrapped reception desk modules, counter sections and sorted hardware beside a Dubai office service lift",
+        imageCaption: "Record the module order, protect every counter edge and keep fittings with their original sections before the loading slot begins.",
+      },
+      {
+        heading: "Plan a route that does not turn the lobby into a worksite",
+        paragraphs: [
+          "Measure the largest protected counter section, not just the assembled footprint. Check entrance gates, corridor turns, lift doors, car height and loading-dock clearance. Agree hoarding, floor protection, noise limits and contractor access with building management. In an occupied tower, dismantling normally belongs in an approved after-hours window so visitors never cross a tool or trolley route.",
+          "A complete modular station with sound surfaces and all hardware may suit another office; bespoke curved sections and damaged joinery are harder to reuse and should be separated by material where practical. Our [office junk removal service](https://dubaijunkcollection.com/services/office-junk-removal) can coordinate the cleared route in districts such as [DIFC](https://dubaijunkcollection.com/service-areas/difc). Related guides cover [office desk disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-desk-dubai), [cubicle removal](https://dubaijunkcollection.com/blog/how-to-dispose-of-office-cubicles-in-dubai) and [conference-table dismantling](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-conference-table-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can a reception desk be removed without dismantling it?", answer: "Only a small freestanding station may travel intact after the full route and weight are checked. Modular or fitted desks should normally be recorded and separated in their designed sequence. Long counters can flex, curved shells can rack and an assembled unit may conceal anchors or building connections." },
+      { question: "Who disconnects the power and access-control cables?", answer: "Facilities, IT, security or their appointed contractors should identify, isolate and release the relevant systems. A clearance crew can remove already-safe modular equipment, but it should not cut unknown cables, open live floor boxes or decide whether a security device belongs to the tenant or landlord." },
+      { question: "Can a stone reception counter be reused?", answer: "It can be, provided it is intact, supported correctly and fits a new layout. Record its exact dimensions, cut-outs and bracket positions. Engineered or natural stone is heavy and vulnerable at narrow sections, so use edge protection and suitable handling equipment rather than carrying it like a timber panel." },
+      { question: "What photos help quote reception-desk removal?", answer: "Send front, staff-side and underside views, overall dimensions, counter material and the number of joined modules. Include floor boxes, wall anchors, the lobby route, service lift and loading bay. State the approved work hours and whether signage, electrical isolation or reinstatement is handled separately." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-old-desk-dubai", "how-to-dispose-of-office-cubicles-in-dubai", "how-to-dispose-of-a-conference-table-in-dubai"],
+    serviceLink: { href: "/services/office-junk-removal", label: "Arrange reception-area clearance" },
+    sources: [
+      { href: "https://www.dm.gov.ae/rasid/", label: "Dubai Municipality — RASID waste transport system" },
+      { href: "https://www.haworth.com/na/en/design-resources/details.html/content/dam/digital/north-american-assets/technical-documents/installation-instructions/furniture/wood-furniture/tripoli/7021-8222c.pdf", label: "Haworth — Tripoli reception desk installation instructions" },
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality — Waste duty-of-care guideline" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-bar-stools-in-dubai",
+    title: "How to Dispose of Bar Stools in Dubai: Gas Lifts, Seats and Metal Bases",
+    excerpt: "Test each stool for safe reuse, keep pressurised lift columns intact, retain matched fixings and separate clean seats from recoverable metal frames.",
+    category: "Guides & Tips",
+    coverImage: blogB153Cover,
+    coverImageAlt: "Worker inspecting adjustable bar stools beside a kitchen island in a Dubai apartment",
+    publishedAt: "2026-10-28",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Bar Stool Disposal", "Gas Lift Stool", "Furniture Reuse", "Metal Recycling"],
+    seoTitle: "How to Dispose of Bar Stools in Dubai Safely",
+    seoDescription: "How to dispose of bar stools in Dubai: test stability, keep gas lifts intact, contain loose fittings and separate reusable seats from metal frames.",
+    keyTakeaways: [
+      "Offer a clean, stable matching set for reuse only after checking joints, footrests, upholstery and height adjustment.",
+      "Never drill, cut, crush or heat a gas-lift column; keep it intact and disclose it to the receiving collector.",
+      "Remove seats only by the maker's method, bag matched fixings and protect tall frames through lifts and kitchen corridors.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of bar stools in Dubai?",
+        paragraphs: [
+          "To dispose of bar stools in Dubai, clean and test each stool, photograph matching sets, and check seats, joints and footrests. Follow the maker's instructions for simple disassembly, keep gas-lift columns intact, bag matched fixings, protect tall frames in the lift, then choose reuse, furniture collection or material-aware recycling according to condition.",
+          "Bar stools look small until three tall frames have to clear a kitchen island, apartment door and service lift without scratching anything. Adjustable models add a pressurised column; upholstered seats add foam and fabric; fixed timber or metal frames may be far more reusable than a loose, unstable stool first appears.",
+        ],
+      },
+      {
+        heading: "Decide whether the set is safe enough to pass on",
+        paragraphs: [
+          "Clean the stools and test them on a level floor. Rock each frame gently, check that welded or screwed footrests are secure, inspect cracked timber and look underneath for missing fasteners. On an adjustable stool, confirm the seat rises, lowers, swivels and holds height without sinking. Photograph defects rather than disguising them with a cushion or cover.",
+          "A matching set with firm joints and clean upholstery is easier to rehome than isolated stools of different heights. Measure seat height as well as overall height: counter stools and true bar-height stools are not interchangeable. IKEA's product guidance also recommends retightening stool screws after assembly and as necessary, a useful check before deciding an apparently loose frame has reached the end of its life.",
+        ],
+      },
+      {
+        heading: "Treat a gas-lift column as a sealed component",
+        paragraphs: [
+          "Lower an adjustable stool before moving it and keep fingers clear of the lever and telescoping column. Do not drill, saw, puncture, heat or crush the cylinder to make it fit a bin. If the manufacturer provides a removal procedure, use the specified tools; otherwise leave the column assembled and tell the collector that it is a gas-lift stool.",
+          "For fixed stools, follow the original assembly order in reverse only where it is obvious and safe. Remove the seat or back before the base if that reduces height, keep left and right brackets identified, and bag all screws with the stool. Do not force press-fit joints apart with blows that can bend a frame or turn a reusable set into sharp scrap.",
+        ],
+        callout: { type: "warning", title: "Do not open a gas cylinder", text: "A height-adjustment column is not an empty tube. Keep it intact and out of compactors, cutting tools and heat. If separation is necessary, use the product maker's service method or an experienced furniture technician." },
+        image: blogB153Body,
+        imageAlt: "Padded bar stool seats, intact gas-lift columns and sorted metal bases on a trolley",
+        imageCaption: "Keep gas-lift columns intact, protect finished seats and retain every matched fitting for reuse or controlled material sorting.",
+      },
+      {
+        heading: "Choose a route for the whole stool, not just its metal",
+        paragraphs: [
+          "Reuse is the best route for a stable set because dismantling mixed upholstery, plastic, timber and steel can consume more effort than the recovered materials justify. Damaged all-metal fixed frames may suit a scrap route after non-metal parts are separated, but a collector should decide how a gas-lift model enters its process. Never leave tall stools leaning in a bin room or beside a chute.",
+          "Our [furniture removal service](https://dubaijunkcollection.com/services/furniture-removal) can combine stools with a kitchen or apartment clear-out in communities such as [Jumeirah Village Circle](https://dubaijunkcollection.com/service-areas/jumeirah-village-circle). If other dining furniture is leaving, see the guides to [dining-table and chair disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-dining-table-dubai), [sideboard removal](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-sideboard-in-dubai) and [selling versus donating furniture](https://dubaijunkcollection.com/blog/sell-vs-donate-old-furniture-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can I put a broken bar stool in the building bin room?", answer: "Only if building management has an approved bulky-item process and has told you where and when to place it. Tall frames obstruct shared rooms, and an adjustable stool contains a sealed gas-lift column. Arrange reuse or collection first instead of leaving it beside a chute or general bin." },
+      { question: "Can a sinking gas-lift stool be donated?", answer: "Not as fully working seating. A stool that drops under weight is unstable and should be described as needing repair or parts. A repairer may replace the correct cylinder, but a charity or private recipient should not discover the fault after accepting the stool." },
+      { question: "Should I dismantle stools before collection?", answer: "Only where the model's instructions support simple disassembly and the parts can be kept together. Removing a bolted seat may save height; forcing a tapered or press-fit gas-lift joint may cause damage. Send photos and dimensions first so the collector can choose the safest form." },
+      { question: "What measurements are needed for a bar-stool quote?", answer: "Provide the quantity, overall height, base width, seat material and whether each stool folds, stacks or adjusts. Photograph the underside and any gas-lift column, show loose or sharp parts, and include the apartment floor, lift access and other furniture leaving in the same collection." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-old-dining-table-dubai", "how-to-dispose-of-a-sideboard-in-dubai", "sell-vs-donate-old-furniture-dubai"],
+    serviceLink: { href: "/services/furniture-removal", label: "Arrange bar-stool and furniture collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Dispose of household appliances and furniture" },
+      { href: "https://www.ikea.com/us/en/p/dalfred-bar-stool-black-60155602/", label: "IKEA — Bar stool materials, care and stability guidance" },
+      { href: "https://www.hermanmiller.com/content/dam/installation_app/PDFs/Seating%20Repair/Aeron%20Chairs/New%20Aeron/1BX83H_B_1.pdf", label: "Herman Miller — Gas-cylinder replacement procedure" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-blender-in-dubai",
+    title: "How to Dispose of a Blender in Dubai: Blades, Jugs and Motor Bases",
+    excerpt: "Unplug and clean the blender, contain its blade assembly, keep model-matched parts together and route the motor base as electrical equipment.",
+    category: "Eco & Recycling",
+    coverImage: blogB154Cover,
+    coverImageAlt: "Worker checking an unplugged blender motor base and glass jug in a Dubai kitchen",
+    publishedAt: "2026-10-28",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Blender Disposal", "Kitchen E-Waste", "Small Appliance Recycling", "Blade Safety"],
+    seoTitle: "How to Dispose of a Blender in Dubai Safely",
+    seoDescription: "How to dispose of a blender in Dubai: unplug and clean it, contain the blade assembly, keep model-matched parts together and recycle the motor base.",
+    keyTakeaways: [
+      "Unplug the blender, empty and clean food-contact parts, then let every component dry before packing.",
+      "Keep the blade assembly inside its jug or a rigid closed container; never leave it loose in a bag or recycling bin.",
+      "Offer a safe working set for reuse, but send a failed motor base through an appropriate electrical-appliance route.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a blender in Dubai?",
+        paragraphs: [
+          "To dispose of a blender in Dubai, unplug it, empty and clean the jug, and let every part dry. Keep sharp blades inside the secured jug or a rigid closed container, coil the cord, retain model-matched lids and cups, then offer a working set for reuse or send the failed motor base through electrical-appliance collection.",
+          "The parts do not all belong in one loose bag. A blender combines a mains-powered motor, control electronics, a heavy glass or plastic vessel, rubber seals and a fast blade assembly. Separating those risks carefully makes the set safer for a recipient, a collection crew and anyone sorting the appliance after handover.",
+        ],
+      },
+      {
+        heading: "Test for reuse without hiding a fault",
+        paragraphs: [
+          "Check the manual and inspect the plug, cord, jug, lid, drive coupling and blade assembly. Do not run a cracked jug, a loose blade unit or a machine that smells burnt, leaks underneath or repeatedly trips the circuit. A short test with the correct lid and container is enough; unplug again before removing parts or cleaning.",
+          "A working blender is most useful as a complete, model-matched set. Gather personal cups, lids, tampers and removable seals, but do not mix similar-looking parts from another appliance. State any intermittent control, noisy bearing or damaged coupling. Vitamix's current safety guidance says to unplug before assembling, disassembling, moving, cleaning or storing and to replace a loose blade assembly rather than tightening it at home.",
+        ],
+      },
+      {
+        heading: "Clean the jug and contain the blades",
+        paragraphs: [
+          "Remove all food, wash removable food-contact parts as their manual permits and let them dry. Never immerse the motor base; wipe it after unplugging. If the blade assembly normally stays fixed in the jug, leave it there and secure the lid. If it is designed to detach, place it immediately in a rigid lidded container so no edge can cut through a bag.",
+          "Wrap a glass jug separately from the motor base and protect its rim and handle. Keep rubber seals, caps and model-specific tools in a small bag with the correct container. Coil the lead without a tight kink and secure it to the base. Do not open the motor, cut off the cord or strip components merely to make the appliance look recyclable.",
+        ],
+        callout: { type: "warning", title: "A stopped blade can still cut", text: "Disconnecting the blender removes motor power, not the physical hazard. Never leave a blade unit loose in a carrier bag. Keep it locked in its jug or enclosed in a rigid, clearly identified container." },
+        image: blogB154Body,
+        imageAlt: "Clean blender jug, contained blade assembly and unplugged motor base sorted into separate crates",
+        imageCaption: "Keep food-contact parts clean and dry, contain the blade assembly and protect the electrical base from impact or liquid.",
+      },
+      {
+        heading: "Route the motor base as electrical equipment",
+        paragraphs: [
+          "A safe, clean blender with all essential parts may suit reuse or repair. A failed motor base contains wiring, a motor and electronic controls, so confirm that the chosen drop-off or collector accepts small electrical appliances. The jug material does not automatically belong in packaging recycling: heat-resistant glass and mixed plastic assemblies may follow different local routes.",
+          "Dubai Municipality lists household appliances and electronics within its bulky-waste service, subject to service-area conditions, while private transport should use an appropriate regulated route. Our [appliance removal service](https://dubaijunkcollection.com/services/appliance-removal) can combine a blender with a wider kitchen clearance in areas such as [Dubai Marina](https://dubaijunkcollection.com/service-areas/dubai-marina). Related guides cover [food-processor disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-food-processor-in-dubai), [air-fryer disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-air-fryer-in-dubai) and [electronics recycling locations](https://dubaijunkcollection.com/blog/where-to-recycle-electronics-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can a blender motor base go in the household bin?", answer: "It is better handled as a small electrical appliance because it contains a motor, wiring and controls. Confirm a community e-waste drop-off, Dubai Municipality eligibility or a private appliance collector. Do not place it in a chute, and keep it separate from liquid or food waste." },
+      { question: "Can I put a glass blender jug in a bottle-recycling bank?", answer: "Do not assume so. Blender jugs may use heat-resistant glass with a different composition from bottles, and they can retain metal blades, bearings or seals. Ask the receiving facility about the exact jug material; otherwise keep the sound jug with the appliance for reuse or parts." },
+      { question: "Should I remove the blade assembly before collection?", answer: "Only if the manual treats it as a user-removable part and you can contain it immediately. Many full-size jugs are intended to keep their blade assembly fitted. Never improvise with tools on a sealed bearing unit or leave a removed blade loose in a bag." },
+      { question: "What photos help quote blender and kitchen-appliance collection?", answer: "Send the assembled blender, its model label, the plug and cord, plus every jug, cup and lid. Show cracks, leaks or burnt areas and photograph the other appliances leaving. A complete view helps the crew plan safe packing and price the whole kitchen load once." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-a-food-processor-in-dubai", "how-to-dispose-of-an-air-fryer-in-dubai", "where-to-recycle-electronics-in-dubai"],
+    serviceLink: { href: "/services/appliance-removal", label: "Arrange small-appliance collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Dispose of household appliances and furniture" },
+      { href: "https://www.vitamix.com/media/catalog/product/file/A2500_Owners_Manual_2.pdf", label: "Vitamix — High-performance blender safety manual" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
     ],
   },
 ];

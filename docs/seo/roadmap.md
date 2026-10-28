@@ -584,6 +584,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B149 differs from B83 (dining sets), B122 (chests of drawers), B131 (TV stands) and B144 (coffee tables) through long dining-storage carcasses, detachable stone tops, internal glass shelves, door-and-drawer restraint and wall anti-tip hardware. B150 differs from B78 (microwaves), B104 (cookware), B119 (coffee machines) and B142 (air fryers) through sharp blade and disc containment, bowl interlocks, model-matched accessories and separation of a motor base from food-contact parts. B151 differs from B80 (desks), B83 (dining sets), B124 (cubicles) and B148 (whiteboards) through long modular tops, integrated floor-box power and data, recorded module order, proprietary frames and meeting-room reinstatement.
 
+### Track 47: Reception Joinery, Elevated Seating & Countertop Blending (Clusters 3, 4, 6 & 10)
+*Extends the sequence through three different preparation problems: releasing a fitted public-facing workstation without disturbing security systems, keeping adjustable-stool gas cylinders intact, and containing sharp blender components while separating the electrical motor base.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B152** | *How to Dispose of a Reception Desk in Dubai: Counters, Cables and Access* | `how to dispose of a reception desk in dubai` | `reception desk removal dubai`, `reception counter disposal dubai`, `office lobby clearance dubai` | Q | `/services/office-junk-removal` |
+| **B153** | *How to Dispose of Bar Stools in Dubai: Gas Lifts, Seats and Metal Bases* | `how to dispose of bar stools in dubai` | `bar stool disposal dubai`, `gas lift stool disposal dubai`, `kitchen stool removal dubai` | Q | `/services/furniture-removal` |
+| **B154** | *How to Dispose of a Blender in Dubai: Blades, Jugs and Motor Bases* | `how to dispose of a blender in dubai` | `blender recycling dubai`, `small kitchen appliance disposal dubai`, `kitchen e-waste dubai` | Q | `/services/appliance-removal` |
+
+**Overlap check (content-rules §16):** B152 differs from B80 (freestanding desks), B124 (cubicles) and B151 (conference tables) through landlord-versus-tenant fit-out ownership, public-lobby scheduling, security devices, transaction counters and floor-box reinstatement. B153 differs from B77/B121 (reclining and motorized seating) and B83 (dining sets) through counter-height geometry, footrests and sealed gas-lift columns. B154 differs from B150 (food processors), B119 (coffee machines) and B142 (air fryers) through a high-speed fixed or detachable blade assembly, glass or plastic jug compatibility, drive couplings and separation of the motor base.
+
 ---
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -629,3 +640,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 41. **Batch 41 (Articles B143–B145):** Workshop Tools, Living-Room Tables & Presentation Equipment — **100% Completed (3/3 Live)**.
 42. **Batch 42 (Articles B146–B148):** Heated Textiles, Tall Clocks & Office Writing Surfaces — **100% Completed (3/3 Live)**.
 43. **Batch 43 (Articles B149–B151):** Dining Storage, Food Preparation & Meeting Rooms — **100% Completed (3/3 Live)**.
+44. **Batch 44 (Articles B152–B154):** Reception Joinery, Elevated Seating & Countertop Blending — **100% Completed (3/3 Live)**.
