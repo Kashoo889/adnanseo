@@ -595,6 +595,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B152 differs from B80 (freestanding desks), B124 (cubicles) and B151 (conference tables) through landlord-versus-tenant fit-out ownership, public-lobby scheduling, security devices, transaction counters and floor-box reinstatement. B153 differs from B77/B121 (reclining and motorized seating) and B83 (dining sets) through counter-height geometry, footrests and sealed gas-lift columns. B154 differs from B150 (food processors), B119 (coffee machines) and B142 (air fryers) through a high-speed fixed or detachable blade assembly, glass or plastic jug compatibility, drive couplings and separation of the motor base.
 
+### Track 48: Entryway Tables, Water Heating & Presentation Furniture (Clusters 3, 4, 6 & 10)
+*Extends the daily sequence through three distinct preparation problems: releasing a long entryway table and its fragile top, drying a small water-heating appliance while keeping its matched powered base, and separating an AV system from a commercial lectern before tower removal.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B155** | *How to Dispose of a Console Table in Dubai: Tops, Anchors and Access* | `how to dispose of a console table in dubai` | `console table disposal dubai`, `entryway furniture removal dubai`, `stone top table collection dubai` | Q | `/services/furniture-removal` |
+| **B156** | *How to Dispose of an Electric Kettle in Dubai: Water, Bases and E-Waste* | `how to dispose of an electric kettle in dubai` | `electric kettle recycling dubai`, `small kitchen appliance disposal dubai`, `kitchen e-waste dubai` | Q | `/services/appliance-removal` |
+| **B157** | *How to Dispose of an Office Lectern in Dubai: AV, Cables and Access* | `how to dispose of an office lectern in dubai` | `office lectern disposal dubai`, `podium removal dubai`, `conference room clearance dubai` | Q | `/services/office-junk-removal` |
+
+**Overlap check (content-rules §16):** B155 differs from B100 (shoe racks), B122 (chests of drawers), B144 (coffee tables) and B149 (sideboards) through shallow entryway geometry, anti-tip restraints, long torsion-prone frames and removable stone or glass tops. B156 differs from B119 (coffee machines), B142 (air fryers), B150 (food processors) and B154 (blenders) through residual boiling water, thermostat and heating-element faults, mineral scale and a model-matched cordless power base. B157 differs from B145 (projectors), B148 (whiteboards), B151 (conference tables) and B152 (reception desks) through asset ownership across the cabinet and AV package, fused power distribution, microphones and control modules, floor-box connections and presentation-room scheduling.
+
 ---
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -641,3 +652,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 42. **Batch 42 (Articles B146–B148):** Heated Textiles, Tall Clocks & Office Writing Surfaces — **100% Completed (3/3 Live)**.
 43. **Batch 43 (Articles B149–B151):** Dining Storage, Food Preparation & Meeting Rooms — **100% Completed (3/3 Live)**.
 44. **Batch 44 (Articles B152–B154):** Reception Joinery, Elevated Seating & Countertop Blending — **100% Completed (3/3 Live)**.
+45. **Batch 45 (Articles B155–B157):** Entryway Tables, Water Heating & Presentation Furniture — **100% Completed (3/3 Live)**.

@@ -664,3 +664,11 @@
 | 394 | how to dispose of a reception desk in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-reception-desk-in-dubai`) |
 | 395 | how to dispose of bar stools in dubai | Q | Blog Article (`/blog/how-to-dispose-of-bar-stools-in-dubai`) |
 | 396 | how to dispose of a blender in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-blender-in-dubai`) |
+
+### New question-intent blog targets (Batch 45)
+
+| # | Keyword | Intent | Recommended Page |
+| :-: | :--- | :---: | :--- |
+| 397 | how to dispose of a console table in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-console-table-in-dubai`) |
+| 398 | how to dispose of an electric kettle in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-electric-kettle-in-dubai`) |
+| 399 | how to dispose of an office lectern in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-office-lectern-in-dubai`) |

@@ -274,6 +274,12 @@ import blogB153Cover from "@/assets/blog-b153-bar-stool-removal-cover.webp";
 import blogB153Body from "@/assets/blog-b153-bar-stool-parts-body.webp";
 import blogB154Cover from "@/assets/blog-b154-blender-disposal-cover.webp";
 import blogB154Body from "@/assets/blog-b154-blender-parts-body.webp";
+import blogB155Cover from "@/assets/blog-b155-console-table-removal-cover.webp";
+import blogB155Body from "@/assets/blog-b155-console-table-parts-body.webp";
+import blogB156Cover from "@/assets/blog-b156-electric-kettle-disposal-cover.webp";
+import blogB156Body from "@/assets/blog-b156-electric-kettle-parts-body.webp";
+import blogB157Cover from "@/assets/blog-b157-office-lectern-removal-cover.webp";
+import blogB157Body from "@/assets/blog-b157-office-lectern-parts-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -16960,6 +16966,204 @@ export const blogPosts: BlogPost[] = [
       { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Dispose of household appliances and furniture" },
       { href: "https://www.vitamix.com/media/catalog/product/file/A2500_Owners_Manual_2.pdf", label: "Vitamix — High-performance blender safety manual" },
       { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-console-table-in-dubai",
+    title: "How to Dispose of a Console Table in Dubai: Tops, Anchors and Access",
+    excerpt: "Empty the table, release anti-tip hardware correctly, protect removable stone or glass tops and measure the long frame before arranging reuse or collection.",
+    category: "Guides & Tips",
+    coverImage: blogB155Cover,
+    coverImageAlt: "Clearance worker checking the wall restraint on a wooden console table in a Dubai apartment foyer",
+    publishedAt: "2026-10-29",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Console Table Disposal", "Entryway Furniture", "Furniture Reuse", "Apartment Clearance"],
+    seoTitle: "How to Dispose of a Console Table in Dubai Safely",
+    seoDescription: "How to dispose of a console table in Dubai: empty drawers, release wall restraints, protect fragile tops, measure access and choose reuse or collection.",
+    keyTakeaways: [
+      "Empty every drawer and check behind the table for anti-tip straps, wall brackets, concealed cables and skirting cut-outs before moving it.",
+      "Treat a removable stone or glass top as a separate fragile item; support it upright in padding rather than carrying it flat by its edges.",
+      "Photograph the complete table, retain matched fittings and measure the protected frame against every doorway, turn and service-lift opening.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a console table in Dubai?",
+        paragraphs: [
+          "To dispose of a console table in Dubai, empty and photograph it, identify wall restraints and removable tops, then follow the maker's dismantling sequence. Pad fragile stone or glass separately, secure drawers, retain every fitting, measure the protected frame against the lift route, and choose reuse, repair or scheduled furniture collection according to condition.",
+          "A console is narrow, not necessarily easy. Long frames twist when lifted from one end, shallow drawers slide open on corners, and a stone top can outweigh the timber base beneath it. Entryway tables also tend to conceal anti-tip straps, router cables and wall marks that matter during a tenancy handover.",
+        ],
+      },
+      {
+        heading: "Check ownership, condition and hidden attachments first",
+        paragraphs: [
+          "Confirm the table belongs to you if it appears on a furnished tenancy inventory or was installed as part of a lobby fit-out. Remove lamps, mirrors and decorative objects, then empty drawers completely. Photograph the front, underside, back and any product label. Test drawers and joints on a level floor without leaning your weight on the top.",
+          "Look behind the frame before pulling. A safety strap may be fixed to masonry or plasterboard, and some custom consoles are scribed around skirting or screwed through a rear rail. IKEA's current safety guidance says furniture supplied with a restraint should use the appropriate fixing for the wall type. Release the furniture side methodically; do not wrench a bracket from the wall and leave a large damaged hole for the final inspection.",
+        ],
+      },
+      {
+        heading: "Separate fragile tops without weakening the frame",
+        paragraphs: [
+          "Determine whether the top is fixed, simply seated or bonded. Never pry glued stone or glass from timber. If the maker designed it to lift off, use enough handlers, keep fingers away from pinch points and place the panel upright in an A-frame with edge and face padding. Do not put a stone slab flat on a soft blanket where its own weight can stress an unsupported cut-out.",
+          "Remove drawers only if their runners have an obvious release. Tape closed any drawers that remain, wrap projecting handles and bag all shelf pins, brackets and screws with the table. A long metal or timber base should stay square; taking out random cross-braces can turn a rigid, reusable frame into a loose parallelogram.",
+        ],
+        callout: { type: "warning", title: "Do not guess how a stone top is attached", text: "An apparently loose slab may still be bonded or pinned. Forcing it can crack the top, tear veneer or make the base move suddenly. Send underside photos to the collector before attempting separation." },
+        image: blogB155Body,
+        imageAlt: "Console table frame and padded stone top prepared separately beside a Dubai apartment service lift",
+        imageCaption: "Support a removable stone top upright, keep the long base square and retain wall brackets and matched fittings.",
+      },
+      {
+        heading: "Measure the real route and choose the least-waste option",
+        paragraphs: [
+          "Measure the longest protected component, not the bare table. Check the apartment door, corridor turns, lift opening and cabin, basement height limit and loading distance. Book a service lift where management requires it, especially during a move-out. In hot weather, avoid leaving timber veneer, adhesive-backed stone or wrapped glass waiting in direct sun while the vehicle is brought around.",
+          "A stable console with its top, drawers and fittings is a strong reuse candidate. Damaged MDF, cracked stone or a twisted frame needs a collector who can sort the materials realistically. Our [furniture removal service](https://dubaijunkcollection.com/services/furniture-removal) can combine an entryway table with a wider clearance in communities such as [Downtown Dubai](https://dubaijunkcollection.com/service-areas/downtown-dubai). Related guides cover [sideboard removal](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-sideboard-in-dubai), [coffee-table disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-coffee-table-in-dubai) and [shoe-rack disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-shoe-rack-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can a console table go in an apartment bin room?", answer: "Only if building management has explicitly approved a bulky-item point and collection time. A long frame can block doors, firefighting access and waste carts even when it looks slim. Arrange reuse or collection first and move it to the designated location only when instructed." },
+      { question: "Should I remove the stone or glass top before collection?", answer: "Only when it was designed to be removable and the crew has the right padding and support. Send underside photographs before the visit. A bonded or pinned top should stay in place until an experienced handler decides how the complete table can travel safely." },
+      { question: "What should happen to the wall anchor?", answer: "Retain the furniture-side strap or bracket and its matching hardware for the next user. Whether you remove, fill or repaint the wall fixing depends on the wall construction and your landlord or building handover requirements; do not pull it out by levering against the furniture." },
+      { question: "What details help quote console-table removal?", answer: "Send overall dimensions, top material, approximate weight, underside and rear photos, plus any wall fixing, damage or loose drawers. Include the floor, doorway width, service-lift size, parking or loading instructions and every other item leaving in the same collection." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-a-sideboard-in-dubai", "how-to-dispose-of-a-coffee-table-in-dubai", "how-to-dispose-of-a-shoe-rack-in-dubai"],
+    serviceLink: { href: "/services/furniture-removal", label: "Arrange console-table collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Dispose of household appliances and furniture" },
+      { href: "https://www.ikea.com/gb/en/campaigns/secure-it-pub10077d91/", label: "IKEA — Furniture wall-restraint guidance" },
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality — Waste duty-of-care guideline" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-an-electric-kettle-in-dubai",
+    title: "How to Dispose of an Electric Kettle in Dubai: Water, Bases and E-Waste",
+    excerpt: "Unplug and cool the kettle, empty and dry it fully, retain its matching power base and route a failed unit as small electrical equipment.",
+    category: "Eco & Recycling",
+    coverImage: blogB156Cover,
+    coverImageAlt: "Worker inspecting an empty unplugged electric kettle and separate power base in a Dubai kitchen",
+    publishedAt: "2026-10-29",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Electric Kettle Disposal", "Kitchen E-Waste", "Small Appliance Recycling", "Kettle Reuse"],
+    seoTitle: "How to Dispose of an Electric Kettle in Dubai Safely",
+    seoDescription: "How to dispose of an electric kettle in Dubai: unplug, cool, empty and dry it, keep the matching base, assess reuse and use an e-waste route.",
+    keyTakeaways: [
+      "Unplug the kettle, let it cool, empty all water and dry the vessel and base before packing either part.",
+      "Keep a cordless kettle with its model-matched power base, lid and removable filter; similar-looking bases are not automatically interchangeable.",
+      "A failed kettle contains a heating element, wiring and controls, so use a confirmed small-appliance or e-waste route instead of a packaging-recycling bin.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an electric kettle in Dubai?",
+        paragraphs: [
+          "To dispose of an electric kettle in Dubai, switch it off, unplug it, let it cool, empty the water and dry every part. Keep the kettle with its matching power base, lid and filter, disclose leaks or electrical faults, then offer a safe working set for reuse or use a confirmed small-appliance e-waste collection route.",
+          "A kettle looks like a metal or plastic jug, but its base contains mains contacts and its body contains a heating element, thermostat and wiring. Residual water can leak across other electronics in a collection crate, while an unmatched cordless base makes an otherwise usable kettle difficult to test or pass on responsibly.",
+        ],
+      },
+      {
+        heading: "Cool, empty and inspect before deciding on reuse",
+        paragraphs: [
+          "Do not prepare a kettle immediately after boiling. Switch it off at the outlet, unplug it, let the vessel cool and pour out all water. Breville's current instructions likewise call for unplugging and cooling before parts are handled or cleaned. Wipe the exterior and let the open kettle air-dry away from its powered base.",
+          "Inspect the plug, cord, base contacts, handle, lid, spout and water window. Do not offer a unit that leaks, smells burnt, has heat damage, exposes wiring or fails to switch off reliably. Mineral scale is not automatically a fatal fault, but a recipient deserves an honest description and a clean appliance rather than a kettle concealing old water and loose deposits.",
+        ],
+      },
+      {
+        heading: "Keep model-matched parts together and do not strip the heater",
+        paragraphs: [
+          "A cordless kettle and its base are one appliance. Coil the lead loosely around the designed storage channel, if present, and secure the plug so it cannot scratch the vessel. Keep the removable filter and lid with the correct kettle. Never substitute another base because its centre connector looks similar; electrical rating, control and fit may differ.",
+          "Do not open the underside, cut off the cord or prise out the concealed heating plate for scrap. That creates sharp edges, exposes electrical parts and can destroy the information a recycler needs to identify the appliance. Pack a glass kettle upright with padding; keep a dry stainless or plastic kettle separate from loose cookware that could dent or crack it.",
+        ],
+        callout: { type: "warning", title: "Water and the power base stay apart", text: "Never immerse or rinse a powered base. If water has entered the base or the kettle has leaked through its electrical connection, stop testing it, disclose the fault and keep both parts unplugged and dry for collection." },
+        image: blogB156Body,
+        imageAlt: "Empty electric kettle, power base, lid and filter separated into dry trays for collection",
+        imageCaption: "Dry the appliance completely and keep every model-matched component together without opening the electrical housing.",
+      },
+      {
+        heading: "Choose reuse for a safe set or e-waste for a failed one",
+        paragraphs: [
+          "A clean kettle that heats, pours safely and switches off correctly may suit reuse. State its capacity, plug type, scale condition and any cosmetic damage. A failed unit belongs with small electrical appliances because it combines metal or plastic with a heating circuit and controls; the body should not go into a metal, bottle or packaging-only recycling container.",
+          "Dubai Municipality lists household appliances and electronics within its bulky-waste service, subject to its current eligibility and service-area conditions. For a small item, a confirmed community e-waste drop-off may be simpler. Our [appliance removal service](https://dubaijunkcollection.com/services/appliance-removal) can add kettles to a wider kitchen clearance in areas such as [Dubai Marina](https://dubaijunkcollection.com/service-areas/dubai-marina). Related guides cover [blender disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-blender-in-dubai), [food-processor disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-food-processor-in-dubai) and [electronics recycling locations](https://dubaijunkcollection.com/blog/where-to-recycle-electronics-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can an electric kettle go in the household bin?", answer: "Use a confirmed small-electrical or e-waste route instead. The kettle contains a heating element, thermostat, wiring and powered contacts even when most of the body is metal or plastic. Keep it out of a rubbish chute and do not place it in a packaging-recycling container." },
+      { question: "Can I recycle a stainless-steel kettle as scrap metal?", answer: "Not as an intact appliance unless the receiving recycler specifically accepts it. Stainless cladding surrounds electrical and plastic components, and home dismantling can expose sharp edges or live-part housings. Hand over the complete, dry kettle through an appliance route so the materials can be separated safely." },
+      { question: "Should I descale a kettle before donating it?", answer: "A light, manufacturer-approved clean makes a safe working kettle more acceptable, but do not conceal leaks, corrosion or electrical faults. Unplug it first, follow the model's care instructions, rinse as directed and let it dry completely. A dangerous kettle should be recycled, not cosmetically improved for donation." },
+      { question: "What should I send for a kettle collection quote?", answer: "For a wider appliance load, show the complete kettle and matching base, model label, plug, cord and any visible damage. List the other appliances, give the property access details and state whether anything contains water, a battery, refrigerant or sharp components that require separate packing." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-a-blender-in-dubai", "how-to-dispose-of-a-food-processor-in-dubai", "where-to-recycle-electronics-in-dubai"],
+    serviceLink: { href: "/services/appliance-removal", label: "Arrange kitchen-appliance collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Dispose of household appliances and furniture" },
+      { href: "https://assets.breville.com/Instruction-Booklets/USCM/BKE595_USCM_IB_E21_LR_low_resolution-rev-1.pdf", label: "Breville — Electric kettle safety and care instructions" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-an-office-lectern-in-dubai",
+    title: "How to Dispose of an Office Lectern in Dubai: AV, Cables and Access",
+    excerpt: "Confirm who owns the lectern and its AV equipment, isolate power and data, inventory modules and protect the cabinet before its service-lift slot.",
+    category: "Commercial & Office",
+    coverImage: blogB157Cover,
+    coverImageAlt: "Facilities worker inspecting the AV compartment of a wooden lectern in a Dubai conference room",
+    publishedAt: "2026-10-29",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Office Lectern Disposal", "AV Equipment", "Conference Room Clearance", "Office Furniture"],
+    seoTitle: "How to Dispose of an Office Lectern in Dubai Without AV Damage",
+    seoDescription: "How to dispose of an office lectern in Dubai: verify ownership, isolate AV and power, inventory modules, protect the cabinet and plan tower access.",
+    keyTakeaways: [
+      "Check the asset register and fit-out schedule because the timber cabinet, microphone, controls and installed AV may have different owners.",
+      "Have facilities or the AV contractor isolate power and data, then photograph and label every cable and module before anything is disconnected.",
+      "Keep reusable electronics protected and inventoried separately from the furniture carcass, and book the approved commercial-tower loading route in advance.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an office lectern in Dubai?",
+        paragraphs: [
+          "To dispose of an office lectern in Dubai, verify ownership of the cabinet and every AV component, have facilities isolate power and data, then photograph, label and inventory each connection. Remove only maker-approved modules, protect microphones and controls separately, measure the cabinet against the service-lift route, and arrange reuse or licensed commercial collection.",
+          "A plain wooden podium may be furniture; a modern lectern can be a compact equipment rack. Behind its access panel may sit a mixer, amplifier, control screen, power distribution unit, network cable and assisted-listening hardware. Treating all of that as one anonymous cabinet risks data, electrical safety and expensive leased equipment.",
+        ],
+      },
+      {
+        heading: "Separate ownership decisions before touching connections",
+        paragraphs: [
+          "Start with the company's asset register, room inventory and fit-out handover documents. The lectern shell may belong to the tenant while the microphone belongs to an events supplier and the control panel belongs to the landlord's meeting-room system. Photograph serial labels and ask IT, facilities and AV support to identify what must remain, return or transfer.",
+          "Check whether the cabinet is freestanding, bolted to a stage or connected through a floor box. A height-adjustable model may also contain a powered lift and pinch points. Do not roll or tilt it until anchors, concealed leads and levelling feet are understood. If the room is still operating, schedule disconnection after the final event and before the clearance crew's access window.",
+        ],
+      },
+      {
+        heading: "Isolate, map and protect the AV package",
+        paragraphs: [
+          "Facilities or the appointed AV contractor should shut down the system, isolate mains power and confirm which network and audio leads can be unplugged. Photograph both ends before labelling them. Legrand's lectern documentation shows that powered models may combine a fused AC inlet, power supply, mixer, amplifier, microphones and internal ribbon cables—useful evidence that the cabinet should not be treated as empty joinery.",
+          "Remove accessories only in the manufacturer's sequence. Place the gooseneck microphone, touch panel, reading light and loose shelves in fitted padding; cap delicate connectors and coil cables without tight bends. Keep an inventory against each crate. Never cut an unidentified cable flush with the floor or leave a removed control screen loose inside the cabinet for transport.",
+        ],
+        callout: { type: "warning", title: "A switched-off lectern may still be connected", text: "A dark screen does not prove the cabinet is isolated. Floor-box feeds, power distribution and network equipment can remain live or shared. Facilities or the AV contractor should release the system before the clearance crew moves it." },
+        image: blogB157Body,
+        imageAlt: "Lectern cabinet, microphone, AV control module and cables protected separately beside a Dubai office service lift",
+        imageCaption: "Inventory electronics separately from the cabinet, protect connectors and keep every labelled cable with the correct module.",
+      },
+      {
+        heading: "Plan the commercial route and the correct recovery stream",
+        paragraphs: [
+          "Measure the cabinet at its widest fixed point and include padding, base plates and handles. Confirm meeting-room doors, stage ramps, corridor turns, service-lift limits and loading-bay hours. Business Bay and DIFC towers commonly require contractor registration, security access and a reserved lift; a last-minute trolley through the public lobby is unlikely to be accepted.",
+          "A complete working lectern is easiest to reuse when its keys, shelves, microphone and cable map travel with it. Failed AV components should follow an electronics route, while the empty timber or metal cabinet follows office-furniture recovery. Our [office junk removal service](https://dubaijunkcollection.com/services/office-junk-removal) can coordinate the physical clearance in areas such as [Business Bay](https://dubaijunkcollection.com/service-areas/business-bay). Related guides cover [projector retirement](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-office-projector-in-dubai), [conference-table removal](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-conference-table-in-dubai) and [server-rack clearance](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-server-rack-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can a lectern be removed with its AV equipment still installed?", answer: "Only after the AV contractor has confirmed the equipment is isolated, owned by the client and safe to travel in place. Loose modules and microphones usually need separate padding. Heavy rack equipment can also change the cabinet's centre of gravity, so disclose the internal inventory before moving it." },
+      { question: "Who should disconnect a powered office lectern?", answer: "The organisation's facilities, IT or appointed AV contractor should identify and isolate mains, network, audio and control connections. A clearance crew can move a released cabinet and packed modules, but it should not open live floor boxes, cut unknown cables or decide which integrated system belongs to the landlord." },
+      { question: "Can an old lectern be donated to a school or community venue?", answer: "Yes, if it is stable, complete and honestly documented. The recipient needs dimensions, weight, keys, shelves, electrical rating and a list of working AV components. Remove corporate data and configuration credentials, and confirm that the recipient can install and test powered equipment safely." },
+      { question: "What information helps quote lectern removal?", answer: "Send front, rear and open-compartment photographs, dimensions, weight estimate, fixing method and an inventory of screens, microphones, rack units and cables. Include the office floor, stage steps, service-lift and loading-bay rules, approved work hours and whether an AV contractor will attend the disconnection." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-an-office-projector-in-dubai", "how-to-dispose-of-a-conference-table-in-dubai", "how-to-dispose-of-a-server-rack-in-dubai"],
+    serviceLink: { href: "/services/office-junk-removal", label: "Arrange lectern and meeting-room clearance" },
+    sources: [
+      { href: "https://www.dm.gov.ae/rasid/", label: "Dubai Municipality — RASID registered waste transport" },
+      { href: "https://www.legrandav.com/-/media/images/dalite/product/series/resources/lancaster_lectern/installation.pdf", label: "Legrand AV — Powered lectern wiring and instruction book" },
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality — Waste duty-of-care guideline" },
     ],
   },
 ];
