@@ -672,3 +672,11 @@
 | 397 | how to dispose of a console table in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-console-table-in-dubai`) |
 | 398 | how to dispose of an electric kettle in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-electric-kettle-in-dubai`) |
 | 399 | how to dispose of an office lectern in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-office-lectern-in-dubai`) |
+
+### New question-intent blog targets (Batch 46)
+
+| # | Keyword | Intent | Recommended Page |
+| :-: | :--- | :---: | :--- |
+| 400 | how to dispose of a storage ottoman in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-storage-ottoman-in-dubai`) |
+| 401 | how to dispose of a toaster in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-toaster-in-dubai`) |
+| 402 | how to dispose of office acoustic panels in dubai | Q | Blog Article (`/blog/how-to-dispose-of-office-acoustic-panels-in-dubai`) |
