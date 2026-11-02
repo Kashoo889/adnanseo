@@ -617,6 +617,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B158 differs from B77/B121 (reclining and motorized seating), B116 (bean bags), B128 (sofa beds) and general furniture guides through hidden storage, sprung or gas-assisted lid supports, hinge-line pinch risk and upholstery protection. B159 differs from B142 (air fryers), B150 (food processors), B154 (blenders) and B156 (kettles) through exposed heating slots, crumb-fire risk, removable crumb trays and the prohibition on metal tools inside the appliance. B160 differs from B124 (cubicles), B148 (whiteboards) and whole-office clearance guides through acoustic product and fire-record identification, clips-versus-adhesive release, substrate protection, layout inventories and the reuse limits created by bonded fit-out materials.
 
+### Track 50: Floor Textiles, Rice Cooking & Office Imaging (Clusters 2, 4, 5 & 6)
+*Continues the sequence with three items whose route is decided before lifting: checking rugs for moisture and contamination, cleaning food-contact parts without wetting a powered rice-cooker base, and resolving photocopier leases and stored business data before commercial collection.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B161** | *How to Dispose of Old Rugs in Dubai: Cleaning, Rolling and Responsible Collection* | `how to dispose of old rugs in dubai` | `rug disposal dubai`, `old carpet collection dubai`, `bulky household item removal dubai` | Q | `/services/household-junk-removal` |
+| **B162** | *How to Dispose of a Rice Cooker in Dubai: Food Residue, Removable Parts and E-Waste* | `how to dispose of a rice cooker in dubai` | `rice cooker recycling dubai`, `small kitchen appliance disposal dubai`, `kitchen e-waste dubai` | Q | `/services/appliance-removal` |
+| **B163** | *How to Dispose of an Office Photocopier in Dubai: Leases, Stored Data and Safe Removal* | `how to dispose of an office photocopier in dubai` | `photocopier disposal dubai`, `multifunction printer recycling dubai`, `office e-waste removal dubai` | Q | `/services/office-junk-removal` |
+
+**Overlap check (content-rules §16):** B161 differs from B57/B95 (clothing, curtains and blinds) and B99 (artificial turf) through two-sided condition inspection, embedded-object checks, contamination disclosure, pile-safe rolling and the mixed pile/backing/underlay recovery problem. B162 differs from B142 (air fryers), B150 (food processors), B154 (blenders), B156 (kettles) and B159 (toasters) through cooked-rice removal, condensation collectors, removable inner pans, lid and steam-vent components, and keeping the powered base dry. B163 differs from B81 (desktop printers), B90 (certified IT asset destruction) and B153 (paper shredders) through supplier lease ownership, multifunction-device storage and address books, meter records, toner and finishing modules, exceptional weight and documented service-lift transport.
+
 ---
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -665,3 +676,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 44. **Batch 44 (Articles B152–B154):** Reception Joinery, Elevated Seating & Countertop Blending — **100% Completed (3/3 Live)**.
 45. **Batch 45 (Articles B155–B157):** Entryway Tables, Water Heating & Presentation Furniture — **100% Completed (3/3 Live)**.
 46. **Batch 46 (Articles B158–B160):** Hidden Storage, Toasting Appliances & Acoustic Fit-Outs — **100% Completed (3/3 Live)**.
+47. **Batch 47 (Articles B161–B163):** Floor Textiles, Rice Cooking & Office Imaging — **100% Completed (3/3 Live)**.

@@ -680,3 +680,11 @@
 | 400 | how to dispose of a storage ottoman in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-storage-ottoman-in-dubai`) |
 | 401 | how to dispose of a toaster in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-toaster-in-dubai`) |
 | 402 | how to dispose of office acoustic panels in dubai | Q | Blog Article (`/blog/how-to-dispose-of-office-acoustic-panels-in-dubai`) |
+
+### New question-intent blog targets (Batch 47)
+
+| # | Keyword | Intent | Recommended Page |
+| :-: | :--- | :---: | :--- |
+| 403 | how to dispose of old rugs in dubai | Q | Blog Article (`/blog/how-to-dispose-of-old-rugs-in-dubai`) |
+| 404 | how to dispose of a rice cooker in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-rice-cooker-in-dubai`) |
+| 405 | how to dispose of an office photocopier in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-office-photocopier-in-dubai`) |

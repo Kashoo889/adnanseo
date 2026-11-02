@@ -286,6 +286,12 @@ import blogB159Cover from "@/assets/blog-b159-toaster-disposal-cover.webp";
 import blogB159Body from "@/assets/blog-b159-toaster-parts-body.webp";
 import blogB160Cover from "@/assets/blog-b160-acoustic-panel-removal-cover.webp";
 import blogB160Body from "@/assets/blog-b160-acoustic-panel-parts-body.webp";
+import blogB161Cover from "@/assets/blog-b161-rug-disposal-cover.webp";
+import blogB161Body from "@/assets/blog-b161-rug-preparation-body.webp";
+import blogB162Cover from "@/assets/blog-b162-rice-cooker-disposal-cover.webp";
+import blogB162Body from "@/assets/blog-b162-rice-cooker-parts-body.webp";
+import blogB163Cover from "@/assets/blog-b163-photocopier-removal-cover.webp";
+import blogB163Body from "@/assets/blog-b163-photocopier-preparation-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -17368,6 +17374,206 @@ export const blogPosts: BlogPost[] = [
       { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality — Waste duty-of-care guideline" },
       { href: "https://www.autexacoustics.com/product/cube/", label: "Autex Acoustics — PET acoustic panel materials and installation methods" },
       { href: "https://www.autexacoustics.com/product/spinfix/", label: "Autex Acoustics — Adhesive-free panel mounting and disassembly" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-old-rugs-in-dubai",
+    title: "How to Dispose of Old Rugs in Dubai: Cleaning, Rolling and Responsible Collection",
+    excerpt: "Check ownership and condition, remove hidden objects, keep the rug dry, roll and strap it safely, then confirm reuse or a bulky-waste route before moving it.",
+    category: "Eco & Recycling",
+    coverImage: blogB161Cover,
+    coverImageAlt: "Clearance workers rolling and strapping an old area rug inside a Dubai apartment",
+    publishedAt: "2026-11-02",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Rug Disposal", "Carpet Reuse", "Apartment Clearance", "Bulky Waste"],
+    seoTitle: "How to Dispose of Old Rugs in Dubai Responsibly",
+    seoDescription: "How to dispose of old rugs in Dubai: assess condition, keep them dry, remove loose padding, roll and strap safely, then confirm reuse or bulky collection.",
+    keyTakeaways: [
+      "Confirm the rug belongs to you and check both faces for moisture, pests, sharp objects and structural damage before offering it for reuse.",
+      "Vacuum a reusable rug, let it dry fully, roll it pile-side inward and secure it with broad straps rather than adhesive tape on the fibres.",
+      "Keep a rolled rug inside the property until a receiver or collection is confirmed; do not block corridors, lift lobbies, bin rooms or fire routes.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of old rugs in Dubai?",
+        paragraphs: [
+          "To dispose of old rugs in Dubai, confirm ownership, inspect both sides and remove hidden objects. Vacuum a reusable rug, let it dry fully, roll it pile-side inward and secure it with broad straps. Disclose stains or pest damage, then arrange confirmed reuse, specialist recovery or an approved bulky-waste collection.",
+          "A rug may look like one soft item, but its wool or synthetic pile, latex backing, adhesive residue and separate underlay can require different decisions. Dust trapped deep in the weave also spreads quickly in a lift. Condition and construction should decide the route before the rug leaves the room.",
+        ],
+      },
+      {
+        heading: "Check ownership, condition and what is underneath",
+        paragraphs: [
+          "In a furnished rental, compare the rug with the move-in inventory before removing it. Lift one corner at a time and check beneath for keys, jewellery, coins, floor protectors and sharp fragments. Photograph staining, frayed edges, pet damage, mould or crumbling backing in honest daylight so a recipient or collector understands the condition.",
+          "A clean, dry rug with sound edges may suit reuse when the size, fibre and defects are described accurately. A rug with active pests, strong contamination, persistent damp or a failing powdery backing should not be passed to another household. Keep separate underlay, grippers and adhesive-covered pieces identified rather than presenting everything as recyclable textile.",
+        ],
+        callout: { type: "warning", title: "Do not roll moisture into the rug", text: "A damp rug can develop odour and microbial growth while tightly wrapped. Dry it fully in a ventilated space and tell the collector about any leak, flood, pet contamination or pest treatment before collection." },
+      },
+      {
+        heading: "Prepare a manageable roll without damaging fibres or floors",
+        paragraphs: [
+          "Vacuum both sides if the rug is dry and safe to handle, using the care method appropriate to its fibre. Remove loose rug pads and roll them separately. Roll the main rug evenly, usually with the pile protected inward, then use two or more broad reusable straps. Avoid adhesive tape on wool, fringe or finished edges because residue can reduce reuse value.",
+          "Measure the finished roll, not only the rug laid flat. A thick hand-knotted rug can become too wide for a tight apartment turn, and dense pile makes the roll heavier than it looks. Use a padded trolley, protect corners and reserve the service lift required by building management. Never stand a long roll across an occupied corridor or fire door.",
+        ],
+        image: blogB161Body,
+        imageAlt: "Rolled patterned rug and separate underlay secured on a padded trolley in a Dubai service corridor",
+        imageCaption: "Roll the dry rug and underlay separately, use broad straps and keep the booked service route clear.",
+      },
+      {
+        heading: "Match the rug to a confirmed reuse or collection route",
+        paragraphs: [
+          "Ask a charity, buyer or reuse group to approve photographs and dimensions before transport; acceptance varies with condition and current need. Carpet and rug products combine fibres, backing and binders, so material recovery is not automatic. The US EPA notes that carpet's bulk and mixed construction create collection and recycling challenges. Confirm a local receiver rather than labelling a load recyclable by assumption.",
+          "Dubai Municipality lists household furniture and electronics in its bulky-waste service, with eligibility and location conditions, while many developer-managed communities use their own arrangements. Our [household junk removal service](https://dubaijunkcollection.com/services/household-junk-removal) can combine rugs with a planned clear-out in [Downtown Dubai](https://dubaijunkcollection.com/service-areas/downtown-dubai). Related guides cover [curtains and blinds](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-curtains-in-dubai), [artificial balcony turf](https://dubaijunkcollection.com/blog/how-to-dispose-of-artificial-grass-in-dubai) and [unwanted household items](https://dubaijunkcollection.com/blog/what-to-do-with-unwanted-household-items-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can I donate an old rug in Dubai?", answer: "Possibly, if it is clean, dry, structurally sound and accepted in advance. Send clear photos of both faces, exact dimensions, fibre information and every stain or repair. Do not deliver without confirmation, and do not offer a rug with pests, mould, strong odour or unsafe fraying." },
+      { question: "Can a rolled rug go down an apartment rubbish chute?", answer: "No. Even a small rolled rug can jam a chute, damage equipment or create a fire-route obstruction at the intake. Keep it inside the apartment until a booked collection, then use the approved service lift and handover point specified by building management." },
+      { question: "Should rug underlay be rolled with the rug?", answer: "Keep it separate. Underlay may be foam, felt, rubber or a crumbly composite, and contamination or adhesive can change its route. Separate rolls also make the load easier to carry and let a reuse recipient inspect the rug without inheriting an unsuitable pad." },
+      { question: "What photos help quote rug collection?", answer: "Show the rug laid out, both faces, the fringe and any damage, then include a tape measure across its length and width. Add the finished roll if already prepared, plus stairs, corridor turns, service-lift access and every other item in the collection." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-old-curtains-in-dubai", "how-to-dispose-of-artificial-grass-in-dubai", "what-to-do-with-unwanted-household-items-dubai"],
+    serviceLink: { href: "/services/household-junk-removal", label: "Arrange rug and household-item collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Dispose of household appliances and furniture" },
+      { href: "https://www.epa.gov/greenerproducts/identifying-greener-carpet", label: "US EPA — Carpet reuse and end-of-life considerations" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-rice-cooker-in-dubai",
+    title: "How to Dispose of a Rice Cooker in Dubai: Food Residue, Removable Parts and E-Waste",
+    excerpt: "Unplug and cool the rice cooker, remove food and condensation, clean and dry its detachable parts, keep the matched cord, then choose safe reuse or e-waste.",
+    category: "Eco & Recycling",
+    coverImage: blogB162Cover,
+    coverImageAlt: "Worker checking an unplugged rice cooker and removable inner pot in a Dubai kitchen",
+    publishedAt: "2026-11-02",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Rice Cooker Disposal", "Kitchen E-Waste", "Small Appliances", "Appliance Recycling"],
+    seoTitle: "How to Dispose of a Rice Cooker in Dubai Safely",
+    seoDescription: "How to dispose of a rice cooker in Dubai: unplug and cool it, remove food, clean and dry detachable parts, retain its cord and choose reuse or e-waste.",
+    keyTakeaways: [
+      "Switch off, unplug and cool the appliance completely before removing rice, condensation or washable model-specific parts.",
+      "Keep the inner pan, lid assembly, steam cap, measuring cup and detachable cord together, but never immerse or open the powered main body.",
+      "Offer reuse only when the cooker is clean, complete and electrically safe; disclose faults and route a failed unit through confirmed small-appliance e-waste.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a rice cooker in Dubai?",
+        paragraphs: [
+          "To dispose of a rice cooker in Dubai, switch it off, unplug it and let it cool. Remove rice and condensation, wash only the model-approved detachable parts, dry everything fully and keep the matched cord and inner pot together. Offer a clean safe unit for reuse or use a confirmed small-appliance e-waste route.",
+          "The powered base is not ordinary kitchenware. It contains a heating plate, thermostat, wiring and controls, while some electronic models also retain clock or menu settings. Food left beneath the inner pan can attract pests during storage, but washing the main body can damage insulation and turn a simple clearance into an electrical hazard.",
+        ],
+      },
+      {
+        heading: "Cool the cooker and remove food before it travels",
+        paragraphs: [
+          "Cancel the cooking or keep-warm cycle, unplug at the wall and wait until the body, lid and inner pan are fully cool. Empty cooked rice into the appropriate food-waste route rather than rinsing it into the sink. Wipe condensation from the collector and accessible surfaces, following the exact manual because lid, seal and steam-vent designs differ.",
+          "Zojirushi's rice-cooker instructions say to unplug the power cord and allow the main body and inner pan to cool before cleaning. They also distinguish washable removable pieces from the powered housing. That is the useful disposal principle: remove residue and moisture without immersing the base, probing the heater or taking apart electrical components at home.",
+        ],
+      },
+      {
+        heading: "Keep model-matched parts together and record faults honestly",
+        paragraphs: [
+          "Clean and dry the inner pan, inner lid, steam cap, condensation cup, paddle and measuring cup only as the manufacturer allows. Reassemble dry pieces or pack delicate non-stick parts separately so they do not scrape. Coil a detachable cord loosely and label it to the cooker. Do not substitute a similar-looking cable or leave it loose inside the cooking chamber.",
+          "Inspect the plug, cord, lid latch, seal, heating plate and control panel without opening the case. Stop using a cooker with a frayed lead, scorch marks, cracked housing, persistent error, leaking lid or damaged non-stick coating. Photograph the model label and fault. A recipient needs a truthful condition record, not a quick demonstration with water or food before collection.",
+        ],
+        callout: { type: "warning", title: "Keep the powered base dry and closed", text: "Cleaning removable food-contact parts is useful; immersing the main body or opening its electrical housing is not. If liquid entered the base or the cooker overheated, unplug it, disclose the fault and arrange repair assessment or e-waste." },
+        image: blogB162Body,
+        imageAlt: "Dry rice cooker body, inner pan, lid parts, paddle and power cord arranged for collection",
+        imageCaption: "Dry every approved removable part and keep the complete model-matched set together without opening the powered base.",
+      },
+      {
+        heading: "Choose reuse for a safe complete cooker and e-waste for a failed one",
+        paragraphs: [
+          "A clean cooker that heats, switches modes and latches normally may suit reuse when its capacity, voltage, accessories and cosmetic wear are described accurately. Do not pass on an appliance with an intermittent cord, heat damage or unresolved error. For a failed cooker, keep metal and plastic assemblies intact for a receiver that accepts small electrical appliances rather than stripping it for scrap.",
+          "Dubai Municipality includes used electrical and electronic appliances in its bulky-waste service, subject to its current eligibility and area conditions; a confirmed e-waste drop-off may be more practical for one countertop appliance. Our [appliance removal service](https://dubaijunkcollection.com/services/appliance-removal) can combine it with a wider kitchen clear-out in [Dubai Marina](https://dubaijunkcollection.com/service-areas/dubai-marina). Related guides cover [food processors](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-food-processor-in-dubai), [electric kettles](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-electric-kettle-in-dubai) and [electronics recycling locations](https://dubaijunkcollection.com/blog/where-to-recycle-electronics-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can a rice cooker go in the household bin?", answer: "Use a confirmed small-appliance or e-waste route instead. The powered base contains electrical controls, wiring and a heating assembly joined to mixed materials. Remove food, keep it dry and complete, and confirm acceptance rather than placing it in a rubbish chute or packaging-recycling bin." },
+      { question: "Should I include the inner pot when recycling a rice cooker?", answer: "Yes, keep the complete appliance together unless the receiver specifically instructs otherwise. The model-matched inner pan, lid parts and cord help with reuse or identification. Clean and dry them first, and disclose a scratched coating, warped pan or missing accessory." },
+      { question: "Can I wash the rice cooker before collection?", answer: "Wash only removable parts permitted by the manual. Wipe the main body with the recommended method and keep the plug and powered housing dry. Let every piece dry fully before packing; trapped food or condensation creates odour and can damage the appliance during storage." },
+      { question: "What details help quote a kitchen-appliance collection?", answer: "Send a photo of the whole cooker, model label, plug and cord, removable parts and any damage. State whether it is clean, whether it powers on safely, and what else is being collected. A wider load is usually more efficient than a dedicated trip for one small appliance." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-a-food-processor-in-dubai", "how-to-dispose-of-an-electric-kettle-in-dubai", "where-to-recycle-electronics-in-dubai"],
+    serviceLink: { href: "/services/appliance-removal", label: "Arrange kitchen-appliance collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Dispose of household appliances and furniture" },
+      { href: "https://www.zojirushi.com/servicesupport/manuals/manual_pdf/ns_lhc05_e.pdf", label: "Zojirushi — Rice cooker cleaning and safety instructions" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-an-office-photocopier-in-dubai",
+    title: "How to Dispose of an Office Photocopier in Dubai: Leases, Stored Data and Safe Removal",
+    excerpt: "Confirm ownership and lease terms, have IT sanitize stored data, remove consumables through approved channels, record accessories and plan an upright service-lift route.",
+    category: "Commercial & Office",
+    coverImage: blogB163Cover,
+    coverImageAlt: "Facilities and IT staff auditing a floor-standing office photocopier in a Dubai business tower",
+    publishedAt: "2026-11-02",
+    readingTime: "9 min read",
+    author: defaultAuthor,
+    tags: ["Photocopier Disposal", "Office E-Waste", "Data Security", "Commercial Clearance"],
+    seoTitle: "How to Dispose of an Office Photocopier in Dubai",
+    seoDescription: "How to dispose of an office photocopier in Dubai: verify the lease, sanitize storage, separate consumables, inventory modules and plan safe collection.",
+    keyTakeaways: [
+      "Check the lease, asset register and maintenance agreement before moving the machine; many office copiers must be returned to their supplier.",
+      "IT or the authorized service provider should export needed settings, erase supported storage and document the sanitization before network disconnection.",
+      "Keep the copier upright, lock or remove transport-sensitive modules as the manual directs, and use a rated equipment dolly plus a reserved service-lift route.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an office photocopier in Dubai?",
+        paragraphs: [
+          "To dispose of an office photocopier in Dubai, verify ownership and lease-return terms, then have IT or the supplier export required settings and sanitize supported storage. Remove toner and accessories as directed, inventory every module, disconnect the released machine, and arrange upright transport through a booked service lift to an approved reuse or e-waste route.",
+          "A floor-standing multifunction device is a networked information asset as well as a heavy machine. It may store address books, scan destinations, credentials, job images and configuration data. It can also belong to a leasing company and contain supplier-managed meters or consumables. Clearance should begin with records, not a trolley.",
+        ],
+      },
+      {
+        heading: "Resolve the lease, records and data before unplugging anything",
+        paragraphs: [
+          "Check the asset register, serial number, lease, maintenance contract and consumables agreement. Ask the supplier whether it will collect the base unit, finisher, paper decks and unused toner. Record meter readings and condition photographs. Do not remove a leased machine, supplier property or finance-tagged accessory simply because the office is being handed back.",
+          "The organization's IT administrator or authorized service provider should back up anything required, remove address books and credentials, and run the exact model's supported sanitization process. Ricoh explains that multifunction devices may store documents, address books, authentication data, logs and network settings, and advises users to remove information assets when a device is returned, resold or disposed of.",
+          "Disconnect print queues, scan-to-email accounts, fax lines, card readers and network management only after the erase process and evidence are complete. A factory reset is not automatically the same as verified media sanitization. Record the method, result, serial number and responsible person according to the organization's information-security policy.",
+        ],
+        callout: { type: "warning", title: "Do not let the move interrupt a data erase", text: "Some model-specific overwrite processes must finish without power loss. IT or the authorized service provider should complete and document sanitization before facilities isolates the machine or the clearance crew arrives." },
+      },
+      {
+        heading: "Prepare consumables, modules and the transport path",
+        paragraphs: [
+          "Follow the supplier or service manual for toner, waste-toner bottles, drums and ink. Do not open cartridges, vacuum spilled toner with an ordinary vacuum or mix consumables into general office waste. Seal released items in compatible packaging and use the supplier's take-back or another confirmed route. Remove loose paper, confidential originals and personal items from every tray and pocket.",
+          "Inventory the automatic document feeder, finisher, punch unit, saddle stitcher, extra paper decks, card reader, cables and keys. Lock or remove transport-sensitive parts only as the maker directs. Measure the machine at its widest fixed point, confirm its weight and centre of gravity, then check door thresholds, corridor turns, lift capacity and loading-bay height.",
+          "Keep the machine upright on a rated equipment dolly and use the manufacturer's lifting or wheel-release points. Protect floors and corners, reserve the service lift, register workers with security and schedule the route outside busy office circulation. Do not drag the copier by its feeder, screen, output tray or finishing module.",
+        ],
+        image: blogB163Body,
+        imageAlt: "Office photocopier secured upright on an equipment dolly beside sealed accessory crates at a Dubai service lift",
+        imageCaption: "Move only a released and sanitized copier, upright on rated equipment, with consumables and accessories separately controlled.",
+      },
+      {
+        heading: "Use supplier return, verified reuse or approved commercial e-waste",
+        paragraphs: [
+          "Supplier return is usually the first route for a leased device. An owned machine may suit verified resale or donation if it is functional, supported and fully sanitized, with its accessories and service history disclosed. A failed or unsupported unit needs an e-waste receiver capable of handling the complete device and issuing the records required by the business.",
+          "Dubai Municipality's waste duty-of-care guidance places responsibility on waste holders to use appropriate collection and disposal arrangements. Our [office junk removal service](https://dubaijunkcollection.com/services/office-junk-removal) can coordinate a released machine with a broader clearance in [Business Bay](https://dubaijunkcollection.com/service-areas/business-bay). Related guides cover [printer data and toner](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-printer-dubai), [data-safe electronics disposal](https://dubaijunkcollection.com/blog/data-safe-electronics-disposal-dubai) and [office relocation clearance](https://dubaijunkcollection.com/blog/office-relocation-junk-removal-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can an office photocopier store confidential data?", answer: "Yes. Depending on the model and configuration, storage may contain job images, documents, address books, authentication details, logs and network settings. IT or the authorized service provider should identify the storage, use the supported sanitization method and retain evidence before the machine changes control." },
+      { question: "Can a leased copier be recycled by the tenant?", answer: "Usually not without the owner's written direction. Check the lease and maintenance contract first; the supplier may require return using its own team and packaging. Record the serial number, meter and accessories, then obtain closure so the business is not charged for missing or damaged equipment." },
+      { question: "Should toner be removed before copier collection?", answer: "Follow the exact transport instructions from the supplier or manufacturer. Some cartridges or waste-toner containers need removal and sealing, while other modules have transport locks. Never open or empty toner into a bin. Keep every consumable in its approved take-back or specialist-waste route." },
+      { question: "What information is needed to quote photocopier removal?", answer: "Provide the make and model, dimensions, estimated weight, ownership status, module list, floor, service-lift and loading-bay details. Confirm that IT sanitization and supplier release will be complete. Include photos of thresholds, stairs and all accessories, but never photograph confidential screens or documents." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-old-printer-dubai", "data-safe-electronics-disposal-dubai", "office-relocation-junk-removal-dubai"],
+    serviceLink: { href: "/services/office-junk-removal", label: "Arrange released office-equipment clearance" },
+    sources: [
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality — Waste duty-of-care guideline" },
+      { href: "https://www.ricoh.com/products/security/mfp/functions", label: "Ricoh — Multifunction printer storage and security functions" },
+      { href: "https://www.ricoh.com/products/security/mfp/threats-and-countermeasures/best-practice", label: "Ricoh — Secure replacement and removal of multifunction devices" },
     ],
   },
 ];
