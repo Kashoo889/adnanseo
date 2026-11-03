@@ -688,3 +688,11 @@
 | 403 | how to dispose of old rugs in dubai | Q | Blog Article (`/blog/how-to-dispose-of-old-rugs-in-dubai`) |
 | 404 | how to dispose of a rice cooker in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-rice-cooker-in-dubai`) |
 | 405 | how to dispose of an office photocopier in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-office-photocopier-in-dubai`) |
+
+### New question-intent blog targets (Batch 48)
+
+| # | Keyword | Intent | Recommended Page |
+| :-: | :--- | :---: | :--- |
+| 406 | how to dispose of a display cabinet in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-display-cabinet-in-dubai`) |
+| 407 | how to dispose of a steam iron in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-steam-iron-in-dubai`) |
+| 408 | how to dispose of an office laminator in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-office-laminator-in-dubai`) |

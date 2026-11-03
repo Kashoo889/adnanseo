@@ -292,6 +292,12 @@ import blogB162Cover from "@/assets/blog-b162-rice-cooker-disposal-cover.webp";
 import blogB162Body from "@/assets/blog-b162-rice-cooker-parts-body.webp";
 import blogB163Cover from "@/assets/blog-b163-photocopier-removal-cover.webp";
 import blogB163Body from "@/assets/blog-b163-photocopier-preparation-body.webp";
+import blogB164Cover from "@/assets/blog-b164-display-cabinet-removal-cover.webp";
+import blogB164Body from "@/assets/blog-b164-display-cabinet-glass-body.webp";
+import blogB165Cover from "@/assets/blog-b165-steam-iron-disposal-cover.webp";
+import blogB165Body from "@/assets/blog-b165-steam-iron-components-body.webp";
+import blogB166Cover from "@/assets/blog-b166-office-laminator-cover.webp";
+import blogB166Body from "@/assets/blog-b166-office-laminator-packing-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -17574,6 +17580,207 @@ export const blogPosts: BlogPost[] = [
       { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality — Waste duty-of-care guideline" },
       { href: "https://www.ricoh.com/products/security/mfp/functions", label: "Ricoh — Multifunction printer storage and security functions" },
       { href: "https://www.ricoh.com/products/security/mfp/threats-and-countermeasures/best-practice", label: "Ricoh — Secure replacement and removal of multifunction devices" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-display-cabinet-in-dubai",
+    title: "How to Dispose of a Display Cabinet in Dubai: Glass, Anchors and Safe Removal",
+    excerpt: "Empty and inventory the cabinet, isolate any lighting, remove and wrap loose glass, release wall anchors safely, then plan an upright route to confirmed reuse or bulky collection.",
+    category: "Guides & Tips",
+    coverImage: blogB164Cover,
+    coverImageAlt: "Clearance crew stabilizing an emptied glass display cabinet in a Dubai apartment",
+    publishedAt: "2026-11-03",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Display Cabinet Disposal", "Glass Furniture", "Furniture Removal", "Apartment Clearance"],
+    seoTitle: "How to Dispose of a Display Cabinet in Dubai Safely",
+    seoDescription: "How to dispose of a display cabinet in Dubai: empty it, isolate lighting, wrap loose glass, release wall anchors and plan safe reuse or collection.",
+    keyTakeaways: [
+      "Confirm ownership, empty every compartment and photograph the complete cabinet before removing glass, fittings or integrated lighting.",
+      "Wrap removable glass shelves individually with rigid edge protection, label their positions and keep shelf pins and keys in a sealed parts bag.",
+      "Release wall restraints only when the cabinet is supported, then measure the fixed carcass and book the approved service-lift and loading route.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a display cabinet in Dubai?",
+        paragraphs: [
+          "To dispose of a display cabinet in Dubai, confirm ownership, empty and photograph it, then isolate any lighting. Support the cabinet before releasing wall anchors, remove and wrap loose glass separately, secure doors and fittings, measure the fixed carcass, and arrange confirmed reuse or an approved bulky-furniture collection through the building's service route.",
+          "A display cabinet combines a tall frame with fragile panels, small shelf supports and sometimes mains-powered lighting. Moving it as one loaded piece risks a shelf slipping onto a glass door or the carcass twisting in a corridor turn. The safe sequence is inventory, isolation, component control and only then transport.",
+        ],
+      },
+      {
+        heading: "Clear the cabinet and identify what is fixed",
+        paragraphs: [
+          "In a furnished rental, compare the cabinet with the tenancy inventory and obtain the owner's direction before dismantling it. Remove ornaments, documents and drawer contents, then inspect the top, back and plinth for anti-tip straps, wall brackets, joined units, concealed screws and cables. Photograph the assembled cabinet and each connection before work starts.",
+          "Switch off integrated lighting at its normal control, unplug a plug-in lead and keep the transformer with the cabinet. Fixed wiring should be isolated and released by an appropriately qualified person under the fit-out or landlord plan. Do not cut a cable, pull a cabinet away while it remains anchored or assume a narrow display unit is stable once its doors open.",
+          "IKEA's furniture guidance says products identified for wall attachment should remain secured with suitable hardware for the wall type. For removal, support the unit first and retain its brackets and product-specific fittings; the restraint should not be treated as an inconvenient screw to tear from the wall.",
+        ],
+        callout: { type: "warning", title: "Support the cabinet before releasing its restraint", text: "Wall anchors may be the only thing preventing a tall, front-heavy cabinet from tipping. Keep doors closed, have the carcass controlled and let the responsible contractor release fixings without damaging hidden services or landlord finishes." },
+      },
+      {
+        heading: "Remove glass and pack every small fitting",
+        paragraphs: [
+          "Check the maker's instructions before lifting shelves or doors. Remove only components designed to come out, using two hands and cut-resistant handling where appropriate. Wrap each glass shelf separately with a soft layer, rigid edge protection and an outer blanket. Never stack bare glass, tape directly onto its faces or carry shelves loose inside the cabinet.",
+          "Label shelf order without writing on the glass. Bag shelf pins, keys, magnetic catches, lighting transformers and approved wall hardware, then attach the closed bag to a protected timber section. Secure remaining doors with a broad furniture strap that cannot press a point load into glass. Drawers should travel empty and restrained or separately wrapped.",
+        ],
+        image: blogB164Body,
+        imageAlt: "Wrapped glass cabinet shelves with edge protectors on a padded trolley beside a service lift",
+        imageCaption: "Wrap removable glass one piece at a time and keep shelf pins, keys and anchor hardware together for reuse.",
+      },
+      {
+        heading: "Choose reuse first, then a confirmed furniture route",
+        paragraphs: [
+          "A complete cabinet has the best reuse chance when buyers or charities receive honest photos, external dimensions, shelf count, lighting details and every defect before collection. Chips on glass edges, loose hinges, swollen board or missing pins should be disclosed. Do not leave the unit in a lobby while waiting for an unconfirmed recipient.",
+          "If reuse is unsuitable, confirm the receiver accepts mixed furniture with glass rather than breaking it at home. Dubai Municipality lists a bulky household furniture and appliance service with eligibility and location conditions; developer-managed areas may use separate arrangements. Our [furniture removal service](https://dubaijunkcollection.com/services/furniture-removal) can coordinate a protected collection in [Downtown Dubai](https://dubaijunkcollection.com/service-areas/downtown-dubai). Related guides cover [sideboards](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-sideboard-in-dubai), [TV stands](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-tv-stand-in-dubai) and [large mirrors and glass](https://dubaijunkcollection.com/blog/how-to-dispose-of-large-mirror-glass-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can a glass display cabinet be donated in Dubai?", answer: "Possibly, when it is stable, clean, complete and accepted from photographs before transport. Provide exact dimensions, shelf count, lighting details and close-ups of chips or loose fittings. Keep keys, shelf pins and brackets with it; an incomplete glass cabinet is difficult for a recipient to move and use safely." },
+      { question: "Should glass shelves stay inside the cabinet during collection?", answer: "Usually no. Removable shelves can slide, strike a door or load the carcass unevenly when it tilts over thresholds. Follow the maker's instructions, wrap each removable shelf separately and label its position. Fixed glass should remain supported and protected rather than being forced from its frame." },
+      { question: "Who removes a cabinet wired into the wall?", answer: "The landlord's or fit-out contractor's approved electrician should isolate and release fixed electrical work. A clearance crew can handle the cabinet after written release, but should not cut concealed cables or discover a circuit by pulling the unit forward. Retain the driver, transformer and lighting parts with the cabinet." },
+      { question: "What photos help quote display-cabinet removal?", answer: "Show the full cabinet with doors closed, its top and base, internal shelves, rear or wall restraints, lighting connection and any damage. Add measurements, the corridor route, lift entrance, stairs and loading point. State whether glass is removable and whether building management has approved the collection window." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-a-sideboard-in-dubai", "how-to-dispose-of-a-tv-stand-in-dubai", "how-to-dispose-of-large-mirror-glass-dubai"],
+    serviceLink: { href: "/services/furniture-removal", label: "Arrange protected cabinet collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Dispose of household appliances and furniture" },
+      { href: "https://www.ikea.com/au/en/customer-service/knowledge/articles/76cecb53-690e-4f9d-g06b-31d6c5fcb640.html", label: "IKEA — Furniture wall-attachment guidance" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-steam-iron-in-dubai",
+    title: "How to Dispose of a Steam Iron in Dubai: Water, Heat and E-Waste",
+    excerpt: "Unplug and cool the iron fully, empty its water tank as the manual directs, secure the cord, disclose electrical faults, and choose verified reuse or small-appliance e-waste.",
+    category: "Eco & Recycling",
+    coverImage: blogB165Cover,
+    coverImageAlt: "Worker inspecting the plug of a cooled unplugged steam iron in a Dubai laundry room",
+    publishedAt: "2026-11-03",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Steam Iron Disposal", "Small Appliance Recycling", "E-Waste", "Laundry Appliances"],
+    seoTitle: "How to Dispose of a Steam Iron in Dubai Safely",
+    seoDescription: "How to dispose of a steam iron in Dubai: unplug and cool it, empty the tank, secure its cord, disclose faults and use verified reuse or e-waste.",
+    keyTakeaways: [
+      "Unplug the iron, place it on a stable heat-resistant surface and allow the soleplate and retained water to cool completely.",
+      "Empty the tank using the model instructions, keep a steam-generator iron locked to its matched base and never open the electrical housing.",
+      "Reuse is only appropriate for a clean, complete and electrically safe iron; leaking, scorched or damaged units need a confirmed e-waste route.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a steam iron in Dubai?",
+        paragraphs: [
+          "To dispose of a steam iron in Dubai, switch it off, unplug it and let the soleplate cool completely on a safe surface. Empty the water tank according to its manual, dry accessible parts, secure the cord without tight bends, disclose leaks or electrical faults, and arrange verified reuse or a confirmed small-appliance e-waste route.",
+          "An iron looks simpler than a large appliance, but it combines a high-wattage heating element, thermostat, cord, mixed plastics and a metal soleplate. Steam models retain water and scale; generator models add a pressurized base, hose and detachable tank. Cooling and identifying the complete set matter before it enters a box.",
+        ],
+      },
+      {
+        heading: "Cool, drain and dry the exact model safely",
+        paragraphs: [
+          "Set the steam control to off, unplug at the wall and stand the iron securely on its heel or approved base. Wait until the soleplate, water and generator unit are fully cool. Philips' steam-iron instructions specify unplugging, emptying the tank, cooling in a safe place and storing the iron dry on its heel. Follow the actual model manual when its sequence differs.",
+          "Empty plain water into a sink only after it is cool. Do not add vinegar or another chemical during disposal preparation, and do not run an improvised descale cycle on a damaged iron. Wipe the exterior with the approved method, keep the plug dry and never immerse the body or open it to drain residual water.",
+          "For a steam generator, engage its transport lock if fitted and keep the iron, base, hose, detachable tank and power lead together. Do not lift the set by the steam hose. Photograph a cracked tank, leaking cap, failed lock or calc-clean warning so the next handler understands why the appliance was retired.",
+        ],
+        callout: { type: "warning", title: "Do not pack a warm or leaking iron", text: "A soleplate can remain hot after the indicator changes, and water can escape when an iron is laid flat. Let the complete unit cool, empty it as directed and keep it upright until dry before placing it with other appliances." },
+      },
+      {
+        heading: "Check the cord, soleplate and safety condition",
+        paragraphs: [
+          "Inspect without opening the case. Look for a damaged Type G plug, frayed cable, loose strain relief, scorch marks, cracked housing, severe soleplate damage and persistent leaking. A fault that made the iron trip a circuit, overheat or smell burnt should be recorded and not retested for a recipient. Never cut off the plug to make a failed unit look harmless.",
+          "Coil the lead loosely along its natural curve and secure it with a reusable strap. Do not wrap it tightly around a warm body or bend it at the strain relief. Pack a generator hose without kinks and cushion the soleplate from other metal items. Keep the model label visible so a repairer or receiver can identify parts and electrical specifications.",
+        ],
+        image: blogB165Body,
+        imageAlt: "Cooled steam iron and steam-generator base with empty tank and secured cords",
+        imageCaption: "Keep a generator iron with its matched dry base, tank, hose and lead; do not dismantle the powered housings.",
+      },
+      {
+        heading: "Offer only a safe iron for reuse and route failures as e-waste",
+        paragraphs: [
+          "A clean iron may suit reuse when it heats normally, controls respond, the cord is intact and the tank does not leak. Describe scale, soleplate wear and missing accessories honestly. A unit with an intermittent lead, heat damage or unexplained shutdown should go to repair assessment or an e-waste receiver, not to another household for trial.",
+          "Dubai Municipality's service directory includes household appliances and furniture under bulky-waste collection, subject to current eligibility and area restrictions; a drop-off accepting small electrical equipment may be more proportionate for one iron. Our [appliance removal service](https://dubaijunkcollection.com/services/appliance-removal) can combine it with a wider laundry or move-out load in [Jumeirah Village Circle](https://dubaijunkcollection.com/service-areas/jumeirah-village-circle). Related guides cover [electric kettles](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-electric-kettle-in-dubai), [electric blankets](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-electric-blanket-in-dubai) and [electronics recycling](https://dubaijunkcollection.com/blog/where-to-recycle-electronics-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can a steam iron go in the household bin?", answer: "Use a confirmed small-appliance or e-waste route instead. An iron contains an electrical heating assembly, controls, wiring, metal and mixed plastics, while steam models may retain water. Cool and empty it first, secure the lead and confirm acceptance rather than using a rubbish chute or packaging-recycling bin." },
+      { question: "Should I descale an old iron before recycling it?", answer: "Not unless the model instructions support it and the iron is electrically safe. Descaling a leaking, scorched or faulty unit creates unnecessary heat and water risk. Empty cool water, wipe accessible surfaces and disclose scale. A receiver does not need a failed appliance powered up merely to look cleaner." },
+      { question: "Can a steam-generator iron be collected without its base?", answer: "Keep the matched base, iron, tank, hose and power lead together whenever available. The base contains much of the heating and control system, and the set is more identifiable for repair, reuse or recycling when complete. Engage its transport lock and never carry it by the hose." },
+      { question: "What details help quote a small-appliance collection?", answer: "Send one photo of the complete iron or generator set, its model label, plug, cord, tank and visible damage. State whether it is cool, empty, leaking or electrically faulty, and list the other items in the load. Combining small appliances is normally more practical than a dedicated trip." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-an-electric-kettle-in-dubai", "how-to-dispose-of-an-electric-blanket-in-dubai", "where-to-recycle-electronics-in-dubai"],
+    serviceLink: { href: "/services/appliance-removal", label: "Arrange small-appliance collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Dispose of household appliances and furniture" },
+      { href: "https://www.documents.philips.com/assets/20210512/6d8da26232a7453a8a50ad2600f2e9a3.pdf", label: "Philips — Steam iron cooling, emptying and storage instructions" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-an-office-laminator-in-dubai",
+    title: "How to Dispose of an Office Laminator in Dubai: Heat, Documents and E-Waste",
+    excerpt: "Finish the records review, remove loose pouches, switch off and cool the laminator, inventory trays and leads, then use supplier return, verified reuse or commercial e-waste.",
+    category: "Commercial & Office",
+    coverImage: blogB166Cover,
+    coverImageAlt: "Facilities worker and office administrator auditing an unplugged laminator in a Dubai office",
+    publishedAt: "2026-11-03",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Laminator Disposal", "Office E-Waste", "Document Security", "Office Clearance"],
+    seoTitle: "How to Dispose of an Office Laminator in Dubai",
+    seoDescription: "How to dispose of an office laminator in Dubai: review documents, cool and unplug it, inventory accessories and choose supplier return, reuse or e-waste.",
+    keyTakeaways: [
+      "Remove confidential originals, test sheets and rejected cards from the work area before the machine passes to facilities or a collector.",
+      "Switch off, unplug and allow the rollers and casing to cool fully; use only the model's release control for a removable jam.",
+      "Record the asset, power lead, trays and faults, then choose supplier return, safe reuse or a commercial e-waste receiver with suitable records.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an office laminator in Dubai?",
+        paragraphs: [
+          "To dispose of an office laminator in Dubai, complete the asset and records review, remove confidential papers and loose pouches, then switch off, unplug and let it cool fully. Use only the maker's release method for an accessible jam, inventory leads and trays, and arrange supplier return, verified reuse or approved commercial e-waste collection.",
+          "A desktop laminator is both heated office equipment and a possible records-control problem. Its rollers can remain hot after shutdown, adhesive may hold part of a document inside, and discarded test cards may contain names, access details or customer information. The document review should finish before the machine leaves the controlled office area.",
+        ],
+      },
+      {
+        heading: "Close the records and asset trail before collection",
+        paragraphs: [
+          "Check the asset register, serial number, purchase or lease record and any service agreement. Ask the supplier whether take-back applies. Search the feed and exit area, nearby trays, pouch boxes and waste bin for originals, spoiled identity cards, visitor passes, price sheets or training documents. Route records through the organization's approved retention or destruction process.",
+          "Do not feed confidential material through merely to test the machine. If a document remains jammed, note what it contains and keep the laminator under controlled custody until an authorized person follows the model instructions or a service technician removes it. A collection crew should never be handed a machine that may still conceal readable information.",
+          "Record included equipment: mains lead, detachable tray, carrier or cleaning sheets, cold-lamination accessories and any proprietary pouch guides. Unopened generic pouches can be reassigned internally when compatible; do not place plastic pouches in a paper-recycling stream or leave them loose inside the machine.",
+        ],
+        callout: { type: "warning", title: "A jammed pouch may still be a confidential record", text: "Keep the machine within the office's information-control process until the document is recovered or securely destroyed. Do not open a powered housing or let a collector troubleshoot confidential material at the loading bay." },
+      },
+      {
+        heading: "Power down, cool and pack the laminator intact",
+        paragraphs: [
+          "Finish any maker-approved cleaning cycle only while the machine is serviceable and authorized for use. Then switch it off, unplug at the wall and allow the rollers and casing to cool completely. Fellowes' laminator guidance specifies turning the machine off, unplugging it and letting it cool; its manuals direct users to the release lever for jams rather than opening the electrical case.",
+          "Do not pull a pouch against locked rollers, insert tools into the feed slot or use solvent on the casing. Once cool, wipe only as the manual permits. Coil the power lead loosely, remove a detachable exit tray, and cushion the machine so pressure cannot crack its feed guides. Pack accessories separately and keep the model label visible.",
+        ],
+        image: blogB166Body,
+        imageAlt: "Cooled office laminator packed with its tray and lead beside a sealed records box",
+        imageCaption: "Release the cooled, intact machine only after document control is closed and every accessory has been inventoried.",
+      },
+      {
+        heading: "Use supplier return, verified reuse or commercial e-waste",
+        paragraphs: [
+          "A working laminator may be reassigned or offered for reuse when it heats evenly, feeds correctly, has an intact cable and includes the right instructions and accessories. Disclose adhesive contamination, roller noise and every jam. A machine with heat damage, exposed wiring or repeated feed failure belongs with a receiver that accepts complete electrical office equipment.",
+          "Dubai Municipality's duty-of-care guidance requires waste holders to use suitable handling and transfer arrangements. Businesses should follow their building, free-zone and contracted waste procedures rather than relying on a residential route. Our [office junk removal service](https://dubaijunkcollection.com/services/office-junk-removal) can coordinate released equipment in [Business Bay](https://dubaijunkcollection.com/service-areas/business-bay). Related guides cover [paper shredders](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-office-paper-shredder-in-dubai), [photocopiers](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-office-photocopier-in-dubai) and [data-safe electronics](https://dubaijunkcollection.com/blog/data-safe-electronics-disposal-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can confidential paper remain inside a laminator?", answer: "Yes. A misfed pouch or torn original can remain around the rollers or feed path. Keep the machine under controlled custody, identify the document and use the model's authorized release method or a service technician. Do not send it to collection until the information owner closes the incident." },
+      { question: "Should a jammed laminator be opened before recycling?", answer: "Do not open the electrical housing unless you are the authorized service provider following the model procedure. Switch off, unplug and cool the machine. Use its release or reverse control only as directed; otherwise record the jam and let a qualified technician or approved receiver handle the intact unit." },
+      { question: "Are laminating pouches recyclable with office paper?", answer: "Not in a paper-only stream. A laminated sheet combines paper with bonded plastic, and empty pouches are plastic film products whose acceptance varies by collector. Keep unopened usable pouches for compatible office use, then ask the contracted receiver how it wants spoiled sheets and surplus film separated." },
+      { question: "What information helps quote office-laminator removal?", answer: "Provide the make, model, width, approximate weight, power lead and tray list, plus photos of the intact machine and access route. Confirm it is unplugged, cool, asset-released and free of confidential material. State whether it is leased, jammed, heat-damaged or part of a wider office clearance." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-an-office-paper-shredder-in-dubai", "how-to-dispose-of-an-office-photocopier-in-dubai", "data-safe-electronics-disposal-dubai"],
+    serviceLink: { href: "/services/office-junk-removal", label: "Arrange released office-equipment collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality — Waste duty-of-care guideline" },
+      { href: "https://assets.fellowes.com/manuals/Saturn_A4_A3_412983%20RevB_25L_081524_singlepages.pdf", label: "Fellowes — Laminator safety, cooling and jam-release instructions" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
     ],
   },
 ];

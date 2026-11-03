@@ -628,6 +628,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B161 differs from B57/B95 (clothing, curtains and blinds) and B99 (artificial turf) through two-sided condition inspection, embedded-object checks, contamination disclosure, pile-safe rolling and the mixed pile/backing/underlay recovery problem. B162 differs from B142 (air fryers), B150 (food processors), B154 (blenders), B156 (kettles) and B159 (toasters) through cooked-rice removal, condensation collectors, removable inner pans, lid and steam-vent components, and keeping the powered base dry. B163 differs from B81 (desktop printers), B90 (certified IT asset destruction) and B153 (paper shredders) through supplier lease ownership, multifunction-device storage and address books, meter records, toner and finishing modules, exceptional weight and documented service-lift transport.
 
+### Track 51: Glass Storage, Garment Care & Document Finishing (Clusters 3, 4, 5, 6 & 10)
+*Continues the household–appliance–office sequence with three preparation controls: supporting a tall glass cabinet before its wall restraint is released, cooling and draining a steam iron without opening its powered housing, and closing confidential-document custody before a heated laminator leaves the office.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B164** | *How to Dispose of a Display Cabinet in Dubai: Glass, Anchors and Safe Removal* | `how to dispose of a display cabinet in dubai` | `display cabinet disposal dubai`, `glass cabinet removal dubai`, `furniture collection dubai` | Q | `/services/furniture-removal` |
+| **B165** | *How to Dispose of a Steam Iron in Dubai: Water, Heat and E-Waste* | `how to dispose of a steam iron in dubai` | `steam iron recycling dubai`, `small appliance disposal dubai`, `laundry appliance e-waste dubai` | Q | `/services/appliance-removal` |
+| **B166** | *How to Dispose of an Office Laminator in Dubai: Heat, Documents and E-Waste* | `how to dispose of an office laminator in dubai` | `laminator disposal dubai`, `office e-waste collection dubai`, `document finishing equipment recycling` | Q | `/services/office-junk-removal` |
+
+**Overlap check (content-rules §16):** B164 differs from B62 (mirrors), B94 (shelving), B131 (TV stands) and B149 (sideboards) through tall glass-door geometry, removable glass-shelf inventories, integrated lighting, anti-tip restraint release and matched shelf-pin control. B165 differs from B97 (ironing boards), B123 (tumble dryers), B146 (electric blankets) and B156 (kettles) through a hot soleplate, retained steam water, scale, flexible cord strain and steam-generator base locks. B166 differs from B81/B163 (printing and copying), B130 (paper shredders) and B145 (projectors) through heated adhesive rollers, trapped laminated records, pouch-film separation, cool-down time and model-specific jam-release controls.
+
 ---
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -677,3 +688,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 45. **Batch 45 (Articles B155–B157):** Entryway Tables, Water Heating & Presentation Furniture — **100% Completed (3/3 Live)**.
 46. **Batch 46 (Articles B158–B160):** Hidden Storage, Toasting Appliances & Acoustic Fit-Outs — **100% Completed (3/3 Live)**.
 47. **Batch 47 (Articles B161–B163):** Floor Textiles, Rice Cooking & Office Imaging — **100% Completed (3/3 Live)**.
+48. **Batch 48 (Articles B164–B166):** Glass Storage, Garment Care & Document Finishing — **100% Completed (3/3 Live)**.
