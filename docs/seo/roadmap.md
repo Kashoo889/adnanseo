@@ -639,6 +639,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B164 differs from B62 (mirrors), B94 (shelving), B131 (TV stands) and B149 (sideboards) through tall glass-door geometry, removable glass-shelf inventories, integrated lighting, anti-tip restraint release and matched shelf-pin control. B165 differs from B97 (ironing boards), B123 (tumble dryers), B146 (electric blankets) and B156 (kettles) through a hot soleplate, retained steam water, scale, flexible cord strain and steam-generator base locks. B166 differs from B81/B163 (printing and copying), B130 (paper shredders) and B145 (projectors) through heated adhesive rollers, trapped laminated records, pouch-film separation, cool-down time and model-specific jam-release controls.
 
+### Track 52: Dining Seating, Slow Cooking & Office Binding (Clusters 3, 4, 5, 6 & 10)
+*Continues the furniture–appliance–office sequence with three preparation controls: assessing every chair in a matched set without hiding structural faults, separating a fragile ceramic crock from a dry powered base, and closing document custody before a punch-and-binding machine leaves the print room.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B167** | *How to Dispose of Dining Chairs in Dubai: Sets, Joints and Upholstery* | `how to dispose of dining chairs in dubai` | `dining chair disposal dubai`, `old chair collection dubai`, `upholstered chair removal dubai` | Q | `/services/furniture-removal` |
+| **B168** | *How to Dispose of a Slow Cooker in Dubai: Crock, Lid and E-Waste* | `how to dispose of a slow cooker in dubai` | `slow cooker recycling dubai`, `small kitchen appliance disposal dubai`, `kitchen e-waste dubai` | Q | `/services/appliance-removal` |
+| **B169** | *How to Dispose of an Office Binding Machine in Dubai: Punches, Records and E-Waste* | `how to dispose of an office binding machine in dubai` | `binding machine disposal dubai`, `office print room clearance dubai`, `office e-waste collection dubai` | Q | `/services/office-junk-removal` |
+
+**Overlap check (content-rules §16):** B167 differs from B83 (dining tables and mixed sets), B103 (gas-lift office chairs) and B153 (bar stools) through chair-by-chair joint inspection, matched-set completeness, removable seat-pad control, low restrained trolley loads and honest segregation of unsafe frames. B168 differs from B142 (air fryers), B150 (food processors), B154 (blenders) and B162 (rice cookers) through a heavy removable ceramic crock, thermal-shock risk, a separate glass lid and keeping the simple heating base dry and intact. B169 differs from B130 (paper shredders), B145 (projectors), B163 (photocopiers) and B166 (laminators) through sharp punch dies, retained punch scraps, spring-loaded handles, comb/wire supply inventories and document control around binding rejects.
+
 ---
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -689,3 +700,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 46. **Batch 46 (Articles B158–B160):** Hidden Storage, Toasting Appliances & Acoustic Fit-Outs — **100% Completed (3/3 Live)**.
 47. **Batch 47 (Articles B161–B163):** Floor Textiles, Rice Cooking & Office Imaging — **100% Completed (3/3 Live)**.
 48. **Batch 48 (Articles B164–B166):** Glass Storage, Garment Care & Document Finishing — **100% Completed (3/3 Live)**.
+49. **Batch 49 (Articles B167–B169):** Dining Seating, Slow Cooking & Office Binding — **100% Completed (3/3 Live)**.

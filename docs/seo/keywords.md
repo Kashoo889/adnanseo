@@ -696,3 +696,11 @@
 | 406 | how to dispose of a display cabinet in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-display-cabinet-in-dubai`) |
 | 407 | how to dispose of a steam iron in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-steam-iron-in-dubai`) |
 | 408 | how to dispose of an office laminator in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-office-laminator-in-dubai`) |
+
+### New question-intent blog targets (Batch 49)
+
+| # | Keyword | Intent | Recommended Page |
+| :-: | :--- | :---: | :--- |
+| 409 | how to dispose of dining chairs in dubai | Q | Blog Article (`/blog/how-to-dispose-of-dining-chairs-in-dubai`) |
+| 410 | how to dispose of a slow cooker in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-slow-cooker-in-dubai`) |
+| 411 | how to dispose of an office binding machine in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-office-binding-machine-in-dubai`) |

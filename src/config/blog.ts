@@ -298,6 +298,12 @@ import blogB165Cover from "@/assets/blog-b165-steam-iron-disposal-cover.webp";
 import blogB165Body from "@/assets/blog-b165-steam-iron-components-body.webp";
 import blogB166Cover from "@/assets/blog-b166-office-laminator-cover.webp";
 import blogB166Body from "@/assets/blog-b166-office-laminator-packing-body.webp";
+import blogB167Cover from "@/assets/blog-b167-dining-chair-disposal-cover.webp";
+import blogB167Body from "@/assets/blog-b167-dining-chair-packing-body.webp";
+import blogB168Cover from "@/assets/blog-b168-slow-cooker-disposal-cover.webp";
+import blogB168Body from "@/assets/blog-b168-slow-cooker-parts-body.webp";
+import blogB169Cover from "@/assets/blog-b169-binding-machine-cover.webp";
+import blogB169Body from "@/assets/blog-b169-binding-machine-packing-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -17780,6 +17786,207 @@ export const blogPosts: BlogPost[] = [
     sources: [
       { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality — Waste duty-of-care guideline" },
       { href: "https://assets.fellowes.com/manuals/Saturn_A4_A3_412983%20RevB_25L_081524_singlepages.pdf", label: "Fellowes — Laminator safety, cooling and jam-release instructions" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-dining-chairs-in-dubai",
+    title: "How to Dispose of Dining Chairs in Dubai: Sets, Joints and Upholstery",
+    excerpt: "Check every chair for loose joints, pests and upholstery damage, keep usable sets together, protect removable parts, and confirm reuse or bulky collection before moving them.",
+    category: "Guides & Tips",
+    coverImage: blogB167Cover,
+    coverImageAlt: "Clearance worker inspecting the underside and joints of a dining chair in a Dubai apartment",
+    publishedAt: "2026-11-04",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Dining Chair Disposal", "Furniture Reuse", "Upholstered Chairs", "Apartment Clearance"],
+    seoTitle: "How to Dispose of Dining Chairs in Dubai",
+    seoDescription: "How to dispose of dining chairs in Dubai: inspect joints and upholstery, keep sound sets together, protect loose parts and arrange reuse or bulky collection.",
+    keyTakeaways: [
+      "Inspect each chair separately because one loose joint, cracked rail or pest-affected seat can change the route for an otherwise matching set.",
+      "Keep usable chairs together with their removable cushions and hardware; a complete, accurately described set has more reuse value than isolated pieces.",
+      "Do not leave chairs in lift lobbies, bin rooms or beside communal containers; confirm the receiver and building access window before moving them.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of dining chairs in Dubai?",
+        paragraphs: [
+          "To dispose of dining chairs in Dubai, confirm ownership, inspect every frame, joint and upholstered surface, and separate sound chairs from unsafe ones. Keep reusable sets and removable cushions together, photograph defects honestly, protect legs during transport, then arrange confirmed donation, resale, repair, material recovery or approved bulky-waste collection.",
+          "Dining chairs are easy to underestimate because each piece is light enough to lift alone. The difficulty appears when six chairs have different faults, loose seat pads catch in doorways, or an unstable stack reaches the service lift. The route should be decided chair by chair before the set leaves the dining room.",
+        ],
+      },
+      {
+        heading: "Inspect the complete set from the floor upward",
+        paragraphs: [
+          "In a furnished tenancy, compare the chairs with the move-in inventory and confirm whether they belong to the landlord. Count every frame, cushion and loose cover. Turn one chair at a time onto a padded blanket, then check feet, stretchers, corner blocks, screws, dowels, seat fixings and the backrest without placing weight on a chair that already feels unstable.",
+          "Look for split timber, bent metal, stripped screw holes, missing glides, peeling laminate and old repairs. On upholstered seats, inspect seams and the underside for damp, odour, pest evidence or crumbling foam. Photograph each defect in daylight. A recipient should know whether one chair needs a simple tightening job or whether a structural joint has failed.",
+          "A slightly loose screw may be repairable, but tightening is not a universal cure. IKEA's chair-repair guidance recommends identifying the fault and using the assembly instructions when removing or replacing parts. Do not glue over an unknown joint, hide a crack with fabric, or offer a chair as safe when its frame shifts under a gentle hand check.",
+        ],
+        callout: { type: "warning", title: "Do not test a doubtful chair by sitting on it", text: "A cracked side rail or loose rear joint can fail suddenly under body weight. Inspect on a padded surface, mark the unsafe chair clearly and keep it out of use until it is repaired or collected." },
+      },
+      {
+        heading: "Keep useful sets complete and move them without a chair tower",
+        paragraphs: [
+          "Matching chairs are easier to reuse when the full count, dimensions and condition stay clear. Bag removable bolts, glides and brackets with the set, label which chair they fit, and keep loose seat pads dry. Do not remove fixed upholstery merely to expose mixed timber, foam and fabric; unnecessary stripping can destroy reuse value without creating a confirmed recycling route.",
+          "Measure the service-lift door and tightest turn, then decide whether the chairs should travel upright, nested only as the design permits, or individually on a padded trolley. Protect projecting legs and polished backs. Never build a tall interlocked stack: it can twist joints, mark walls and become unstable at a lift threshold. Book the required management access slot before occupying a corridor.",
+        ],
+        image: blogB167Body,
+        imageAlt: "Dining chairs, protected seat pads and labelled hardware prepared on a padded trolley by a Dubai service lift",
+        imageCaption: "Keep the matched set and its hardware together, but use a low, restrained trolley load rather than an unstable stack.",
+      },
+      {
+        heading: "Choose repair, reuse or a confirmed furniture route",
+        paragraphs: [
+          "Offer clean, structurally sound chairs for resale or donation only after the recipient approves photographs, measurements and fabric condition. A complete set usually has a better chance than a single unmatched chair. Chairs with major joint failure, contamination or severe upholstery damage should be disclosed and directed to a collector that can sort wood, metal and mixed upholstery appropriately.",
+          "Dubai Municipality lists household furniture and appliances within its bulky-waste service, subject to current eligibility and location conditions; many developer-managed communities use their own process. Our [furniture removal service](https://dubaijunkcollection.com/services/furniture-removal) can coordinate a dining set with a wider clearance in [Downtown Dubai](https://dubaijunkcollection.com/service-areas/downtown-dubai). Related guides cover [dining-table disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-dining-table-dubai), [bar-stool removal](https://dubaijunkcollection.com/blog/how-to-dispose-of-bar-stools-in-dubai) and [selling versus donating furniture](https://dubaijunkcollection.com/blog/sell-vs-donate-old-furniture-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can I donate dining chairs if one chair is damaged?", answer: "Ask the recipient before transport and show the damaged chair clearly. Some receivers may accept a usable partial set; others need every chair to be safe and matching. Do not hide the fault or mix an unstable chair into the set. Mark it separately if it is intended for repair or collection." },
+      { question: "Should dining chairs be dismantled for collection?", answer: "Usually not unless the maker's instructions support safe disassembly or access genuinely requires it. Many glued and dowelled frames lose strength when forced apart. Remove only designed detachable parts, bag their hardware, and leave fixed upholstery and structural joints intact for the receiver to assess." },
+      { question: "Can dining chairs go beside my building's rubbish bins?", answer: "Do not leave them in a bin room, lift lobby, fire route or beside a communal container. Confirm your building or community procedure and a collection time first. Chairs placed out early can obstruct access, attract additional dumping and leave you responsible for an unapproved bulky item." },
+      { question: "What photos help quote dining-chair removal?", answer: "Send one photo of the complete set, then show the underside, legs, backrests, upholstery and every defect. Include the chair count and dimensions, lift or stair route, loading access and any removable pads. Mention loose joints, pests, damp, glass or metal details before the crew arrives." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-old-dining-table-dubai", "how-to-dispose-of-bar-stools-in-dubai", "sell-vs-donate-old-furniture-dubai"],
+    serviceLink: { href: "/services/furniture-removal", label: "Arrange dining-chair collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Dispose of household appliances and furniture" },
+      { href: "https://www.ikea.com/be/en/circular/repair/repairing-a-wooden-chair-pub2ef45fd0/", label: "IKEA — Inspecting and repairing wooden chair joints" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-slow-cooker-in-dubai",
+    title: "How to Dispose of a Slow Cooker in Dubai: Crock, Lid and E-Waste",
+    excerpt: "Unplug and cool the slow cooker, remove food, clean and dry the crock and lid, keep the heating base intact, and choose safe reuse or small-appliance e-waste.",
+    category: "Eco & Recycling",
+    coverImage: blogB168Cover,
+    coverImageAlt: "Worker inspecting the removable ceramic crock of an unplugged slow cooker in a Dubai kitchen",
+    publishedAt: "2026-11-04",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Slow Cooker Disposal", "Small Appliance Recycling", "Kitchen E-Waste", "Ceramic Crock"],
+    seoTitle: "How to Dispose of a Slow Cooker in Dubai",
+    seoDescription: "How to dispose of a slow cooker in Dubai: cool it, remove food, dry the crock and lid, protect fragile parts and choose verified reuse or e-waste.",
+    keyTakeaways: [
+      "Switch off, unplug and let the complete cooker cool before removing food or lifting the ceramic insert; sudden temperature changes can damage the crock.",
+      "Wash and dry removable food-contact parts as the manual allows, but wipe the heating base only and never immerse it in water.",
+      "Keep the matched crock, lid, base and lead together for reuse; route a failed powered base through a confirmed small-appliance or e-waste receiver.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a slow cooker in Dubai?",
+        paragraphs: [
+          "To dispose of a slow cooker in Dubai, switch it off, unplug it and let every part cool. Remove food, wash and dry the removable crock and lid as the manual permits, wipe the heating base without immersing it, disclose cracks or electrical faults, then arrange verified reuse or small-appliance e-waste collection.",
+          "The ceramic vessel creates a different preparation problem from a metal countertop appliance. It is heavy, brittle and vulnerable to thermal shock, while the outer base contains the heating element, controls and wiring. Treating the whole cooker as one loose pot risks a broken lid, chipped crock and wet electrical housing.",
+        ],
+      },
+      {
+        heading: "Cool the crock before cleaning or lifting it out",
+        paragraphs: [
+          "Turn the control to off, unplug at the wall and leave the cooker on a stable heat-resistant surface. Wait until the food, lid, handles and ceramic insert are cool enough to handle. Crock-Pot's care guidance says to switch off, unplug and cool the appliance before cleaning, and warns against washing hot stoneware with cold water because sudden temperature change can damage it.",
+          "Remove leftover food into the appropriate household-food-waste route where available; do not send a cooker to collection with stew, grease or liquid inside. Wash the removable crock and lid only by the method approved for the model, then dry them completely. Wipe the outer heating base with a suitable cloth and keep water away from openings, controls and the cord entry.",
+          "Do not pry out a fixed insert or open the powered base. Some multicookers resemble slow cookers but include pressure lids, batteries, displays or additional accessories, so identify the exact model before applying generic steps. Photograph a cracked crock, chipped rim, damaged Type G plug, scorched control or liquid spill inside the base.",
+        ],
+        callout: { type: "warning", title: "Never immerse the heating base", text: "The outer shell contains the heating element and electrical controls. Keep it unplugged and dry, follow the model's cleaning instructions, and send an internally wet or heat-damaged base for professional assessment rather than powering it up again." },
+      },
+      {
+        heading: "Protect the ceramic crock and glass lid as separate fragile parts",
+        paragraphs: [
+          "Once dry, place the crock back in the base only if it sits correctly and can be cushioned from movement. Otherwise wrap it separately in a clean padded cloth. Protect the glass lid on both faces and prevent its metal rim or knob from striking the ceramic. Coil the lead loosely and secure it away from the plug pins without bending the cord at its strain relief.",
+          "Keep the model label visible and list every included part. A sound crock with the wrong base is not a complete appliance, and an orphan lid has limited reuse value. Pack the cooker upright in a low box or crate, with no heavy appliance above it. In a tower, use the booked service route rather than carrying loose glass through an occupied passenger lift.",
+        ],
+        image: blogB168Body,
+        imageAlt: "Dry slow cooker base, ceramic crock, protected glass lid and secured Type G lead prepared for collection",
+        imageCaption: "Keep the powered base dry and intact, then cushion the matched crock and glass lid against impact.",
+      },
+      {
+        heading: "Offer a complete safe cooker for reuse or use an e-waste route",
+        paragraphs: [
+          "Reuse is appropriate only when the base heats and controls normally, the lead and plug are intact, the crock has no structural crack, and the lid fits. Describe cosmetic chips and missing accessories honestly. A cooker retired after overheating, electrical smell, intermittent power or liquid ingress should not be tested for a recipient; send it to repair assessment or an electrical-appliance receiver.",
+          "Dubai Municipality includes household electrical appliances within its bulky-waste service, subject to current eligibility and area limits, although a small-electrical drop-off may be more proportionate for one cooker. Our [appliance removal service](https://dubaijunkcollection.com/services/appliance-removal) can combine it with a kitchen clearance in [Jumeirah Village Circle](https://dubaijunkcollection.com/service-areas/jumeirah-village-circle). Related guides cover [rice cookers](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-rice-cooker-in-dubai), [air fryers](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-air-fryer-in-dubai) and [electronics recycling](https://dubaijunkcollection.com/blog/where-to-recycle-electronics-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can a slow cooker go in the household bin?", answer: "Use a confirmed small-appliance or e-waste route instead. The base contains a heating element, controls, wiring and mixed materials, while the crock and lid are fragile. Cool, clean and dry the set, disclose damage, and confirm what the intended receiver accepts before transport." },
+      { question: "Can I donate a slow cooker with a chipped ceramic crock?", answer: "A cosmetic mark and a structural chip are not the same. If the rim, wall or base is chipped or cracked, do not offer the cooker for food use without the maker's or a qualified repairer's assessment. Photograph the damage and route the incomplete or unsafe set honestly." },
+      { question: "Should I separate the ceramic insert from the electrical base?", answer: "Keep all matched parts together, but cushion the crock and lid so they cannot strike the base during transport. Do not break the crock for material sorting or dismantle the powered housing. The receiving facility should decide how mixed ceramic, glass, metal and electrical parts are processed." },
+      { question: "What details help quote slow-cooker collection?", answer: "Show the complete cooker, model label, plug, cord, crock, lid and any accessories. Add close-ups of cracks, scorch marks, corrosion or control faults, and confirm that it is cool, empty and dry. List other appliances in the load because combining small items is normally more practical." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-a-rice-cooker-in-dubai", "how-to-dispose-of-an-air-fryer-in-dubai", "where-to-recycle-electronics-in-dubai"],
+    serviceLink: { href: "/services/appliance-removal", label: "Arrange small-appliance collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality — Dispose of household appliances and furniture" },
+      { href: "https://www.crock-pot.com/on/demandware.store/Sites-crockpot-Site/default/Support-Show?cfid=help-and-how-to-use-cleaning-faq", label: "Crock-Pot — Slow cooker cooling and cleaning guidance" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-an-office-binding-machine-in-dubai",
+    title: "How to Dispose of an Office Binding Machine in Dubai: Punches, Records and E-Waste",
+    excerpt: "Clear confidential paper and punch scraps, unplug powered binders, secure the handle and accessories, close the asset record, and arrange reuse or commercial e-waste.",
+    category: "Commercial & Office",
+    coverImage: blogB169Cover,
+    coverImageAlt: "Facilities worker and office administrator auditing an unplugged binding machine in a Dubai print room",
+    publishedAt: "2026-11-04",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Binding Machine Disposal", "Office E-Waste", "Document Security", "Print Room Clearance"],
+    seoTitle: "How to Dispose of an Office Binding Machine in Dubai",
+    seoDescription: "How to dispose of an office binding machine in Dubai: clear records and scraps, unplug it, secure the punch, inventory supplies and choose reuse or e-waste.",
+    keyTakeaways: [
+      "Clear confidential test pages, covers and punch scraps before the machine leaves the controlled print room or records area.",
+      "Unplug powered equipment, empty the debris tray, secure the punch handle and never place fingers or tools inside the die channel.",
+      "Record the machine, dies, leads and usable binding supplies, then choose supplier return, verified reuse or an approved commercial e-waste route.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an office binding machine in Dubai?",
+        paragraphs: [
+          "To dispose of an office binding machine in Dubai, complete the asset and records review, remove confidential pages, empty punch scraps, and unplug powered equipment. Secure the punch handle, inventory dies, leads and accessories, separate usable combs or wire, then arrange supplier return, verified reuse or approved commercial e-waste collection.",
+          "Binding equipment ranges from a light manual comb punch to a powered wire closer or thermal binder. The disposal risk is not just electronics: sharp punch dies can retain paper, a spring-loaded handle can move during carrying, and rejected reports or covers may still expose client, employee or financial information.",
+        ],
+      },
+      {
+        heading: "Close the document and asset trail before facilities takes custody",
+        paragraphs: [
+          "Check the asset register, serial number, lease or maintenance agreement and supplier-return terms. Ask the records owner to clear finished books, rejected covers, test punches and pages awaiting rebinding. Inspect the feed slot, wire channel and debris tray for readable fragments. Route confidential material through the office's approved destruction process rather than handing it to a collection crew.",
+          "Sort unopened compatible combs, coils, wire spines and covers for internal reuse. Keep product-specific dies, foot pedals, closing bars and adjustment tools with the machine. Generic plastic and metal supplies should not be mixed into paper recycling, and a bound report should not enter a paper-only stream until its covers and binding are handled according to the contracted recycler's rules.",
+          "If the machine is jammed around a confidential document, keep it within controlled custody. Do not ask the crew to troubleshoot it at the loading bay. An authorized operator or service provider should follow the exact model procedure, recover the record and document the outcome before the asset is released.",
+        ],
+        callout: { type: "warning", title: "Treat punch scraps as records until reviewed", text: "Small paper fragments can still contain names, account details or signatures. Empty the tray inside the controlled office area and route sensitive scraps through the same approved destruction process as the source documents." },
+      },
+      {
+        heading: "Power down, empty and restrain the machine for transport",
+        paragraphs: [
+          "For an electric punch, thermal binder or powered closer, switch off and unplug at the wall. Let any heated section cool fully. GBC's binding-machine instructions call for regular debris-tray emptying, warn against fingers in the wire-binding channel, and direct users not to service or repair powered punch equipment themselves. Follow the actual model manual where controls and locks differ.",
+          "Use the transport latch or handle restraint supplied for the machine; do not improvise a tie through the punch slot. Empty the tray without touching die edges, coil the lead loosely and cushion removable dies or guides in labelled packaging. Lift from the maker's hand grips, not the operating handle. Heavy floor-standing finishers need their own measured route and competent equipment.",
+        ],
+        image: blogB169Body,
+        imageAlt: "Office binding machine secured with its empty tray, lead and organized binding supplies on a padded trolley",
+        imageCaption: "Release the machine only after records are cleared, the debris tray is empty and the punch handle is restrained for transport.",
+      },
+      {
+        heading: "Match manual and powered binders to the right route",
+        paragraphs: [
+          "A complete manual binder may be reassigned or donated to an organization that has confirmed the format and capacity it needs. A powered machine is suitable for reuse only when the lead, guards, controls and punch or heating cycle operate safely. Disclose worn dies, incomplete punches, overheating, jams and missing accessories rather than leaving the next user to discover them.",
+          "Businesses should follow their building, free-zone and contracted waste procedures, using suitable transport and approved destinations under Dubai Municipality's duty-of-care guidance. Our [office junk removal service](https://dubaijunkcollection.com/services/office-junk-removal) can coordinate released print-room equipment in [Business Bay](https://dubaijunkcollection.com/service-areas/business-bay). Related guides cover [laminators](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-office-laminator-in-dubai), [paper shredders](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-office-paper-shredder-in-dubai) and [secure office records](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-filing-cabinets-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Is a manual binding machine e-waste?", answer: "A fully manual punch or closer may contain mostly metal and plastic rather than powered components, while electric punches and thermal binders are electrical equipment. Identify the exact model and ask the intended receiver. Do not assume one route fits every machine simply because they share a print-room function." },
+      { question: "Can binding combs and wire go in office recycling?", answer: "Do not put them in a paper-only bin. Keep clean, compatible supplies for reuse, then ask the contracted recycler whether it accepts separated plastic combs or metal wire. Remove bindings from confidential documents only within the office's records process so loose pages and fragments remain controlled." },
+      { question: "Should I open a jammed electric punch before collection?", answer: "No, unless you are the authorized service provider following the model procedure. Switch off, unplug and keep the machine under control if confidential paper is trapped. Record the fault and arrange approved service or tell the e-waste receiver; do not reach into the die channel or remove safety covers." },
+      { question: "What information helps quote binding-machine removal?", answer: "Provide the make, model, dimensions and approximate weight, plus photos of the machine, label, lead, handle, dies, trays and access route. Confirm whether it is manual, electric or heated; asset-released; unplugged and cool; emptied of scraps; and free of confidential material." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-an-office-laminator-in-dubai", "how-to-dispose-of-an-office-paper-shredder-in-dubai", "how-to-dispose-of-old-filing-cabinets-in-dubai"],
+    serviceLink: { href: "/services/office-junk-removal", label: "Arrange released print-room equipment collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality — Waste duty-of-care guideline" },
+      { href: "https://www.gbceurope.com/product/document/107268/pdf", label: "GBC — Binding-machine safety and debris-tray instructions" },
       { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
     ],
   },
