@@ -704,3 +704,11 @@
 | 409 | how to dispose of dining chairs in dubai | Q | Blog Article (`/blog/how-to-dispose-of-dining-chairs-in-dubai`) |
 | 410 | how to dispose of a slow cooker in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-slow-cooker-in-dubai`) |
 | 411 | how to dispose of an office binding machine in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-office-binding-machine-in-dubai`) |
+
+### New question-intent blog targets (Batch 50)
+
+| # | Keyword | Intent | Recommended Page |
+| :-: | :--- | :---: | :--- |
+| 412 | how to dispose of bedside tables in dubai | Q | Blog Article (`/blog/how-to-dispose-of-bedside-tables-in-dubai`) |
+| 413 | how to dispose of a sandwich maker in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-sandwich-maker-in-dubai`) |
+| 414 | how to dispose of an office paper cutter in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-office-paper-cutter-in-dubai`) |

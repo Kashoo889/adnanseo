@@ -304,6 +304,12 @@ import blogB168Cover from "@/assets/blog-b168-slow-cooker-disposal-cover.webp";
 import blogB168Body from "@/assets/blog-b168-slow-cooker-parts-body.webp";
 import blogB169Cover from "@/assets/blog-b169-binding-machine-cover.webp";
 import blogB169Body from "@/assets/blog-b169-binding-machine-packing-body.webp";
+import blogB170Cover from "@/assets/blog-b170-bedside-table-removal-cover.webp";
+import blogB170Body from "@/assets/blog-b170-bedside-table-parts-body.webp";
+import blogB171Cover from "@/assets/blog-b171-sandwich-maker-disposal-cover.webp";
+import blogB171Body from "@/assets/blog-b171-sandwich-maker-preparation-body.webp";
+import blogB172Cover from "@/assets/blog-b172-paper-cutter-removal-cover.webp";
+import blogB172Body from "@/assets/blog-b172-paper-cutter-secured-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -17988,6 +17994,207 @@ export const blogPosts: BlogPost[] = [
       { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality — Waste duty-of-care guideline" },
       { href: "https://www.gbceurope.com/product/document/107268/pdf", label: "GBC — Binding-machine safety and debris-tray instructions" },
       { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government — Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-bedside-tables-in-dubai",
+    title: "How to Dispose of Bedside Tables in Dubai: Drawers, Glass and Matched Pairs",
+    excerpt: "Empty every drawer, disconnect lamps and chargers, protect fragile tops, retain matched hardware, and choose reuse or responsible furniture collection.",
+    category: "Guides & Tips",
+    coverImage: blogB170Cover,
+    coverImageAlt: "Resident and removal worker inspecting a pair of wooden bedside tables in a Dubai bedroom",
+    publishedAt: "2026-11-05",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Bedside Table Disposal", "Bedroom Furniture", "Furniture Reuse", "Dubai Move-Out"],
+    seoTitle: "How to Dispose of Bedside Tables in Dubai Responsibly",
+    seoDescription: "How to dispose of bedside tables in Dubai: empty drawers, separate lamps, protect glass tops, keep matched pairs together and arrange responsible collection.",
+    keyTakeaways: [
+      "Empty and remove drawers before lifting, then check behind liners and beneath the cabinet for documents, jewellery, medicine and charging cables.",
+      "Keep a sound matched pair together for reuse, but disclose swelling, loose joints, pest evidence, cracked glass and missing drawer stops.",
+      "Protect removable glass or stone separately, bag the correct hardware and confirm the building's service-lift and loading procedure before collection.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of bedside tables in Dubai?",
+        paragraphs: [
+          "To dispose of bedside tables in Dubai, empty every drawer, remove lamps and chargers, photograph the condition, and secure or remove loose drawers. Protect glass or stone tops separately, keep matching hardware together, then offer a safe pair for reuse or book approved furniture collection through your building or community.",
+          "A bedside table looks easy to carry, but its contents and construction cause most problems. Small valuables hide behind drawers, a loose drawer can slide into a corridor, and a thin glass top can lift away without warning. Preparing the pair properly protects both the item and the apartment handover route.",
+        ],
+      },
+      {
+        heading: "Clear personal items and separate everything that is not furniture",
+        paragraphs: [
+          "Work through one table at a time. Empty the top, drawer and open shelf, then remove the drawer completely if its runners allow it. Check the cavity, underside and wall gap for passport copies, keys, jewellery, medication, receipts and memory cards. Wipe the cabinet dry; do not hide stains or pest evidence under a liner.",
+          "Unplug the lamp, phone charger, alarm clock and extension lead at the wall. Those items need their own keep, reuse or electrical-waste decision and should not travel inside a drawer. If the table has built-in USB sockets, LED lighting or wireless charging, photograph the label and lead because the unit is mixed furniture and electrical equipment.",
+          "Decide whether wall restraints belong to the table or the property. IKEA's furniture-safety guidance emphasizes suitable wall anchoring for storage furniture. Support the cabinet before releasing any restraint, retain reusable brackets with the item, and ask the landlord or building team how fixing holes should be made good before an Ejari handover inspection.",
+        ],
+        callout: { type: "warning", title: "Remove drawers before carrying on stairs", text: "A drawer that appears closed can slide out when a cabinet tilts. Remove it if the design permits, or use a soft furniture strap around the carcass. Never tape directly onto a finished veneer or painted face." },
+      },
+      {
+        heading: "Protect tops, runners and matching parts for the route out",
+        paragraphs: [
+          "Lift off a removable glass, marble or engineered-stone top with two hands and keep it upright in padded material. Do not lay a heavy top inside the cabinet or stack one table on another. Bag shelf pins, drawer stops and approved wall fittings, label them to the correct table, and keep removable drawers low on the trolley.",
+          "Measure the complete route even for small furniture when a bed, wardrobe or mattress narrows the room. In a managed tower, confirm the service lift, protection requirements and loading slot before moving items into the corridor. During Dubai's hotter months, do not leave veneered furniture or adhesive-bonded glass waiting in direct sun at the loading bay.",
+        ],
+        image: blogB170Body,
+        imageAlt: "Matched bedside tables with empty drawers, protected glass, lamp and fittings separated for collection",
+        imageCaption: "Empty the cabinets, separate electrical items and protect fragile tops before the furniture enters a shared route.",
+      },
+      {
+        heading: "Keep a usable pair together or disclose why it cannot be reused",
+        paragraphs: [
+          "A clean pair with stable joints, smooth runners and complete tops is easier to reuse than two unmatched cabinets. Photograph both fronts, backs, undersides and interiors. State whether they match, whether each drawer closes, and whether any chip is cosmetic. Swollen particleboard, structural cracks, pest contamination or unstable legs may rule out donation even when the tables still look presentable from the front.",
+          "Dubai Municipality lists household furniture within its bulky-waste service, subject to current eligibility and area restrictions; developer-managed communities may use their own process. Our [furniture removal service](https://dubaijunkcollection.com/services/furniture-removal) can coordinate a bedroom load in [Downtown Dubai](https://dubaijunkcollection.com/service-areas/downtown-dubai). Related guides cover [chests of drawers](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-chest-of-drawers-in-dubai), [bed frames](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-bed-frame-in-dubai) and [selling or donating furniture](https://dubaijunkcollection.com/blog/sell-vs-donate-old-furniture-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can I leave bedside tables in the building bin room?", answer: "Not without written or clearly stated building approval. Even small cabinets can obstruct a fire route, lift lobby or waste-room door. Confirm the community procedure and collection time first, then keep the tables inside the apartment until the approved handover window." },
+      { question: "Should I donate bedside tables separately or as a pair?", answer: "Keep a matching pair together when both tables are safe and complete, because that usually improves reuse value. If one is damaged, disclose the difference with clear photos. Do not hide a swollen back, sticking drawer, loose leg or cracked top to make the set appear complete." },
+      { question: "Can the lamp and charger stay inside a drawer?", answer: "No. Remove every electrical item and decide its route separately. Loose plugs can scratch the cabinet, batteries may require special handling, and a drawer can conceal personal data or medication. A built-in charging table should be described as powered furniture when you request collection." },
+      { question: "What photos help quote bedside-table removal?", answer: "Send one photo of the complete pair, then show the tops, backs, undersides, open drawers, wall restraints and all damage. Include dimensions, top material, lift or stair access, loading instructions and the other bedroom furniture leaving in the same visit." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-a-chest-of-drawers-in-dubai", "how-to-dispose-of-a-bed-frame-in-dubai", "sell-vs-donate-old-furniture-dubai"],
+    serviceLink: { href: "/services/furniture-removal", label: "Arrange bedroom-furniture collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality - Dispose of household appliances and furniture" },
+      { href: "https://www.ikea.com/us/en/customer-service/creating-safer-homes-together-pub8fa27050/", label: "IKEA - Furniture wall-anchoring safety" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-sandwich-maker-in-dubai",
+    title: "How to Dispose of a Sandwich Maker in Dubai: Plates, Grease and E-Waste",
+    excerpt: "Unplug and cool the sandwich maker, remove food and grease, keep fixed plates dry, secure the lid, and choose verified reuse or small-appliance e-waste.",
+    category: "Eco & Recycling",
+    coverImage: blogB171Cover,
+    coverImageAlt: "Dubai resident cleaning a cool unplugged sandwich maker on a kitchen counter",
+    publishedAt: "2026-11-05",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Sandwich Maker Disposal", "Small Appliance Recycling", "Kitchen E-Waste", "Non-Stick Plates"],
+    seoTitle: "How to Dispose of a Sandwich Maker in Dubai Safely",
+    seoDescription: "How to dispose of a sandwich maker in Dubai: unplug and cool it, remove crumbs and grease, keep the housing dry, secure the lid and choose an e-waste route.",
+    keyTakeaways: [
+      "Switch off, unplug and let both plates cool completely before cleaning, moving or closing the appliance for collection.",
+      "Remove food and grease with the model-approved method; never immerse a fixed-plate sandwich maker or send it out with wet electrical parts.",
+      "Engage the storage latch if supplied, secure the lead without crushing it, disclose coating or cord damage, and use verified reuse or e-waste.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a sandwich maker in Dubai?",
+        paragraphs: [
+          "To dispose of a sandwich maker in Dubai, switch it off, unplug it and let both plates cool completely. Remove crumbs and grease using the model's cleaning instructions, keep the electrical housing dry, secure the lid and cord, disclose damaged non-stick coating or wiring, then arrange verified reuse or small-appliance e-waste collection.",
+          "The appliance combines food residue, hot plates, a hinged lid and electrical components in one compact shell. That makes preparation more important than size. A greasy unit contaminates other items, a warm plate can damage packaging, and a loose lid or trailing Type G plug can create a carrying hazard.",
+        ],
+      },
+      {
+        heading: "Cool it fully before removing crumbs and grease",
+        paragraphs: [
+          "Turn the control off if fitted, unplug at the wall and leave the press open on a stable heat-resistant surface until the upper and lower plates, handle and hinge are cool. Breville's sandwich-press guidance instructs users to switch off, unplug and cool the appliance before cleaning, and says not to immerse the press in water or other liquid.",
+          "Brush out loose crumbs and remove food without metal tools that can score a non-stick surface. Clean fixed plates and the housing only as the model manual permits. Wash a removable plate or drip tray separately when its instructions allow, then dry it completely before refitting or packing. Keep water away from the hinge, indicator lights, thermostat, cord entry and underside vents.",
+          "Do not power up an appliance with a split cable, loose plug, scorch mark, swollen casing, exposed conductor or liquid inside. Photograph the fault and label it for the receiver. A failed latch is also worth declaring because the heavy upper plate may open when the unit is lifted.",
+        ],
+        callout: { type: "warning", title: "Do not immerse the powered body", text: "Many sandwich makers have fixed plates above live electrical parts. Keep the unit unplugged and dry, and do not open its housing. An internally wet, scorched or damaged press needs professional assessment or an electrical-waste route." },
+      },
+      {
+        heading: "Secure the hinge, latch and lead without hiding damage",
+        paragraphs: [
+          "When the appliance is clean, dry and cold, close it gently and use its designed storage latch. Do not force a latch over warped plates or tie the lid so tightly that the hinge is loaded. Coil the lead loosely around the maker's storage point if provided, protect the plug pins and avoid a sharp bend where the cable enters the casing.",
+          "Keep removable plates and trays with the correct model, cushioned so their non-stick faces do not rub. Pack the unit flat and upright in a low box with no heavy appliance on top. In a tower kitchen clearance, put it in a small-appliance crate rather than a loose bag that can tear between the apartment and service lift.",
+        ],
+        image: blogB171Body,
+        imageAlt: "Cool closed sandwich maker with latch, clean tray and loosely secured Type G power lead",
+        imageCaption: "A collection-ready press is cool, free of food, dry, latched and packed with its matched removable parts.",
+      },
+      {
+        heading: "Choose reuse only when the complete appliance is safe",
+        paragraphs: [
+          "Reuse suits a clean appliance that heats evenly, closes normally and has intact plates, insulation, lead and plug. Disclose worn coating, a weak hinge, missing tray or intermittent light. A press with peeling non-stick material, exposed wiring, overheating or repeated tripping should not be donated for someone else to test; route it to repair assessment or a confirmed electrical receiver.",
+          "Dubai Municipality includes used electrical appliances within its bulky-waste service, subject to current eligibility and area conditions, although a confirmed small-electrical point may be more practical for one press. Our [appliance removal service](https://dubaijunkcollection.com/services/appliance-removal) can combine it with a kitchen clearance in [Dubai Marina](https://dubaijunkcollection.com/service-areas/dubai-marina). Related guides cover [toasters](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-toaster-in-dubai), [air fryers](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-air-fryer-in-dubai) and [electronics recycling](https://dubaijunkcollection.com/blog/where-to-recycle-electronics-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can a sandwich maker go in the household bin?", answer: "Use a confirmed small-appliance or e-waste route instead. The press contains wiring, a thermostat, heating elements and mixed materials, and food residue should be removed first. Ask the receiver what it accepts rather than placing the complete electrical appliance in a general bin." },
+      { question: "Should I remove the non-stick plates before recycling it?", answer: "Remove plates only when the manufacturer designed them to release without tools. Clean, dry and keep those matched parts with the appliance. Do not pry out fixed plates or dismantle the powered housing; the receiving facility should decide how its mixed metal, coating and electrical components are processed." },
+      { question: "Can I donate a sandwich maker with scratched plates?", answer: "Describe and photograph the damage before offering it. Light cosmetic wear and peeling or deeply scored coating are not equivalent. If the food-contact surface, hinge, lead or plug may be unsafe, seek the manufacturer's or a qualified repairer's advice and choose repair or e-waste rather than casual donation." },
+      { question: "What details help quote sandwich-maker collection?", answer: "Show the appliance open and closed, its label, plates, hinge, latch, cord, plug and removable trays. Confirm that it is unplugged, fully cool, empty and dry, and disclose coating damage, overheating or liquid ingress. List other appliances because combining small items is usually more practical." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-a-toaster-in-dubai", "how-to-dispose-of-an-air-fryer-in-dubai", "where-to-recycle-electronics-in-dubai"],
+    serviceLink: { href: "/services/appliance-removal", label: "Arrange small-appliance collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality - Dispose of household appliances and furniture" },
+      { href: "https://www.breville.com/content/dam/breville/us/assets/miscellaneous/instruction-manual/grills-sandwich-makers/BSG600-instruction-manual.pdf", label: "Breville - Sandwich press care, cooling and storage instructions" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-an-office-paper-cutter-in-dubai",
+    title: "How to Dispose of an Office Paper Cutter in Dubai: Blades, Guards and Records",
+    excerpt: "Clear confidential scraps, identify the cutter type, keep guards fitted, lock the handle or cutting head, release the asset, and arrange safe commercial collection.",
+    category: "Commercial & Office",
+    coverImage: blogB172Cover,
+    coverImageAlt: "Facilities worker and office administrator auditing a guarded paper cutter in a Dubai print room",
+    publishedAt: "2026-11-05",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Paper Cutter Disposal", "Office Clearance", "Blade Safety", "Document Security"],
+    seoTitle: "How to Dispose of an Office Paper Cutter in Dubai Safely",
+    seoDescription: "How to dispose of an office paper cutter in Dubai: clear records, keep blade guards fitted, lock moving parts, close the asset trail and collect it safely.",
+    keyTakeaways: [
+      "Clear readable offcuts and test pages through the office's approved records process before the cutter leaves controlled custody.",
+      "Keep every factory guard fitted and use the designed transport lock for a guillotine handle or rotary cutting head; never touch the blade edge.",
+      "Identify manual versus powered equipment, record its size and base stability, then arrange competent commercial collection without dismantling the blade assembly.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an office paper cutter in Dubai?",
+        paragraphs: [
+          "To dispose of an office paper cutter in Dubai, clear confidential offcuts, identify whether it is rotary, guillotine or powered, and complete the asset release. Keep factory guards fitted, lock the blade carriage or handle in its transport position, secure guides and accessories, then arrange competent office-equipment collection without dismantling the cutting assembly.",
+          "A tabletop cutter may contain no electronics yet still be one of the sharpest assets in a print room. The risk changes by design: a rotary trimmer has a moving cutting head, a guillotine has a lever blade, and a powered cutter combines guards, interlocks and electrical isolation with significant weight.",
+        ],
+      },
+      {
+        heading: "Close the records and ownership trail before moving the machine",
+        paragraphs: [
+          "Ask the records owner to remove test sheets, rejected covers, labels and readable offcuts from the cutting bed, scrap tray and surrounding bench. Route confidential fragments through the contracted destruction process inside the controlled office. A collection crew should never have to decide whether a client name, signature or account number is sensitive at the loading bay.",
+          "Check the asset register, serial number, lease, maintenance agreement and supplier take-back terms. Powered stack cutters and print-room finishing systems may be leased or serviced as part of a larger contract. Record removable keys, foot controls, backstops, spare cutting sticks and model-specific tools, but do not include loose blades in an unmarked accessories box.",
+          "Photograph the full machine and route. A small rotary cutter can travel on a padded trolley; a floor-standing stack cutter may need a specialist assessment for mass, centre of gravity, stand attachment and service-lift capacity. Confirm building management approval and loading access before an occupied office corridor is used.",
+        ],
+        callout: { type: "warning", title: "Never remove a blade for easier transport", text: "Leave the cutting assembly, guard and interlocks intact. Blade removal, sharpening and repair belong to a trained service provider using the exact model procedure. Tell the collector about missing guards, failed locks or exposed edges before arrival." },
+      },
+      {
+        heading: "Use the designed guard and transport lock",
+        paragraphs: [
+          "For a manual guillotine, clear the bed, lower the handle only as the manual specifies and engage the factory lock or transport guard. Fellowes states that its SafeCut guard folds down for transport and storage and holds the handle down, while warning users not to touch the cutting blade or edge. Do not substitute tape for a missing safety component.",
+          "Park a rotary head in its designated position and engage its lock or enclosed-blade mechanism. For powered equipment, shut down normally, switch off, unplug and isolate according to the manufacturer and workplace procedure. Secure the lead, guides and clamp without reaching under the blade. Keep the base flat; carrying a cutter on edge can release guides or turn the handle into a lever.",
+        ],
+        image: blogB172Body,
+        imageAlt: "Manual office paper cutter with guard folded, handle locked and records box separated for collection",
+        imageCaption: "Clear the records first, then keep the cutter flat with its guard, handle and guides secured exactly as designed.",
+      },
+      {
+        heading: "Match the cutter type to a safe reuse or recovery route",
+        paragraphs: [
+          "Reuse is appropriate only when the base is stable, scale and guide are usable, the guard is complete, the blade movement is controlled and every lock works. Disclose a dull blade, damaged strip, loose lever or missing shield. Do not demonstrate a faulty machine for a recipient or improvise a cardboard blade cover that could slip during handling.",
+          "Commercial equipment should follow the business's contracted waste route and Dubai Municipality duty-of-care guidance. Our [office junk removal service](https://dubaijunkcollection.com/services/office-junk-removal) can coordinate released print-room assets in [Business Bay](https://dubaijunkcollection.com/service-areas/business-bay). Related guides cover [binding machines](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-office-binding-machine-in-dubai), [laminators](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-office-laminator-in-dubai) and [confidential filing storage](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-filing-cabinets-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Is a manual paper cutter e-waste?", answer: "Usually not, because a fully manual guillotine or rotary trimmer has no powered circuit, but it still contains a hazardous cutting assembly and mixed materials. A powered stack cutter is electrical equipment. Identify the model and ask the contracted receiver rather than choosing a stream by appearance alone." },
+      { question: "Should I remove or wrap the blade before collection?", answer: "Do not remove it. Keep the manufacturer's guard installed and engage the designed transport lock for the handle or cutting head. If a guard or lock is missing, isolate access to the machine and arrange advice from the maker, service provider or competent collector before anyone moves it." },
+      { question: "What happens to confidential paper scraps around the cutter?", answer: "The office should clear and destroy them under its existing records policy before facilities releases the asset. Check the cutting bed, guide, clamp, scrap tray and nearby floor. Do not mix readable fragments into general paper recycling or leave them for the removal crew to review." },
+      { question: "What information helps quote paper-cutter removal?", answer: "Provide the make, model, cutter type, dimensions and approximate weight, plus photos of the base, blade area, guard, handle or carriage, stand and access route. Confirm asset ownership, whether it is powered, and whether all records are cleared and every safety lock works." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-an-office-binding-machine-in-dubai", "how-to-dispose-of-an-office-laminator-in-dubai", "how-to-dispose-of-old-filing-cabinets-in-dubai"],
+    serviceLink: { href: "/services/office-junk-removal", label: "Arrange safe print-room equipment collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
+      { href: "https://assets.fellowes.com/manuals/GuillotineTrimmer_410875_3L_022818_SinglePages.pdf", label: "Fellowes - Guillotine trimmer guard and safety instructions" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
     ],
   },
 ];

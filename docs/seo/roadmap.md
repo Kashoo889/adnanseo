@@ -650,6 +650,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules §16):** B167 differs from B83 (dining tables and mixed sets), B103 (gas-lift office chairs) and B153 (bar stools) through chair-by-chair joint inspection, matched-set completeness, removable seat-pad control, low restrained trolley loads and honest segregation of unsafe frames. B168 differs from B142 (air fryers), B150 (food processors), B154 (blenders) and B162 (rice cookers) through a heavy removable ceramic crock, thermal-shock risk, a separate glass lid and keeping the simple heating base dry and intact. B169 differs from B130 (paper shredders), B145 (projectors), B163 (photocopiers) and B166 (laminators) through sharp punch dies, retained punch scraps, spring-loaded handles, comb/wire supply inventories and document control around binding rejects.
 
+### Track 53: Bedroom Companions, Hinged Cooking & Office Cutting (Clusters 3, 4, 5, 6 & 10)
+*Continues the furniture-appliance-office sequence through three distinct preparation controls: clearing personal items and fragile tops from matched bedside tables, cooling and degreasing a hinged cooking appliance without wetting its powered body, and securing guarded cutting equipment after confidential scraps are removed.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B170** | *How to Dispose of Bedside Tables in Dubai: Drawers, Glass and Matched Pairs* | `how to dispose of bedside tables in dubai` | `bedside table disposal dubai`, `nightstand removal dubai`, `bedroom furniture collection dubai` | Q | `/services/furniture-removal` |
+| **B171** | *How to Dispose of a Sandwich Maker in Dubai: Plates, Grease and E-Waste* | `how to dispose of a sandwich maker in dubai` | `sandwich maker recycling dubai`, `small appliance disposal dubai`, `kitchen e-waste dubai` | Q | `/services/appliance-removal` |
+| **B172** | *How to Dispose of an Office Paper Cutter in Dubai: Blades, Guards and Records* | `how to dispose of an office paper cutter in dubai` | `paper cutter disposal dubai`, `guillotine removal dubai`, `office print room clearance dubai` | Q | `/services/office-junk-removal` |
+
+**Overlap check (content-rules section 16):** B170 differs from B75 (wardrobes), B122 (chests of drawers), B134 (dressing tables) and B155 (console tables) through matched-pair reuse, hidden personal-item sweeps, bedside electrical accessories and small removable glass or stone tops. B171 differs from B142 (air fryers), B159 (toasters) and B168 (slow cookers) through two hinged heated plates, fixed-versus-removable non-stick surfaces, grease around the hinge and a lid transport latch. B172 differs from B130 (paper shredders), B166 (laminators) and B169 (binding machines) through manual and powered cutting assemblies, guillotine versus rotary designs, blade guards, handle or carriage locks and confidential cutting scraps.
+
 ---
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -701,3 +712,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 47. **Batch 47 (Articles B161–B163):** Floor Textiles, Rice Cooking & Office Imaging — **100% Completed (3/3 Live)**.
 48. **Batch 48 (Articles B164–B166):** Glass Storage, Garment Care & Document Finishing — **100% Completed (3/3 Live)**.
 49. **Batch 49 (Articles B167–B169):** Dining Seating, Slow Cooking & Office Binding — **100% Completed (3/3 Live)**.
+50. **Batch 50 (Articles B170–B172):** Bedroom Companions, Hinged Cooking & Office Cutting — **100% Completed (3/3 Live)**.
