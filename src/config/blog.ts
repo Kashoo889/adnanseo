@@ -310,6 +310,12 @@ import blogB171Cover from "@/assets/blog-b171-sandwich-maker-disposal-cover.webp
 import blogB171Body from "@/assets/blog-b171-sandwich-maker-preparation-body.webp";
 import blogB172Cover from "@/assets/blog-b172-paper-cutter-removal-cover.webp";
 import blogB172Body from "@/assets/blog-b172-paper-cutter-secured-body.webp";
+import blogB173Cover from "@/assets/blog-b173-headboard-removal-cover.webp";
+import blogB173Body from "@/assets/blog-b173-headboard-fixings-body.webp";
+import blogB174Cover from "@/assets/blog-b174-hand-mixer-disposal-cover.webp";
+import blogB174Body from "@/assets/blog-b174-hand-mixer-parts-body.webp";
+import blogB175Cover from "@/assets/blog-b175-franking-machine-cover.webp";
+import blogB175Body from "@/assets/blog-b175-franking-machine-packing-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -18195,6 +18201,223 @@ export const blogPosts: BlogPost[] = [
       { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
       { href: "https://assets.fellowes.com/manuals/GuillotineTrimmer_410875_3L_022818_SinglePages.pdf", label: "Fellowes - Guillotine trimmer guard and safety instructions" },
       { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-headboard-in-dubai",
+    title: "How to Dispose of a Headboard in Dubai: Fixings, Upholstery and Access",
+    excerpt: "Confirm how the headboard is fixed, support it before release, retain brackets and hardware, disclose upholstery damage, and plan a protected route to collection.",
+    category: "Guides & Tips",
+    coverImage: blogB173Cover,
+    coverImageAlt: "Uniformed crew protecting an upholstered headboard before removal from a Dubai apartment",
+    publishedAt: "2026-11-06",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Headboard Disposal", "Bedroom Furniture", "Wall Fixings", "Furniture Collection"],
+    seoTitle: "How to Dispose of a Headboard in Dubai Safely",
+    seoDescription: "How to dispose of a headboard in Dubai: identify wall or bed fixings, support it before release, protect upholstery and plan lift access for collection.",
+    keyTakeaways: [
+      "Identify whether the headboard is wall-mounted, attached by bed struts or freestanding before moving the mattress or loosening hardware.",
+      "Support the full width before releasing the last bracket, retain every cleat and bolt, and have tenancy-approved wall repairs completed separately.",
+      "Keep a clean, structurally sound headboard complete for reuse; disclose stains, pests, torn fabric, loose timber or damaged mounting points.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a headboard in Dubai?",
+        paragraphs: [
+          "To dispose of a headboard in Dubai, identify whether it is wall-mounted, bolted to the bed or freestanding. Support its full width before releasing any fixing, bag the matched brackets and bolts, protect upholstery and corners, then arrange reuse or bulky-furniture collection with the lift and loading route confirmed.",
+          "A headboard looks simpler than a whole bed frame, but its width, hidden fixings and fragile finish create a separate removal job. Tall upholstered panels can be heavier than expected, while timber, glass, rattan or integrated lighting changes how the piece must be prepared and routed.",
+        ],
+      },
+      {
+        heading: "Find the fixing method before anyone pulls or lifts",
+        paragraphs: [
+          "Strip the bed and move the mattress only far enough to inspect safely. Look behind the headboard with a torch for bed struts, bolts into the divan, interlocking wall cleats, keyhole plates or floor-standing legs. Do not assume resistance is adhesive or force the panel away from the wall; concealed brackets can tear plaster or release suddenly.",
+          "Photograph the front, rear edge and every connection before work starts. A wall-mounted panel normally needs two people: one supports its weight and keeps it level while the other follows the product sequence. IKEA's headboard guidance confirms that headboards may anchor to the wall or bed structure, and its assembly instructions show that wall hardware must suit the wall material.",
+          "Switch off the relevant circuit and use a qualified person if the headboard includes reading lights, USB outlets or concealed mains wiring. A collection crew should receive an already isolated furniture item, not be asked to investigate a live wall connection during an Ejari handover.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Support it before the final fixing is released",
+          text: "A wide panel can rotate or drop when the last cleat, strut or bolt comes free. Keep hands away from the bracket line, protect the floor and wall, and never let one person balance a large headboard while another removes its support.",
+        },
+      },
+      {
+        heading: "Keep fixings, upholstery and the apartment protected",
+        paragraphs: [
+          "Once released, place the headboard on padded blocks or a clean moving blanket. Remove protruding bed struts only when the maker intended them to detach, then bag and attach the bolts, washers, brackets and cleats. Do not leave sharp metalwork exposed or tape directly onto velvet, leather, cane or painted timber.",
+          "Vacuum dry upholstery and inspect seams, the rear dust cover and timber rails. Disclose mould, pest evidence, smoke odour, deep stains, torn fabric or a cracked frame before offering it for reuse. Avoid soaking foam: a damp upholstered panel wrapped in plastic can trap odour and mould in Dubai's heat.",
+          "Measure the headboard, apartment door, corridor turns and service-lift opening rather than relying only on the bed size. Protect mirrors, stone inlays and projecting wings separately. Reserve the building's service lift or loading bay when required and keep the panel out of fire corridors while waiting.",
+        ],
+        image: blogB173Body,
+        imageAlt: "Released upholstered headboard supported on padding beside its wall brackets and retained hardware",
+        imageCaption: "Support the released panel, photograph the rear frame and keep every model-specific bracket with it.",
+      },
+      {
+        heading: "Choose reuse or bulky collection based on condition",
+        paragraphs: [
+          "Reuse suits a clean, dry and stable headboard with complete mounting hardware and no hidden hygiene issue. Give the recipient accurate dimensions, fixing type and clear rear photographs. A panel with a broken frame, contaminated upholstery, loose glass or missing proprietary brackets needs repair assessment or a confirmed bulky-furniture route instead.",
+          "Dubai Municipality lists household furniture within its bulky-waste service, subject to its current eligibility and location limits. Our [furniture removal service](https://dubaijunkcollection.com/services/furniture-removal) can coordinate a protected bedroom clearance in [Downtown Dubai](https://dubaijunkcollection.com/service-areas/downtown-dubai). Related guides cover [bed-frame dismantling](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-bed-frame-in-dubai), [mattress collection](https://dubaijunkcollection.com/blog/mattress-disposal-cost-dubai) and [bedside-table removal](https://dubaijunkcollection.com/blog/how-to-dispose-of-bedside-tables-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can I remove a wall-mounted headboard myself?", answer: "Only if you can identify the manufacturer's fixing method, the panel is manageable, no electrical connection is involved and a second capable person can support it. Stop if the brackets are concealed, the panel is bonded to the wall, or releasing it could damage wiring, glass or the tenancy finish." },
+      { question: "Should the wall brackets stay in the apartment?", answer: "Confirm ownership and the handover requirement first. Keep proprietary brackets with a headboard intended for reuse, but do not remove landlord-owned hardware without approval. Wall-plug removal, filling and repainting should follow building or landlord instructions and be completed by an appropriate maintenance provider." },
+      { question: "Will a charity accept an upholstered headboard?", answer: "Acceptance depends on current demand and condition. Offer it only when it is clean, dry, structurally sound, free from pest or mould evidence and supplied with its matching fixings. Send dimensions and front-and-back photos before transport; do not arrive with an unconfirmed bulky item." },
+      { question: "What photos help quote headboard removal?", answer: "Show the entire front, both sides, the rear frame, all wall or bed connections and any damage. Include measurements plus the bedroom doorway, corridor, stairs or service lift, loading point and other bed components leaving in the same collection." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-a-bed-frame-in-dubai", "mattress-disposal-cost-dubai", "how-to-dispose-of-bedside-tables-in-dubai"],
+    serviceLink: { href: "/services/furniture-removal", label: "Arrange headboard and bedroom-furniture collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality - Dispose of household appliances and furniture" },
+      { href: "https://www.ikea.com/es/en/customer-service/knowledge/articles/3g1b6377-6e9g-4498-85gc-3238bfg881f8.html", label: "IKEA - Headboard anchoring guidance" },
+      { href: "https://www.ikea.com/om/en/assembly_instructions/nordli-headboard-white__AA-2059279-6-100.pdf", label: "IKEA - Wall-mounted headboard assembly instructions" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-an-electric-hand-mixer-in-dubai",
+    title: "How to Dispose of an Electric Hand Mixer in Dubai: Beaters, Cords and E-Waste",
+    excerpt: "Unplug and clean the mixer, eject beaters only in the off position, keep attachments together, disclose faults, and use a confirmed small-appliance route.",
+    category: "Eco & Recycling",
+    coverImage: blogB174Cover,
+    coverImageAlt: "Dubai resident cleaning a dry unplugged electric hand mixer with its attachments separated",
+    publishedAt: "2026-11-06",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Hand Mixer Disposal", "Small Appliance Recycling", "Kitchen E-Waste", "Mixer Attachments"],
+    seoTitle: "How to Dispose of an Electric Hand Mixer in Dubai",
+    seoDescription: "How to dispose of an electric hand mixer in Dubai: unplug it, remove food, eject and pack beaters safely, disclose faults and choose a verified e-waste route.",
+    keyTakeaways: [
+      "Switch the mixer off and unplug it before cleaning or ejecting tools; never immerse the powered body, cord or Type G plug.",
+      "Clean and dry removable beaters or kneaders, wrap their working ends, and keep model-matched attachments with the correct mixer.",
+      "A safe complete mixer may suit reuse; damaged insulation, overheating, failed controls or a cracked housing requires repair or e-waste assessment.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an electric hand mixer in Dubai?",
+        paragraphs: [
+          "To dispose of an electric hand mixer in Dubai, switch it off, unplug it and remove food residue. Eject beaters or kneaders only as the manual directs, clean and dry detachable tools, keep the motor body dry, secure the cord and attachments, then choose verified reuse, repair or small-appliance e-waste collection.",
+          "The motor body is small, but loose stainless-steel tools, trapped batter and a trailing plug make an unprepared mixer awkward to handle. Stand-mounted hand mixers also have a bowl, cradle and release mechanism that must remain with the correct model if the appliance is to be reused.",
+        ],
+      },
+      {
+        heading: "Switch off before releasing beaters or kneaders",
+        paragraphs: [
+          "Set the selector to off and unplug at the wall before touching the tool sockets. Hold the mixer above a bowl or protected surface when operating its eject control so attachments cannot fall onto stone flooring or feet. Kenwood's hand-mixer instructions state that its tools release only with the speed selector in the off position.",
+          "Remove batter or dough from detachable tools, wash them only by the method allowed in the model manual and dry them fully. Wipe the body with a suitable cloth, keeping moisture out of ventilation slots, sockets, selector, cord entry and plug. Never immerse the powered body or rinse it under a tap.",
+          "Do not plug in a mixer with a split lead, bent plug pin, cracked case, loose socket, scorch mark or food inside the vents merely to prove that it works. Photograph and label the fault. A burning smell, abnormal noise or intermittent control needs qualified assessment rather than another kitchen test.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Do not reach into or dismantle the tool sockets",
+          text: "The drive mechanism and motor housing are not user-serviceable disposal steps. Leave the body intact, keep it unplugged and tell the receiver about any jammed attachment, broken eject control or electrical damage.",
+        },
+      },
+      {
+        heading: "Pack sharp-ended tools and the power lead separately",
+        paragraphs: [
+          "Match each beater, kneader, whisk, storage clip, bowl and stand to the correct appliance. Some paired tools are not interchangeable between sockets. Photograph the set, wrap the working ends in cloth or cardboard and use dividers so metal shafts cannot gouge the casing or protrude from a bag.",
+          "Coil the cable loosely around the designed storage point when one exists, avoiding a tight bend at the strain relief. Protect the three plug pins and place the body upright in a shallow small-appliance crate. Do not stack a kettle, blender or heavy pan on top of the speed control.",
+          "During an apartment move-out, keep the mixer with other dry electrical appliances rather than food waste or wet cleaning supplies. A crate prevents small tools disappearing between the kitchen, service lift and vehicle and lets a receiver assess the set without searching through loose bags.",
+        ],
+        image: blogB174Body,
+        imageAlt: "Electric hand mixer packed with dry wrapped beaters, kneaders and a protected Type G plug",
+        imageCaption: "A complete set keeps the dry motor body, matched tools and protected lead together without exposed metal ends.",
+      },
+      {
+        heading: "Use condition, not size, to choose the route",
+        paragraphs: [
+          "Reuse is reasonable when the housing, controls, cord and plug are intact, the motor runs normally and the complete clean attachment set is present. Disclose missing tools or cosmetic damage. A mixer with exposed wiring, overheating, a failed switch or a cracked food-adjacent housing belongs with repair assessment or a confirmed electrical-waste receiver.",
+          "Dubai Municipality includes used electrical appliances in its bulky-waste service, although a verified small-electrical drop-off or combined collection may be more practical for one mixer. Our [appliance removal service](https://dubaijunkcollection.com/services/appliance-removal) can combine kitchen items in [Dubai Marina](https://dubaijunkcollection.com/service-areas/dubai-marina). Related guides cover [food processors](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-food-processor-in-dubai), [blenders](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-blender-in-dubai) and [electronics recycling](https://dubaijunkcollection.com/blog/where-to-recycle-electronics-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can an electric hand mixer go in the household bin?", answer: "Use a confirmed small-appliance or e-waste route instead. The body contains a motor, wiring, controls and mixed materials. Remove food, keep the electrical housing dry and ask the receiver whether it accepts the complete appliance and its clean metal tools." },
+      { question: "Should beaters stay with the mixer for recycling?", answer: "Keep clean, dry, model-matched tools with the appliance unless the receiver specifically asks you to separate them. Wrap their ends so they cannot puncture packaging. Do not pull apart the tool sockets or powered housing to recover metal yourself." },
+      { question: "Can I donate a mixer with a damaged cord?", answer: "No casual donation should pass an electrical fault to another user. Keep it unplugged, disclose the damage and ask the manufacturer or a qualified repairer whether repair is appropriate. If not, send the complete unit through a verified electrical-waste route." },
+      { question: "What details help quote hand-mixer collection?", answer: "Show the body, model label, plug, full lead, sockets and every attachment, bowl or stand. Confirm that the set is unplugged, clean and dry, list known faults and include the other appliances being cleared because a combined collection is usually more practical." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-a-food-processor-in-dubai", "how-to-dispose-of-a-blender-in-dubai", "where-to-recycle-electronics-in-dubai"],
+    serviceLink: { href: "/services/appliance-removal", label: "Arrange small-appliance collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality - Dispose of household appliances and furniture" },
+      { href: "https://th.kenwoodworld.com/wp-content/uploads/sites/8/2023/06/HMP54000SI-247905.pdf", label: "Kenwood - Hand mixer tool release and cord-storage instructions" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-an-office-franking-machine-in-dubai",
+    title: "How to Dispose of an Office Franking Machine in Dubai: Accounts, Ink and Leases",
+    excerpt: "Confirm ownership, close the postage account with the supplier, export required records, isolate ink, inventory accessories, and use an authorized return or e-waste route.",
+    category: "Commercial & Office",
+    coverImage: blogB175Cover,
+    coverImageAlt: "Facilities and mailroom staff auditing an office franking machine in a Dubai business office",
+    publishedAt: "2026-11-06",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Franking Machine Disposal", "Postage Meter Return", "Office E-Waste", "Mailroom Clearance"],
+    seoTitle: "How to Dispose of an Office Franking Machine in Dubai",
+    seoDescription: "How to dispose of an office franking machine in Dubai: verify the lease, close postage accounts, protect records and ink, inventory parts and arrange return.",
+    keyTakeaways: [
+      "Do not discard or sell the machine until procurement confirms ownership, lease conditions and the supplier's meter-withdrawal or return process.",
+      "Export required postage and departmental reports, remove local address data where the approved procedure allows, and document account closure.",
+      "Power down normally, isolate ink and accessories as instructed, record serial numbers and arrange supplier-authorized return or commercial e-waste.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an office franking machine in Dubai?",
+        paragraphs: [
+          "To dispose of an office franking machine in Dubai, first confirm whether it is leased and contact the supplier. Close or transfer postage funds, export required audit reports, clear approved account data, isolate ink and accessories as instructed, record serial numbers, then arrange authorized return or commercial e-waste collection.",
+          "A franking machine is not simply a heavy printer. It may combine a postal security device, funded postage account, departmental usage records, address data, scale, feeder and licensed software. Removing the casing before those relationships are closed can create financial, records and contract problems.",
+        ],
+      },
+      {
+        heading: "Close ownership, postage and records before facilities moves it",
+        paragraphs: [
+          "Ask procurement or finance to locate the lease, rental or purchase record and contact the current supplier using the model, serial number, account number and equipment location. Do not assume a machine bought years ago is unrestricted property: the meter or postal security component may remain controlled even when the outer base was purchased.",
+          "Follow the supplier's cancellation, withdrawal or upgrade process and retain its return authorization. Pitney Bowes explains that unused postage can be credited after a meter is withdrawn or returned, while its cancellation guidance notes that some equipment requires an engineer visit. Those procedures are market- and contract-specific, so the Dubai office must use its own provider's written instructions.",
+          "Export the reports finance, tax or mailroom teams are required to retain, such as totals by period or cost centre. Quadient's equipment documentation shows that franking systems can hold postage, credit and account reports. Have the system owner remove approved address books, user accounts and network settings under the organization's data-retention process before asset release.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Never send an active postage meter as ordinary scrap",
+          text: "An active or leased meter may carry funds, controlled postal credentials and contract obligations. Keep it in the mailroom's custody until the supplier confirms withdrawal, return scope and who may pack or collect each component.",
+        },
+      },
+      {
+        heading: "Inventory consumables, accessories and the access route",
+        paragraphs: [
+          "After authorized shutdown, switch off and unplug the system. Follow the model procedure for its ink cartridge, print head, waste-ink component or sealing solution; do not open cartridges or wipe a spill into paper recycling. Seal released consumables upright in compatible packaging and use the supplier's take-back route where available.",
+          "Inventory the external scale, feeder, catch tray, label dispenser, LAN accessories, power supply, keys and manuals against the return list. Photograph serial labels and condition without exposing account information. Secure moving trays and the cable, but do not tape over vents, screens or labels the supplier needs to inspect.",
+          "Measure desktop and floor-standing modules, record weight from the manufacturer data and check the trolley, door, corridor and service lift. Book building management access and a loading bay in advance. Keep the unit upright on padding; lifting it by a feeder, scale platform or display can damage calibrated parts.",
+        ],
+        image: blogB175Body,
+        imageAlt: "Office franking machine, scale, feeder and sealed ink prepared for authorized collection near a Dubai service lift",
+        imageCaption: "Supplier instructions determine which meter, base, accessories and consumables must be returned together.",
+      },
+      {
+        heading: "Use the supplier return route before commercial e-waste",
+        paragraphs: [
+          "The supplier or lease owner is the first route for an active, replaced or end-of-contract system. Obtain collection evidence and reconcile the asset register, postage balance and contract. Only equipment the owner has formally released should enter resale, parts recovery or a licensed commercial electrical-waste stream.",
+          "Dubai businesses remain responsible for using an appropriate contracted waste route and documenting transfer. Our [office junk removal service](https://dubaijunkcollection.com/services/office-junk-removal) can coordinate released mailroom equipment in [Business Bay](https://dubaijunkcollection.com/service-areas/business-bay). Related guides cover [photocopier decommissioning](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-office-photocopier-in-dubai), [printer disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-printer-dubai) and [data-safe office electronics](https://dubaijunkcollection.com/blog/data-safe-electronics-disposal-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can I sell an old office franking machine?", answer: "Only after procurement and the provider confirm that the organization owns every component, the postal meter has been withdrawn, funds and contracts are closed, and transfer is permitted. A buyer cannot safely resolve an active lease, controlled meter or previous company's postage account after informal resale." },
+      { question: "What happens to unused postage credit?", answer: "The answer depends on the provider, postal arrangement and contract. Request the supplier's withdrawal or refund procedure before disconnection and retain the final account statement. Do not assume the balance follows the physical machine or can be recovered after unauthorized disposal." },
+      { question: "Does a franking machine store confidential data?", answer: "Many systems can retain user or departmental accounts, usage reports, network settings and sometimes address information. The authorized system owner should export required records and follow the maker's approved reset or decommissioning procedure. A removal crew should not browse menus or decide retention policy." },
+      { question: "What information helps plan franking-machine removal?", answer: "Provide the make, model, serial number, dimensions, weight and module list, plus photos of the machine, scale, feeder, stand and access route. Confirm ownership, supplier return authorization, account closure, data sign-off, consumable status, service-lift booking and loading instructions." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-an-office-photocopier-in-dubai", "how-to-dispose-of-old-printer-dubai", "data-safe-electronics-disposal-dubai"],
+    serviceLink: { href: "/services/office-junk-removal", label: "Arrange released mailroom-equipment collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
+      { href: "https://www.pitneybowes.com/uk/support/article/000086016/getting-a-refund-for-postage-on-old-franking-machine.html", label: "Pitney Bowes - Unused postage when returning a meter" },
+      { href: "https://www.pitneybowes.com/ie/support/article/000085336/cancel-return-equipment.html", label: "Pitney Bowes - Cancelling and returning equipment" },
+      { href: "https://kb.quadient.com/~/media/kb_neopost_com/products/mailing%2Bsystems/is-6000/standalone%2Bmedia/operations/user%2Bguide/4150770t%2Bis6000%2Buk%2Bgu.pdf?sc_AL=9&sc_Lang=en-GB", label: "Quadient - Franking machine reports and account data" },
     ],
   },
 ];
