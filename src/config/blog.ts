@@ -316,6 +316,12 @@ import blogB174Cover from "@/assets/blog-b174-hand-mixer-disposal-cover.webp";
 import blogB174Body from "@/assets/blog-b174-hand-mixer-parts-body.webp";
 import blogB175Cover from "@/assets/blog-b175-franking-machine-cover.webp";
 import blogB175Body from "@/assets/blog-b175-franking-machine-packing-body.webp";
+import blogB176Cover from "@/assets/blog-b176-room-divider-removal-cover.webp";
+import blogB176Body from "@/assets/blog-b176-room-divider-transport-body.webp";
+import blogB177Cover from "@/assets/blog-b177-stand-mixer-disposal-cover.webp";
+import blogB177Body from "@/assets/blog-b177-stand-mixer-parts-body.webp";
+import blogB178Cover from "@/assets/blog-b178-office-scanner-cover.webp";
+import blogB178Body from "@/assets/blog-b178-office-scanner-packing-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -18418,6 +18424,204 @@ export const blogPosts: BlogPost[] = [
       { href: "https://www.pitneybowes.com/uk/support/article/000086016/getting-a-refund-for-postage-on-old-franking-machine.html", label: "Pitney Bowes - Unused postage when returning a meter" },
       { href: "https://www.pitneybowes.com/ie/support/article/000085336/cancel-return-equipment.html", label: "Pitney Bowes - Cancelling and returning equipment" },
       { href: "https://kb.quadient.com/~/media/kb_neopost_com/products/mailing%2Bsystems/is-6000/standalone%2Bmedia/operations/user%2Bguide/4150770t%2Bis6000%2Buk%2Bgu.pdf?sc_AL=9&sc_Lang=en-GB", label: "Quadient - Franking machine reports and account data" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-room-divider-in-dubai",
+    title: "How to Dispose of a Room Divider in Dubai: Panels, Hinges and Safe Access",
+    excerpt: "Identify freestanding or fixed panels, remove approved fittings, restrain folding hinges, protect fragile inserts, and confirm reuse or bulky collection before moving it.",
+    category: "Guides & Tips",
+    coverImage: blogB176Cover,
+    coverImageAlt: "Clearance crew stabilizing a timber and fabric folding room divider in a Dubai apartment",
+    publishedAt: "2026-11-07",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Room Divider Disposal", "Folding Screen", "Furniture Collection", "Apartment Clearance"],
+    seoTitle: "How to Dispose of a Room Divider in Dubai Safely",
+    seoDescription: "How to dispose of a room divider in Dubai: check fixings, restrain folding panels, protect glass or fabric and arrange verified reuse or bulky collection.",
+    keyTakeaways: [
+      "Confirm whether the divider is freestanding, ceiling-tracked or fixed to the tenancy before removing any bracket, floor guide or electrical connection.",
+      "Close folding panels in their designed sequence, pad hinge edges and use broad straps that restrain movement without crushing fabric or screens.",
+      "Offer a clean, stable and complete divider for reuse with honest dimensions; damaged mixed-material panels need a receiver that accepts the whole item.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a room divider in Dubai?",
+        paragraphs: [
+          "To dispose of a room divider in Dubai, first identify whether it is freestanding or fixed to the property. Remove personal items, photograph panels and fittings, release approved anchors, protect glass or fabric, restrain folding hinges, measure the transport route, then arrange confirmed reuse or an accepted bulky-furniture collection.",
+          "A divider may be a light woven screen, a heavy timber folding set, a glass-panel partition or a ceiling-tracked fit-out. Those versions do not share one lifting method. Establishing ownership and understanding what keeps the panels upright are the first controls, not details to discover after pulling the screen forward.",
+        ],
+      },
+      {
+        heading: "Work out whether the screen belongs to the room",
+        paragraphs: [
+          "Compare the divider with the tenancy inventory and handover drawings. A freestanding screen normally leaves as furniture; a floor-fixed, wall-braced or ceiling-tracked system may be landlord property or part of an approved fit-out. Obtain written direction when removal would expose screw holes, tracks, power feeds or unfinished flooring.",
+          "Clear shelves and clipped accessories from both sides, then look for anti-tip straps, magnetic catches, adjustable feet, casters and concealed brackets. Support the full width before an approved fixing is released. Fixed wiring belongs with the landlord's or fit-out contractor's qualified person, and Dubai tower management should approve the service-lift and loading window before panels enter a corridor.",
+        ],
+        callout: { type: "warning", title: "A folding screen can move as soon as its restraint is released", text: "Keep enough people controlling the full width, close panels in the designed direction and never remove a wall or floor fixing while the divider is unsupported. Glass inserts and heavy end panels can shift the centre of gravity suddenly." },
+      },
+      {
+        heading: "Control hinges, inserts and the transport shape",
+        paragraphs: [
+          "Inspect each hinge, frame joint and foot before folding. Remove only glass, mirrors, shelves or decorative inserts designed to detach. Wrap every fragile piece separately with edge protection, label its panel, and keep pins, feet, keys and approved brackets in a closed parts pouch. Never put fingers into a closing hinge line.",
+          "Fold the panels slowly, pad the outside faces and exposed hinge edge, then use broad furniture straps rather than thin cord. Measure the restrained bundle and check doorway height, corridor turns, lift depth and vehicle clearance. Keep the load upright on a padded trolley instead of dragging its feet across marble or balancing it diagonally in a passenger lift.",
+        ],
+        image: blogB176Body,
+        imageAlt: "Folded room divider padded and strapped upright on a furniture trolley beside a Dubai service lift",
+        imageCaption: "Restrain the folded shape with broad straps and protect hinge edges before entering the building's service route.",
+      },
+      {
+        heading: "Match the complete divider to a confirmed route",
+        paragraphs: [
+          "Reuse works when the screen is clean, stable and complete. Send front-and-back photos, open and folded dimensions, materials and honest details of stains, torn fabric, loose hinges or missing feet. A recipient should accept it before transport; a divider left in a lobby is an obstruction, not a donation.",
+          "If reuse is unsuitable, confirm that the bulky route accepts the complete mixed-material item rather than breaking glass, fabric and timber inside the apartment. Dubai Municipality lists a household furniture and appliance service with location and eligibility conditions. Our [furniture collection team](https://dubaijunkcollection.com/services/furniture-removal) can plan removal in [Downtown Dubai](https://dubaijunkcollection.com/service-areas/downtown-dubai). Related guides cover [display cabinets](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-display-cabinet-in-dubai), [wall-anchored shelving](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-shelving-units-in-dubai) and whether to [sell or donate old furniture](https://dubaijunkcollection.com/blog/sell-vs-donate-old-furniture-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can a room divider be donated in Dubai?", answer: "Possibly, if a recipient confirms it from current photos and it is clean, stable and complete. Provide open and folded dimensions, materials, weight if known and every defect. Include feet, pins, brackets and removable inserts; do not deliver an unconfirmed bulky screen to a charity or lobby." },
+      { question: "Should I dismantle a folding screen before collection?", answer: "Usually not beyond components the manufacturer designed to detach. Close the panels in their normal sequence, protect hinge edges and strap the bundle without crushing it. Removing structural hinges can make panels unstable, lose matched hardware and reduce the chance of safe reuse." },
+      { question: "Who removes a ceiling-tracked room divider?", answer: "Use the landlord's or fit-out contractor's approved team when it is fixed to the ceiling, connected to power or tied into protected finishes. A clearance crew can collect released panels after ownership, isolation, safe lowering and making-good responsibilities are documented." },
+      { question: "What details help quote room-divider removal?", answer: "Send open and folded dimensions, panel count, material, fixing type and photos of both faces, hinges, feet and damage. Include the doorway, corridor, stairs or service lift and loading point, and state whether building management has approved the collection window." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-a-display-cabinet-in-dubai", "how-to-dispose-of-old-shelving-units-in-dubai", "sell-vs-donate-old-furniture-dubai"],
+    serviceLink: { href: "/services/furniture-removal", label: "Arrange protected room-divider collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality - Dispose of household appliances and furniture" },
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-stand-mixer-in-dubai",
+    title: "How to Dispose of a Stand Mixer in Dubai: Bowls, Attachments and E-Waste",
+    excerpt: "Switch off and unplug the mixer, remove and dry food-contact parts, lock the motor head, protect the cord, and choose complete reuse, repair or small-appliance e-waste.",
+    category: "Eco & Recycling",
+    coverImage: blogB177Cover,
+    coverImageAlt: "Resident removing the bowl from an unplugged stand mixer in a Dubai apartment kitchen",
+    publishedAt: "2026-11-07",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Stand Mixer Disposal", "Small Appliance Recycling", "Kitchen E-Waste", "Mixer Attachments"],
+    seoTitle: "How to Dispose of a Stand Mixer in Dubai Safely",
+    seoDescription: "How to dispose of a stand mixer in Dubai: unplug it, clean and pack bowls and tools, secure the heavy motor head and choose verified reuse or e-waste.",
+    keyTakeaways: [
+      "Set the control to off and unplug before removing the bowl, beater, whisk, dough hook or hub attachment; keep the powered body dry.",
+      "Lock a tilt head down or lower a bowl-lift mechanism for transport, then pack clean model-matched tools so they cannot strike the casing.",
+      "A complete safe mixer may suit reuse or repair; overheating, damaged insulation or a cracked housing requires a confirmed electrical-waste route.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a stand mixer in Dubai?",
+        paragraphs: [
+          "To dispose of a stand mixer in Dubai, turn the control to off, unplug it and remove food residue. Detach, wash and dry the bowl and approved tools, keep the motor body dry, lock the head or bowl lift for transport, protect the cord, then arrange verified reuse, repair or small-appliance e-waste collection.",
+          "A stand mixer is denser and more top-heavy than a hand mixer. Its base may contain a substantial motor and gearbox, while the bowl, beater, whisk, dough hook and hub accessories form a model-matched set. Separating and controlling those pieces prevents lost tools and a swinging motor head.",
+        ],
+      },
+      {
+        heading: "Unplug before touching the bowl, shaft or hub",
+        paragraphs: [
+          "Move the speed control to off and unplug at the wall. Follow the exact instructions for a tilt-head or bowl-lift model. KitchenAid's guidance says to unplug before assembling, disassembling or cleaning, and not to immerse the powered mixer body. Clean and dry detachable food-contact parts only by the model-approved method.",
+          "Do not open the gearbox, pull at a jammed drive shaft or plug in a unit that smells burnt, trips a circuit, leaks lubricant or has exposed wiring. Photograph the model label and fault. A qualified repair assessment is safer than a final test during a rushed kitchen clear-out.",
+        ],
+        callout: { type: "warning", title: "The motor head is heavier than it looks", text: "Keep fingers away from the hinge and bowl-lift linkage. Lock a tilt head in its lowered transport position when the manual permits, lower the bowl cradle and never lift the complete machine by its head, control lever, bowl or attachment hub." },
+      },
+      {
+        heading: "Keep the machine and matched tools under control",
+        paragraphs: [
+          "Inventory the bowl, flat beater, whisk, dough hook, splash guard, hub cap, cable and specialist attachments. Wrap each clean, dry tool so its shaft cannot gouge the mixer. Coil the lead loosely, avoid a tight bend at the strain relief and protect the Type G plug pins.",
+          "Place the mixer upright in a shallow padded crate with the head secured as the maker directs. Pack the bowl and tools in divided padding rather than loose under the head. Lift from the base with two hands and account for its concentrated weight; do not stack cookware or another appliance on its controls.",
+        ],
+        image: blogB177Body,
+        imageAlt: "Stand mixer packed upright with a dry bowl, beater, whisk, dough hook and protected Type G plug",
+        imageCaption: "Keep the heavy base upright and separate clean attachments with padding so the complete set reaches its next route intact.",
+      },
+      {
+        heading: "Choose reuse by condition, not appearance",
+        paragraphs: [
+          "Reuse is reasonable when the controls, housing, lead and plug are sound, the motor runs normally and the clean compatible set is complete. Disclose a missing bowl, noisy gearbox, worn coating or loose head. Repair may suit a serviceable model, but a cosmetic clean should never hide an electrical or mechanical fault.",
+          "A failed mixer belongs with a receiver that accepts small electrical appliances. Dubai Municipality lists used appliances within its household bulky-waste service, subject to current conditions. Our [appliance collection service](https://dubaijunkcollection.com/services/appliance-removal) can combine kitchen items in [Dubai Marina](https://dubaijunkcollection.com/service-areas/dubai-marina). See also [hand mixers](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-electric-hand-mixer-in-dubai), [food processors](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-food-processor-in-dubai) and [electronics recycling routes](https://dubaijunkcollection.com/blog/where-to-recycle-electronics-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can a stand mixer go in the household bin?", answer: "Use a confirmed small-appliance or e-waste route instead. The base contains a motor, gearbox, wiring and controls. Keep it intact and dry, remove food, protect the lead and ask whether the receiver wants the clean bowl and attachments packed with it." },
+      { question: "Should I lock the mixer head before collection?", answer: "Follow the model's transport instructions. A tilt head is commonly lowered and locked, while a bowl-lift cradle should be lowered and its bowl removed. Do not force a damaged latch; tell the collector if the head cannot be restrained normally." },
+      { question: "Can I donate a stand mixer with a noisy gearbox?", answer: "Not as a fully working appliance without honest assessment. Stop using it, describe the noise and arrange qualified repair evaluation. If repair is unsuitable, use electrical-waste collection. Passing on an intermittent or overheating mixer transfers a fault the recipient may not recognize." },
+      { question: "What photos help quote stand-mixer collection?", answer: "Show the complete mixer, model label, plug, full cable, speed control, hinge or bowl lift and every bowl and attachment. Include known damage and other appliances leaving, and state that food has been removed and washable parts are dry." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-an-electric-hand-mixer-in-dubai", "how-to-dispose-of-a-food-processor-in-dubai", "where-to-recycle-electronics-in-dubai"],
+    serviceLink: { href: "/services/appliance-removal", label: "Arrange small-appliance collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality - Dispose of household appliances and furniture" },
+      { href: "https://www.kitchenaid.com/content/dam/global/documents/202203/owners-manual-w11378207-revc.pdf", label: "KitchenAid - Stand mixer care and cleaning instructions" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-an-office-document-scanner-in-dubai",
+    title: "How to Dispose of an Office Document Scanner in Dubai: Records, Settings and E-Waste",
+    excerpt: "Close document custody, confirm ownership, export required settings, reset saved contacts and network data, secure trays and cables, then use authorized reuse or office e-waste.",
+    category: "Commercial & Office",
+    coverImage: blogB178Cover,
+    coverImageAlt: "IT and facilities staff auditing a network document scanner in a Dubai office",
+    publishedAt: "2026-11-07",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Document Scanner Disposal", "Office E-Waste", "Data Security", "Records Management"],
+    seoTitle: "How to Dispose of an Office Document Scanner in Dubai",
+    seoDescription: "How to dispose of an office document scanner in Dubai: clear paper, reset contacts and network settings, inventory accessories and arrange secure e-waste.",
+    keyTakeaways: [
+      "Search the feeder, output tray, carrier sheets and jam path for originals before the scanner leaves the records team's controlled area.",
+      "Have an authorized administrator export required configuration, delete contacts and job history, and run the model-supported all-settings reset.",
+      "Record ownership and serial numbers, secure trays and power supplies, then use verified reuse or a documented commercial e-waste transfer.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an office document scanner in Dubai?",
+        paragraphs: [
+          "To dispose of an office document scanner in Dubai, confirm ownership and search every paper path for originals. An authorized administrator should export required configuration, remove contacts and job history, reset network and security settings, then power down, secure trays and accessories, record the serial number, and arrange verified reuse or commercial e-waste collection.",
+          "A sheet-fed scanner is not just an empty peripheral. Network models may hold email contacts, authentication details, scan destinations, certificates, usage history and administrator settings. Paper can also remain beneath a feeder roller after a jam. Records custody and system administration must finish before facilities moves the device.",
+        ],
+      },
+      {
+        heading: "Close the document trail before resetting the device",
+        paragraphs: [
+          "Ask the records owner to empty the trays, remove carrier sheets and inspect the accessible jam path using the manual. Account for every original, especially identity documents, signed forms and HR or finance batches. Never photograph readable pages for a removal quote or send a clearance worker searching confidential records.",
+          "IT should check ownership and managed-service contracts, identify scan-to-email, network-folder, cloud and badge integrations, then retain required configuration evidence. Epson's network-scanner guidance says an all-settings restore deletes registered settings including contacts; its administration documentation also identifies stored user information and job history. Let the supported reset complete before removing power and record who performed it.",
+        ],
+        callout: { type: "warning", title: "A network reset may not clear every category of data", text: "Use the manufacturer-supported all-settings or decommissioning process approved by IT, not just a Wi-Fi reset. Contacts, authentication, certificates and job records may use separate controls, and deleted settings cannot always be recovered." },
+      },
+      {
+        heading: "Secure the paper path and transport parts",
+        paragraphs: [
+          "After sign-off, switch off normally and unplug. Remove dust and paper fragments only through user-accessible cleaning points. Do not spray sensors, pull rollers from shafts or open the electrical housing. Close or remove input and output trays as directed and engage the model's transport lock when fitted.",
+          "Inventory the correct power supply, Type G lead, USB and Ethernet cables, wireless module, roller kit and licensed accessories. Pack the scanner upright in a padded crate with weight away from the automatic feeder. Book the service lift for a production model and keep its serial number visible until the transfer record is complete.",
+        ],
+        image: blogB178Body,
+        imageAlt: "Office document scanner secured in a padded crate with power and network cables separated for collection",
+        imageCaption: "Move the scanner only after paper custody, administrator reset and accessory inventory have been signed off.",
+      },
+      {
+        heading: "Transfer a released scanner through a documented route",
+        paragraphs: [
+          "Reuse may suit an owned, supported scanner that feeds reliably and has completed the organization's sanitization process. Provide the model, scan count if available, roller condition, power supply and fault history. The recipient should create new administrator credentials and network configuration rather than inheriting the former office's profile.",
+          "A leased device returns through its provider. A failed owned unit needs a commercial electrical-waste receiver and the transfer records required by the business. Dubai Municipality's duty-of-care guidance places responsibility on waste holders to arrange appropriate collection and disposal. Our [office clearance service](https://dubaijunkcollection.com/services/office-junk-removal) can coordinate released equipment in [Business Bay](https://dubaijunkcollection.com/service-areas/business-bay). Related guides cover [printers](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-printer-dubai), [photocopiers](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-office-photocopier-in-dubai) and [data-safe electronics disposal](https://dubaijunkcollection.com/blog/data-safe-electronics-disposal-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Does an office scanner store copies of documents?", answer: "It depends on the model and workflow. A scanner may retain job history, contacts, authentication data, destinations or temporary information even when it is not a copier. IT should review the model documentation and connected capture system, then record the supported decommissioning process." },
+      { question: "Is resetting Wi-Fi enough before scanner disposal?", answer: "Not necessarily. A network-only reset may leave contacts, user accounts, job history or other administrator settings. Use the model-specific all-settings or retirement process approved by IT, allow it to finish and remove connected service credentials separately where required." },
+      { question: "Can a leased document scanner go to an e-waste collector?", answer: "Not without the owner's written release. Check the lease or managed-service agreement and request the provider's return instructions. Record the serial number, trays, power supply, roller kits and condition so the organization can close the asset without missing-equipment charges." },
+      { question: "What details help quote document-scanner removal?", answer: "Provide the make, model, serial number, dimensions, weight, lease status and accessory list, plus photos with no readable documents. Confirm that the paper-path search, IT reset and asset release will be complete, and include service-lift, loading and security-booking details." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-old-printer-dubai", "how-to-dispose-of-an-office-photocopier-in-dubai", "data-safe-electronics-disposal-dubai"],
+    serviceLink: { href: "/services/office-junk-removal", label: "Arrange released office-electronics collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
+      { href: "https://download4.epson.biz/sec_pubs/ds-900wn/useg/en/manual.pdf", label: "Epson - Network document scanner user guide and reset controls" },
+      { href: "https://download4.epson.biz/sec_pubs/ds-900wn/slad/sr/manual.pdf", label: "Epson - User information stored in a network scanner" },
     ],
   },
 ];

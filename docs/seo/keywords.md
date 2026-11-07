@@ -720,3 +720,11 @@
 | 415 | how to dispose of a headboard in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-headboard-in-dubai`) |
 | 416 | how to dispose of an electric hand mixer in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-electric-hand-mixer-in-dubai`) |
 | 417 | how to dispose of an office franking machine in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-office-franking-machine-in-dubai`) |
+
+### New question-intent blog targets (Batch 52)
+
+| # | Keyword | Intent | Recommended Page |
+| :-: | :--- | :---: | :--- |
+| 418 | how to dispose of a room divider in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-room-divider-in-dubai`) |
+| 419 | how to dispose of a stand mixer in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-stand-mixer-in-dubai`) |
+| 420 | how to dispose of an office document scanner in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-office-document-scanner-in-dubai`) |
