@@ -694,6 +694,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules section 16):** B179 differs from B23 (sofas), B77 (recliners), B128 (sofa beds) and B167 (dining chairs) through a single non-mechanical upholstered chair, frame-spring-fabric condition checks, pest screening, screw-in leg removal and the on-its-back doorway pivot. B180 differs from B150 (food processors), B154 (blenders) and B177 (stand mixers) through perishable pulp clearance, centrifugal mesh baskets and slow-juicer auger-and-screen sets, and the locking-arm safety interlock. B181 differs from B93 (filing cabinets), B94 (shelving) and B84 (safes) through per-employee personal contents, witnessed opening, key-register and smart-lock code reconciliation, and bank-to-bank anchor release.
 
+### Track 57: Convertible Sleeping, Pressure Cooking & Desk Accessories (Clusters 3, 4, 5, 6 & 10)
+*Continues the furniture-appliance-office sequence through three distinct controls: separating a daybed's frame, trundle and two mattresses in a safe order, confirming a pressure cooker is depressurized and its seal and valves are sound, and reconciling high-volume office peripherals, batteries and pairings before e-waste transfer.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B182** | *How to Dispose of a Daybed in Dubai: Trundles, Mattresses and Safe Dismantling* | `how to dispose of a daybed in dubai` | `daybed disposal dubai`, `trundle bed removal dubai`, `bed collection dubai` | Q | `/services/furniture-removal` |
+| **B183** | *How to Dispose of an Electric Pressure Cooker in Dubai: Valves, Seals and E-Waste* | `how to dispose of an electric pressure cooker in dubai` | `pressure cooker disposal dubai`, `multicooker recycling dubai`, `kitchen e-waste dubai` | Q | `/services/appliance-removal` |
+| **B184** | *How to Dispose of Office Computer Peripherals in Dubai: Keyboards, Docks and Headsets* | `how to dispose of office computer peripherals in dubai` | `office it accessories disposal dubai`, `keyboard and mouse recycling dubai`, `office e-waste collection dubai` | Q | `/services/office-junk-removal` |
+
+**Overlap check (content-rules section 16):** B182 differs from B65 (bed frames), B125 (bunk beds), B128 (sofa beds) and B173 (headboards) through a three-sided seating frame, a pop-up or rolling trundle with spring linkage, two separately routed mattresses and a slat-rail-panel dismantling order. B183 differs from B162 (rice cookers), B168 (slow cookers) and B142 (air fryers) through depressurization and float-valve checks, a stuck-lid procedure, sealing-ring wear and steam-release valve inspection. B184 differs from B27 (laptops), B90 (data-safe electronics), B106 (mobile phones) and B136 (routers) through high-volume low-data accessories, asset-tag and lease reconciliation, wireless unpairing, battery separation and cable sorting.
+
 ---
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -749,3 +760,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 51. **Batch 51 (Articles B173–B175):** Bedroom Panels, Handheld Mixing & Mailroom Postage — **100% Completed (3/3 Live)**.
 52. **Batch 52 (Articles B176–B178):** Folding Interiors, Countertop Mixing & Office Scanning — **100% Completed (3/3 Live)**.
 53. **Batch 53 (Articles B179–B181):** Upholstered Seating, Pulp Extraction & Staff Storage — **100% Completed (3/3 Live)**.
+54. **Batch 54 (Articles B182–B184):** Convertible Sleeping, Pressure Cooking & Desk Accessories — **100% Completed (3/3 Live)**.

@@ -328,6 +328,12 @@ import blogB180Cover from "@/assets/blog-b150-food-processor-cover.webp";
 import blogB180Body from "@/assets/blog-b154-blender-parts-body.webp";
 import blogB181Cover from "@/assets/blog-b39-workplace-decluttering-cover.webp";
 import blogB181Body from "@/assets/blog-b39-office-storage-audit-body.webp";
+import blogB182Cover from "@/assets/blog-b173-headboard-removal-cover.webp";
+import blogB182Body from "@/assets/blog-b125-bunk-bed-components-body.webp";
+import blogB183Cover from "@/assets/blog-b162-rice-cooker-disposal-cover.webp";
+import blogB183Body from "@/assets/blog-b162-rice-cooker-parts-body.webp";
+import blogB184Cover from "@/assets/blog-b45-electronics-recycling-cover.webp";
+import blogB184Body from "@/assets/blog-b45-ewaste-dropoff-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -18822,6 +18828,204 @@ export const blogPosts: BlogPost[] = [
     ],
     relatedSlugs: ["how-to-dispose-of-old-filing-cabinets-in-dubai", "how-to-dispose-of-office-cubicles-in-dubai", "how-to-clear-an-office-in-dubai"],
     serviceLink: { href: "/services/office-junk-removal", label: "Arrange office-locker removal" },
+    sources: [
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality - Waste services" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-daybed-in-dubai",
+    title: "How to Dispose of a Daybed in Dubai: Trundles, Mattresses and Safe Dismantling",
+    excerpt: "Strip both mattresses, lower and remove the trundle, release the back and side panels in order, bag the fixings, then route the frame and mattresses to confirmed reuse or bulky collection.",
+    category: "Guides & Tips",
+    coverImage: blogB182Cover,
+    coverImageAlt: "Two crew members wrapping an upholstered bed panel in a furniture blanket inside a Dubai bedroom",
+    publishedAt: "2026-11-10",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Daybed Disposal", "Trundle Bed", "Furniture Collection", "Bedroom Clearance"],
+    seoTitle: "How to Dispose of a Daybed in Dubai Safely",
+    seoDescription: "How to dispose of a daybed in Dubai: remove both mattresses, release a spring-loaded trundle, dismantle panels in order and book verified reuse or bulky pickup.",
+    keyTakeaways: [
+      "Treat the daybed as three items: the main frame, the trundle and two mattresses, each with its own condition check and route.",
+      "Lower a pop-up trundle fully and keep hands clear of its spring linkage before lifting it out of the frame.",
+      "Release slats and rails before the back and arm panels, keep the frame square while bolts come out, and bag every fixing.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a daybed in Dubai?",
+        paragraphs: [
+          "To dispose of a daybed in Dubai, strip the bedding and remove both mattresses. Lower and lift out the trundle, take out slats and rails, then release the back and side panels while the frame is supported. Bag the fixings, measure the route, and arrange confirmed reuse or accepted bulky-furniture collection for frame and mattresses.",
+          "A daybed sits between a sofa and a bed. It has a three-sided frame used as seating, a main mattress and often a trundle on castors with a second mattress underneath. Each part is a different shape and weight, so planning the order of removal matters more than the force needed to lift any single piece.",
+        ],
+      },
+      {
+        heading: "Separate the mattresses and trundle first",
+        paragraphs: [
+          "Remove cushions, bolsters and bedding, then check under the frame for stored items, toys and lost belongings. Lift out the main mattress and pull the trundle forward. A pop-up trundle uses spring-loaded legs that raise the lower mattress to bed height; fold it fully down before handling it and keep fingers away from the hinge points.",
+          "Inspect both mattresses separately in daylight for stains, sagging, odours and any sign of bed bugs along seams. A clean, firm mattress may be accepted with the frame, while a soiled one needs its own disposal route. Never prop a mattress against a corridor wall or leave it beside building bins while the frame is being dismantled.",
+        ],
+        callout: { type: "warning", title: "A pop-up trundle can spring upward", text: "If the trundle legs are under tension, lower it slowly with both hands on the frame, not the linkage. Do not remove a spring or hinge bolt to make it flatter; carry it folded and strapped instead." },
+      },
+      {
+        heading: "Dismantle the frame in a controlled order",
+        paragraphs: [
+          "Photograph the joints before you start. Remove the slats or slatted deck, then the front rail and any centre support, so the back and arm panels carry no load. With one person holding the frame square, undo the bolts or cam fittings between the back panel and arms. Metal daybeds often use bolts with captive nuts; keep each set with its panel.",
+          "Wrap upholstered back panels in a furniture blanket, tape fixings into labelled bags attached to the parts they came from, and bundle slats with soft straps. Measure the longest panel against the doorway, corridor turn and service-lift depth. Move the bundle upright on a padded trolley rather than dragging long rails across marble or tiled floors.",
+        ],
+        image: blogB182Body,
+        imageAlt: "Dismantled timber bed panels, slat sections and a bag of bolts strapped to a padded trolley in a Dubai residential corridor",
+        imageCaption: "Bundle panels and slats on a padded trolley and keep the fixings bagged with the frame so the set stays complete for reuse.",
+      },
+      {
+        heading: "Route the frame and mattresses separately",
+        paragraphs: [
+          "A sturdy, clean daybed with all panels, slats, trundle and fixings can suit resale, a community group or a family moving into a smaller flat. Share photos of the assembled frame, the trundle mechanism and both mattresses, with honest notes on scratches, loose joints or stains, and wait for confirmation before transport.",
+          "If reuse is unsuitable, Dubai Municipality lists a household furniture collection service subject to its current conditions, and a private collector can take frame and mattresses together. Our [furniture removal team](https://dubaijunkcollection.com/services/furniture-removal) works across [Dubai Marina](https://dubaijunkcollection.com/service-areas/dubai-marina). Related guides cover [bed frames](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-bed-frame-in-dubai), [mattress disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-mattress-in-dubai) and [sofa beds](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-sofa-bed-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can a daybed be donated in Dubai?", answer: "Yes, if the frame is sturdy and complete, the fixings are bagged and the recipient accepts it from current photos. Mattresses are judged separately and are often declined unless clean and in good condition. Confirm acceptance before moving anything out of the apartment." },
+      { question: "Do I need to dismantle a daybed before collection?", answer: "Usually, because the assembled frame is long and deep and rarely fits a service lift upright. Remove mattresses and trundle first, then slats and rails, then the back and arm panels. Keep every bolt with its part so the bed can be reassembled." },
+      { question: "Is a pop-up trundle dangerous to move?", answer: "It can be if handled carelessly. The legs are spring-loaded to lift the lower mattress. Fold the trundle fully down, hold it by the frame rather than the linkage, and strap it closed. Never remove springs or hinge bolts to flatten it." },
+      { question: "What details help quote daybed removal?", answer: "Send photos of the assembled daybed, the trundle and both mattresses, with dimensions and frame material. Include the floor, lift or stairs, parking and loading access, whether the bed is already dismantled and any other furniture leaving at the same time." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-a-bed-frame-in-dubai", "how-to-dispose-of-a-mattress-in-dubai", "how-to-dispose-of-a-sofa-bed-in-dubai"],
+    serviceLink: { href: "/services/furniture-removal", label: "Book daybed collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality - Dispose of household appliances and furniture" },
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-an-electric-pressure-cooker-in-dubai",
+    title: "How to Dispose of an Electric Pressure Cooker in Dubai: Valves, Seals and E-Waste",
+    excerpt: "Unplug and fully depressurize the cooker, clean the inner pot, sealing ring and valves, check the lid lock, protect the cord, then choose verified reuse or small-appliance e-waste.",
+    category: "Eco & Recycling",
+    coverImage: blogB183Cover,
+    coverImageAlt: "Gloved crew member opening the hinged lid of an unplugged electric cooker beside its removed inner pot and detachable power lead",
+    publishedAt: "2026-11-10",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Pressure Cooker Disposal", "Small Appliance Recycling", "Kitchen E-Waste", "Multicooker"],
+    seoTitle: "How to Dispose of an Electric Pressure Cooker in Dubai",
+    seoDescription: "How to dispose of an electric pressure cooker in Dubai: release pressure, clean the pot, seal and valves, check the lid lock and arrange verified reuse or e-waste.",
+    keyTakeaways: [
+      "Never open or pack a cooker that may still hold pressure; unplug it, let it cool and confirm the float valve has dropped.",
+      "The silicone sealing ring absorbs odours and wears out, so clean it, dry it and disclose its condition or replace it before reuse.",
+      "A unit with a sticking lid lock, damaged valve, warped rim or burnt smell should go to e-waste, not to another household.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an electric pressure cooker in Dubai?",
+        paragraphs: [
+          "To dispose of an electric pressure cooker in Dubai, unplug it, let it cool and confirm the float valve has dropped before opening. Remove and clean the inner pot, sealing ring, steam-release valve and condensation cup, dry everything, protect the cord and plug, then arrange verified reuse for a sound unit or small-appliance e-waste collection.",
+          "An electric pressure cooker or multicooker looks like a rice cooker, but its lid, seal and valves are built to contain steam under pressure. Those parts decide whether the appliance is safe for someone else to use, so they deserve more attention than the outer casing during a kitchen clear-out.",
+        ],
+      },
+      {
+        heading: "Make sure it is cool and depressurized",
+        paragraphs: [
+          "Switch off and unplug at the wall. Allow the cooker to cool fully, then check that the float or pressure-indicator valve has dropped. Only open the lid when it turns freely, exactly as the manual describes. If the lid will not release, leave it closed, keep it unplugged and tell the collector; do not force it, prise it or tap the valve.",
+          "Once open, discard food residue and wash the inner pot. Remove the silicone sealing ring, anti-block shield, steam-release valve cover and condensation cup where the model allows. These parts trap odours and starch, which spoil quickly in a warm Dubai store room. Wipe the outer housing and heating plate with a damp cloth only and never immerse the base.",
+        ],
+        callout: { type: "warning", title: "Do not test a faulty cooker under pressure", text: "If the lid lock sticks, steam escaped from the rim, the valve is cracked or the unit smelled burnt, stop using it. Running a pressure cycle to check it is not a safe test. Label it as faulty for electrical-waste collection." },
+      },
+      {
+        heading: "Check the seal, valves and accessories",
+        paragraphs: [
+          "Inspect the sealing ring for tears, stretching or hardening and the lid rim for dents or warping. Check that the steam-release handle moves freely and the float valve is clean. A worn ring is a normal consumable, but its condition should be disclosed or the ring replaced with a model-matched part before reuse.",
+          "Gather the inner pot, lid, sealing ring, steam rack, measuring cup, spoon, condensation cup and power lead. Many units use a detachable lead; keep it with the base, coil it loosely and cover the Type G plug pins. Pack the dry inner pot beside the base rather than locked inside, so the lid seal is not crushed in transit.",
+        ],
+        image: blogB183Body,
+        imageAlt: "Electric cooker base, non-stick inner pot, removed inner lid with gasket, valve cap, paddle and detachable lead laid out on a kitchen counter",
+        imageCaption: "Lay out the pot, inner lid, seal, valve parts and lead together so condition and completeness can be checked before collection.",
+      },
+      {
+        heading: "Choose reuse only for a proven, complete unit",
+        paragraphs: [
+          "Reuse is reasonable when the cooker seals and releases normally, the lid lock and valves work, the inner pot coating is intact and the lead and plug are undamaged. Share the model, age and the condition of the sealing ring, and include the manual or model number so the recipient can source parts.",
+          "A faulty or incomplete cooker belongs in a small-appliance or electrical-waste route. Dubai Municipality lists used appliances within its household collection service, subject to current conditions. Our [appliance removal service](https://dubaijunkcollection.com/services/appliance-removal) can collect kitchen appliances in [Jumeirah Village Circle](https://dubaijunkcollection.com/service-areas/jumeirah-village-circle). See also [rice cooker disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-rice-cooker-in-dubai), [slow cookers](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-slow-cooker-in-dubai) and [old pots and pans](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-pots-and-pans-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can an electric pressure cooker go in the household bin?", answer: "Use a small-appliance or e-waste route instead. The base contains a heating element, sensors, wiring and a control board. Clean and dry it, keep the parts together and hand it to a collector or drop-off point that confirms it accepts small electrical appliances." },
+      { question: "What if the lid will not open?", answer: "Leave it closed. Unplug the cooker, let it cool fully and check whether the float valve has dropped. Do not force the lid, tap the valve or lever the rim. Tell the collector the lid is stuck so it is handled as a faulty unit." },
+      { question: "Should I keep the sealing ring with the cooker?", answer: "Yes. The ring is model-specific and the cooker cannot seal without it. Clean and dry it, note any tears or stretching, and pack it with the lid. A recipient can replace a worn ring, but a missing one often makes the appliance unusable." },
+      { question: "What details help quote pressure-cooker collection?", answer: "Send the make, model and capacity, photos of the base, lid, inner pot, sealing ring and lead, and any fault such as a sticking lid. Mention other kitchen items leaving, the floor and lift access, and confirm the cooker is clean and dry." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-a-rice-cooker-in-dubai", "how-to-dispose-of-a-slow-cooker-in-dubai", "how-to-dispose-of-old-pots-and-pans-in-dubai"],
+    serviceLink: { href: "/services/appliance-removal", label: "Arrange small-appliance collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality - Dispose of household appliances and furniture" },
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-office-computer-peripherals-in-dubai",
+    title: "How to Dispose of Office Computer Peripherals in Dubai: Keyboards, Docks and Headsets",
+    excerpt: "Reconcile asset tags, unpair wireless devices, remove batteries, reset docking stations and headsets, sort cables and chargers, then use verified reuse or documented office e-waste.",
+    category: "Commercial & Office",
+    coverImage: blogB184Cover,
+    coverImageAlt: "Keyboard, chargers, coiled cables, router and handheld devices sorted on a desk before electronics recycling in Dubai",
+    publishedAt: "2026-11-10",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Office E-Waste", "Computer Peripherals", "IT Asset Disposal", "Office Clearance"],
+    seoTitle: "How to Dispose of Office Computer Peripherals in Dubai",
+    seoDescription: "How to dispose of office computer peripherals in Dubai: check asset tags, unpair and remove batteries, reset docks and headsets, then arrange reuse or e-waste.",
+    keyTakeaways: [
+      "Reconcile every tagged keyboard, mouse, dock, webcam and headset against the asset register before anything is bagged for collection.",
+      "Unpair wireless devices, remove replaceable batteries and isolate swollen or damaged rechargeable units for separate handling.",
+      "Sort working, tested items for reuse and send the rest, including cables and chargers, through a documented commercial e-waste transfer.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of office computer peripherals in Dubai?",
+        paragraphs: [
+          "To dispose of office computer peripherals in Dubai, reconcile keyboards, mice, docking stations, webcams and headsets against the asset register. Unpair wireless devices, remove batteries, reset docks and headsets with stored settings, and sort cables and chargers. Pass tested items to verified reuse and send the remainder through documented commercial e-waste collection.",
+          "Peripherals rarely carry sensitive data, but they arrive in volume, often tangled in drawers and storerooms after desk moves. The work is mostly inventory and sorting: matching tagged items to records, separating batteries and confirming which accessories belong to leased or managed equipment before a clearance crew takes them away.",
+        ],
+      },
+      {
+        heading: "Match peripherals to the asset register",
+        paragraphs: [
+          "Collect peripherals from desks, meeting rooms, drawers and the IT shelf into one controlled area. Record asset tags and serial numbers for docking stations, conference webcams, speakerphones, headsets and any tagged keyboards or mice. Check whether any were supplied under a laptop lease, a managed-print or conferencing contract, or a vendor warranty, because those may need to be returned rather than disposed of.",
+          "Ask IT to remove docking stations, wireless receivers and conference devices from device-management tools and to note any that hold configuration, such as conference cameras or speakerphones linked to room accounts. Reset these using the manufacturer's supported process. Keep USB receivers with their keyboards and mice so working sets stay usable.",
+        ],
+        callout: { type: "warning", title: "Do not bag swollen or damaged batteries with other devices", text: "Wireless headsets, mice and presenters may contain lithium batteries. If a casing is bulging, cracked, hot or leaking, isolate it in a non-flammable container away from heat and tell the e-waste receiver before collection." },
+      },
+      {
+        heading: "Sort batteries, cables and working sets",
+        paragraphs: [
+          "Remove AA or AAA cells from keyboards, mice and presenters and tape the terminals of lithium cells before placing them in a separate battery box. Leave built-in rechargeable batteries in place unless the device is designed for user removal. Unpair Bluetooth devices from shared computers and conference rooms so they do not reconnect unexpectedly.",
+          "Coil cables loosely and band them by type: USB, HDMI, DisplayPort, network and power. Keep each docking station with its own power supply, as voltages differ between models. Test items that are candidates for reuse, then label them as working, faulty or untested. A clear label saves the receiver time and stops working kit being lost in a general e-waste bin.",
+        ],
+        image: blogB184Body,
+        imageAlt: "Box of sorted cables, chargers and small electronic devices being handed to a staff member at a labelled e-waste drop-off counter in Dubai",
+        imageCaption: "Hand over sorted, labelled peripherals and cables so the receiver can separate reusable sets from material for recycling.",
+      },
+      {
+        heading: "Transfer through reuse or documented e-waste",
+        paragraphs: [
+          "Tested keyboards, mice, headsets and docks can suit staff reuse, schools or community groups, provided the organization approves the transfer. Provide quantities, models and condition. Headsets and earpieces should be cleaned and have ear cushions replaced or disclosed, since hygiene is the usual reason they are refused.",
+          "Faulty or surplus peripherals belong with a commercial electrical-waste receiver. Dubai Municipality's duty-of-care guidance makes businesses holding waste responsible for using appropriate collection and disposal routes, so keep the transfer record. Our [office junk removal service](https://dubaijunkcollection.com/services/office-junk-removal) can clear released IT accessories in [Business Bay](https://dubaijunkcollection.com/service-areas/business-bay). Related guides cover [laptops and computers](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-laptop-dubai), [Wi-Fi routers](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-wifi-router-and-modem-in-dubai) and [electronics recycling routes](https://dubaijunkcollection.com/blog/where-to-recycle-electronics-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can office keyboards and mice go in general waste?", answer: "No. They contain circuit boards, cables and often batteries, so they belong in an electrical-waste route. Remove replaceable batteries, bag the devices by type and pass them to a commercial e-waste receiver that provides a transfer record." },
+      { question: "Do docking stations or headsets store data?", answer: "Most keyboards, mice and basic docks hold little or no user data, but some docks, conference cameras and wireless headsets store pairing lists, firmware settings or room-account links. Unpair them, remove them from device-management tools and use the manufacturer's reset process before transfer." },
+      { question: "What should we do with old cables and chargers?", answer: "Test and keep a sensible stock of common cables, then band the rest by type and send them with other e-waste. Keep each docking station or laptop charger matched to its device if it is being reused, since power ratings differ between models." },
+      { question: "What details help quote peripheral collection?", answer: "Give approximate quantities by type, such as keyboards, mice, docks, headsets, webcams, cables and chargers, plus whether they are boxed. Note any loose or damaged batteries, the floor, service-lift booking, loading bay and whether a transfer record is required." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-old-laptop-dubai", "how-to-dispose-of-a-wifi-router-and-modem-in-dubai", "where-to-recycle-electronics-in-dubai"],
+    serviceLink: { href: "/services/office-junk-removal", label: "Arrange office IT-accessory collection" },
     sources: [
       { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
       { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality - Waste services" },
