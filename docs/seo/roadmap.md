@@ -683,6 +683,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules section 16):** B176 differs from B94 (shelving), B148 (whiteboards) and B164 (display cabinets) through freestanding-versus-fixed ownership, linked folding panels, hinge restraint, removable inserts and folded transport geometry. B177 differs from B150 (food processors), B154 (blenders) and B174 (hand mixers) through a dense pedestal motor and gearbox, tilt-head or bowl-lift locks, model-matched bowls and planetary-shaft tools. B178 differs from B81 (printers), B90 (data-safe electronics) and B163 (photocopiers) through original-document custody in the feeder and jam path, scan destinations, contacts and authentication settings, capture-system dependencies and scanner-specific transport locks.
 
+### Track 56: Upholstered Seating, Pulp Extraction & Staff Storage (Clusters 3, 4, 5, 6 & 10)
+*Continues the furniture-appliance-office sequence through three distinct controls: an honest frame-and-hygiene check and doorway pivot for a single upholstered chair, clearing perishable pulp and protecting sharp filter parts on a juicer, and closing personal-property and key custody before a locker bank is unbolted.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B179** | *How to Dispose of an Armchair in Dubai: Upholstery, Legs and Doorway Access* | `how to dispose of an armchair in dubai` | `armchair disposal dubai`, `upholstered chair collection dubai`, `old armchair removal dubai` | Q | `/services/furniture-removal` |
+| **B180** | *How to Dispose of a Juicer in Dubai: Filters, Pulp and Small-Appliance E-Waste* | `how to dispose of a juicer in dubai` | `juicer recycling dubai`, `small kitchen appliance disposal dubai`, `kitchen e-waste dubai` | Q | `/services/appliance-removal` |
+| **B181** | *How to Dispose of Office Lockers in Dubai: Contents, Keys and Wall Fixings* | `how to dispose of office lockers in dubai` | `office locker disposal dubai`, `steel locker recycling dubai`, `office furniture removal dubai` | Q | `/services/office-junk-removal` |
+
+**Overlap check (content-rules section 16):** B179 differs from B23 (sofas), B77 (recliners), B128 (sofa beds) and B167 (dining chairs) through a single non-mechanical upholstered chair, frame-spring-fabric condition checks, pest screening, screw-in leg removal and the on-its-back doorway pivot. B180 differs from B150 (food processors), B154 (blenders) and B177 (stand mixers) through perishable pulp clearance, centrifugal mesh baskets and slow-juicer auger-and-screen sets, and the locking-arm safety interlock. B181 differs from B93 (filing cabinets), B94 (shelving) and B84 (safes) through per-employee personal contents, witnessed opening, key-register and smart-lock code reconciliation, and bank-to-bank anchor release.
+
 ---
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -737,3 +748,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 50. **Batch 50 (Articles B170–B172):** Bedroom Companions, Hinged Cooking & Office Cutting — **100% Completed (3/3 Live)**.
 51. **Batch 51 (Articles B173–B175):** Bedroom Panels, Handheld Mixing & Mailroom Postage — **100% Completed (3/3 Live)**.
 52. **Batch 52 (Articles B176–B178):** Folding Interiors, Countertop Mixing & Office Scanning — **100% Completed (3/3 Live)**.
+53. **Batch 53 (Articles B179–B181):** Upholstered Seating, Pulp Extraction & Staff Storage — **100% Completed (3/3 Live)**.

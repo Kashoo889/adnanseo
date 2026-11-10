@@ -322,6 +322,12 @@ import blogB177Cover from "@/assets/blog-b177-stand-mixer-disposal-cover.webp";
 import blogB177Body from "@/assets/blog-b177-stand-mixer-parts-body.webp";
 import blogB178Cover from "@/assets/blog-b178-office-scanner-cover.webp";
 import blogB178Body from "@/assets/blog-b178-office-scanner-packing-body.webp";
+import blogB179Cover from "@/assets/blog-b23-sofa-disposal-cover.jpg";
+import blogB179Body from "@/assets/blog-b41-furniture-pickup-decision-body.webp";
+import blogB180Cover from "@/assets/blog-b150-food-processor-cover.webp";
+import blogB180Body from "@/assets/blog-b154-blender-parts-body.webp";
+import blogB181Cover from "@/assets/blog-b39-workplace-decluttering-cover.webp";
+import blogB181Body from "@/assets/blog-b39-office-storage-audit-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -18622,6 +18628,204 @@ export const blogPosts: BlogPost[] = [
       { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
       { href: "https://download4.epson.biz/sec_pubs/ds-900wn/useg/en/manual.pdf", label: "Epson - Network document scanner user guide and reset controls" },
       { href: "https://download4.epson.biz/sec_pubs/ds-900wn/slad/sr/manual.pdf", label: "Epson - User information stored in a network scanner" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-an-armchair-in-dubai",
+    title: "How to Dispose of an Armchair in Dubai: Upholstery, Legs and Doorway Access",
+    excerpt: "Check the frame and fabric honestly, empty the seat, remove legs that unscrew, wrap the upholstery, measure the doorway pivot, then choose confirmed reuse or bulky collection.",
+    category: "Guides & Tips",
+    coverImage: blogB179Cover,
+    coverImageAlt: "Uniformed crew wrapping upholstered living-room seating in a Downtown Dubai apartment, with armchairs beside the window",
+    publishedAt: "2026-11-09",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Armchair Disposal", "Upholstered Furniture", "Furniture Collection", "Apartment Clearance"],
+    seoTitle: "How to Dispose of an Armchair in Dubai the Right Way",
+    seoDescription: "How to dispose of an armchair in Dubai: assess frame and fabric, remove legs, wrap upholstery, plan the doorway turn and book verified reuse or bulky pickup.",
+    keyTakeaways: [
+      "Decide between reuse and disposal from the frame, springs and fabric hygiene, not from how the chair looks from across the room.",
+      "Remove only legs and cushions designed to come off, bag the fixings, and wrap the upholstery so it stays clean through lobbies and lifts.",
+      "Measure the doorway, corridor turn and lift depth against the chair's height, width and depth; armchairs usually leave on their back or side.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an armchair in Dubai?",
+        paragraphs: [
+          "To dispose of an armchair in Dubai, check the frame, springs and upholstery, then empty the seat and crevices. Remove screw-in legs and loose cushions, bag the fixings, wrap the fabric, measure the exit route and book the service lift. Arrange confirmed reuse for a sound, clean chair or an accepted bulky-furniture collection.",
+          "An armchair looks simpler than a sofa, but its proportions cause their own problems. It is deep, often wider at the arms than at the base, and heavier than expected when it has a hardwood frame and sprung seat. Most of the effort sits in an honest condition check and a planned route out of the apartment.",
+        ],
+      },
+      {
+        heading: "Judge the frame and upholstery before offering it",
+        paragraphs: [
+          "Rock the chair gently and listen for a cracked rail or loose joint. Press the seat to feel for broken springs or collapsed webbing, and check arms, back and legs for movement. Inspect the fabric or leather in daylight for tears, stains, odours, pet damage and peeling bonded leather. Note every defect; recipients judge from photos.",
+          "Remove coins, remote controls, pens and anything pushed down the sides of the seat. Vacuum the crevices and under the cushions. Any sign of bed bugs, such as dark spotting along seams, rules out reuse: bag nothing, move nothing to a neighbour's floor and ask a licensed pest-control provider how the item should leave the property.",
+        ],
+        callout: { type: "warning", title: "A recliner or powered chair is a different job", text: "If the armchair has a reclining mechanism, footrest linkage or a motor and cable, it is no longer a simple upholstered chair. Unplug it, keep the mechanism closed and follow the recliner guide instead of lifting it by the footrest or back." },
+      },
+      {
+        heading: "Prepare the chair for corridors and lifts",
+        paragraphs: [
+          "Turn the chair over onto a blanket and check the legs. Many unscrew from threaded plates or are held by a single bolt; remove them only if they come off without force, and tape the bolts into a labelled bag attached to the frame. Leave glued or dowelled legs in place. Keep removable seat and back cushions with the chair rather than sending them separately.",
+          "Wrap the upholstery in a clean furniture blanket or stretch film so it does not pick up dirt from lobbies or loading bays. Measure height, width at the arms and depth, then compare them with the doorway, corridor turns and service-lift interior. A wide chair usually passes through a door on its back or side, with the seat facing the hinge, rather than upright and square.",
+        ],
+        image: blogB179Body,
+        imageAlt: "Two crew members carrying blanket-wrapped upholstered seating with corner protectors toward a Dubai tower service lift",
+        imageCaption: "Wrap fabric seating and protect corners before entering a tower lobby, and confirm the service-lift booking with building management.",
+      },
+      {
+        heading: "Match the armchair to a confirmed route",
+        paragraphs: [
+          "A clean, stable armchair with sound springs and intact upholstery can suit resale, a community group or a charity that accepts furniture. Share front, side and back photos, dimensions, material and every flaw, and wait for confirmation before moving it. Never leave a chair beside building bins or in a lobby; Dubai towers and communities treat that as dumped bulky waste.",
+          "If reuse is unsuitable, Dubai Municipality lists a household furniture collection service subject to its current conditions, and private collectors can combine the chair with other items. Our [furniture removal team](https://dubaijunkcollection.com/services/furniture-removal) collects across [Jumeirah Village Circle](https://dubaijunkcollection.com/service-areas/jumeirah-village-circle). Related guides cover [sofa disposal](https://dubaijunkcollection.com/blog/where-to-dispose-old-sofa-in-dubai), [recliner chairs](https://dubaijunkcollection.com/blog/how-to-dispose-of-recliner-chair-dubai) and [where to donate furniture](https://dubaijunkcollection.com/blog/where-to-donate-furniture-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can I donate an old armchair in Dubai?", answer: "Yes, if it is clean, structurally sound and free of pests, and the recipient accepts it from current photos. Disclose stains, tears, worn springs and odours. Charities and community groups refuse damaged upholstery, so confirm acceptance before arranging transport rather than delivering it unannounced." },
+      { question: "Should I remove the legs from an armchair before collection?", answer: "Only if they unscrew or unbolt easily. Removing legs reduces height and protects them in transit. Bag and tape the fixings to the frame. Do not pull off glued or dowelled legs, because that damages the frame and lowers its reuse value." },
+      { question: "Will an armchair fit in a standard service lift?", answer: "Usually, but measure first. Compare the chair's height, width at the arms and depth with the lift interior and door opening. Tilting the chair onto its back often helps. Book the service lift with building management and confirm the loading bay and time window." },
+      { question: "What details help quote armchair removal?", answer: "Send photos of the front, side and back, the dimensions, frame material and any damage. Include the floor, lift or stairs, parking access and any other furniture leaving. State whether the legs come off and whether building management has approved the date." },
+    ],
+    relatedSlugs: ["where-to-dispose-old-sofa-in-dubai", "how-to-dispose-of-recliner-chair-dubai", "where-to-donate-furniture-dubai"],
+    serviceLink: { href: "/services/furniture-removal", label: "Book armchair collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality - Dispose of household appliances and furniture" },
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-juicer-in-dubai",
+    title: "How to Dispose of a Juicer in Dubai: Filters, Pulp and Small-Appliance E-Waste",
+    excerpt: "Unplug the juicer, clear pulp before it spoils, clean and dry the filter, auger and containers, protect the cutting parts, then choose verified reuse, repair or e-waste.",
+    category: "Eco & Recycling",
+    coverImage: blogB180Cover,
+    coverImageAlt: "Countertop food-preparation appliance with cutting discs, feed tube, pusher and power lead laid out for sorting in a Dubai kitchen",
+    publishedAt: "2026-11-09",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Juicer Disposal", "Small Appliance Recycling", "Kitchen E-Waste", "Juicer Parts"],
+    seoTitle: "How to Dispose of a Juicer in Dubai Safely",
+    seoDescription: "How to dispose of a juicer in Dubai: clear pulp, clean the mesh filter and auger, protect blades and the plug, then arrange verified reuse or small-appliance e-waste.",
+    keyTakeaways: [
+      "Unplug before dismantling, and remove pulp the same day; fibrous residue sours quickly in a warm Dubai kitchen or store room.",
+      "Handle a centrifugal mesh basket by its rim and keep a slow juicer's auger, screen and housing together as a matched set.",
+      "A complete, clean, working juicer may suit reuse; a cracked interlock, burnt smell or damaged lead means electrical-waste collection.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a juicer in Dubai?",
+        paragraphs: [
+          "To dispose of a juicer in Dubai, unplug it and remove all pulp and juice residue. Dismantle the parts the manual allows, clean and dry the filter, auger or blade basket and containers, protect sharp edges and the plug, then pass a complete working unit to confirmed reuse or send it through small-appliance e-waste collection.",
+          "Juicers fail in a different way from blenders or food processors. Pulp packs into fine mesh and around seals, so an unwanted juicer left on a balcony or in a store room can grow mould within days. The cutting basket or screen is also the part most likely to be lost, cracked or handled unsafely during a clear-out.",
+        ],
+      },
+      {
+        heading: "Identify the type and clear the pulp path",
+        paragraphs: [
+          "A centrifugal juicer spins a mesh basket with a cutting disc in its base at high speed. A slow or masticating juicer presses produce with a screw-shaped auger inside a screen and housing. A citrus press uses a ridged cone. Check the model label, because the parts list and safe dismantling order differ between these designs.",
+          "Unplug at the wall before removing the locking arm, lid or bowl. Empty the pulp container and juice jug, then rinse the filter, auger, screen and spout using the brush and method in the manual. Keep water away from the motor base, wipe it with a damp cloth only, and let every part dry fully before packing so nothing smells or grows mould in storage.",
+        ],
+        callout: { type: "warning", title: "The mesh basket and cutting disc are sharp", text: "Hold a centrifugal filter basket by its outer rim, never by the mesh or the disc in its base. Do not pick fibres out with bare fingers, and pack the basket in a rigid container so its edge cannot cut through a bag." },
+      },
+      {
+        heading: "Keep the matched parts together",
+        paragraphs: [
+          "List the motor base, lid or feed chute, pusher, filter basket or auger and screen, pulp container, juice jug, cleaning brush and any citrus attachment. Wrap the cutting parts separately and place them in a rigid tub. Coil the cable loosely without bending it hard at the strain relief and cover the Type G plug pins.",
+          "Pack the motor base upright in a padded crate with the containers beside it rather than locked on top. A reuse recipient needs every model-specific piece, because a missing filter or auger usually makes the machine unusable and replacements can be hard to source. Do not stack heavier appliances or cookware on the juicer during transport.",
+        ],
+        image: blogB180Body,
+        imageAlt: "Kitchen appliance jug, cutting assembly and motor base with coiled lead packed separately in padded tubs and a crate",
+        imageCaption: "Pack sharp cutting parts in a rigid tub, keep containers apart from the motor base and cover the plug pins before collection.",
+      },
+      {
+        heading: "Choose reuse only for a sound, complete set",
+        paragraphs: [
+          "Reuse makes sense when the juicer powers on normally, the safety interlock engages, the filter or auger is intact and every container is present. Disclose stained plastic, a worn brush, a noisy motor or a cracked lid honestly. Never pass on a unit that trips a socket, smells burnt, leaks from the base or starts without the locking arm in place.",
+          "A faulty juicer belongs in a small-appliance or electrical-waste route rather than the household bin. Dubai Municipality lists used appliances within its household collection service, subject to current conditions. Our [appliance removal service](https://dubaijunkcollection.com/services/appliance-removal) can collect kitchen items in [Dubai Hills Estate](https://dubaijunkcollection.com/service-areas/dubai-hills-estate). See also [blender disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-blender-in-dubai), [food processors](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-food-processor-in-dubai) and [where to recycle electronics](https://dubaijunkcollection.com/blog/where-to-recycle-electronics-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can a juicer go in the household bin in Dubai?", answer: "Use a small-appliance or e-waste route instead. A juicer contains a motor, wiring and switches, plus plastic and metal parts. Remove pulp, clean and dry it, keep it intact and hand it to a collector or drop-off point that confirms it accepts small electrical appliances." },
+      { question: "Can I donate a juicer with a missing filter?", answer: "Generally not. The filter basket, auger or screen is model-specific, and the juicer cannot work safely without it. Unless the recipient confirms they have a compatible replacement, send an incomplete unit to electrical-waste collection rather than passing on an unusable appliance." },
+      { question: "How should I clean a juicer before disposal?", answer: "Unplug it, empty the pulp and juice containers, and rinse the removable parts using the brush and method in the manual. Wipe the motor base with a damp cloth only. Let everything dry fully so residue does not sour or mould before collection." },
+      { question: "What details help quote juicer collection?", answer: "Send the make and model, a photo of the complete set including filter or auger, plug and lead, plus any fault. Mention other kitchen appliances leaving, the floor and lift access, and confirm pulp has been removed and parts are dry." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-a-blender-in-dubai", "how-to-dispose-of-a-food-processor-in-dubai", "where-to-recycle-electronics-in-dubai"],
+    serviceLink: { href: "/services/appliance-removal", label: "Arrange small-appliance collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality - Dispose of household appliances and furniture" },
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-office-lockers-in-dubai",
+    title: "How to Dispose of Office Lockers in Dubai: Contents, Keys and Wall Fixings",
+    excerpt: "Notify staff, empty and witness every compartment, reconcile keys, codes and smart locks, release wall and bank fixings, then route steel lockers to reuse or metal recycling.",
+    category: "Commercial & Office",
+    coverImage: blogB181Cover,
+    coverImageAlt: "Office staff packing personal belongings and files into boxes before a workplace clearance in Dubai",
+    publishedAt: "2026-11-09",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Office Locker Disposal", "Office Furniture", "Metal Recycling", "Office Clearance"],
+    seoTitle: "How to Dispose of Office Lockers in Dubai Properly",
+    seoDescription: "How to dispose of office lockers in Dubai: clear staff belongings, reconcile keys and smart-lock codes, unbolt banks safely and arrange reuse or metal recycling.",
+    keyTakeaways: [
+      "Give staff written notice and a deadline, then open and record every compartment with a witness before anything is moved.",
+      "Reconcile master keys, spare keys, combination codes and electronic lock credentials, and remove batteries from smart locks.",
+      "Unbolt lockers from walls and from each other only with the bank supported; tall steel units tip forward once an anchor is released.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of office lockers in Dubai?",
+        paragraphs: [
+          "To dispose of office lockers in Dubai, notify staff and set a clearing deadline, then open and record every compartment with a witness. Reconcile keys, codes and smart-lock access, remove lock batteries, release wall and bank fixings with the units supported, and send sound lockers to reuse or steel units to confirmed metal recycling.",
+          "Lockers are not like filing cabinets or shelving. Each compartment belongs, in practice, to a different person, and keys or codes are spread across the team. The hard part of removal is closing that personal-property and access trail cleanly before any facilities or clearance crew touches the bank.",
+        ],
+      },
+      {
+        heading: "Clear personal belongings with a record",
+        paragraphs: [
+          "Email staff the removal date, a clearing deadline and the procedure for unclaimed items, following HR's guidance. On the day, have a facilities or HR representative open each compartment with a second person present. Photograph or list any contents left behind, seal them in a labelled bag with the locker number and store them securely for collection.",
+          "Check the top shelf, coat hook, door rack and the gap behind any shelf for keys, access cards, documents, medication or valuables. Confidential papers go to the records owner, not into a general clearance bag. A clearance crew should only receive compartments that the business has already emptied, checked and signed off.",
+        ],
+        callout: { type: "warning", title: "Never force a locked compartment without authorization", text: "If a key or code is missing, use the master key or the lock supplier's override under HR or facilities supervision, with a witness. Drilling or prying locks open without a record exposes the business to complaints about missing property." },
+      },
+      {
+        heading: "Reconcile access and release the fixings",
+        paragraphs: [
+          "Collect every user key, spare and master key against the locker register. For combination or electronic locks, reset or delete user codes using the supplier's administration process, remove batteries from battery-powered locks, and keep any lock that will be reused elsewhere. Record which access cards or app credentials were linked to the bank so IT can disable them.",
+          "Tall steel lockers are often bolted to the wall, to the floor or plinth, and to each other. Keep the bank supported, empty and with doors closed and taped before an anchor is released, then separate units one at a time. Move each locker upright on a trolley with straps, never walk it on its corners across office flooring, and book the service lift and loading bay in advance.",
+        ],
+        image: blogB181Body,
+        imageAlt: "Facilities staff recording the contents of tall office storage cabinets while a colleague loads a trolley in a Dubai office",
+        imageCaption: "Record each compartment and its contents before units are released, then move the emptied storage on a trolley.",
+      },
+      {
+        heading: "Route the lockers to reuse or metal recycling",
+        paragraphs: [
+          "Sound steel or laminate lockers with working doors, hinges and catches can suit another office, school or sports facility. Provide the number of units, compartment layout, dimensions, colour, lock type and photos of dents or rust. The receiver should plan its own key or lock replacement rather than inherit the old access system.",
+          "Damaged steel lockers are well suited to metal recycling once locks and non-metal parts are dealt with as the receiver requires. Dubai Municipality's duty-of-care guidance makes waste holders responsible for using appropriate collection and disposal routes. Our [office junk removal service](https://dubaijunkcollection.com/services/office-junk-removal) can clear released lockers in [Dubai Internet City](https://dubaijunkcollection.com/service-areas/dubai-internet-city). Related guides cover [filing cabinets](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-filing-cabinets-in-dubai), [office cubicles](https://dubaijunkcollection.com/blog/how-to-dispose-of-office-cubicles-in-dubai) and [clearing a whole office](https://dubaijunkcollection.com/blog/how-to-clear-an-office-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "What should we do with items left in office lockers?", answer: "Open each compartment with a witness, list or photograph what remains, and seal it in a bag labelled with the locker number. Store it securely and follow HR's procedure for notifying the owner. Confidential documents go to the records owner, not into general clearance." },
+      { question: "Can office lockers be recycled in Dubai?", answer: "Steel lockers are suitable for metal recycling once they are empty and the receiver's requirements for locks, plastic fittings and laminate parts are met. Laminate or wooden lockers need a furniture or bulky-waste route. Confirm acceptance with the receiver before collection." },
+      { question: "Do smart locker locks need to be reset before disposal?", answer: "Yes. Delete user codes or credentials through the supplier's administration process, remove batteries from battery-powered locks and record which access cards were linked. If the locks are being reused elsewhere, remove them and keep them with their master or programming key." },
+      { question: "What details help quote office-locker removal?", answer: "Send the number of units, compartment layout, height, material and how they are fixed to the wall, floor or each other. Confirm they are empty and signed off, and include the floor, service-lift booking, loading bay and building security requirements." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-old-filing-cabinets-in-dubai", "how-to-dispose-of-office-cubicles-in-dubai", "how-to-clear-an-office-in-dubai"],
+    serviceLink: { href: "/services/office-junk-removal", label: "Arrange office-locker removal" },
+    sources: [
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality - Waste services" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
     ],
   },
 ];
