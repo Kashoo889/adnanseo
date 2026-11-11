@@ -334,6 +334,12 @@ import blogB183Cover from "@/assets/blog-b162-rice-cooker-disposal-cover.webp";
 import blogB183Body from "@/assets/blog-b162-rice-cooker-parts-body.webp";
 import blogB184Cover from "@/assets/blog-b45-electronics-recycling-cover.webp";
 import blogB184Body from "@/assets/blog-b45-ewaste-dropoff-body.webp";
+import blogB185Cover from "@/assets/blog-b48-mattress-quote-cover.webp";
+import blogB185Body from "@/assets/blog-b48-mattress-lift-access-body.webp";
+import blogB186Cover from "@/assets/blog-b165-steam-iron-disposal-cover.webp";
+import blogB186Body from "@/assets/blog-b165-steam-iron-components-body.webp";
+import blogB187Cover from "@/assets/blog-b61-illegal-electronics-bin-cover.webp";
+import blogB187Body from "@/assets/blog-b38-office-loading-access-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -19026,6 +19032,218 @@ export const blogPosts: BlogPost[] = [
     ],
     relatedSlugs: ["how-to-dispose-of-old-laptop-dubai", "how-to-dispose-of-a-wifi-router-and-modem-in-dubai", "where-to-recycle-electronics-in-dubai"],
     serviceLink: { href: "/services/office-junk-removal", label: "Arrange office IT-accessory collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality - Waste services" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-futon-in-dubai",
+    title: "How to Dispose of a Futon in Dubai: Folding Frames, Heavy Mattresses and Lift Access",
+    excerpt: "Lift off and roll the futon mattress, lock the frame flat, release the hinge bolts and arm panels, bag the fixings, then route frame and mattress to confirmed reuse or bulky collection.",
+    category: "Guides & Tips",
+    coverImage: blogB185Cover,
+    coverImageAlt: "Resident photographing and measuring a mattress on a low upholstered bed in a Dubai apartment before requesting a collection quote",
+    publishedAt: "2026-11-11",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Futon Disposal", "Folding Furniture", "Mattress Collection", "Bedroom Clearance"],
+    seoTitle: "How to Dispose of a Futon in Dubai: Frame and Mattress",
+    seoDescription: "How to dispose of a futon in Dubai: roll the dense mattress, lock the folding frame flat, release hinges safely and book verified reuse or bulky collection.",
+    keyTakeaways: [
+      "Handle the futon as two items: a dense, floppy mattress that needs rolling and strapping, and a folding frame that needs locking flat.",
+      "Keep hands out of the seat-to-back hinge and the sliding rail track while the frame moves; dismantle it only in the flat position.",
+      "A cotton or foam futon mattress absorbs humidity and odours quickly, so inspect it in daylight before offering it for reuse.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a futon in Dubai?",
+        paragraphs: [
+          "To dispose of a futon in Dubai, remove the cover, lift the mattress off the frame, then roll and strap it. Fold the frame fully flat, undo the hinge bolts and arm panels with support, and bag every fixing. Measure the lift and corridor, then book confirmed reuse or accepted bulky-furniture collection for both parts.",
+          "A futon looks like a slim sofa, but it behaves differently on moving day. The mattress has no inner springs to hold its shape, so it sags and slips when carried. The frame is a set of hinged panels that can swing unexpectedly. Planning how each part is secured matters more than raw strength.",
+        ],
+      },
+      {
+        heading: "Deal with the futon mattress first",
+        paragraphs: [
+          "Unzip and wash or discard the removable cover, then lift the mattress clear of the frame with two people. Traditional cotton futons are heavy for their size and fold in the middle when lifted from one end. Lay the mattress flat, roll it tightly from the short edge and secure it with two soft straps or wide tape over a plastic sleeve.",
+          "Check both sides in daylight. Cotton and foam fillings soak up moisture from air-conditioned rooms and Dubai's humid months, so look for damp patches, mildew spots, flattened lumps and odours. Inspect the seams and tufting points for signs of bed bugs. A mattress with any of these goes to disposal, not to donation, and should be sealed before it leaves the flat.",
+        ],
+        callout: { type: "warning", title: "Do not carry a loose futon mattress down stairs", text: "An unstrapped futon mattress folds and shifts its weight suddenly, which can pull a carrier off balance on a stairwell or ramp. Roll it, strap it and carry it with one person at each end, or move it upright on a trolley." },
+      },
+      {
+        heading: "Lock the frame flat before dismantling",
+        paragraphs: [
+          "Most futon frames convert between sofa and bed by sliding the seat forward on a rail while the back hinges down. Move the frame into the fully flat position slowly, keeping fingers away from the hinge, the rail track and the gap between seat and back deck. On metal frames, check the locking pins or knobs are engaged before you take any weight off.",
+          "With the frame flat and supported, remove the arm panels first, then the bolts or barrel nuts joining the seat and back decks to the side rails. Wooden frames often use long bolts with cross dowels; keep each set in a labelled bag taped to its panel. Bundle slatted decks with straps so the slats cannot fold back together and trap a hand.",
+        ],
+      },
+      {
+        heading: "Plan the route through the building",
+        paragraphs: [
+          "Measure the rolled mattress and the longest frame section against the apartment door, corridor turns and service-lift depth. Book the service lift with building management and confirm whether the tower needs a move-out permit or gate pass for furniture leaving the unit. Wrap metal rails in blankets so they do not scratch lift panels or marble.",
+          "Move the frame sections upright on a padded trolley and carry the mattress strapped, never dragged. Keep the hallway clear and do not leave either part beside the building's waste room while the other is being prepared, as most management teams do not accept bulky furniture in residential bins.",
+        ],
+        image: blogB185Body,
+        imageAlt: "Two crew members carrying a wrapped mattress into a service lift in a Dubai residential corridor",
+        imageCaption: "Carry the strapped futon mattress between two people into a booked service lift instead of folding it into a passenger lift.",
+      },
+      {
+        heading: "Choose reuse or collection for each part",
+        paragraphs: [
+          "A sturdy frame with all panels, slats and fixings can suit resale, a community group or a family furnishing a studio. Share photos of the frame in both sofa and bed positions and note any loose joints or bent rails. Offer the mattress only if it is clean, dry and odour-free, and wait for confirmation before moving anything.",
+          "If reuse is not suitable, Dubai Municipality lists a household furniture collection service subject to its current conditions, and a private collector can take frame and mattress together. Our [furniture removal team](https://dubaijunkcollection.com/services/furniture-removal) covers apartments in [The Greens](https://dubaijunkcollection.com/service-areas/the-greens). Related guides cover [sofa beds](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-sofa-bed-in-dubai), [daybeds](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-daybed-in-dubai) and [mattress disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-mattress-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can a futon be donated in Dubai?", answer: "The frame often can, if it is complete, stable and comes with its fixings. Futon mattresses are judged separately and are frequently declined because they absorb moisture and odours. Send current photos of both parts to the recipient and confirm acceptance before arranging transport." },
+      { question: "Is a futon different from a sofa bed for disposal?", answer: "Yes. A sofa bed hides a folding metal mechanism and thin mattress inside a sofa body. A futon uses an exposed hinged frame and a thick, floppy mattress that sits on top. The futon mattress needs rolling and strapping, and the frame must be locked flat before dismantling." },
+      { question: "Do I need to dismantle a futon frame for collection?", answer: "Usually, if it has to travel through a service lift or narrow corridor. In the flat position, remove the arms first, then the bolts joining the decks to the side rails. Bag each set of fixings with its panel so the frame can be reassembled by the next owner." },
+      { question: "What details help quote futon removal?", answer: "Send photos of the frame in sofa and flat positions, the mattress and its condition, plus the frame material and size. Mention the floor, service-lift booking, parking and loading access, whether it is already dismantled and any other furniture leaving at the same time." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-a-sofa-bed-in-dubai", "how-to-dispose-of-a-daybed-in-dubai", "how-to-dispose-of-a-mattress-in-dubai"],
+    serviceLink: { href: "/services/furniture-removal", label: "Book futon collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality - Dispose of household appliances and furniture" },
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-garment-steamer-in-dubai",
+    title: "How to Dispose of a Garment Steamer in Dubai: Tanks, Hoses and E-Waste",
+    excerpt: "Unplug and cool the steamer, drain the reservoir and hose, dry the tank, pack the pole, hanger and head together, then choose verified reuse or small-appliance e-waste.",
+    category: "Eco & Recycling",
+    coverImage: blogB186Cover,
+    coverImageAlt: "Gloved worker checking the plug and lead of a cooled steam appliance in a Dubai laundry room",
+    publishedAt: "2026-11-11",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Garment Steamer Disposal", "Small Appliance Recycling", "Laundry Appliances", "E-Waste"],
+    seoTitle: "How to Dispose of a Garment Steamer in Dubai Safely",
+    seoDescription: "How to dispose of a garment steamer in Dubai: cool and drain the tank and hose, check for scale and leaks, keep the pole set together and use reuse or e-waste.",
+    keyTakeaways: [
+      "Let the boiler, hose and steam head cool fully, then drain the reservoir and let trapped condensate run out of the hose before packing.",
+      "Keep the base, tank, hose, steam head, telescopic pole, hanger and accessories together so a recipient or receiver can identify the model.",
+      "A steamer that spat hot water, leaked from the base, tripped a breaker or smelled burnt should go to e-waste, not to another household.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a garment steamer in Dubai?",
+        paragraphs: [
+          "To dispose of a garment steamer in Dubai, unplug it and let the boiler, hose and head cool completely. Empty the water reservoir, hold the hose low to drain trapped condensate, and air-dry the tank. Collapse the pole, keep every accessory together, disclose leaks or faults, then arrange verified reuse or small-appliance e-waste collection.",
+          "An upright garment steamer is closer to a small boiler than an iron. It heats a body of water in the base and pushes steam up a flexible hose to a handheld head. That means more retained water, a longer hose that can hold hot condensate, and a tall pole assembly to pack, all of which shape how it should be prepared.",
+        ],
+      },
+      {
+        heading: "Cool and drain the reservoir and hose",
+        paragraphs: [
+          "Switch off at the wall, unplug and leave the steamer standing upright until the base and steam head are cold to the touch. This can take longer than expected, because the boiler holds heat after the light goes off. Do not lay the unit on its side while warm, as water in the base and hose can run back out of the head.",
+          "Remove the reservoir and empty it into a sink. Then lower the steam head below the base over a towel or basin so condensate drains out of the hose. Leave the tank and hose to air-dry with caps open for a day. Hard tap water leaves white scale in the tank and base; note it for the recipient rather than running an improvised descale cycle on an old unit.",
+        ],
+        callout: { type: "warning", title: "Hot water can sit in the hose", text: "Condensate pooled in a steamer hose can stay hot after the base feels cool and may spit from the head when the hose is lifted. Drain it with the head pointed down and away from you before coiling the hose or handing the unit over." },
+      },
+      {
+        heading: "Check the hose, base and electrical condition",
+        paragraphs: [
+          "Inspect without opening the base. Look for cracks or splits in the hose, a loose hose connector, a cracked or warped reservoir, rust or scale around the boiler outlet, a damaged Type G plug or frayed lead. If the steamer ever leaked water from the base, spat boiling water from the head, tripped a breaker or gave off a burning smell, record it and stop using it.",
+          "Coil the hose in wide loops without kinks and secure it to the pole with a soft strap. Collapse the telescopic pole, fit the hanger, and bag the brush, crease tool, fabric pad and glove. Wrap the lead loosely and cover the plug pins. Keep the model label visible on the base so a repairer can match replacement hoses and tanks.",
+        ],
+        image: blogB186Body,
+        imageAlt: "Steam-generator base with a coiled steam hose, removable water tank and strapped power leads laid out on a laundry counter",
+        imageCaption: "Keep the dry tank, coiled hose and base together with their leads so the steamer can be checked as one complete set.",
+      },
+      {
+        heading: "Choose reuse only for a sound, complete unit",
+        paragraphs: [
+          "Reuse is reasonable when the steamer heats normally, produces steady steam without spitting, the hose and tank are intact and the lead is undamaged. Describe scale, missing accessories and the age of the unit honestly. Handheld travel steamers follow the same rule: a sound one can be passed on, a leaking one cannot.",
+          "A faulty or incomplete steamer belongs in a small-appliance or electrical-waste route. Dubai Municipality lists used appliances within its household collection service, subject to current conditions, and a drop-off that accepts small electricals may suit a single unit. Our [appliance removal service](https://dubaijunkcollection.com/services/appliance-removal) can combine it with a wider laundry clear-out in [Town Square](https://dubaijunkcollection.com/service-areas/town-square). See also [steam iron disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-steam-iron-in-dubai), [ironing boards](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-old-ironing-board-in-dubai) and [electronics recycling routes](https://dubaijunkcollection.com/blog/where-to-recycle-electronics-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can a garment steamer go in the household bin?", answer: "Use a small-appliance or e-waste route instead. The base holds a heating element, thermostat, pump or valve, wiring and mixed plastics. Cool and drain it, dry the tank, keep the hose and pole together and hand it to a collector or drop-off point that confirms it accepts small electrical appliances." },
+      { question: "How do I get water out of a steamer hose?", answer: "With the unit unplugged and cool, hold the steam head lower than the base over a basin or towel and let the condensate run out. Lift and lower the hose gently a few times, then leave it loosely coiled with the tank removed so it can air-dry before packing." },
+      { question: "Should I descale an old steamer before passing it on?", answer: "Only if it is electrically sound and the manual supports descaling. Do not run a cleaning cycle on a unit that leaks or spits water. Emptying, drying and disclosing visible scale is enough; the next owner can descale it according to the model instructions." },
+      { question: "What details help quote steamer collection?", answer: "Send a photo of the full set, including base, tank, hose, pole and head, the model label, and any fault such as leaking or spitting. Mention other small appliances leaving, the floor and lift access, and confirm the steamer is cool, empty and dry." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-a-steam-iron-in-dubai", "how-to-dispose-of-an-old-ironing-board-in-dubai", "where-to-recycle-electronics-in-dubai"],
+    serviceLink: { href: "/services/appliance-removal", label: "Arrange small-appliance collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality - Dispose of household appliances and furniture" },
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-office-monitors-in-dubai",
+    title: "How to Dispose of Office Monitors in Dubai: Screens, Arms and Bulk E-Waste",
+    excerpt: "Reconcile asset tags and leases, remove monitor arms and desk clamps, keep screens upright and padded, sort stands and cables, then use verified reuse or documented commercial e-waste.",
+    category: "Commercial & Office",
+    coverImage: blogB187Cover,
+    coverImageAlt: "Technician sorting old computer monitors, cables and circuit boards on a workbench at a Dubai electronics recycling facility",
+    publishedAt: "2026-11-11",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Office Monitors", "Office E-Waste", "IT Asset Disposal", "Office Clearance"],
+    seoTitle: "How to Dispose of Office Monitors in Dubai Safely",
+    seoDescription: "How to dispose of office monitors in Dubai: check asset tags and leases, remove arms and clamps, protect screens in transit and arrange reuse or e-waste.",
+    keyTakeaways: [
+      "Reconcile every monitor's asset tag and serial number against the register and check for leased or warranty units before anything leaves.",
+      "Remove monitor arms and desk clamps with the screen supported, because gas-spring arms can snap upward once the weight comes off.",
+      "Move screens upright with padding between panels; a cracked panel or old CCFL-backlit unit must go to a documented e-waste receiver.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of office monitors in Dubai?",
+        paragraphs: [
+          "To dispose of office monitors in Dubai, reconcile each screen against the asset register and leasing records. Remove monitor arms and desk clamps with the screen supported, then keep panels upright with padding between them. Sort stands, power bricks and cables, send tested working screens to verified reuse and the rest to documented commercial e-waste.",
+          "Monitors rarely hold company data, so the risk is different from laptops. The challenge is volume and fragility: a floor of forty desks can release eighty screens, each with a stand or arm, a power lead and a video cable. A thin panel cracks easily if stacked flat or leaned against a sharp edge during a desk move.",
+        ],
+      },
+      {
+        heading: "Reconcile tags, leases and working stock",
+        paragraphs: [
+          "Gather monitors into one controlled area and record asset tags, serial numbers and models. Check whether any were supplied under a hardware lease, a managed-desk agreement or a vendor warranty, because those may need to go back to the supplier rather than to e-waste. Agree with IT how many working screens to keep as spares for new joiners.",
+          "Power each candidate for reuse once, on a known-good cable, and look for dead pixels, backlight bleed, flicker and failed ports. Label every screen as working, faulty or untested. Remove privacy filters, cable-management clips and any desk labels showing names or seat numbers, as these often stay attached through several moves.",
+        ],
+      },
+      {
+        heading: "Remove arms and clamps without damaging screens",
+        paragraphs: [
+          "Gas-spring monitor arms are tensioned for the weight of the screen. Before releasing a monitor from its VESA plate, raise the arm to its top position and back off the tension adjuster as the manufacturer describes. Support the screen with both hands while the plate screws come out, and keep the four VESA screws taped to the back of the monitor.",
+          "Unclamp arms from desks only once the screens are off. Grommet and clamp mounts can mark desktops, so loosen them gradually and pad the jaw. Bundle arms by type, stand bases with their necks, and power bricks with their own leads. Coil HDMI, DisplayPort and USB-C cables loosely and band them by type so reusable sets stay complete.",
+        ],
+        callout: { type: "warning", title: "Do not release a loaded monitor arm in one go", text: "A gas-spring arm can swing upward suddenly when a screen comes off a tensioned arm. Reduce the spring tension first, keep your face clear of the arm's travel and remove the screen with a second person supporting it." },
+      },
+      {
+        heading: "Pack and move screens upright",
+        paragraphs: [
+          "Never stack bare monitors face down. Stand them upright, screen to screen with a sheet of foam, cardboard or a blanket between each panel, in original boxes or padded crates where possible. Older office monitors with fluorescent CCFL backlights contain small amounts of mercury, so any cracked unit should be bagged and labelled separately.",
+          "Book the service lift and loading bay with building management and confirm the clearance window for the tower. Move crates on padded trolleys and keep them strapped upright, especially across ramps and car-park thresholds. A clear count at the loading bay should match the register so nothing goes missing between floor and vehicle.",
+        ],
+        image: blogB187Body,
+        imageAlt: "Crew member wheeling a padded trolley of blanket-covered office equipment from a service lift toward a loading bay in a Dubai office building",
+        imageCaption: "Keep screens upright and padded on the trolley and move them through the booked service lift to the loading bay in one controlled run.",
+      },
+      {
+        heading: "Transfer through reuse or documented e-waste",
+        paragraphs: [
+          "Tested working monitors can suit staff purchase schemes, schools or community groups if the organization approves the transfer. Provide quantities, sizes, models and condition, and supply stands and cables with each screen. Faulty, cracked or very old units belong with a commercial electrical-waste receiver.",
+          "Dubai Municipality's duty-of-care guidance makes businesses holding waste responsible for using appropriate collection and disposal routes, so keep the transfer record with your asset register. Our [office junk removal service](https://dubaijunkcollection.com/services/office-junk-removal) can clear released screens and arms in [Dubai Internet City](https://dubaijunkcollection.com/service-areas/dubai-internet-city). Related guides cover [computer peripherals](https://dubaijunkcollection.com/blog/how-to-dispose-of-office-computer-peripherals-in-dubai), [old TVs](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-tv-in-dubai) and [where to recycle electronics](https://dubaijunkcollection.com/blog/where-to-recycle-electronics-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can office monitors go in general waste?", answer: "No. Monitors contain circuit boards, wiring, glass panels and, in older models, mercury-containing backlights. They belong in an electrical-waste route. Keep them upright and intact, bag any cracked units separately and use a commercial e-waste receiver that provides a transfer record." },
+      { question: "Do office monitors store any data?", answer: "Standard monitors do not store files. Some smart or USB-C hub models may keep network or display settings, so reset these from the on-screen menu where available. Remove desk labels and privacy filters before transfer, and follow your register's rule on asset stickers." },
+      { question: "What should we do with monitor arms and stands?", answer: "Keep working arms and stands as spares or pass them on with matching screens. Bundle the rest by type for metal recycling or e-waste with the monitors. Always de-tension gas-spring arms before removing screens and keep the VESA screws taped to each monitor." },
+      { question: "What details help quote monitor collection?", answer: "Give the number of monitors and their approximate sizes, how many arms, stands and cables are included, and whether screens are boxed or loose. Note any cracked panels, the floor, service-lift and loading-bay booking, and whether you need a transfer record." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-office-computer-peripherals-in-dubai", "how-to-dispose-of-old-tv-in-dubai", "where-to-recycle-electronics-in-dubai"],
+    serviceLink: { href: "/services/office-junk-removal", label: "Arrange office monitor collection" },
     sources: [
       { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
       { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality - Waste services" },

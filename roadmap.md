@@ -705,6 +705,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules section 16):** B182 differs from B65 (bed frames), B125 (bunk beds), B128 (sofa beds) and B173 (headboards) through a three-sided seating frame, a pop-up or rolling trundle with spring linkage, two separately routed mattresses and a slat-rail-panel dismantling order. B183 differs from B162 (rice cookers), B168 (slow cookers) and B142 (air fryers) through depressurization and float-valve checks, a stuck-lid procedure, sealing-ring wear and steam-release valve inspection. B184 differs from B27 (laptops), B90 (data-safe electronics), B106 (mobile phones) and B136 (routers) through high-volume low-data accessories, asset-tag and lease reconciliation, wireless unpairing, battery separation and cable sorting.
 
+### Track 58: Floor-Level Sleeping, Upright Steaming & Desk Displays (Clusters 3, 4, 5, 6 & 10)
+*Continues the furniture-appliance-office sequence through three distinct controls: rolling and strapping a springless futon mattress and locking a hinged frame flat, draining a garment steamer's boiler and hose of retained hot water, and de-tensioning monitor arms and moving fragile screens upright in bulk.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B185** | *How to Dispose of a Futon in Dubai: Folding Frames, Heavy Mattresses and Lift Access* | `how to dispose of a futon in dubai` | `futon disposal dubai`, `futon mattress removal dubai`, `folding furniture collection dubai` | Q | `/services/furniture-removal` |
+| **B186** | *How to Dispose of a Garment Steamer in Dubai: Tanks, Hoses and E-Waste* | `how to dispose of a garment steamer in dubai` | `garment steamer recycling dubai`, `small appliance disposal dubai`, `laundry appliance e-waste dubai` | Q | `/services/appliance-removal` |
+| **B187** | *How to Dispose of Office Monitors in Dubai: Screens, Arms and Bulk E-Waste* | `how to dispose of office monitors in dubai` | `office monitor recycling dubai`, `computer screen disposal dubai`, `office e-waste collection dubai` | Q | `/services/office-junk-removal` |
+
+**Overlap check (content-rules section 16):** B185 differs from B128 (sofa beds), B182 (daybeds), B24 (mattresses) and B65 (bed frames) through a springless cotton or foam mattress that must be rolled and strapped, an exposed sliding-rail hinge frame, and dismantling only in the locked-flat position. B186 differs from B165 (steam irons), B97 (ironing boards) and B156 (kettles) through an upright boiler base, hot condensate retained in a long flexible hose, and a telescopic pole and hanger assembly. B187 differs from B55 (household TVs), B184 (peripherals), B27 (laptops) and B90 (data-safe electronics) through bulk office screen volumes, gas-spring arm de-tensioning, VESA and desk-clamp removal, upright padded transport and CCFL backlight handling.
+
 ---
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -761,3 +772,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 52. **Batch 52 (Articles B176–B178):** Folding Interiors, Countertop Mixing & Office Scanning — **100% Completed (3/3 Live)**.
 53. **Batch 53 (Articles B179–B181):** Upholstered Seating, Pulp Extraction & Staff Storage — **100% Completed (3/3 Live)**.
 54. **Batch 54 (Articles B182–B184):** Convertible Sleeping, Pressure Cooking & Desk Accessories — **100% Completed (3/3 Live)**.
+55. **Batch 55 (Articles B185–B187):** Floor-Level Sleeping, Upright Steaming & Desk Displays — **100% Completed (3/3 Live)**.
