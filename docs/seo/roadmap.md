@@ -716,6 +716,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules section 16):** B185 differs from B128 (sofa beds), B182 (daybeds), B24 (mattresses) and B65 (bed frames) through a springless cotton or foam mattress that must be rolled and strapped, an exposed sliding-rail hinge frame, and dismantling only in the locked-flat position. B186 differs from B165 (steam irons), B97 (ironing boards) and B156 (kettles) through an upright boiler base, hot condensate retained in a long flexible hose, and a telescopic pole and hanger assembly. B187 differs from B55 (household TVs), B184 (peripherals), B27 (laptops) and B90 (data-safe electronics) through bulk office screen volumes, gas-spring arm de-tensioning, VESA and desk-clamp removal, upright padded transport and CCFL backlight handling.
 
+### Track 59: Rocking Seats, Standing Airflow & Desk Telephony (Clusters 3, 4, 5, 6 & 10)
+*Continues the furniture-appliance-office sequence through three distinct controls: immobilising curved rockers and glider swing arms before lifting, stripping a standing fan's guard, reverse-threaded spinner and blade (plus tower, misting and remote-battery variants), and deregistering and resetting networked IP handsets before transfer.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B188** | *How to Dispose of a Rocking Chair in Dubai: Curved Rockers, Gliders and Safe Carrying* | `how to dispose of a rocking chair in dubai` | `rocking chair disposal dubai`, `glider chair removal dubai`, `nursery furniture collection dubai` | Q | `/services/furniture-removal` |
+| **B189** | *How to Dispose of a Pedestal Fan in Dubai: Blades, Guards, Tower and Misting Fans* | `how to dispose of a pedestal fan in dubai` | `tower fan disposal dubai`, `standing fan recycling dubai`, `small appliance disposal dubai` | Q | `/services/appliance-removal` |
+| **B190** | *How to Dispose of Office Desk Phones in Dubai: IP Handsets, Provisioning and E-Waste* | `how to dispose of office desk phones in dubai` | `ip phone recycling dubai`, `office telephone disposal dubai`, `office e-waste collection dubai` | Q | `/services/office-junk-removal` |
+
+**Overlap check (content-rules section 16):** B188 differs from B77 (recliners), B179 (armchairs), B167 (dining chairs) and B68 (baby items) through curved runners that tip and rock during carrying, glider swing-arm pinch points, rocker-bolt versus pegged-joint dismantling and runner-split inspection. B189 differs from B120 (ceiling fans), B107 (air purifiers) and B115 (dehumidifiers) through a plug-in freestanding unit, guard-clip and reverse-threaded spinner removal, telescopic pole and split base, sealed tower impellers, misting-fan tank draining and remote coin batteries. B190 differs from B136 (routers), B184 (peripherals incl. headsets), B90 (data-safe electronics) and B133 (server racks) through telecom-provider or vendor handset leases, call-platform deregistration and licence release, handset factory reset, DECT battery separation and PoE injector sorting.
+
 ---
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -773,3 +784,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 53. **Batch 53 (Articles B179–B181):** Upholstered Seating, Pulp Extraction & Staff Storage — **100% Completed (3/3 Live)**.
 54. **Batch 54 (Articles B182–B184):** Convertible Sleeping, Pressure Cooking & Desk Accessories — **100% Completed (3/3 Live)**.
 55. **Batch 55 (Articles B185–B187):** Floor-Level Sleeping, Upright Steaming & Desk Displays — **100% Completed (3/3 Live)**.
+56. **Batch 56 (Articles B188–B190):** Rocking Seats, Standing Airflow & Desk Telephony — **100% Completed (3/3 Live)**.

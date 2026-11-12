@@ -752,3 +752,11 @@
 | 427 | how to dispose of a futon in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-futon-in-dubai`) |
 | 428 | how to dispose of a garment steamer in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-garment-steamer-in-dubai`) |
 | 429 | how to dispose of office monitors in dubai | Q | Blog Article (`/blog/how-to-dispose-of-office-monitors-in-dubai`) |
+
+### New question-intent blog targets (Batch 56)
+
+| # | Keyword | Intent | Recommended Page |
+| :-: | :--- | :---: | :--- |
+| 430 | how to dispose of a rocking chair in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-rocking-chair-in-dubai`) |
+| 431 | how to dispose of a pedestal fan in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-pedestal-fan-in-dubai`) |
+| 432 | how to dispose of office desk phones in dubai | Q | Blog Article (`/blog/how-to-dispose-of-office-desk-phones-in-dubai`) |

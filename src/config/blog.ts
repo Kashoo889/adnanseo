@@ -340,6 +340,12 @@ import blogB186Cover from "@/assets/blog-b165-steam-iron-disposal-cover.webp";
 import blogB186Body from "@/assets/blog-b165-steam-iron-components-body.webp";
 import blogB187Cover from "@/assets/blog-b61-illegal-electronics-bin-cover.webp";
 import blogB187Body from "@/assets/blog-b38-office-loading-access-body.webp";
+import blogB188Cover from "@/assets/blog-b167-dining-chair-disposal-cover.webp";
+import blogB188Body from "@/assets/blog-b167-dining-chair-packing-body.webp";
+import blogB189Cover from "@/assets/blog-b98-appliance-disposal-cover.webp";
+import blogB189Body from "@/assets/blog-b120-ceiling-fan-components-body.webp";
+import blogB190Cover from "@/assets/blog-b45-electronics-recycling-cover.webp";
+import blogB190Body from "@/assets/blog-b39-office-storage-audit-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -19244,6 +19250,218 @@ export const blogPosts: BlogPost[] = [
     ],
     relatedSlugs: ["how-to-dispose-of-office-computer-peripherals-in-dubai", "how-to-dispose-of-old-tv-in-dubai", "where-to-recycle-electronics-in-dubai"],
     serviceLink: { href: "/services/office-junk-removal", label: "Arrange office monitor collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality - Waste services" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-rocking-chair-in-dubai",
+    title: "How to Dispose of a Rocking Chair in Dubai: Curved Rockers, Gliders and Safe Carrying",
+    excerpt: "Stop the chair moving before you lift it, check the rockers and glider bearings, unbolt the base where it comes apart, bag the fixings and route it to confirmed reuse or bulky collection.",
+    category: "Guides & Tips",
+    coverImage: blogB188Cover,
+    coverImageAlt: "Uniformed worker kneeling on a moving blanket to inspect the underside and joints of an upturned wooden chair in a Dubai apartment",
+    publishedAt: "2026-11-12",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Rocking Chair Disposal", "Glider Chairs", "Nursery Furniture", "Furniture Collection"],
+    seoTitle: "How to Dispose of a Rocking Chair or Glider in Dubai",
+    seoDescription: "How to dispose of a rocking chair in Dubai: stop it rocking before lifting, check rockers and glider arms, unbolt the base and book reuse or bulky collection.",
+    keyTakeaways: [
+      "A rocking chair moves when you least expect it, so wedge or strap the rockers before lifting, carrying or tilting it into a lift.",
+      "Glider chairs swing on metal arms and bearings that form pinch points; lock or tie the glide before anyone puts a hand underneath.",
+      "Split or loose rockers, wobbling spindles and a seat that creaks under weight rule a chair out of reuse, especially for a nursery.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a rocking chair in Dubai?",
+        paragraphs: [
+          "To dispose of a rocking chair in Dubai, stop the rockers moving by wedging or strapping them, then remove cushions and check joints, runners and any glider bearings. Unbolt the rockers or glider base where possible, bag every fixing, protect the curved runners, and book confirmed reuse or accepted bulky-furniture collection.",
+          "The awkward part is not the weight. Most rocking chairs are light enough for one person, but their shape fights you. The curved runners stick out front and back, the chair tips the moment its balance shifts, and a glider version carries a heavy steel mechanism under a soft seat that hides where your fingers are going.",
+        ],
+      },
+      {
+        heading: "Know which kind of rocker you have",
+        paragraphs: [
+          "A traditional rocking chair sits on two curved wooden runners joined to the legs, either glued and pegged or held with bolts from below. Bentwood and rattan rockers use steam-bent frames that do not come apart at all. A nursery glider looks like an armchair but moves on a separate base, with metal swing arms and sealed bearings, and often has a matching gliding footstool.",
+          "Turn the chair on its side on a blanket and look underneath before deciding anything. Visible bolts or barrel nuts at the rocker joints mean the runners can come off. A flat steel plate screwed under the seat means a glider base that separates from the upholstered body. Pegged or glued joints mean the chair travels whole.",
+        ],
+      },
+      {
+        heading: "Stop the chair moving before you lift it",
+        paragraphs: [
+          "Slide a folded towel or a rubber wedge under the front and back of each runner, or run a soft strap around both rockers and a front leg so the chair cannot pitch forward. On a glider, many models have a lock lever under the seat; if yours does not, tie the seat to the base frame with two straps so the swing arms stay still.",
+          "Remove loose cushions, seat pads and any back pillow first and bag them separately. Fabric that has sat in a sunny Dubai room for years often fades and goes brittle, while nursery cushions pick up milk and food stains, so judge them on their own condition rather than the frame's.",
+        ],
+        callout: { type: "warning", title: "Glider arms can trap fingers", text: "The swing arms and bearings of a glider close together as the seat moves. Lock or strap the glide, keep hands out from under the seat and work on the base only with the chair on its side and fully still." },
+      },
+      {
+        heading: "Check the frame and take apart what is designed to come apart",
+        paragraphs: [
+          "Look along each runner for splits near the joints, worn flat spots and repairs with metal brackets. Press on the arms and back spindles to feel for movement, and sit-test the seat only if the chair has already passed a visual check. A rocker that has cracked along the grain can snap under load, which is why a chair in that state goes to disposal, not to another family.",
+          "Where the runners are bolted, support the chair on its side and undo the bolts at both ends of one runner before moving to the other, so the frame does not twist. On a glider, unscrew the base plate from the seat body and lift the base away as one unit. Put each set of bolts in a labelled bag taped to its part, and wrap runner tips in blanket so they do not gouge door frames or lift panels.",
+        ],
+        image: blogB188Body,
+        imageAlt: "Wooden chairs with wrapped seat pads, a padded trolley and a labelled bag of bolts and fittings beside a service lift in a Dubai building",
+        imageCaption: "Bag the runner bolts and wrap the cushions separately so the frame can travel on a padded trolley through the booked service lift.",
+      },
+      {
+        heading: "Carry it out and choose the right destination",
+        paragraphs: [
+          "Carry a whole rocking chair with one person holding the back rail and another the front of the seat, runners strapped, and turn it on its side through narrow doorways rather than rocking it through. Book the service lift with building management and check whether the tower needs a move-out permit for furniture leaving the unit.",
+          "A sound chair with tight joints and intact runners can suit resale, a community group or a family setting up a nursery; send photos of the underside and the runners and wait for confirmation. If it cannot be reused, Dubai Municipality lists household furniture collection subject to its current conditions, and our [furniture removal crew](https://dubaijunkcollection.com/services/furniture-removal) collects across [Arabian Ranches](https://dubaijunkcollection.com/service-areas/arabian-ranches). Related guides cover [recliners](https://dubaijunkcollection.com/blog/how-to-dispose-of-recliner-chair-dubai), [armchairs](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-armchair-in-dubai) and [outgrown baby items](https://dubaijunkcollection.com/blog/how-to-dispose-of-baby-items-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can I donate an old nursery glider in Dubai?", answer: "Often yes, if the glide is smooth, the bearings are quiet, the base is undamaged and the cushions are clean. Send the recipient photos of the mechanism and fabric and mention any noise or stiffness. Gliders with torn upholstery or a grinding base are usually better sent for collection." },
+      { question: "Do the rockers need to come off before collection?", answer: "Only if they are bolted and the chair will not fit the lift or doorway on its side. Pegged and glued runners should stay on, because forcing them can split the legs. If you do remove them, keep the bolts bagged with each runner so the chair can be reassembled." },
+      { question: "Is a glider's footstool collected with the chair?", answer: "It can be, but treat it as a separate moving item. Gliding footstools have their own small swing mechanism, so strap the top to the base before carrying. Mention it when asking for a quote so the crew plans space for both pieces." },
+      { question: "What details help quote rocking chair removal?", answer: "Send photos of the whole chair, the underside and the runners, and say whether it is a wooden rocker, a rattan or bentwood frame or a glider. Mention any footstool, the floor, service-lift and parking access, and other furniture leaving the same day." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-recliner-chair-dubai", "how-to-dispose-of-an-armchair-in-dubai", "how-to-dispose-of-baby-items-dubai"],
+    serviceLink: { href: "/services/furniture-removal", label: "Book rocking chair collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality - Dispose of household appliances and furniture" },
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-pedestal-fan-in-dubai",
+    title: "How to Dispose of a Pedestal Fan in Dubai: Blades, Guards, Tower and Misting Fans",
+    excerpt: "Unplug and clean the fan, release the guard and blade, collapse the pole and base, drain any misting tank, remove the remote's coin battery and choose verified reuse or small-appliance e-waste.",
+    category: "Eco & Recycling",
+    coverImage: blogB189Cover,
+    coverImageAlt: "Workers in hard hats sorting used household appliances on pallets inside a Dubai appliance recycling facility",
+    publishedAt: "2026-11-12",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Pedestal Fan Disposal", "Tower Fans", "Small Appliance Recycling", "E-Waste"],
+    seoTitle: "How to Dispose of a Pedestal or Tower Fan in Dubai",
+    seoDescription: "How to dispose of a pedestal fan in Dubai: release the guard and blade safely, deal with tower and misting fans, remove remote batteries and use e-waste routes.",
+    keyTakeaways: [
+      "Take the front guard, blade spinner and blade off before moving a pedestal fan, so the thin plastic blade and guard clips are not crushed.",
+      "Tower fans hide a dust-packed impeller inside the housing; do not open it, just note the condition and keep the remote with the unit.",
+      "Drain and dry the water tank of a misting fan and remove coin or AA batteries from remotes so they go to battery recycling.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a pedestal fan in Dubai?",
+        paragraphs: [
+          "To dispose of a pedestal or tower fan in Dubai, unplug it and wipe off the dust, then release the front guard, unscrew the blade spinner and remove the blade. Drain any misting tank, take the coin battery out of the remote, bag small parts, and use verified reuse or small-appliance e-waste.",
+          "A standing fan is one of the cheapest appliances in the home, which is exactly why it tends to end up beside the building bins with its guard bent and its plug still attached. It is still an electrical item, with a motor, copper windings, a capacitor and wiring, and it belongs in an e-waste route rather than general waste.",
+        ],
+      },
+      {
+        heading: "Strip a pedestal fan down to its main parts",
+        paragraphs: [
+          "Unplug the fan and let the motor stop completely. Undo the clips around the rim of the front guard and lift it off. Hold the blade still and unscrew the spinner cap at its centre; on many fans this cap is reverse-threaded and loosens clockwise, so check the manual or the arrow moulded on it before forcing it. Slide the blade off the shaft, then unscrew the plastic nut holding the rear guard.",
+          "Lower the telescopic pole to its shortest setting and, if the base is in two pieces, undo the screw or collar that joins them. Bag the spinner, guard nut and base screws together and tape the bag to the motor head. Wrap the lead loosely around the pole and cover the plug pins so they do not scratch the blade during transport.",
+        ],
+        image: blogB189Body,
+        imageAlt: "Wrapped fan blades, a metal motor housing, a mounting bracket, a small control box and a coiled lead laid out on a moving blanket",
+        imageCaption: "Separated blades, motor housing and fittings travel without damage, and a receiver can see at a glance what the set includes.",
+      },
+      {
+        heading: "Tower fans, misting fans and remotes need extra steps",
+        paragraphs: [
+          "A tower fan has no exposed blade. Air is moved by a long cylindrical impeller inside the housing, and after a few Dubai summers of running non-stop it is usually coated in fine dust. Do not open the case to clean it for disposal; vacuum the grilles if you are passing it on and note any rattling, grinding or burning smell for the recipient.",
+          "Outdoor misting fans, common on villa terraces and balconies, carry a water tank and a small pump. Empty the tank, run the pump dry for a few seconds only if the manual allows it, then leave the tank and hose open to air-dry so stagnant water and limescale do not travel with the unit. For any fan with a remote, slide out the coin or AA batteries and send them to a battery collection point separately.",
+        ],
+        callout: { type: "warning", title: "Do not run a damaged fan to test it", text: "A fan with a cracked blade, a missing guard, a melted plug or a motor that hums without spinning should not be switched on again. Record the fault, keep it unplugged and send it to e-waste rather than offering it for reuse." },
+      },
+      {
+        heading: "Decide between reuse and e-waste",
+        paragraphs: [
+          "A fan that starts quietly on every speed, oscillates smoothly, has an undamaged blade and guard and a sound Type G plug can go to a neighbour, a community group or staff accommodation that needs extra air movement in summer. Include the remote and spell out anything missing. Old fans with sticky oscillation or a slow start are rarely worth passing on.",
+          "Everything else belongs with a small-appliance or electrical-waste route. Dubai Municipality lists used appliances within its household collection service, subject to current conditions. Our [appliance removal service](https://dubaijunkcollection.com/services/appliance-removal) can collect several fans with other small electricals in [Al Furjan](https://dubaijunkcollection.com/service-areas/al-furjan). See also [ceiling fan disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-ceiling-fan-in-dubai), [air purifiers](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-air-purifier-in-dubai) and [where to recycle electronics](https://dubaijunkcollection.com/blog/where-to-recycle-electronics-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can a pedestal fan go in the building bin?", answer: "It should go to an electrical-waste route instead. The motor head contains copper windings, a capacitor and wiring, and the guard and blade are mixed plastic and metal. Strip the fan to its main parts, bag the small fixings and hand it to a collector or drop-off that accepts small appliances." },
+      { question: "Why will the fan blade cap not unscrew?", answer: "On many pedestal fans the spinner cap is reverse-threaded, so it loosens by turning clockwise. Hold the blade firmly, check the arrow on the cap or the manual and turn gently. Dust and old grease can make it stiff; avoid gripping the thin blade edges with pliers." },
+      { question: "Is a bladeless fan handled differently?", answer: "Slightly. Bladeless and tower designs keep the motor and impeller inside a sealed housing, so there is nothing to strip down. Keep the base and loop together, pack the remote with its battery removed and describe the noise level and airflow honestly if you are offering it for reuse." },
+      { question: "What details help quote fan collection?", answer: "Say how many fans there are and which types, pedestal, tower, bladeless or misting, plus their condition and whether they are already dismantled. Mention other small appliances leaving, the floor, lift access and whether any misting tanks have been drained." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-a-ceiling-fan-in-dubai", "how-to-dispose-of-an-air-purifier-in-dubai", "where-to-recycle-electronics-in-dubai"],
+    serviceLink: { href: "/services/appliance-removal", label: "Arrange fan and small-appliance collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality - Dispose of household appliances and furniture" },
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-office-desk-phones-in-dubai",
+    title: "How to Dispose of Office Desk Phones in Dubai: IP Handsets, Provisioning and E-Waste",
+    excerpt: "Check leases and provider ownership, deregister each handset from the phone system, factory-reset it, separate PoE adapters, DECT batteries and headsets, then use verified reuse or documented e-waste.",
+    category: "Commercial & Office",
+    coverImage: blogB190Cover,
+    coverImageAlt: "Man checking a phone at a desk laid out with stacked handsets, a router, a keyboard, a laptop, cables and a tray of batteries",
+    publishedAt: "2026-11-12",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Office Phones", "IP Phone Recycling", "Office E-Waste", "IT Asset Disposal"],
+    seoTitle: "How to Dispose of Office Desk Phones in Dubai Safely",
+    seoDescription: "How to dispose of office desk phones in Dubai: confirm ownership, deregister and reset IP handsets, sort batteries and adapters, then use documented e-waste.",
+    keyTakeaways: [
+      "Confirm whether the phones belong to the company, a phone-system vendor or the telecom provider before anything is recycled.",
+      "Deregister each handset from the call platform and factory-reset it, because desk phones keep call history, directories and login credentials.",
+      "Separate cordless-handset batteries, PoE injectors and power supplies, and keep a count that matches the asset register.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of office desk phones in Dubai?",
+        paragraphs: [
+          "To dispose of office desk phones in Dubai, first check whether the handsets are leased from your telecom provider or phone-system vendor. Export what you need, factory-reset each phone and remove it from the call platform, then sort handsets, bases, PoE adapters, headsets and batteries for verified reuse or documented commercial e-waste.",
+          "Desk phones are usually the last thing anyone thinks about during an office move. They sit on every desk, they still work, and they look harmless. But an IP handset is a small networked computer, and a box of forty of them carries call logs, contact directories and the settings that let a device sign in to the company's phone system.",
+        ],
+      },
+      {
+        heading: "Work out who actually owns the handsets",
+        paragraphs: [
+          "Pull the phone-system contract before touching anything. Handsets supplied with a hosted or cloud phone service, a managed IT package or a telecom provider's business bundle may be on lease or loan and have to be returned, sometimes with a charge for missing units. Phones bought outright with an on-premises system belong to the company and can be reused or recycled under its own asset rules.",
+          "Record the model, serial number and MAC address printed on the label under each base, and match them against the asset register. Note conference units, reception consoles and cordless base stations separately, because they are often on different lines of the contract and are easy to miss when the desks are cleared.",
+        ],
+      },
+      {
+        heading: "Deregister and reset each phone before it leaves",
+        paragraphs: [
+          "Ask whoever manages the phone system, internal IT or the vendor, to remove each device from the call platform. That stops the handset from registering again elsewhere, frees the licence or extension so the company is not billed for it, and revokes the credentials stored on the phone. Export any directories or call-recording data the business needs to keep first.",
+          "Then factory-reset each handset through its admin menu, following the manufacturer's procedure. A reset clears local call history, speed dials, cached directory entries, network settings and stored passwords. Peel off extension labels, name cards and desk numbers, and keep a list of reset serial numbers signed off by IT so the transfer record shows the step was done.",
+        ],
+        callout: { type: "warning", title: "Unplugging is not decommissioning", text: "A phone pulled off the desk can still hold valid sign-in details for the company's phone system until it is deregistered and reset. Do not let handsets leave the office, even for donation, until IT has confirmed both steps for every serial number." },
+      },
+      {
+        heading: "Sort the accessories that travel with the phones",
+        paragraphs: [
+          "Cordless DECT handsets contain rechargeable batteries; slide them out, tape the terminals and send them to a battery collection route rather than leaving them in the handsets. Separate power supplies and PoE injectors from the phones and band them by type. Coil handset cords and network patch leads loosely, and bag expansion modules and wall-mount brackets with their screws.",
+          "Wired and wireless headsets used with the phones are handled with the rest of the [office computer peripherals](https://dubaijunkcollection.com/blog/how-to-dispose-of-office-computer-peripherals-in-dubai). Pack handsets upright in their original boxes or in crates with cardboard between layers so displays and keypads are not crushed, and confirm the crate count against your list before the loading bay.",
+        ],
+        image: blogB190Body,
+        imageAlt: "Two office facilities staff checking a storage cabinet with a clipboard while a trolley holds coiled cables, a chair and boxes for removal",
+        imageCaption: "Audit the storeroom for spare handsets, power supplies and coiled cords so the whole phone estate leaves in one counted batch.",
+      },
+      {
+        heading: "Choose reuse, return or documented e-waste",
+        paragraphs: [
+          "Reset handsets that still work and are owned by the company can go to a staff purchase scheme, a school or a smaller business using the same phone platform, if the organization approves the transfer. Leased units go back to the supplier with proof of return. Faulty, obsolete or analogue phones that the platform no longer supports belong with a commercial e-waste receiver.",
+          "Dubai Municipality's duty-of-care guidance makes businesses responsible for using appropriate routes for the waste they hold, so keep the transfer note alongside the reset list and asset register. Our [office junk removal team](https://dubaijunkcollection.com/services/office-junk-removal) can clear handsets, bases and cabling during a move in [Dubai Design District](https://dubaijunkcollection.com/service-areas/dubai-design-district). Related reading covers [routers and modems](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-wifi-router-and-modem-in-dubai) and [data-safe electronics disposal](https://dubaijunkcollection.com/blog/data-safe-electronics-disposal-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Do office IP phones store personal data?", answer: "They can. Handsets often keep recent call history, missed calls, personal speed dials, cached directory entries and the credentials used to register with the phone system. Voicemail is normally held on the server, not the handset. Deregistration plus a factory reset clears what is stored locally." },
+      { question: "Does the telecom provider take old office phones back?", answer: "It depends on the contract. Handsets bundled with a provider or vendor service may be leased and need returning, while phones bought outright belong to the business. Check the agreement and serial numbers with the account manager and keep proof of any return." },
+      { question: "What about the old phone system cabinet?", answer: "An on-premises phone system or gateway in a comms room is usually rack-mounted network hardware. Have IT export settings and confirm nothing live depends on it, then handle it with the rest of the rack equipment rather than with the desk handsets." },
+      { question: "What details help quote desk phone collection?", answer: "Give the number of handsets, cordless bases and conference units, whether they are boxed or loose, and how much cabling and power equipment is included. Mention the floor, service-lift and loading-bay booking, and whether you need a transfer record." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-office-computer-peripherals-in-dubai", "how-to-dispose-of-a-wifi-router-and-modem-in-dubai", "data-safe-electronics-disposal-dubai"],
+    serviceLink: { href: "/services/office-junk-removal", label: "Arrange office phone collection" },
     sources: [
       { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
       { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality - Waste services" },
