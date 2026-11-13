@@ -346,6 +346,12 @@ import blogB189Cover from "@/assets/blog-b98-appliance-disposal-cover.webp";
 import blogB189Body from "@/assets/blog-b120-ceiling-fan-components-body.webp";
 import blogB190Cover from "@/assets/blog-b45-electronics-recycling-cover.webp";
 import blogB190Body from "@/assets/blog-b39-office-storage-audit-body.webp";
+import blogB191Cover from "@/assets/blog-b125-bunk-bed-removal-cover.webp";
+import blogB191Body from "@/assets/blog-b173-headboard-fixings-body.webp";
+import blogB192Cover from "@/assets/blog-b34-charity-sorting-body.jpg";
+import blogB192Body from "@/assets/blog-b61-ewaste-sorting-depot-body.webp";
+import blogB193Cover from "@/assets/blog-b90-data-safe-electronics-cover.webp";
+import blogB193Body from "@/assets/blog-b140-ups-battery-packing-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -19465,6 +19471,225 @@ export const blogPosts: BlogPost[] = [
     sources: [
       { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
       { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality - Waste services" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-murphy-bed-in-dubai",
+    title: "How to Dispose of a Murphy Bed in Dubai: Wall Beds, Springs, Pistons and Wall Anchors",
+    excerpt: "Lock the bed closed before the mattress comes out, release the springs or gas pistons in the right order, unbolt the cabinet from the wall, repair the anchor holes and book reuse or bulky collection.",
+    category: "Guides & Tips",
+    coverImage: blogB191Cover,
+    coverImageAlt: "Two uniformed crew members steadying a tall wooden bed frame on moving blankets in a Dubai apartment, with a drill and a tray of fixings on the floor",
+    publishedAt: "2026-11-13",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Murphy Bed Disposal", "Wall Beds", "Studio Apartments", "Furniture Collection"],
+    seoTitle: "How to Dispose of a Murphy Bed or Wall Bed in Dubai",
+    seoDescription: "How to dispose of a Murphy bed in Dubai: lock the frame before removing the mattress, release springs or pistons safely and unbolt the cabinet from the wall.",
+    keyTakeaways: [
+      "The lift mechanism is balanced for the weight of the mattress, so an empty frame can swing up hard; strap it closed before the mattress comes out.",
+      "Springs and gas pistons are released in a set order, usually with the bed closed and locked; follow the manual or leave that step to a fitter.",
+      "The cabinet is anchored to the wall, so plan for filling and painting the bolt holes before the tenancy inspection.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a Murphy bed in Dubai?",
+        paragraphs: [
+          "To dispose of a Murphy bed in Dubai, close the bed and strap the frame to the cabinet, then remove the mattress. Release the springs or gas pistons following the manufacturer's sequence, unbolt the frame and cabinet from the wall, bag every fixing and book confirmed reuse or accepted bulky-furniture collection.",
+          "A wall bed looks like a wardrobe and behaves like a machine. Inside the cabinet is a counterbalance, either a bank of steel coil springs or a pair of gas pistons, that lets one person raise a heavy frame and mattress with a light push. That stored force is what makes a Murphy bed easy to use and what makes it risky to take apart in the wrong order.",
+        ],
+      },
+      {
+        heading: "Find out whether the bed is yours to remove",
+        paragraphs: [
+          "Wall beds are common in studios and compact one-bedroom units, and in furnished apartments they are often part of the landlord's fitted furniture. Check the tenancy contract and the move-in inventory before arranging anything. If the bed is listed there, removing it without written approval can turn into a deduction from the security deposit, even if the bed was old and creaking.",
+          "Then identify the mechanism. Open the bed and look at the side panels of the cabinet. Long coiled springs hooked onto a steel bracket mean a spring system, often with an adjustment bolt per side. Slim cylinders that look like car-boot struts are gas pistons. A sticker inside the cabinet usually gives the brand and model, which is enough to find the dismantling instructions.",
+        ],
+      },
+      {
+        heading: "Lock the frame before the mattress comes out",
+        paragraphs: [
+          "The counterbalance is set for a frame plus a mattress. Lift the mattress off an open bed and the empty frame can swing upward with real force, and gas pistons can do the same. Raise the bed to the closed position first, engage any safety lock, and run two ratchet straps around the frame and the cabinet carcass so it cannot drop open or flip up.",
+          "Only then work the mattress out. On many models it is held by a strap or a hinged retaining bar along the foot; release that, lower the bed slowly with someone holding the frame, and slide the mattress off sideways. Wall-bed mattresses are usually thinner than standard ones and can be handled like any other [mattress collection](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-mattress-in-dubai).",
+        ],
+        callout: { type: "warning", title: "Never release springs on an open, empty frame", text: "If the mattress is already out and the frame is down, keep weight on it and close it slowly with two people. Spring hooks and piston brackets come off only in the order the manual gives, with the frame secured, never by cutting or prising them free." },
+      },
+      {
+        heading: "Release the mechanism and unbolt the cabinet",
+        paragraphs: [
+          "Spring systems are usually de-tensioned by backing off the adjustment bolt on each side, then unhooking the springs one at a time. Piston systems are unbolted at the frame end and then at the cabinet end. If there is no manual, or the springs are rusted onto their hooks, stop and have a fitter or an experienced crew handle it. Mark each side, bag the springs or pistons, and tape the bags to the matching side panel.",
+          "With the mechanism out, the frame comes off its pivot and the cabinet can be unbolted. Wall beds are fixed to the wall with heavy brackets and anchors because the open bed pulls forward on the cabinet. Remove the screws, lift the carcass off its brackets with two people and leave the brackets on the wall until the cabinet is clear. Most frames and side panels then split into flat sections that fit a service lift.",
+        ],
+        image: blogB191Body,
+        imageAlt: "Crew member in gloves kneeling on a moving blanket beside a padded panel resting on foam blocks, with two metal wall brackets still fixed to the wall and a bag of bolts on the floor",
+        imageCaption: "Leave the wall brackets in place until the heavy panels are safely down, then remove them and bag every bolt with the part it came from.",
+      },
+      {
+        heading: "Make good the wall and choose the right destination",
+        paragraphs: [
+          "Removing the brackets leaves large anchor holes, often in a load-bearing block or concrete wall. Fill and sand them and touch up the paint before the landlord's inspection, or ask the building's maintenance team what they accept. Book the service lift and check whether the building needs a furniture move-out permit for parts leaving the unit.",
+          "A working wall bed with its manual, all springs or pistons and an undamaged cabinet can go to resale or to someone fitting out a small flat, provided they understand it needs proper wall anchoring. Beds with bent pivot arms or worn springs belong in bulky-furniture collection. Our [furniture removal team](https://dubaijunkcollection.com/services/furniture-removal) dismantles wall beds in [Business Bay](https://dubaijunkcollection.com/service-areas/business-bay) studios. See also [bed frame disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-bed-frame-in-dubai) and [sofa beds](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-sofa-bed-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can a Murphy bed be moved to a new apartment?", answer: "Often, if it is dismantled carefully and every spring, piston and fixing is kept. The new wall must be able to take heavy anchors, and the counterbalance may need re-adjusting for a different mattress. Many owners find the cost of refitting close to a new unit, so check before deciding." },
+      { question: "Why does the bed keep flying up once the mattress is off?", answer: "The springs or pistons are sized to lift the frame and mattress together. Without the mattress's weight the counterbalance overpowers the frame. Close it slowly with two people, strap it to the cabinet and do not try to hold it down on your own while removing parts." },
+      { question: "Are wall bed gas pistons dangerous to dispose of?", answer: "They hold pressurised gas, so do not drill, cut or heat them. Unbolt them intact once the frame is secured and keep them together with the bed parts. Mention them when booking so the collector routes them with the metal rather than crushing them with general waste." },
+      { question: "What details help quote Murphy bed removal?", answer: "Send photos of the bed open and closed, the mechanism inside the side panels and any attached shelving or desk. Say whether it is a spring or piston model, whether the mattress is going, the floor, service-lift and parking access, and whether the wall needs making good." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-a-bed-frame-in-dubai", "how-to-dispose-of-a-sofa-bed-in-dubai", "how-to-dispose-of-a-mattress-in-dubai"],
+    serviceLink: { href: "/services/furniture-removal", label: "Book Murphy bed removal" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality - Dispose of household appliances and furniture" },
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-sewing-machine-in-dubai",
+    title: "How to Dispose of a Sewing Machine in Dubai: Needles, Industrial Heads and Donation",
+    excerpt: "Remove the needle, bobbin and presser foot, secure the head or drain an industrial sump, pack the pedal and lead, and offer working machines for reuse before sending the rest to small-appliance e-waste.",
+    category: "Eco & Recycling",
+    coverImage: blogB192Cover,
+    coverImageAlt: "Volunteers in vests and gloves sorting donated kitchenware and small appliances at long wooden tables inside a large Dubai donation sorting warehouse",
+    publishedAt: "2026-11-13",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Sewing Machine Disposal", "Industrial Sewing Machines", "Appliance Donation", "Small Appliance Recycling"],
+    seoTitle: "How to Dispose of a Sewing Machine in Dubai Safely",
+    seoDescription: "How to dispose of a sewing machine in Dubai: remove needles and bobbins, pack the pedal, drain industrial oil sumps and find reuse or e-waste routes.",
+    keyTakeaways: [
+      "Take out the needle and bobbin and fit a guard or wrap over the needle area, because a stray needle is the most common injury when machines are handled.",
+      "Vintage cast-iron heads and industrial machines are far heavier than they look; secure the head to its base or table before anyone lifts it.",
+      "A working sewing machine has real reuse value in Dubai, so try tailors, sewing classes and community groups before choosing e-waste.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a sewing machine in Dubai?",
+        paragraphs: [
+          "To dispose of a sewing machine in Dubai, unplug it, remove the needle, bobbin and presser foot, and lock or pad the needle bar. Pack the foot pedal and lead with the machine, drain any industrial oil sump, then offer working machines for reuse and send faulty ones to a small-appliance e-waste route.",
+          "Sewing machines outlast almost everything else in a home. Many in Dubai arrived in shipping containers years ago, have sat in a storeroom since the last school costume, and still run. That is why the first question is not where to throw it, but whether someone else can use it, with safe packing coming a close second.",
+        ],
+      },
+      {
+        heading: "Identify the type of machine you have",
+        paragraphs: [
+          "A modern domestic machine is mostly plastic around a metal chassis, with a small motor, a light and, on computerised models, a circuit board and touch panel. Older mechanical machines are heavier, with metal gears and cams. Vintage cast-iron heads, often sitting in a wooden cabinet or on a treadle stand, can weigh well over ten kilograms for the head alone.",
+          "Industrial machines from tailoring shops and garment units are a different job. The head sits in a table with a separate clutch or servo motor bolted underneath, a belt linking the two, and an oil reservoir in the base of the head. Overlockers and embroidery machines follow the domestic pattern but carry several needles and thread cones.",
+        ],
+      },
+      {
+        heading: "Make the machine safe to handle",
+        paragraphs: [
+          "Unplug the machine and turn the handwheel until the needle is at its highest point. Loosen the needle clamp screw and take the needle out, then remove the presser foot and the bobbin from its case. Put needles into a small tin or a taped container rather than loose in a bag. Lower the presser bar, slip a scrap of fabric under it and drop the foot or a cover over the needle area.",
+          "Wind the power lead and foot pedal together, tie them with a strip of tape and place them in a bag fixed to the machine. Use the original hard cover or carry case if there is one. For a computerised model, remove any memory card or USB stick and take out batteries from accessories such as a cordless light.",
+        ],
+        callout: { type: "warning", title: "Drain industrial sumps before moving", text: "An industrial head holds oil in a pan underneath. Tip the head back on its hinges, drain the oil into a sealed container for proper collection and wipe the pan. Then secure the head to the table or remove it, because a loose head can swing back and trap fingers." },
+      },
+      {
+        heading: "Look for reuse before recycling",
+        paragraphs: [
+          "Dubai has a large tailoring trade, from neighbourhood shops in Satwa and Karama to alteration counters in community malls, and plenty of people sew at home. A working machine that threads, stitches evenly and comes with its pedal and manual can suit a tailor's apprentice, a sewing class, a school textile room or a community group. Share a short video of it stitching on scrap fabric.",
+          "Leftover fabric, threads and pattern paper are separate items. Clean, usable fabric can go with [clothing donations](https://dubaijunkcollection.com/blog/where-to-donate-clothes-in-dubai) where the receiver accepts it. Small parts such as bobbins, feet and needles should go with the machine, not loose in a donation box, so the next owner gets a complete set.",
+        ],
+      },
+      {
+        heading: "Send faulty machines to a small-appliance route",
+        paragraphs: [
+          "A machine with a seized motor, a cracked casing, a damaged lead or a computer panel that no longer boots is electrical waste. It contains copper windings, metal castings and electronics that are recovered at e-waste facilities, so it should not go in the building bins. Old wooden cabinets and treadle stands can travel with bulky furniture.",
+          "Dubai Municipality lists used household appliances within its collection services, subject to current conditions. Our [appliance removal service](https://dubaijunkcollection.com/services/appliance-removal) can collect sewing machines with other small electricals from homes in [The Springs](https://dubaijunkcollection.com/service-areas/the-springs). Related guides cover [steam irons](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-steam-iron-in-dubai) and [where to recycle electronics](https://dubaijunkcollection.com/blog/where-to-recycle-electronics-in-dubai).",
+        ],
+        image: blogB192Body,
+        imageAlt: "Man in a kandura handing a crate of small appliances and cables to a worker in a high-visibility vest at a Dubai recycling drop-off with labelled bins for small appliances and electronic cables",
+        imageCaption: "Faulty machines go to a small-appliance or electronics bin, never the general waste, so their motors and metal castings can be recovered.",
+      },
+    ],
+    faqs: [
+      { question: "Is a vintage sewing machine worth anything?", answer: "Some are, particularly complete cast-iron machines in good cabinets or treadle stands, but most have modest value. Condition, completeness and whether it still stitches matter more than age. Photograph the serial plate and the decals and ask a sewing-machine repairer or collector before assuming it is scrap." },
+      { question: "Can I post a sewing machine needle in the bin?", answer: "Put used needles in a sealed tin or a rigid container and tape it shut first. Loose needles in a bag can injure building cleaners and collection crews. If you are passing the machine on, include spare unused needles in their packet instead." },
+      { question: "Do industrial sewing tables come apart?", answer: "Usually yes. The head lifts off its hinges, the motor unbolts from under the tabletop, and the legs separate from the frame. Bag the belt, bolts and bobbin winder together and label each part, especially if the set is going to another workshop." },
+      { question: "What details help quote sewing machine collection?", answer: "Say how many machines there are, whether they are domestic, vintage cast-iron or industrial, and whether any cabinets, tables or motors are included. Mention if oil sumps have been drained, plus the floor, lift access and other items leaving the same day." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-a-steam-iron-in-dubai", "where-to-donate-clothes-in-dubai", "where-to-recycle-electronics-in-dubai"],
+    serviceLink: { href: "/services/appliance-removal", label: "Arrange sewing machine collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality - Dispose of household appliances and furniture" },
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-biometric-attendance-machines-in-dubai",
+    title: "How to Dispose of Biometric Attendance Machines in Dubai: Fingerprint Data, Door Locks and E-Waste",
+    excerpt: "Export the attendance records HR needs, delete enrolled fingerprints and face templates, reset each terminal, have the installer make linked doors safe, separate backup batteries and use documented e-waste.",
+    category: "Commercial & Office",
+    coverImage: blogB193Cover,
+    coverImageAlt: "Technician in safety glasses scanning and logging electronic storage devices into labelled bins at a Dubai data-safe e-waste processing bench",
+    publishedAt: "2026-11-13",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Biometric Attendance Machines", "Access Control Disposal", "Office E-Waste", "Data Protection"],
+    seoTitle: "How to Dispose of Biometric Attendance Machines in Dubai",
+    seoDescription: "How to dispose of biometric attendance machines in Dubai: export records, wipe fingerprint templates, make linked doors safe and route terminals to e-waste.",
+    keyTakeaways: [
+      "Attendance terminals store employee fingerprints or face templates, names, ID numbers and clock-in logs, so they need a documented wipe before leaving the office.",
+      "Export the attendance history HR and payroll must keep, then delete users and templates and reset each device through its admin menu.",
+      "Terminals wired to door locks and access-control power supplies need the installer to make the door safe before anything is unscrewed.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of biometric attendance machines in Dubai?",
+        paragraphs: [
+          "To dispose of biometric attendance machines in Dubai, export the attendance records your business must keep, then delete every enrolled user, fingerprint and face template and reset each terminal. Have the access-control installer disconnect any linked door lock, separate backup batteries and power supplies, and send the units to documented commercial e-waste.",
+          "Fingerprint and face terminals are fixed to the wall beside the entrance of most Dubai offices, warehouses and clinics, and they are easy to forget during a move because they are not on anyone's desk. Each one is a small database of people. It holds the biometric templates of current and former staff, their employee numbers and months of clock-in and clock-out times.",
+        ],
+      },
+      {
+        heading: "Treat the stored data as sensitive",
+        paragraphs: [
+          "Biometric data is treated as a sensitive category of personal data under the UAE's federal data protection law, and companies registered in DIFC follow the DIFC's own data protection regime. Whichever applies, a terminal handed on with its user list intact discloses information the company collected for one purpose only. Ask the data protection lead or legal adviser what your obligations are before the clear-out.",
+          "List every device first: model, serial number, location and whether it is a standalone attendance clock, part of an access-control system or linked to cloud HR software. Branch offices, warehouse gates and staff accommodation entrances are commonly missed. Match the list to the asset register so the final transfer note accounts for each one.",
+        ],
+      },
+      {
+        heading: "Export, delete and reset each terminal",
+        paragraphs: [
+          "Download the attendance logs to the attendance or payroll software and confirm HR has what it needs under the company's retention policy, since timesheets often support payroll and leave records. Then remove the terminal from the software or cloud account so it stops syncing, and revoke any admin passwords or API keys it used.",
+          "On the device, use the admin menu to delete all users, fingerprints, face and card data, then clear the attendance logs and run the factory reset or initialise option the manufacturer provides. Take out any memory card or USB stick. Photograph the empty user count and the reset confirmation screen for each serial number and keep the photos with the IT sign-off.",
+        ],
+        callout: { type: "warning", title: "A terminal off the wall can still be a door key", text: "Units that control a door may keep valid user credentials and lock settings until they are reset. Do not let any terminal leave the premises, including for resale or donation, until its data has been deleted and the reset is recorded." },
+      },
+      {
+        heading: "Make linked doors safe and separate the batteries",
+        paragraphs: [
+          "A plain attendance clock is mounted on a bracket with a few screws and powered by an adapter or a PoE network cable. An access-control terminal is also wired to an electric door lock, an exit button and often a fire-alarm release, through a power supply box that contains a sealed backup battery. Pulling those wires can leave a fire exit locked or a door permanently open, so the installer or building's access-control contractor should disconnect it.",
+          "Once the door is made safe, lift the terminal off its bracket and note that many have a tamper switch that sounds an alarm when removed. Take the sealed lead-acid batteries out of the power supply boxes, protect the terminals with tape and route them to battery recycling. Band power adapters and PoE injectors separately, and bag the brackets with their screws for the e-waste receiver.",
+        ],
+        image: blogB193Body,
+        imageAlt: "Gloved worker placing a sealed black backup battery with red and white terminal caps into a foam-lined transport case, with screwdrivers on the bench beside it",
+        imageCaption: "Backup batteries from access-control power supplies are capped and packed separately so they reach a battery recycling route intact.",
+      },
+      {
+        heading: "Choose a documented route and make good the wall",
+        paragraphs: [
+          "Reset terminals that still work can go back to the supplier, to an installer who refurbishes them or to another site in the same group, if the company approves. Older units, ones with damaged sensors or ones that the attendance software no longer supports belong with a commercial e-waste receiver that issues a transfer note. Keep that note with the reset photos and the asset list.",
+          "Fill the bracket holes and cable entries before handing the space back, since entrance walls are among the first places a landlord checks. Our [office junk removal team](https://dubaijunkcollection.com/services/office-junk-removal) can collect terminals, brackets and power supplies during an office exit in [DIFC](https://dubaijunkcollection.com/service-areas/difc). Related reading covers [office desk phones](https://dubaijunkcollection.com/blog/how-to-dispose-of-office-desk-phones-in-dubai), [UPS and backup batteries](https://dubaijunkcollection.com/blog/how-to-dispose-of-ups-and-backup-batteries-in-dubai) and [data-safe electronics disposal](https://dubaijunkcollection.com/blog/data-safe-electronics-disposal-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Does a factory reset remove fingerprints from the device?", answer: "On most terminals a full reset or initialise function clears users, templates and logs, but menus differ between models and some resets only restore settings. Delete users and data first, then reset, and check the user and record counts read zero before signing it off." },
+      { question: "Can we sell used fingerprint attendance machines?", answer: "Yes, once data has been deleted, the device is reset and it has been removed from your software account. Sell through a supplier or installer who can confirm compatibility for the buyer. Never pass on a unit that still shows enrolled users or old attendance logs." },
+      { question: "Who removes the electric lock on the office door?", answer: "Usually the access-control installer or the building's approved contractor, because the lock may be tied into the fire-alarm system. Check the fit-out handover requirements with building management, since some landlords want the door returned to a plain handle and closer." },
+      { question: "What details help quote attendance machine collection?", answer: "Say how many terminals, power supply boxes and batteries are involved, whether doors have already been made safe and whether brackets are still on the wall. Mention the floor, loading-bay or service-lift booking and whether you need a transfer note." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-office-desk-phones-in-dubai", "how-to-dispose-of-ups-and-backup-batteries-in-dubai", "data-safe-electronics-disposal-dubai"],
+    serviceLink: { href: "/services/office-junk-removal", label: "Arrange attendance terminal collection" },
+    sources: [
+      { href: "https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws", label: "UAE Government - Data protection laws" },
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
       { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
     ],
   },

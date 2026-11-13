@@ -760,3 +760,11 @@
 | 430 | how to dispose of a rocking chair in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-rocking-chair-in-dubai`) |
 | 431 | how to dispose of a pedestal fan in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-pedestal-fan-in-dubai`) |
 | 432 | how to dispose of office desk phones in dubai | Q | Blog Article (`/blog/how-to-dispose-of-office-desk-phones-in-dubai`) |
+
+### New question-intent blog targets (Batch 57)
+
+| # | Keyword | Intent | Recommended Page |
+| :-: | :--- | :---: | :--- |
+| 433 | how to dispose of a murphy bed in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-murphy-bed-in-dubai`) |
+| 434 | how to dispose of a sewing machine in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-sewing-machine-in-dubai`) |
+| 435 | how to dispose of biometric attendance machines in dubai | Q | Blog Article (`/blog/how-to-dispose-of-biometric-attendance-machines-in-dubai`) |
