@@ -768,3 +768,11 @@
 | 433 | how to dispose of a murphy bed in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-murphy-bed-in-dubai`) |
 | 434 | how to dispose of a sewing machine in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-sewing-machine-in-dubai`) |
 | 435 | how to dispose of biometric attendance machines in dubai | Q | Blog Article (`/blog/how-to-dispose-of-biometric-attendance-machines-in-dubai`) |
+
+### New question-intent blog targets (Batch 58)
+
+| # | Keyword | Intent | Recommended Page |
+| :-: | :--- | :---: | :--- |
+| 436 | how to dispose of an adjustable bed in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-adjustable-bed-in-dubai`) |
+| 437 | how to dispose of a deep fryer in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-deep-fryer-in-dubai`) |
+| 438 | how to dispose of pos systems and cash registers in dubai | Q | Blog Article (`/blog/how-to-dispose-of-pos-systems-and-cash-registers-in-dubai`) |

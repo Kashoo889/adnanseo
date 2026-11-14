@@ -738,6 +738,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules section 16):** B191 differs from B65 (bed frames), B128 (sofa beds), B185 (futons), B125 (bunk beds) and B75 (wardrobes) through a spring or gas-piston counterbalance that must be locked before the mattress is removed, ordered de-tensioning, wall-anchored cabinet removal and landlord fitted-furniture checks. B192 differs from B165 (steam irons), B186 (garment steamers), B57 (clothes donation) and B45 (electronics recycling) through needle and bobbin sharps handling, cast-iron and industrial head weight, industrial oil-sump draining, clutch/servo motor tables and tailoring-trade reuse. B193 differs from B190 (desk phones), B90 (data-safe electronics), B140 (UPS batteries) and B136 (routers) through biometric template deletion under data-protection rules, attendance-log export for HR and payroll, access-control door-lock and fire-alarm interfaces, tamper switches and power-supply backup batteries.
 
+### Track 61: Motorised Sleeping, Hot-Oil Frying & Point-of-Sale Hardware (Clusters 3, 4, 5, 6 & 10)
+*Continues the furniture-appliance-office sequence through three distinct controls: lowering a motorised bed base flat before power is cut and returning rented hospital beds to their supplier, cooling and bottling litres of used frying oil for a cooking-oil route before the appliance moves, and closing the books, wiping terminals and returning bank-owned card machines before retail POS hardware is recycled.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B194** | *How to Dispose of an Adjustable Bed in Dubai: Motors, Backup Batteries and Hospital Bed Returns* | `how to dispose of an adjustable bed in dubai` | `hospital bed disposal dubai`, `electric bed removal dubai`, `bulky item collection dubai` | Q | `/services/mattress-bulky-item-removal` |
+| **B195** | *How to Dispose of a Deep Fryer in Dubai: Used Oil, Tanks and Small-Appliance Recycling* | `how to dispose of a deep fryer in dubai` | `used cooking oil disposal dubai`, `kitchen appliance disposal dubai`, `small appliance recycling dubai` | Q | `/services/appliance-removal` |
+| **B196** | *How to Dispose of POS Systems and Cash Registers in Dubai: Sales Records, Card Terminals and E-Waste* | `how to dispose of pos systems and cash registers in dubai` | `cash register disposal dubai`, `card machine return dubai`, `commercial e-waste collection dubai` | Q | `/services/office-junk-removal` |
+
+**Overlap check (content-rules section 16):** B194 differs from B24 (mattresses), B77 (recliners), B121 (massage chairs) and B65 (bed frames) through lowering a powered base flat before unplugging, emergency-lowering batteries, rented or insurance-supplied hospital bed returns, control-box and handset separation and split-king or hospital-frame dismantling. B195 differs from B142 (air fryers), B104 (pots and pans), B183 (pressure cookers) and B46 (hazardous waste) through litres of hot frying oil that must cool and be bottled for a used cooking oil route, drain and building-stack blockage risk, removable tank and element-head cleaning and commercial gas fryer disconnection. B196 differs from B193 (biometric terminals), B184 (computer peripherals), B90 (data-safe electronics) and B152 (reception desks) through final Z-report and VAT record export, POS software deregistration, bank-owned card terminal returns, cash-drawer emptying and key handover, and thermal receipt paper handling.
+
 ---
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -797,3 +808,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 55. **Batch 55 (Articles B185–B187):** Floor-Level Sleeping, Upright Steaming & Desk Displays — **100% Completed (3/3 Live)**.
 56. **Batch 56 (Articles B188–B190):** Rocking Seats, Standing Airflow & Desk Telephony — **100% Completed (3/3 Live)**.
 57. **Batch 57 (Articles B191–B193):** Fold-Away Sleeping, Stitching Machines & Biometric Entry — **100% Completed (3/3 Live)**.
+58. **Batch 58 (Articles B194–B196):** Motorised Sleeping, Hot-Oil Frying & Point-of-Sale Hardware — **100% Completed (3/3 Live)**.

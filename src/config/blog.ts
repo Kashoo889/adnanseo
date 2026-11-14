@@ -352,6 +352,12 @@ import blogB192Cover from "@/assets/blog-b34-charity-sorting-body.jpg";
 import blogB192Body from "@/assets/blog-b61-ewaste-sorting-depot-body.webp";
 import blogB193Cover from "@/assets/blog-b90-data-safe-electronics-cover.webp";
 import blogB193Body from "@/assets/blog-b140-ups-battery-packing-body.webp";
+import blogB194Cover from "@/assets/blog-b24-mattress-disposal-cover.jpg";
+import blogB194Body from "@/assets/blog-b121-massage-chair-lift-body.webp";
+import blogB195Cover from "@/assets/blog-b142-air-fryer-disposal-cover.webp";
+import blogB195Body from "@/assets/blog-b46-specialist-waste-collection-body.webp";
+import blogB196Cover from "@/assets/blog-b152-reception-desk-removal-cover.webp";
+import blogB196Body from "@/assets/blog-b178-office-scanner-packing-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -19691,6 +19697,218 @@ export const blogPosts: BlogPost[] = [
       { href: "https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws", label: "UAE Government - Data protection laws" },
       { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
       { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-an-adjustable-bed-in-dubai",
+    title: "How to Dispose of an Adjustable Bed in Dubai: Motors, Backup Batteries and Hospital Bed Returns",
+    excerpt: "Lower the bed flat while it still has power, return rented or hospital beds to the supplier, separate the backup battery, control box and handset, split the base and route the special mattress separately.",
+    category: "Guides & Tips",
+    coverImage: blogB194Cover,
+    coverImageAlt: "Two uniformed crew members carrying a plastic-wrapped mattress along a marble apartment corridor towards the lifts on the twelfth floor of a Dubai tower",
+    publishedAt: "2026-11-14",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Adjustable Bed Disposal", "Hospital Beds", "Motorised Furniture", "Bulky Item Collection"],
+    seoTitle: "How to Dispose of an Adjustable Bed in Dubai Safely",
+    seoDescription: "How to dispose of an adjustable bed in Dubai: lower it flat before unplugging, return rented hospital beds, remove backup batteries and split the motorised base.",
+    keyTakeaways: [
+      "Lower the bed to fully flat while it still has power; a base left raised after unplugging is awkward to carry and can drop suddenly when parts are removed.",
+      "Hospital and home-care beds are often rented or supplied through insurance, so confirm ownership and arrange a supplier return before anything is dismantled.",
+      "The backup battery, control box and handset come off before the base is split, and the flexible mattress travels as a separate item.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an adjustable bed in Dubai?",
+        paragraphs: [
+          "To dispose of an adjustable bed in Dubai, lower it fully flat while it still has power, then unplug it and remove any backup battery. Return rented or hospital beds to the supplier. Otherwise separate the mattress, motor control box and hand control, split the base and book reuse or bulky collection.",
+          "An adjustable bed is a piece of furniture built around linear actuators, the electric motors that push the head and foot sections up. That makes it heavier than a normal bed and gives it a power supply, a control box and sometimes a battery pack hidden underneath. The order you take those parts off matters more than the tools you use.",
+        ],
+      },
+      {
+        heading: "Check whether the bed is yours to dispose of",
+        paragraphs: [
+          "Many adjustable beds in Dubai homes arrive after a hospital discharge or for an elderly parent staying with family. These are frequently rented from a medical equipment supplier, provided through a home-care provider or covered by an insurance plan, and they have to go back rather than out. Look for an asset sticker or serial plate on the frame and check any rental paperwork before a crew is booked.",
+          "Lifestyle adjustable bases bought from furniture stores are usually the owner's to dispose of, but they may still be under warranty. If a motor has failed, the retailer may replace the actuator for far less than a new base, which is worth one call before the whole bed is written off.",
+        ],
+      },
+      {
+        heading: "Lower it flat before the power goes",
+        paragraphs: [
+          "Use the handset to bring the head and foot fully down and, on hospital beds, lower the height to its minimum and lock the castors. Only then switch off and unplug. A base left with its head section raised is unbalanced, will not fit through doors and lifts, and can drop without warning when a crew loosens an actuator bracket.",
+          "If the motors have died with the bed raised, check the manual for an emergency lowering method. Many hospital beds have a battery backup for this purpose, and some home bases have a slot for 9V or AA batteries in the control box. Do not prop a raised section on books and start unbolting, because the full weight rests on the actuator mount.",
+        ],
+        callout: { type: "warning", title: "Keep hands out of the scissor frame", text: "The hinge points between the base and the moving sections close with real force. Never reach under a raised section, and keep children and pets out of the room until the bed is flat, unplugged and the battery is out." },
+      },
+      {
+        heading: "Separate the electrics and split the base",
+        paragraphs: [
+          "Take the mattress off first and keep it apart. Adjustable beds use flexible foam or pocket-sprung mattresses designed to bend, and many have a retainer bar at the foot that unscrews. Then disconnect the handset, unplug the actuator leads from the control box and remove the box and power supply. Take out any backup battery pack, tape over its terminals and keep it out of the general waste.",
+          "Most lifestyle bases separate into two halves or come apart at the legs, and split-king beds are two single bases joined with a bracket. Hospital beds normally dismantle into a head end, a foot end and the platform. Bag the bolts with each section, coil the leads, and wrap rails and actuators so they do not mark walls and lift panels on the way down.",
+        ],
+        image: blogB194Body,
+        imageAlt: "Crew member wheeling a large motorised chair on a stair-climbing trolley into a padded service lift, with its power cable coiled and taped to the side and wrapped parts waiting on the floor",
+        imageCaption: "Motorised furniture travels with its leads coiled and taped and small parts wrapped separately, the same way an adjustable base should go down to the truck.",
+      },
+      {
+        heading: "Choose reuse, return or bulky collection",
+        paragraphs: [
+          "A working base with its handset, power supply and manual can suit another household, a home-care family or a charity that supports elderly residents, but buyers will want to see it move through its full range. Clean the frame and give the mattress an honest description, since used mattresses are harder to place than the base. Book the service lift for villa or tower moves where the base will not fit the stairs.",
+          "Faulty bases are bulky waste with a lot of recoverable steel and electrical parts. Our [mattress and bulky item collection](https://dubaijunkcollection.com/services/mattress-bulky-item-removal) handles motorised beds from homes in [Mudon](https://dubaijunkcollection.com/service-areas/mudon). Related guides cover [mattress disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-mattress-in-dubai), [massage chairs](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-massage-chair-in-dubai) and [recliner chairs](https://dubaijunkcollection.com/blog/how-to-dispose-of-recliner-chair-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can a hospital bed be donated in Dubai?", answer: "Sometimes, if it is owned outright, complete and working. Clinics and charities usually ask for the model, age and photos of the frame, rails and controls, and some only accept equipment with a service record. Rented or insurance-provided beds must be returned to the supplier instead of donated." },
+      { question: "What do I do if the bed is stuck in the raised position?", answer: "Look for an emergency lowering battery or manual release described in the manual, or call the supplier. Do not unbolt actuators or props while a section is raised. If no safe method exists, ask the crew to handle it with the section supported and two people controlling the weight." },
+      { question: "Does an adjustable bed mattress need special disposal?", answer: "No, it follows the same route as other mattresses, but it is often thinner and more flexible. Roll or fold it only if the manufacturer allows, wrap it in plastic and tell the collector it is coming, so it is counted as a separate item." },
+      { question: "What details help quote adjustable bed removal?", answer: "Send photos of the bed flat, the label on the frame and the space underneath. Say whether it is a lifestyle base, split king or hospital bed, whether it still moves, if a mattress is going too, and the floor, lift and parking access." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-a-mattress-in-dubai", "how-to-dispose-of-a-massage-chair-in-dubai", "how-to-dispose-of-recliner-chair-dubai"],
+    serviceLink: { href: "/services/mattress-bulky-item-removal", label: "Book adjustable bed collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality - Dispose of household appliances and furniture" },
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-deep-fryer-in-dubai",
+    title: "How to Dispose of a Deep Fryer in Dubai: Used Oil, Tanks and Small-Appliance Recycling",
+    excerpt: "Cool the oil completely, strain it into sealed bottles for a used cooking oil collection point, degrease the tank and basket without wetting the element, and route the fryer to reuse or small-appliance e-waste.",
+    category: "Eco & Recycling",
+    coverImage: blogB195Cover,
+    coverImageAlt: "Crew member in grey gloves lifting an unplugged black countertop fryer away from its removable basket on a stone kitchen counter, with a collection crate beside him and the Dubai skyline outside",
+    publishedAt: "2026-11-14",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Deep Fryer Disposal", "Used Cooking Oil", "Kitchen Appliances", "Small Appliance Recycling"],
+    seoTitle: "How to Dispose of a Deep Fryer and Its Oil in Dubai",
+    seoDescription: "How to dispose of a deep fryer in Dubai: cool and bottle the used oil for collection, clean the tank and basket, and choose reuse or small-appliance recycling.",
+    keyTakeaways: [
+      "The oil is the real disposal problem: two to four litres of fat that must cool fully, be strained into sealed bottles and go to a used cooking oil route, never the drain.",
+      "Clean the tank, basket and lid while keeping the heating element and control panel dry, so the fryer can be resold or travels without leaking.",
+      "A clean working fryer can be resold; a faulty one is small-appliance e-waste, not general rubbish.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a deep fryer in Dubai?",
+        paragraphs: [
+          "To dispose of a deep fryer in Dubai, let the oil cool completely, strain it into a sealed bottle and hand it to a used cooking oil collection point, never the sink. Then clean the basket and tank, keep the heating element dry and send the fryer for reuse or small-appliance e-waste.",
+          "Unlike an air fryer, a traditional deep fryer is a tank of hot fat with a heating element dipped into it. Even a compact home model holds a couple of litres, and family-size or twin-basket units hold more. That oil, not the appliance itself, is what causes spills in lifts, smells in the truck and blocked drains when it goes the wrong way.",
+        ],
+      },
+      {
+        heading: "Cool and drain the oil the right way",
+        paragraphs: [
+          "Switch the fryer off and leave it unplugged for several hours, ideally overnight, because a full tank stays hot long after the light goes out. Never move a fryer with hot oil inside. Once the oil is at room temperature, pour it through a fine sieve or a coffee filter into its original bottle or a clean screw-top plastic container, and label it.",
+          "Pouring oil into a sink or toilet is the worst option. It cools and sets in the pipes, and in apartment towers it builds up in the shared drainage stack where it becomes a building-wide problem. Food businesses in Dubai are required to hand their used cooking oil to approved collectors, and some community recycling points and supermarkets accept household oil, so check what is current near you before bottling it.",
+        ],
+        callout: { type: "warning", title: "Small residues only in the bin", text: "Only the last film of oil should be wiped up with paper towel and bagged. Litres of oil in a bin bag can leak in a garbage chute or the collection vehicle, and warm oil can be a fire risk." },
+      },
+      {
+        heading: "Clean the fryer without wetting the electrics",
+        paragraphs: [
+          "Check how your model comes apart. Many have a removable oil tank or bowl and a heating element and control head that lift off together. The basket, lid filter and removable tank can be washed in hot soapy water; the control head and element should only be wiped with a damp cloth and degreaser and left to dry fully. On models with a fixed tank, wipe it out and never immerse the body.",
+          "Replace or remove saturated charcoal or grease filters in the lid and bag them. Then coil the cable, put the basket inside the tank and tape the lid shut. Plan on wrapping the whole fryer in a bag, because a little oil always remains in the seams and will mark other items in a crate.",
+        ],
+      },
+      {
+        heading: "Decide between resale and small-appliance recycling",
+        paragraphs: [
+          "A clean fryer that heats to temperature, has a working thermostat and an intact cable sells easily, especially in a city where many households cook for large families during Ramadan and Eid. Photograph it clean, include the basket and filters, and state its capacity. Do not sell or donate a fryer that cuts out, trips the breaker, has a cracked tank or shows heat damage on the cable.",
+          "Faulty fryers belong in an electronics or small-appliance route, where the steel tank, element and wiring are recovered. Bottled oil travels separately to its own collection route. Our [appliance removal service](https://dubaijunkcollection.com/services/appliance-removal) collects kitchen appliances during clear-outs in [Jumeirah Village Triangle](https://dubaijunkcollection.com/service-areas/jumeirah-village-triangle). See also [air fryer disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-air-fryer-in-dubai) and [old pots and pans](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-pots-and-pans-in-dubai).",
+        ],
+        image: blogB195Body,
+        imageAlt: "Worker in safety glasses and gloves sorting sealed plastic bottles and containers of household liquids into crates beside a collection van on a Dubai villa driveway",
+        imageCaption: "Used cooking oil should travel in sealed, labelled bottles kept upright in a crate, separate from the appliance and from other household liquids.",
+      },
+    ],
+    faqs: [
+      { question: "Can used cooking oil be reused before disposal?", answer: "Yes, if it was only used for a few batches, strained well and stored sealed away from light. Oil that smells rancid, foams, darkens heavily or smokes at normal frying temperatures should be retired. Never mix oil used for fish with oil kept for other foods." },
+      { question: "What about a commercial deep fryer from a café or restaurant?", answer: "Commercial fryers are usually gas or three-phase electric and heavy, and gas units need a qualified technician to disconnect them. The oil must go to an approved collector. Ask your landlord or mall management about kitchen exhaust and fit-out handback before the fryer is removed." },
+      { question: "Can I put a deep fryer in the building's bulky waste?", answer: "Not as general waste. It is an electrical appliance with recoverable metal, so it should go to e-waste or appliance collection. Ask the building whether it runs an e-waste point, and make sure the fryer is empty of oil before it leaves the flat." },
+      { question: "What details help quote fryer collection?", answer: "Say whether it is a home or commercial unit, its capacity, whether the oil has been removed and bottled, and which other kitchen appliances are going. Mention the floor, lift access and parking so the crew can plan one visit." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-an-air-fryer-in-dubai", "how-to-dispose-of-old-pots-and-pans-in-dubai", "how-to-dispose-of-an-electric-pressure-cooker-in-dubai"],
+    serviceLink: { href: "/services/appliance-removal", label: "Arrange deep fryer collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality - Dispose of household appliances and furniture" },
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-pos-systems-and-cash-registers-in-dubai",
+    title: "How to Dispose of POS Systems and Cash Registers in Dubai: Sales Records, Card Terminals and E-Waste",
+    excerpt: "Close the final sales day, export records for VAT and accounts, wipe and deregister each terminal, return bank card machines, empty and unlock cash drawers, and send the hardware to documented e-waste.",
+    category: "Commercial & Office",
+    coverImage: blogB196Cover,
+    coverImageAlt: "Two uniformed technicians removing wooden front panels from a curved stone service counter in a bright Dubai lobby, exposing the cabling and equipment frame inside",
+    publishedAt: "2026-11-14",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["POS System Disposal", "Cash Registers", "Card Terminals", "Commercial E-Waste"],
+    seoTitle: "How to Dispose of POS Systems and Cash Registers in Dubai",
+    seoDescription: "How to dispose of POS systems and cash registers in Dubai: keep VAT sales records, wipe terminals, return card machines to the bank and use documented e-waste.",
+    keyTakeaways: [
+      "A POS terminal is a business database, holding sales, staff logins, customer and loyalty details, so it needs a records export and a recorded wipe before it leaves.",
+      "Card payment terminals are normally owned by the bank or payment provider, so they go back to the provider rather than into e-waste.",
+      "Receipt printers, scanners, cash drawers and customer displays are separated, with keys, batteries and thermal paper handled on their own.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of POS systems and cash registers in Dubai?",
+        paragraphs: [
+          "To dispose of POS systems and cash registers in Dubai, close the final sales day and export the records your accountant needs, then wipe each terminal and deregister it from the POS software. Return bank card machines to the acquirer, empty and unlock cash drawers, and send the hardware to documented e-waste.",
+          "Point-of-sale equipment usually comes out when a café closes, a shop refits or a clinic replaces its front desk system. It looks like a few screens and a till, but it is a chain of devices: a terminal or tablet, a receipt printer, a barcode scanner, a cash drawer, a customer display and a card machine. Each part has a different owner, a different data risk or a different route.",
+        ],
+      },
+      {
+        heading: "Close the books before anything is unplugged",
+        paragraphs: [
+          "Run the final end-of-day or Z report and export sales, refunds, tax and payment summaries to your accounting system. VAT-registered businesses in the UAE must keep their tax records for a set retention period, generally several years, so confirm with your accountant what must be retained and in what format. A dead hard drive in a skip is not a record.",
+          "If you use cloud POS software, also export product lists, customer and loyalty data you still need, then remove each device from the account and cancel or transfer licences. For an older standalone register, print or photograph the final reports and keep the electronic journal or memory card if the manufacturer's manual says it holds transaction data.",
+        ],
+      },
+      {
+        heading: "Wipe terminals and return the card machine",
+        paragraphs: [
+          "A POS terminal can hold customer names and phone numbers, staff PINs, saved Wi-Fi passwords and remote-access tools. Sign out of every account, run the factory reset, and for PC-based terminals wipe or remove the drive in line with your IT policy. Record the serial numbers, the reset date and who carried it out. This sits under the UAE data protection rules that already apply to the customer data you collect.",
+          "Card payment terminals are almost always leased from the bank or payment provider. Call the provider to close the merchant terminal, follow their return instructions and get a receipt. Do not reset, sell or recycle them yourself, because the provider tracks each serial number and may keep charging rental until it is back.",
+        ],
+        callout: { type: "warning", title: "Empty and unlock every cash drawer", text: "Check each drawer and its coin tray is empty, remove any note clips or hidden bill compartments, and keep the drawer keys with it. Drawers that leave locked often get forced open later, and lost keys make them hard to reuse." },
+      },
+      {
+        heading: "Separate the peripherals and supplies",
+        paragraphs: [
+          "Unplug the receipt printer, scanner, customer display and drawer cables, bag each set of leads with its device and remove any rechargeable batteries from wireless scanners and handheld terminals. Keep power adapters together and label them. Thermal receipt rolls are coated paper, and many paper recyclers do not accept them, so used rolls usually go with general waste while unopened boxes can go to another business.",
+          "Countertop units are often fixed with brackets, cable ducts or security tethers, and some sit in custom counters with built-in cable trays. Undo fixings carefully so the counter can be reused or handed back, and photograph cable entries before the fit-out contractor or landlord inspects. Pack screens upright with padding so they arrive intact for refurbishment.",
+        ],
+        image: blogB196Body,
+        imageAlt: "Worker in a high-visibility vest strapping a compact desktop device into a foam-lined hard case, with its power adapter and network cable sealed in labelled bags on a trolley beside a clipboard",
+        imageCaption: "Each device travels with its own leads bagged and labelled, and the serial numbers logged on the transfer sheet before it leaves the counter.",
+      },
+      {
+        heading: "Pick a documented route for the hardware",
+        paragraphs: [
+          "Working terminals, printers and scanners that are compatible with current software have resale value to POS dealers and small shops, provided the reset is recorded. Older registers, failed screens and devices without a supported operating system belong with a commercial e-waste receiver who will issue a transfer note. File that note with your reset log and asset list.",
+          "Our [office junk removal service](https://dubaijunkcollection.com/services/office-junk-removal) collects POS hardware, counters and other fittings from shops and offices in [Dubai Investment Park](https://dubaijunkcollection.com/service-areas/dubai-investment-park). For related decisions, see [reception desk removal](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-reception-desk-in-dubai), [office computer peripherals](https://dubaijunkcollection.com/blog/how-to-dispose-of-office-computer-peripherals-in-dubai) and [data-safe electronics disposal](https://dubaijunkcollection.com/blog/data-safe-electronics-disposal-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can we sell our old POS system after closing the shop?", answer: "Yes, once you have exported the records you need, removed the devices from your software account and reset them. Check the licence terms, because some POS software cannot be transferred with the hardware. Give the buyer the model numbers so they can confirm compatibility first." },
+      { question: "Who takes back the card machine?", answer: "The bank or payment provider that issued it. Contact them to close the merchant terminal and ask how they want it returned, whether by courier, branch drop-off or a technician visit. Keep the return receipt in case rental fees continue on the account." },
+      { question: "Are cash register batteries a problem?", answer: "Some older registers have a backup battery that keeps settings and the journal memory, and handheld scanners and tablets use lithium batteries. Take removable batteries out, tape the terminals and send them to battery recycling. Leave built-in batteries in place for the e-waste receiver." },
+      { question: "What details help quote POS equipment collection?", answer: "List the number of terminals, printers, scanners, drawers and displays, and whether a counter or kiosk is going too. Confirm the card machine has been returned to the bank, and mention mall loading-bay rules, permitted times and whether you need a transfer note." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-a-reception-desk-in-dubai", "how-to-dispose-of-office-computer-peripherals-in-dubai", "data-safe-electronics-disposal-dubai"],
+    serviceLink: { href: "/services/office-junk-removal", label: "Arrange POS equipment collection" },
+    sources: [
+      { href: "https://tax.gov.ae/en/", label: "UAE Federal Tax Authority" },
+      { href: "https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws", label: "UAE Government - Data protection laws" },
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
     ],
   },
 ];
