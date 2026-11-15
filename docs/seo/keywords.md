@@ -776,3 +776,11 @@
 | 436 | how to dispose of an adjustable bed in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-adjustable-bed-in-dubai`) |
 | 437 | how to dispose of a deep fryer in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-deep-fryer-in-dubai`) |
 | 438 | how to dispose of pos systems and cash registers in dubai | Q | Blog Article (`/blog/how-to-dispose-of-pos-systems-and-cash-registers-in-dubai`) |
+
+### New question-intent blog targets (Batch 59)
+
+| # | Keyword | Intent | Recommended Page |
+| :-: | :--- | :---: | :--- |
+| 439 | how to dispose of majlis seating in dubai | Q | Blog Article (`/blog/how-to-dispose-of-majlis-seating-in-dubai`) |
+| 440 | how to dispose of an induction cooker in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-induction-cooker-in-dubai`) |
+| 441 | how to dispose of a cctv system in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-cctv-system-in-dubai`) |

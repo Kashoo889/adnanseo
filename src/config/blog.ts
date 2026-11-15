@@ -358,6 +358,12 @@ import blogB195Cover from "@/assets/blog-b142-air-fryer-disposal-cover.webp";
 import blogB195Body from "@/assets/blog-b46-specialist-waste-collection-body.webp";
 import blogB196Cover from "@/assets/blog-b152-reception-desk-removal-cover.webp";
 import blogB196Body from "@/assets/blog-b178-office-scanner-packing-body.webp";
+import blogB197Cover from "@/assets/blog-b197-majlis-floor-seating-cover.webp";
+import blogB197Body from "@/assets/blog-b158-storage-ottoman-parts-body.webp";
+import blogB198Cover from "@/assets/blog-b198-portable-induction-cooker-cover.webp";
+import blogB198Body from "@/assets/blog-b45-ewaste-dropoff-body.webp";
+import blogB199Cover from "@/assets/blog-b199-ceiling-cctv-camera-cover.webp";
+import blogB199Body from "@/assets/blog-b90-shredded-hard-drives-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -19907,6 +19913,218 @@ export const blogPosts: BlogPost[] = [
     serviceLink: { href: "/services/office-junk-removal", label: "Arrange POS equipment collection" },
     sources: [
       { href: "https://tax.gov.ae/en/", label: "UAE Federal Tax Authority" },
+      { href: "https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws", label: "UAE Government - Data protection laws" },
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-majlis-seating-in-dubai",
+    title: "How to Dispose of Majlis Seating in Dubai: Floor Cushions, Platform Bases and Re-Upholstery Options",
+    excerpt: "Count every cushion, backrest and armrest so the set stays complete, check whether a platform base is built in, strip covers and bag loose foam, then choose re-upholstery, resale or one bulky collection for the whole room.",
+    category: "Guides & Tips",
+    coverImage: blogB197Cover,
+    coverImageAlt: "Traditional floor majlis with red and cream striped seat cushions, upright back cushions and armrest bolsters running along the walls of a whitewashed room",
+    publishedAt: "2026-11-16",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Majlis Seating", "Floor Cushions", "Upholstered Furniture", "Bulky Item Collection"],
+    seoTitle: "How to Dispose of Majlis Seating in Dubai the Right Way",
+    seoDescription: "How to dispose of majlis seating in Dubai: keep the set complete, check built-in bases, re-cover good foam or sell it, and clear the whole room in one visit.",
+    keyTakeaways: [
+      "A majlis is a set, not a sofa: its value for reuse depends on every floor cushion, backrest and armrest bolster leaving together and in matching condition.",
+      "Low platform bases are sometimes built into the wall in villas, so in a rental check the inventory before anything is unscrewed.",
+      "Firm foam in good shape is often worth re-covering at an upholstery shop; flattened or stained foam is bulky waste and should be bagged so it travels clean.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of majlis seating in Dubai?",
+        paragraphs: [
+          "To dispose of majlis seating in Dubai, count every cushion, backrest and armrest so the set stays complete, then decide between an upholstery shop, resale or bulky collection. Strip removable covers, bag loose foam, check whether any platform base is built into the wall, and book one collection for the whole room.",
+          "Majlis seating looks simple because it sits low, but a full room can be twenty or more pieces: long seat cushions, upright back cushions, firm armrest bolsters, corner pieces and sometimes a raised wooden base under it all. Each piece is light, yet together they fill a small truck. The mistakes we see come from treating it as one sofa when it is really a kit.",
+        ],
+      },
+      {
+        heading: "Count the pieces before you decide anything",
+        paragraphs: [
+          "Lay the set out and count it by type: seat cushions, back cushions, armrests and corners. Note the length of the seat runs, since custom majlis is usually made to the wall measurements of one particular room. A buyer furnishing a room of a similar size will ask for the run length before anything else, and a set with two cushions missing is far harder to place.",
+          "Check the condition piece by piece. Majlis rooms get heavy use when guests visit and very little the rest of the year, so one end of a set is often faded by the window while the corner nobody sits in looks new. Sort the good pieces from the tired ones now, because that split decides whether the set goes for reuse as one lot or in two directions.",
+        ],
+      },
+      {
+        heading: "Check whether the base is part of the property",
+        paragraphs: [
+          "Some villas have a raised majlis platform or bench built along the wall in timber, MDF or masonry, with the cushions sitting on top. In a rental, that base can be listed on the move-in inventory as a landlord fitting, much like built-in wardrobes. Removing it without written approval can turn into a deduction at handover, so check the inventory and ask before a crew unscrews anything.",
+          "Freestanding bases are different. They are usually boxed frames joined with bolts or brackets, sometimes with storage lids. Undo the joints, bag the fixings with each section and mark the order if the frame is going to a new home. Look underneath before lifting, since floor-level frames sit on tiles and their felt pads are often stuck down by years of cleaning products.",
+        ],
+        callout: { type: "tip", title: "Photograph the wall before the set leaves", text: "Long majlis runs hide the skirting, wall sockets and the paint behind them. Take photos once the room is empty so any marks from fixings or rubbing are recorded before the landlord or the next tenant inspects." },
+      },
+      {
+        heading: "Re-cover, sell or send for collection",
+        paragraphs: [
+          "If the foam is still firm and springs back when pressed, re-covering is often the best value. Upholstery workshops across Dubai regularly replace majlis fabric and can cut new foam for one or two worn pieces so the set matches again. Take the covers off, keep one as a pattern and ask for a quote on the whole set rather than piece by piece.",
+          "A clean, complete set in a neutral fabric sells well to families who host often, and demand rises before Ramadan and Eid when homes prepare to receive guests. Stained, sun-rotted or flattened foam has little reuse value and should be bagged in large plastic sacks so dust and loose stuffing stay contained in the lift and the truck.",
+        ],
+        image: blogB197Body,
+        imageAlt: "Upholstered storage bench with its corners wrapped in white protective padding waiting in a tiled lift lobby, beside a folded blue moving blanket, a flatbed trolley and a sealed bag of wooden legs and bolts",
+        imageCaption: "Low upholstered pieces travel with their corners padded and their legs and bolts bagged, which keeps lift doors and corridor walls unmarked.",
+      },
+      {
+        heading: "Plan the room clearance in one visit",
+        paragraphs: [
+          "Most majlis clearances also include the large rug the set sits on, side tables, a coffee table and sometimes curtains made to match. Group them before the crew arrives, roll the rug, and decide which items go for reuse so they can be loaded first and kept apart. For towers, book the service lift; for villas, clear a path from the majlis to the gate, which is often the furthest room from the parking.",
+          "Our [furniture removal team](https://dubaijunkcollection.com/services/furniture-removal) clears full majlis rooms, including cushions, frames and rugs, from villas in [Nad Al Sheba](https://dubaijunkcollection.com/service-areas/nad-al-sheba). For the pieces that usually leave with it, see our guides to [old rugs](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-rugs-in-dubai), [sofas](https://dubaijunkcollection.com/blog/where-to-dispose-old-sofa-in-dubai) and [clearing the home before Ramadan](https://dubaijunkcollection.com/blog/ramadan-home-clearing-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can majlis cushions go in the building's garbage room?", answer: "No. Large cushions and foam blocks are bulky waste, and building management usually treats items left beside the chute or in the bin room as dumping. Bag them, keep them in the unit and arrange a collection, or check whether the building runs a bulky waste day." },
+      { question: "Is it worth keeping the old covers when re-upholstering?", answer: "Keep at least one. It shows the workshop the exact shape, piping and zip position, which matters for armrest bolsters and corner pieces. The remaining covers can be donated if they are clean, or used as dust sheets during the move." },
+      { question: "Can an outdoor majlis go with the indoor set?", answer: "Yes, but tell the collector in advance. Garden majlis often has aluminium or rattan frames and sun-damaged cushions with trapped sand and moisture. Shake out and dry the cushions first so they do not dampen the indoor pieces in the truck." },
+      { question: "What details help quote majlis removal?", answer: "Send a photo of the whole room, the number of seat, back and armrest pieces, and whether a wooden base or rug is going. Mention the floor, lift booking or villa access, and anything that should be kept separate for an upholsterer or buyer." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-old-rugs-in-dubai", "where-to-dispose-old-sofa-in-dubai", "ramadan-home-clearing-dubai"],
+    serviceLink: { href: "/services/furniture-removal", label: "Book majlis seating removal" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality - Dispose of household appliances and furniture" },
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-an-induction-cooker-in-dubai",
+    title: "How to Dispose of a Portable Induction Cooker in Dubai: Glass-Ceramic Tops, Cooling Fans and Small-Appliance E-Waste",
+    excerpt: "Let the plate cool and check the glass-ceramic top for cracks, clean the vents without wetting the electronics, sell or pass on working units, and send cracked or faulty plates whole to small-appliance e-waste.",
+    category: "Eco & Recycling",
+    coverImage: blogB198Cover,
+    coverImageAlt: "Portable single-zone induction plate with a black glass-ceramic top and an orange saucepan on it, standing on a wooden kitchen table",
+    publishedAt: "2026-11-16",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Induction Cooker Disposal", "Hot Plates", "Kitchen Appliances", "Small Appliance Recycling"],
+    seoTitle: "How to Dispose of an Induction Cooker in Dubai Safely",
+    seoDescription: "How to dispose of an induction cooker in Dubai: check the glass-ceramic top for cracks, clean the fan vents, sell working plates and recycle faulty ones as e-waste.",
+    keyTakeaways: [
+      "The glass-ceramic top is not ordinary glass: it cannot go in a glass recycling bin, so the plate is recycled whole as an electrical appliance.",
+      "A cracked top is a safety fault, not a cosmetic one, because spills can reach the coil and control board underneath; stop using it and do not sell it.",
+      "A clean, uncracked plate with responsive controls is easy to pass on in a city where many apartments cook without gas.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an induction cooker in Dubai?",
+        paragraphs: [
+          "To dispose of an induction cooker in Dubai, unplug it, let the glass-ceramic top cool and check it for cracks. A clean, working, uncracked plate can be sold or given away. A cracked or faulty one goes to small-appliance e-waste whole, because its ceramic top cannot go in glass recycling.",
+          "This guide covers portable, plug-in induction plates and their older cousin, the electric hot plate with a solid or coiled ring. Built-in hobs are a different job: they are hardwired, usually belong to the landlord and need an electrician, which our [oven and hob guide](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-oven-dubai) explains. A portable plate is small, but it contains a copper coil, a cooling fan and a control board, so it still counts as electrical waste.",
+        ],
+      },
+      {
+        heading: "Why the top cannot go in glass recycling",
+        paragraphs: [
+          "Induction and ceramic hot plates use glass-ceramic, a material designed not to crack under rapid heating. That same property is why bottle and jar recyclers reject it: it melts at a different temperature from container glass, and a small piece can spoil a whole batch. Even when the top is cracked and loose, leave it on the appliance and let the e-waste recycler separate it.",
+          "If a piece has broken away, tape over the cracked area with wide packing tape on both sides, wrap the plate in cardboard and label it. Loose shards of glass-ceramic are sharp, and they should not go in a bin bag where a building cleaner or chute will break them further.",
+        ],
+        callout: { type: "warning", title: "A cracked plate stops being used today", text: "A crack lets spills and steam reach the coil and electronics directly beneath the surface. Unplug the plate and keep it unplugged. Do not cover the crack and carry on cooking, and do not sell or donate a cracked unit." },
+      },
+      {
+        heading: "Clean and test before passing it on",
+        paragraphs: [
+          "Wipe the top with a damp cloth and a ceramic hob cleaner or a little dish soap, then scrape off burnt-on residue with a plastic scraper, never steel wool. Turn the plate over and clear the fan intake and exhaust vents with a dry brush. Grease and dust collect there, especially when the plate sits next to a frying pan every day, and a blocked fan is a common reason these plates cut out.",
+          "To test it, place a magnetic pan with a little water on the plate and run it through a few power levels and the timer. If the fan runs, the water heats and every touch button responds, it is worth passing on. Note which pans it recognises, because buyers who are new to induction often do not realise aluminium and glass cookware will not work.",
+        ],
+      },
+      {
+        heading: "Who takes portable induction plates in Dubai",
+        paragraphs: [
+          "Many Dubai towers do not allow gas cylinders in apartments, so portable plates are common in studios, shared flats, staff accommodation and as a second ring during Ramadan cooking. That keeps demand steady for working units. A clean plate with its box or manual can be listed online, offered to colleagues or neighbours, or given to someone setting up a first flat.",
+          "Faulty plates, cracked tops and old coil hot plates belong in small-appliance e-waste, where the copper, steel and circuit boards are recovered. Our [appliance removal service](https://dubaijunkcollection.com/services/appliance-removal) collects them alongside other kitchen items from apartments in [Discovery Gardens](https://dubaijunkcollection.com/service-areas/discovery-gardens). If the pans are going too, see [old pots and pans](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-pots-and-pans-in-dubai), and for other countertop cookers see [rice cooker disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-rice-cooker-in-dubai).",
+        ],
+        image: blogB198Body,
+        imageAlt: "Resident handing a cardboard box of small electrical items and cables to a worker in a high-visibility vest at an outdoor e-waste drop-off counter with labelled bins for phones, laptops and cables",
+        imageCaption: "Faulty or cracked plates go to an e-waste point in one piece, so the recycler can separate the glass-ceramic, coil and circuit board safely.",
+      },
+    ],
+    faqs: [
+      { question: "Can I keep using an induction cooker with a small chip on the edge?", answer: "A chip on the outer rim, away from the cooking zone, is not always dangerous, but any crack that runs into the cooking area or lets liquid through is. Check the manual and the manufacturer's advice. If you are unsure, stop using it, since replacement tops rarely cost less than a new plate." },
+      { question: "Do induction cookers contain batteries?", answer: "Most portable plates do not; they run from the mains and store settings in the control board. Some combined units with a wireless thermometer or a rechargeable remote do. Remove any batteries, tape the terminals and take them to a battery collection point." },
+      { question: "Can a hot plate go out with general rubbish?", answer: "It should not. It is an electrical appliance with recoverable metal and a circuit board, and building bin rooms are not set up to take it. Keep it for an e-waste point or a collection with other appliances leaving the flat." },
+      { question: "What details help quote induction cooker collection?", answer: "Say how many plates are going, whether any top is cracked and taped, and which other kitchen appliances or cookware are leaving. Mention the floor, lift and parking access so one visit covers everything." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-old-oven-dubai", "how-to-dispose-of-old-pots-and-pans-in-dubai", "how-to-dispose-of-a-rice-cooker-in-dubai"],
+    serviceLink: { href: "/services/appliance-removal", label: "Arrange induction cooker collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality - Dispose of household appliances and furniture" },
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-cctv-system-in-dubai",
+    title: "How to Dispose of a CCTV System in Dubai: Footage Retention, Recorder Hard Drives and Ceiling-Mounted Cameras",
+    excerpt: "Confirm who owns the system and how long footage must be kept, export what you need, remove cameras from cloud apps, wipe or destroy the recorder drives, and have an approved contractor take the cameras down before documented e-waste.",
+    category: "Commercial & Office",
+    coverImage: blogB199Cover,
+    coverImageAlt: "White CCTV camera in a weatherproof housing mounted on a bracket from a ceiling beside a strip of fluorescent lighting",
+    publishedAt: "2026-11-16",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["CCTV Disposal", "DVR and NVR Recorders", "Security Equipment", "Commercial E-Waste"],
+    seoTitle: "How to Dispose of a CCTV System in Dubai Securely",
+    seoDescription: "How to dispose of a CCTV system in Dubai: check SIRA and footage retention, wipe or destroy DVR and NVR drives, take down cameras safely and use documented e-waste.",
+    keyTakeaways: [
+      "A CCTV recorder is a storage device full of footage of real people, so its hard drives need a recorded wipe or physical destruction before the hardware leaves.",
+      "Security systems in Dubai are regulated by SIRA, so business premises should involve their approved security contractor before cameras are switched off or removed.",
+      "Cameras are often building property in shared areas, and their removal leaves ceiling holes and cable runs that must be made good before handover.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a CCTV system in Dubai?",
+        paragraphs: [
+          "To dispose of a CCTV system in Dubai, first confirm who owns it and whether footage must be kept, then export what you need. Remove cameras from cloud apps, wipe or destroy the recorder's hard drives, have an approved security contractor take down the cameras, and send hardware to documented e-waste.",
+          "A CCTV system usually comes out during an office relocation, a shop closure or a security upgrade. It is several parts with different risks: cameras fixed at height, a DVR or NVR recorder holding weeks of footage, a power supply or PoE switch, a monitor, and cabling running through the ceiling. The recorder is where the real disposal risk sits.",
+        ],
+      },
+      {
+        heading: "Check ownership and footage obligations first",
+        paragraphs: [
+          "Start by separating what is yours from what belongs to the building. Cameras in shared corridors, lift lobbies, car parks and entrances are normally owned and monitored by building management, even if one points at your door. Cameras and recorders inside your unit, installed under your contract, are yours, and the fit-out drawings or the installer's invoice usually settle any doubt.",
+          "In Dubai, security systems are regulated by the Security Industry Regulatory Agency (SIRA), and many business premises are required to have CCTV installed and maintained by an approved company, with recordings kept for a set period. Before you switch off or remove a system at a business, ask your approved contractor what the current requirements are for your activity, and whether any notification is needed when you close or move.",
+        ],
+        callout: { type: "warning", title: "Do not wipe footage that may be needed", text: "If there has been an incident, a dispute with a customer or employee, or a police or insurance request, export and secure the relevant footage before anything is reset. Once a recorder overwrites or is wiped, it cannot be recovered." },
+      },
+      {
+        heading: "Export, disconnect and wipe the recorder",
+        paragraphs: [
+          "Export any footage you must keep to encrypted storage, note the date range and store it under your records policy. Then sign in to the recorder and any phone or web app, remove each camera and recorder from the cloud account, and change or delete user logins. Many systems are linked to a manufacturer's remote-viewing service by serial number, and an unremoved device can still appear on the old account.",
+          "Factory reset the recorder, then deal with the drives. For hardware being resold, a full-overwrite wipe of each hard drive, recorded with the serial number, is the minimum. For hardware being scrapped, removing the drives and sending them for certified shredding is simpler and more certain. File the destruction certificate with the asset list and the reset log.",
+        ],
+        image: blogB199Body,
+        imageAlt: "Grey industrial bin labelled as a certified destruction bin filled with shredded hard drive platters and fragments of green circuit boards",
+        imageCaption: "Recorder hard drives that are not being reused end up as shredded platters and boards, with a certificate tying each serial number to its destruction.",
+      },
+      {
+        heading: "Take the cameras down safely",
+        paragraphs: [
+          "Cameras are mounted on ceilings, soffits and external walls, often at heights that need a proper platform ladder or tower rather than a chair. Isolate the power supply or PoE switch first, then unscrew the dome or bullet camera from its bracket and let the cable down in a controlled way. External cameras may be on building facades, where access and work permits are a matter for building management.",
+          "Once the cameras are off, decide with the landlord what happens to the cabling. Some want cables cut back and coiled in the ceiling for the next tenant, others want them pulled out and the holes filled. Photograph each position before and after so the handback inspection has a record, and keep fixing screws with the bracket if the camera is going for reuse.",
+        ],
+      },
+      {
+        heading: "Route each part to reuse or e-waste",
+        paragraphs: [
+          "Recent IP cameras, NVRs and PoE switches that have been reset can be resold to installers or reused at another site, provided the reset is recorded. Older analogue cameras, coaxial cable, failed recorders and CRT or early LCD monitors have little resale value and belong with a commercial e-waste receiver who will issue a transfer note. Backup batteries in power supplies or UPS units go to battery recycling.",
+          "Our [office junk removal service](https://dubaijunkcollection.com/services/office-junk-removal) collects CCTV hardware, racks and monitors from offices and warehouses in [Dubai Silicon Oasis](https://dubaijunkcollection.com/service-areas/dubai-silicon-oasis), once drives and ownership are settled. For related steps, see [data-safe electronics disposal](https://dubaijunkcollection.com/blog/data-safe-electronics-disposal-dubai), [biometric attendance machines](https://dubaijunkcollection.com/blog/how-to-dispose-of-biometric-attendance-machines-in-dubai) and [UPS and backup batteries](https://dubaijunkcollection.com/blog/how-to-dispose-of-ups-and-backup-batteries-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can I remove CCTV cameras from my villa myself?", answer: "Home systems you own are usually yours to remove, as long as you work safely at height and isolate the power first. In a rental, check with the landlord, since cameras installed by the owner or community may be part of the property. Wipe the recorder and remove the cameras from your phone app before they leave." },
+      { question: "What is the difference between a DVR and an NVR?", answer: "A DVR records analogue cameras connected by coaxial cable, while an NVR records IP cameras over the network, often powered by PoE. Both store footage on internal hard drives, so both need the same wipe or destruction before disposal." },
+      { question: "Do CCTV monitors need special handling?", answer: "Flat-screen monitors go to e-waste like any office display. Old CRT monitors are heavier and contain leaded glass, so tell the collector in advance. Neither stores footage, but check any monitor with a built-in recorder or memory card slot." },
+      { question: "What details help quote CCTV equipment collection?", answer: "List the number of cameras, recorders, monitors, switches and racks, and say whether drives have been removed or need a destruction certificate. Mention ceiling heights, whether the contractor is taking cameras down, and the building's loading bay and permitted hours." },
+    ],
+    relatedSlugs: ["data-safe-electronics-disposal-dubai", "how-to-dispose-of-biometric-attendance-machines-in-dubai", "how-to-dispose-of-ups-and-backup-batteries-in-dubai"],
+    serviceLink: { href: "/services/office-junk-removal", label: "Arrange CCTV equipment collection" },
+    sources: [
+      { href: "https://www.sira.gov.ae/", label: "Security Industry Regulatory Agency (SIRA) Dubai" },
       { href: "https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws", label: "UAE Government - Data protection laws" },
       { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
     ],
