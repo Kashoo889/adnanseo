@@ -4,6 +4,9 @@ import { getAllAreaSlugs } from "@/config/areaDetails";
 import { getAllPosts } from "@/config/blog";
 import { absoluteUrl } from "@/config/site";
 
+// ISR: regenerate hourly so scheduled blog posts appear on their publish date without a redeploy.
+export const revalidate = 3600;
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();
 

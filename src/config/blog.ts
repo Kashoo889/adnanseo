@@ -20131,19 +20131,88 @@ export const blogPosts: BlogPost[] = [
   },
 ];
 
+// ---------------------------------------------------------------------------
+// Scheduled publishing
+// A post whose publishedAt is in the future is deployed with the build but is
+// hidden everywhere (404, listings, sitemap, llms.txt) until its date arrives
+// in the Asia/Dubai timezone. Routes that render posts use ISR (revalidate),
+// so the post goes live automatically without a redeploy.
+// ---------------------------------------------------------------------------
+const PUBLISH_TIME_ZONE = "Asia/Dubai";
+
+/** Current calendar date in Asia/Dubai as "YYYY-MM-DD". */
+const todayInDubai = (now: Date): string => {
+  const parts = new Intl.DateTimeFormat("en-CA", {
+    timeZone: PUBLISH_TIME_ZONE,
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).formatToParts(now);
+  const get = (type: string) => parts.find((p) => p.type === type)?.value ?? "";
+  return `${get("year")}-${get("month")}-${get("day")}`;
+};
+
+/**
+ * Normalise a publish date string to "YYYY-MM-DD" (date-only formats), or
+ * return a Date for strings that include a time. Returns null if unparseable.
+ * Supports ISO "2026-10-17", "2026-10-17T09:00:00+04:00", and "17/10/26" or
+ * "17/10/2026" (dd/mm/yy[yy]).
+ */
+const parsePublishDate = (dateStr: string): string | Date | null => {
+  const s = dateStr.trim();
+  const iso = /^(\d{4})-(\d{2})-(\d{2})$/.exec(s);
+  if (iso) return `${iso[1]}-${iso[2]}-${iso[3]}`;
+  const dmy = /^(\d{1,2})\/(\d{1,2})\/(\d{2}|\d{4})$/.exec(s);
+  if (dmy) {
+    const year = dmy[3].length === 2 ? `20${dmy[3]}` : dmy[3];
+    return `${year}-${dmy[2].padStart(2, "0")}-${dmy[1].padStart(2, "0")}`;
+  }
+  if (/\d{1,2}:\d{2}/.test(s)) {
+    const d = new Date(s);
+    return Number.isNaN(d.getTime()) ? null : d;
+  }
+  return null;
+};
+
+/**
+ * True when a post with this publish date should be live. Missing or
+ * unparseable dates are treated as published so existing content never hides.
+ */
+export const isPublished = (dateStr: string | undefined | null, now: Date = new Date()): boolean => {
+  if (!dateStr) return true;
+  const parsed = parsePublishDate(dateStr);
+  if (parsed === null) return true;
+  if (parsed instanceof Date) return now.getTime() >= parsed.getTime();
+  return todayInDubai(now) >= parsed;
+};
+
+const isPostPublished = (post: BlogPost, now: Date = new Date()): boolean =>
+  isPublished(post.publishedAt, now);
+
 // Helper Functions
-export const getAllPosts = (): BlogPost[] => {
+
+/** Raw, unfiltered access (includes scheduled posts). Not for public surfaces. */
+export const getAllPostsIncludingScheduled = (): BlogPost[] => {
   return [...blogPosts].sort(
     (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
   );
 };
 
-export const getPostBySlug = (slug: string): BlogPost | undefined => {
-  return blogPosts.find((p) => p.slug === slug);
+/** Published posts only, newest first. */
+export const getAllPosts = (): BlogPost[] => {
+  const now = new Date();
+  return getAllPostsIncludingScheduled().filter((p) => isPostPublished(p, now));
 };
 
+/** Returns the post only if it is published; scheduled posts resolve to undefined. */
+export const getPostBySlug = (slug: string): BlogPost | undefined => {
+  const post = blogPosts.find((p) => p.slug === slug);
+  return post && isPostPublished(post) ? post : undefined;
+};
+
+/** Slugs of published posts only (used by generateStaticParams). */
 export const getAllPostSlugs = (): string[] => {
-  return blogPosts.map((p) => p.slug);
+  return getAllPosts().map((p) => p.slug);
 };
 
 export const getPostsByCategory = (category: string): BlogPost[] => {

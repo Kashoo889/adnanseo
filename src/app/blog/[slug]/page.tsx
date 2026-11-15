@@ -10,6 +10,11 @@ import { site, absoluteUrl, getWhatsAppHref } from "@/config/site";
 
 type Params = { slug: string };
 
+// ISR: re-render hourly so scheduled blog posts go live on their publish date without a redeploy.
+export const revalidate = 3600;
+// Keep true (default): a scheduled slug not prebuilt is rendered on demand once its date passes.
+export const dynamicParams = true;
+
 // Renders inline [anchor](https://...) links inside plain-text paragraphs.
 function renderParagraph(text: string) {
   const parts = text.split(/(\[[^\]]+\]\(https?:\/\/[^)\s]+\))/g);

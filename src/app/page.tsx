@@ -12,6 +12,9 @@ import { CTASection } from "@/components/site/CTASection";
 import { BlogPostCard } from "@/components/site/BlogPostCard";
 import { getAllPosts } from "@/config/blog";
 
+// ISR: re-render hourly so scheduled blog posts go live on their publish date without a redeploy.
+export const revalidate = 3600;
+
 export const metadata: Metadata = {
   title: "Junk Removal Dubai | Premium Junk Removal Services in Dubai",
   description:
