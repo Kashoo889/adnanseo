@@ -8,8 +8,9 @@ import { getAllPosts, blogCategories } from "@/config/blog";
 import { site, absoluteUrl } from "@/config/site";
 import skylineImg from "@/assets/dubai-skyline.jpg";
 
-// ISR: re-render hourly so scheduled blog posts go live on their publish date without a redeploy.
-export const revalidate = 3600;
+// ISR: daily fallback re-render. Scheduled posts go live just after midnight (Asia/Dubai) via
+// the daily cron in vercel.json -> /api/revalidate, which revalidates the blog routes.
+export const revalidate = 86400;
 
 export const metadata: Metadata = {
   title: "Dubai Junk Removal & Decluttering Guides — Dubai Junk Collection Blog",

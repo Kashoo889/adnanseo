@@ -10,8 +10,9 @@ import { site, absoluteUrl, getWhatsAppHref } from "@/config/site";
 
 type Params = { slug: string };
 
-// ISR: re-render hourly so scheduled blog posts go live on their publish date without a redeploy.
-export const revalidate = 3600;
+// ISR: daily fallback re-render. Scheduled posts go live just after midnight (Asia/Dubai) via
+// the daily cron in vercel.json -> /api/revalidate, which revalidates the blog routes.
+export const revalidate = 86400;
 // Keep true (default): a scheduled slug not prebuilt is rendered on demand once its date passes.
 export const dynamicParams = true;
 

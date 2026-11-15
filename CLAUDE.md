@@ -66,7 +66,7 @@ All contact details across the website must **always** read from [`src/config/si
 - Main directory: [`src/app/blog/page.tsx`](file:///d:/Projects/Dubai/rasheed/src/app/blog/page.tsx)
 - Reusable post template: [`src/app/blog/[slug]/page.tsx`](file:///d:/Projects/Dubai/rasheed/src/app/blog/%5Bslug%5D/page.tsx)
 - 404 handler: [`src/app/blog/[slug]/not-found.tsx`](file:///d:/Projects/Dubai/rasheed/src/app/blog/%5Bslug%5D/not-found.tsx)
-- **Scheduled publishing:** Set the publish date (`publishedAt`) to a future date to schedule an article; it is deployed but stays hidden (404, not in listings/sitemap/feed) until that date (Asia/Dubai), then goes live automatically within ~1 hour. Logic lives in `isPublished()` in `src/config/blog.ts`.
+- **Scheduled publishing:** Set the publish date (`publishedAt`) to a future date to schedule an article; it is deployed but stays hidden (404, not in listings/sitemap/feed) until that date (Asia/Dubai), then goes live automatically shortly after midnight Asia/Dubai (daily Vercel cron -> `/api/revalidate`, needs the `CRON_SECRET` env var; 24h ISR fallback otherwise). Logic lives in `isPublished()` in `src/config/blog.ts`.
 
 ---
 

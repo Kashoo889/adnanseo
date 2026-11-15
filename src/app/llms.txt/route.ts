@@ -7,9 +7,9 @@ import { site, absoluteUrl } from "@/config/site";
 // Serves /llms.txt — a concise, machine-readable map of the site for AI agents
 // and LLM-based browsers (the emerging llmstxt.org convention). Generated from
 // the same central config as the rest of the site, so the contact number and
-// service list never drift out of sync. Statically rendered, revalidated hourly
-// (ISR) so scheduled blog posts appear on their publish date without a redeploy.
-export const revalidate = 3600;
+// service list never drift out of sync. Statically rendered, revalidated daily
+// (ISR + the daily /api/revalidate cron) so scheduled posts appear on their publish date.
+export const revalidate = 86400;
 
 const phone = site.phoneHref.replace(/^tel:/, "");
 
