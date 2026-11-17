@@ -760,6 +760,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules section 16):** B197 differs from B23 (sofas), B185 (futons), B161 (rugs) and B20 (Ramadan clearing) through multi-piece set counting and completeness, built-in majlis platform bases as possible landlord fittings, foam firmness and upholstery-workshop re-covering, and whole-room majlis clearance. B198 differs from B66 (built-in ovens and hobs), B142 (air fryers), B162 (rice cookers) and B104 (pots and pans) through plug-in induction and hot plates, glass-ceramic tops that cannot enter glass recycling, cracked-top safety retirement, fan-vent cleaning and magnetic-cookware testing for resale. B199 differs from B193 (biometric terminals), B90 (data-safe electronics), B145 (projectors) and B140 (UPS batteries) through SIRA-regulated security systems, footage export and retention before wiping, DVR/NVR drive wipe or shredding, cloud remote-viewing deregistration, building-owned versus tenant cameras and ceiling cable make-good.
 
+### Track 63: Suspended Seating, Countertop Ice & Meeting Room AV (Clusters 3, 4, 5, 6 & 10)
+*Continues the furniture-appliance-office sequence through three distinct controls: splitting a hanging egg chair into pod, stand and weighted base and settling tenant-drilled ceiling hooks before handover, draining and drying an ice maker's reservoir and keeping its sealed refrigerant circuit intact for recovery, and releasing room licences and resetting enrolled meeting room devices before displays and ceiling microphones come down.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B200** | *How to Dispose of a Hanging Egg Chair in Dubai: Steel Stands, Ceiling Hooks and Sun-Brittle Rattan* | `how to dispose of a hanging egg chair in dubai` | `egg chair disposal dubai`, `swing chair removal dubai`, `balcony furniture disposal dubai` | Q | `/services/furniture-removal` |
+| **B201** | *How to Dispose of an Ice Maker in Dubai: Reservoirs, Refrigerant and Built-In Water Lines* | `how to dispose of an ice maker in dubai` | `ice machine disposal dubai`, `refrigerant appliance recycling dubai`, `kitchen appliance disposal dubai` | Q | `/services/appliance-removal` |
+| **B202** | *How to Dispose of Video Conferencing Equipment in Dubai: Room Licences, Ceiling Microphones and Wall Displays* | `how to dispose of video conferencing equipment in dubai` | `meeting room av removal dubai`, `conference room equipment disposal dubai`, `office e-waste collection dubai` | Q | `/services/office-junk-removal` |
+
+**Overlap check (content-rules section 16):** B200 differs from B58 (sun-damaged outdoor and balcony furniture, which lists egg chairs only as a rattan material example), B188 (rocking chairs), B101 (gazebos) and B179 (armchairs) through a three-part pod, stand and weighted-base split, tenant-drilled ceiling hooks and make-good, rusted pole-joint bolts and UV-brittle synthetic rattan. B201 differs from B25 (fridges), B132 (wine coolers), B71 (water dispensers) and B98 (appliance lifecycle) through reservoir draining and drying, evaporator-prong mould, plumbed under-counter supply and drain lines, filter cartridges and commercial cube machines. B202 differs from B145 (projectors), B187 (office monitors), B184 (peripherals incl. conference cameras in passing) and B151 (conference tables) through collaboration-platform portal enrolment and room-licence release, integrator lease returns, wall-mounted large-format displays and ceiling microphone arrays requiring building work approval.
+
 ---
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -821,3 +832,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 57. **Batch 57 (Articles B191–B193):** Fold-Away Sleeping, Stitching Machines & Biometric Entry — **100% Completed (3/3 Live)**.
 58. **Batch 58 (Articles B194–B196):** Motorised Sleeping, Hot-Oil Frying & Point-of-Sale Hardware — **100% Completed (3/3 Live)**.
 59. **Batch 59 (Articles B197–B199):** Floor-Level Majlis Seating, Plug-In Induction Cooking & Surveillance Recording — **100% Completed (3/3 Live)**.
+60. **Batch 60 (Articles B200–B202):** Suspended Seating, Countertop Ice & Meeting Room AV — **100% Completed (3/3 Live)**.

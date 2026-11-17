@@ -364,6 +364,12 @@ import blogB198Cover from "@/assets/blog-b198-portable-induction-cooker-cover.we
 import blogB198Body from "@/assets/blog-b45-ewaste-dropoff-body.webp";
 import blogB199Cover from "@/assets/blog-b199-ceiling-cctv-camera-cover.webp";
 import blogB199Body from "@/assets/blog-b90-shredded-hard-drives-body.webp";
+import blogB200Cover from "@/assets/blog-b51-balcony-clearance-body.jpg";
+import blogB200Body from "@/assets/blog-b17-villa-patio-clearance.jpg";
+import blogB201Cover from "@/assets/blog-b25-appliance-disposal-cover.jpg";
+import blogB201Body from "@/assets/blog-b98-appliance-degassing-body.webp";
+import blogB202Cover from "@/assets/blog-b145-projector-removal-cover.webp";
+import blogB202Body from "@/assets/blog-b38-office-loading-access-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -20127,6 +20133,225 @@ export const blogPosts: BlogPost[] = [
       { href: "https://www.sira.gov.ae/", label: "Security Industry Regulatory Agency (SIRA) Dubai" },
       { href: "https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws", label: "UAE Government - Data protection laws" },
       { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-hanging-egg-chair-in-dubai",
+    title: "How to Dispose of a Hanging Egg Chair in Dubai: Steel Stands, Ceiling Hooks and Sun-Brittle Rattan",
+    excerpt: "Lift the pod off its hook, unbolt the stand from its weighted base, bag the cushions, check any ceiling hook with the landlord, then sell sound frames and send brittle rattan and the base for one bulky collection.",
+    category: "Villa & Garden",
+    coverImage: blogB200Cover,
+    coverImageAlt: "Uniformed crew member lifting weathered timber deck tiles on a high-rise balcony beside a wicker armchair, a cushioned sofa and empty plant pots, with the Downtown Dubai skyline behind",
+    publishedAt: "2026-11-17",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Egg Chair Disposal", "Swing Chairs", "Balcony Furniture", "Bulky Item Collection"],
+    seoTitle: "How to Dispose of a Hanging Egg Chair in Dubai Safely",
+    seoDescription: "How to dispose of a hanging egg chair in Dubai: separate the pod, stand and base, deal with ceiling hooks before handover, and clear brittle rattan in one visit.",
+    keyTakeaways: [
+      "A hanging egg chair is three loads, not one: a woven pod, a tall steel stand and a weighted base that is often the heaviest part.",
+      "A chair hung from a hook drilled into the balcony or patio ceiling leaves a fixing that the landlord may want removed and filled before handover.",
+      "Years of UV exposure make synthetic rattan brittle, so a sun-cracked pod has little resale value and should be wrapped so loose strands do not snag in the lift.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a hanging egg chair in Dubai?",
+        paragraphs: [
+          "To dispose of a hanging egg chair in Dubai, lift the pod off its hook, unbolt the stand from its base, and bag the cushions separately. Sell or give away sound frames, check any ceiling hook with the landlord, and book a bulky collection for brittle rattan and the heavy base.",
+          "Egg chairs are everywhere on Dubai balconies and villa terraces, and they usually leave for one of three reasons: the weave has cracked in the sun, the cushion has gone mouldy after a humid summer, or the owner is moving and the stand will not fit the new place. The chair looks like one piece of furniture. Once you start taking it apart, it behaves like three.",
+        ],
+      },
+      {
+        heading: "Separate the pod, the stand and the base",
+        paragraphs: [
+          "Take the cushions out first and lift the pod straight up off the hook or spring, with one person steadying the stand. Most pods hang from a short chain and a carabiner or a swivel hook, and the chain usually comes away with the pod. Keep the chain, spring and hook together in a bag taped to the pod if it is going to a new owner, because a stand without the right hook is hard to sell.",
+          "The stand is normally a curved steel pole in two or three sections that slot together and are held by bolts. Undo those bolts with the stand leaning against a wall rather than standing free, since the top section is heavy and swings when it comes loose. The base is the part people underestimate. Cross-leg bases are light, but round plate bases are solid steel or filled with concrete or sand, and one person should not carry one down a staircase.",
+        ],
+        callout: { type: "tip", title: "Check the bolts before you start", text: "Balcony stands spend years in heat, humidity and salty air near the coast, and the bolts at the pole joints often rust in place. Spray them with penetrating oil the day before. If a bolt will not move, the stand can still travel whole, so tell the collector its full height and the size of your lift." },
+      },
+      {
+        heading: "Deal with ceiling hooks before handover",
+        paragraphs: [
+          "Some egg chairs have no stand at all. They hang from an eye bolt or a ceiling anchor fixed into the concrete slab of the balcony or the villa pergola. In a rental, that fixing was usually added by the tenant, and the landlord may want it removed and the hole filled and painted before the deposit is returned. If the landlord fitted the hook, leave it in place and note it in the move-out photos.",
+          "Unhook the chair from a stable ladder with a second person holding the pod, because a full-size pod is awkward to lower from above head height. Unscrewing the anchor itself and patching the ceiling is a small handyman job, and it is worth doing before the inspection rather than arguing about it afterwards. Do not leave an empty hook in place unless you have agreed it with the landlord.",
+        ],
+      },
+      {
+        heading: "Sell, give away or send for collection",
+        paragraphs: [
+          "A clean pod with a tight weave, a straight stand and a dry cushion sells quickly on local marketplaces, especially in the cooler months when people start using their balconies again. Photograph the chair assembled, list the height of the stand and say whether the hook and cushion are included. Free listings also move fast, as long as the buyer knows they need to bring a car that can take a stand of that length.",
+          "Pods that have been in direct sun for several summers are a different matter. Synthetic rattan turns chalky and brittle, strands snap when the pod is squeezed, and the steel frame underneath may have rusted through at the welds. These are bulky waste. Wrap the pod in plastic sheeting so broken strands stay contained, and bag cushions that smell damp so the mould does not spread to anything else in the truck.",
+        ],
+        image: blogB200Body,
+        imageAlt: "Uniformed crew moving rattan garden chairs and stacking outdoor cushions onto a trolley on the tiled terrace of a Dubai villa, next to a louvred pergola and a swimming pool",
+        imageCaption: "Outdoor rattan pieces, cushions and heavy bases are loaded separately so brittle weave is not crushed under steel.",
+      },
+      {
+        heading: "Plan the balcony or terrace clear-out",
+        paragraphs: [
+          "An egg chair rarely leaves alone. The same clear-out usually includes outdoor sofas, side tables, planters and sometimes deck tiles or artificial turf. Gather everything at the balcony door, book the service lift for towers, and never pass anything over the railing. For villas, check that the stand will clear the side gate before the crew arrives, since some pass only diagonally.",
+          "Our [furniture removal team](https://dubaijunkcollection.com/services/furniture-removal) collects egg chairs, stands and bases alongside full balcony clear-outs in [Jumeirah Beach Residence](https://dubaijunkcollection.com/service-areas/jumeirah-beach-residence) towers. For the pieces that usually go with them, see our guides to [garden furniture](https://dubaijunkcollection.com/blog/how-to-dispose-of-garden-furniture-in-dubai), [gazebos](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-gazebo-in-dubai) and [rocking chairs](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-rocking-chair-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can I leave an egg chair stand by the building's bin room?", answer: "No. A steel stand and base are bulky waste, and building management usually treats furniture left in bin rooms, corridors or basements as dumping. Keep the parts in the unit until they are collected, or ask whether the building runs a bulky-item day." },
+      { question: "Is a rusted stand still worth selling?", answer: "Surface rust on a sound pole can be sanded and repainted, and some buyers want only the stand because a replacement pod is easier to find. Rust that has eaten through the welds or flaked at the base joint makes the stand unsafe to hang from, so send it for scrap instead." },
+      { question: "Can egg chair cushions be donated?", answer: "Only if they are clean, dry and free of mould or odour. Outdoor cushions absorb humidity and sweat, and charities generally refuse soft furnishings in that condition. Removable covers can be washed and kept as dust sheets, and the foam inside goes with the bulky waste." },
+      { question: "What details help quote egg chair collection?", answer: "Send a photo of the chair assembled, say whether it hangs from a stand or a ceiling hook, and mention the base type. Add the floor, lift booking or villa gate access, and any other balcony furniture or planters leaving at the same time." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-garden-furniture-in-dubai", "how-to-dispose-of-a-gazebo-in-dubai", "how-to-dispose-of-a-rocking-chair-in-dubai"],
+    serviceLink: { href: "/services/furniture-removal", label: "Book egg chair removal" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality - Dispose of household appliances and furniture" },
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-an-ice-maker-in-dubai",
+    title: "How to Dispose of an Ice Maker in Dubai: Reservoirs, Refrigerant and Built-In Water Lines",
+    excerpt: "Unplug and drain the reservoir, dry it with the lid open, sell or pass on clean working units, have a plumber isolate built-in models, and send faulty ice makers whole to a recycler that recovers refrigerant.",
+    category: "Eco & Recycling",
+    coverImage: blogB201Cover,
+    coverImageAlt: "Two uniformed crew members wheeling a strapped stainless-steel refrigerator on a hand truck out of a modern apartment kitchen with marble worktops and a sea view",
+    publishedAt: "2026-11-17",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Ice Maker Disposal", "Refrigerant Appliances", "Kitchen Appliances", "Appliance Recycling"],
+    seoTitle: "How to Dispose of an Ice Maker in Dubai the Right Way",
+    seoDescription: "How to dispose of an ice maker in Dubai: drain and dry the reservoir, isolate built-in water lines, sell working units and recycle faulty ones with refrigerant recovery.",
+    keyTakeaways: [
+      "A countertop ice maker is a small refrigerator: it has a compressor and a sealed refrigerant circuit, so it belongs with cooling appliances, not general small electricals.",
+      "Water left in the reservoir and on the evaporator turns into mould and leaks in transit, so drain it and let it dry with the lid open before anyone moves it.",
+      "Built-in and under-counter models are plumbed to a water line and often a drain, so a plumber isolates them first and, in a rental, the landlord confirms who owns them.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an ice maker in Dubai?",
+        paragraphs: [
+          "To dispose of an ice maker in Dubai, unplug it, drain the reservoir and let it dry with the lid open. Sell or pass on clean working units. Send faulty ones whole to an appliance recycler that recovers refrigerant, and have a plumber isolate any built-in model before it is pulled out.",
+          "Ice makers are popular in Dubai for obvious reasons, and they tend to leave a home when a family moves, when the unit starts producing small or cloudy ice, or when a newer fridge with a built-in dispenser makes it redundant. Because they look like a kettle-sized countertop gadget, people often treat them as a small electrical. Inside, they work like a compact fridge, and that changes where they should go.",
+        ],
+      },
+      {
+        heading: "Drain and dry it before it moves",
+        paragraphs: [
+          "Unplug the machine and empty the ice basket. Most countertop models have a drain plug or cap on the underside or near the base at the front. Stand the unit on the edge of the sink or over a tray, pull the plug and let the reservoir empty completely, then tilt it gently to clear the last of the water. Leave the lid open for a day so the evaporator prongs and the inside of the tank dry out.",
+          "This step matters more than it seems. An ice maker that is carried with water inside will leak across a lift floor, and one that is sealed up wet will smell of mould within days, which ends any chance of resale. Wipe the basket and the reservoir with a mild vinegar solution if there is limescale or slime, and dry everything before the lid is closed.",
+        ],
+        callout: { type: "tip", title: "Keep it upright", text: "Carry and transport an ice maker upright, the same way you would a fridge. If it is going to a new owner, tell them to let it stand for a few hours before switching it on, so the compressor oil can settle. Check the manual for the exact time." },
+      },
+      {
+        heading: "Built-in and under-counter models need a plumber first",
+        paragraphs: [
+          "Under-counter ice makers in villa kitchens, home bars and outdoor kitchens are a different job. They are connected to a cold-water supply line, often through an inline filter, and many have a gravity drain or a drain pump connected to the kitchen waste pipe. A plumber should close the isolation valve, disconnect and cap both lines, and check for leaks before the unit is slid out of its cabinet.",
+          "In a rental, check the inventory before arranging removal. A built-in ice maker that came with the villa is the landlord's, just like the oven or the hob, and taking it can turn into a deduction. If it is yours and you are leaving, ask the plumber to leave the open cabinet space clean and dry, with the water line capped, so the next tenant or the landlord's contractor can fit a replacement.",
+        ],
+      },
+      {
+        heading: "Why a faulty ice maker goes to a refrigerant recycler",
+        paragraphs: [
+          "Every compressor ice maker has a sealed circuit holding a small charge of refrigerant, and the rating plate on the back or the base names the type. That charge should be recovered by equipment designed for it before the metal is separated. A recycler that handles fridges and air conditioners will do this; a scrap trader who cuts the copper pipes to get at the metal releases it instead.",
+          "So a faulty ice maker should travel whole, with its pipes and compressor intact, to an appliance recycler that recovers refrigerant. Do not cut the power cord short or remove the compressor to make it lighter. Working units in clean condition are worth selling or giving away, and commercial cube machines from cafes and restaurants are often bought back by refrigeration technicians for parts.",
+        ],
+        image: blogB201Body,
+        imageAlt: "Technician at an Al Quoz e-waste recycling plant connecting a refrigerant recovery machine to the compressor of a dismantled fridge, beside trays of copper tubing and brass fittings",
+        imageCaption: "Refrigerant is recovered from sealed cooling circuits before copper, brass and steel are separated for recycling.",
+      },
+      {
+        heading: "Book collection with the rest of the kitchen",
+        paragraphs: [
+          "An ice maker is light enough for one person to carry, so it is usually collected alongside other kitchen appliances rather than on its own. Group it with anything else leaving, list which items work, and keep the drained ice maker upright on a towel near the door. For towers, the usual service lift booking applies. For villas with outdoor kitchens, mention whether the unit is built into a counter.",
+          "Our [appliance removal service](https://dubaijunkcollection.com/services/appliance-removal) collects ice makers, fridges and other cooling appliances and sends faulty units to recyclers that recover refrigerant, including from villas in [Jumeirah Islands](https://dubaijunkcollection.com/service-areas/jumeirah-islands). For related appliances, see our guides to [wine coolers](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-wine-cooler-in-dubai), [water dispensers](https://dubaijunkcollection.com/blog/how-to-dispose-of-water-dispenser-dubai) and [responsible appliance disposal](https://dubaijunkcollection.com/blog/responsible-appliance-disposal-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can an ice maker go in the building's bin?", answer: "No. It contains refrigerant, a compressor and electronics, so it is an electrical appliance rather than household rubbish, and placing it in a bin room is usually treated as dumping by building management. Keep it in the unit until it is collected or taken to an appliance recycler." },
+      { question: "Is an ice maker with a noisy compressor worth repairing?", answer: "Sometimes. Noise, slow ice or small cubes are often caused by scale, a blocked water sensor or a failing fan rather than the compressor itself. Descale it first. If the compressor has failed on an inexpensive countertop model, the repair usually costs more than a replacement." },
+      { question: "What should I do with the water filter cartridge?", answer: "Remove used filter cartridges from built-in models before collection and dispose of them with general waste unless the manufacturer runs a take-back scheme. Unopened spare cartridges can be sold or given away with the machine, since buyers often struggle to find the right size." },
+      { question: "What details help quote ice maker collection?", answer: "Send a photo of the unit and its rating plate, and say whether it is countertop, built-in or a commercial cube machine. Mention whether it has been drained, whether a plumber has disconnected it, and any other appliances leaving at the same time." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-a-wine-cooler-in-dubai", "how-to-dispose-of-water-dispenser-dubai", "responsible-appliance-disposal-dubai"],
+    serviceLink: { href: "/services/appliance-removal", label: "Arrange ice maker collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality - Dispose of household appliances and furniture" },
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-video-conferencing-equipment-in-dubai",
+    title: "How to Dispose of Video Conferencing Equipment in Dubai: Room Licences, Ceiling Microphones and Wall Displays",
+    excerpt: "Remove each device from its management portal and release room licences, factory reset cameras, video bars and panels, check lease or integrator ownership, then take down displays and ceiling microphones with building approval before resale or e-waste.",
+    category: "Commercial & Office",
+    coverImage: blogB202Cover,
+    coverImageAlt: "Two technicians detaching a ceiling-mounted projector and coiling its cables above a padded boardroom table, with a large wall-mounted display and the Dubai skyline behind",
+    publishedAt: "2026-11-17",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Video Conferencing Equipment", "Meeting Room AV", "Office IT Disposal", "Commercial E-Waste"],
+    seoTitle: "How to Dispose of Video Conferencing Equipment in Dubai",
+    seoDescription: "How to dispose of video conferencing equipment in Dubai: release room licences, reset devices, check lease ownership and take down displays and ceiling mics safely.",
+    keyTakeaways: [
+      "Meeting room devices are registered to room accounts and licences, so IT removes them from the management portal before anything is unplugged.",
+      "Much meeting room AV is leased or supplied under an integrator contract, so check asset tags and agreements before treating any of it as yours to sell or scrap.",
+      "Wall displays and ceiling microphones are fixed into the fit-out, so taking them down is planned ceiling and wall work, not a quick unplug-and-carry.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of video conferencing equipment in Dubai?",
+        paragraphs: [
+          "To dispose of video conferencing equipment in Dubai, remove each device from its management portal and release room licences, factory reset cameras, bars and panels, and check lease or integrator ownership. Then take down wall displays and ceiling microphones with building management's approval and send everything to documented e-waste or resale.",
+          "A modern meeting room is a small network of devices: a video bar or camera above the screen, microphones in the table or ceiling, a touch controller on the table, a booking panel outside the door, one or two large displays, and a rack or cabinet of switching and power gear hidden in a credenza. It usually comes out during a relocation, a fit-out strip or a platform change, and each part carries its own risk.",
+        ],
+      },
+      {
+        heading: "Release licences and reset every device",
+        paragraphs: [
+          "Start with IT, not the removal crew. Most room systems are enrolled in a vendor or collaboration-platform management portal and signed in to a dedicated room account that carries a licence. Remove each device from the portal, unassign or reassign the licence, and disable the room account or move it to the new office. A device that is unplugged without this step can keep its enrolment and stay linked to your tenant.",
+          "Then factory reset each item according to its manufacturer's instructions: video bars, cameras, touch controllers and scheduling panels. These hold network settings, Wi-Fi credentials, the room calendar and sometimes call history. Record the serial number and reset date of each one in the asset list, so the disposal record shows what was cleared and when.",
+        ],
+        callout: { type: "warning", title: "Check who owns the room kit", text: "Meeting room AV is often leased, financed or supplied as part of a managed-service contract with an integrator. Look for asset tags and check the agreement before selling anything. Leased equipment is returned under the contract terms, and the integrator may want to collect it themselves." },
+      },
+      {
+        heading: "Take down displays and ceiling microphones properly",
+        paragraphs: [
+          "Large meeting room displays are heavy, wide and fragile, and they hang on wall mounts bolted into blockwork or into reinforced partitions. Two people lift the screen off the mount, keep it upright and carry it face-out with the glass padded. Put the original boxes to use if you still have them. Never lay a large panel flat on its face, since that is how screens crack in transit.",
+          "Ceiling microphone arrays and speakers sit in or hang from ceiling tiles, with cables and power running above. Most commercial towers require a work permit or an approved contractor for anything above the ceiling, so agree the scope with building management before work starts. Decide with the landlord whether mounts, back boxes, floor boxes and cable runs stay for the next tenant or are removed and the walls and ceiling made good.",
+        ],
+      },
+      {
+        heading: "Route each part to resale or e-waste",
+        paragraphs: [
+          "Recent video bars, cameras, controllers and commercial displays in good condition have resale value with AV dealers and other businesses fitting out rooms, provided they have been reset and released from their accounts. Older codecs, analogue microphones, outdated control processors, HDMI extenders and bundles of cable are worth little and belong with a commercial e-waste receiver who issues a transfer note.",
+          "Keep batteries out of the general load. Wireless microphones, presentation clickers and some touch controllers contain rechargeable cells that go to battery recycling, and the rack may hold a small UPS. Pack cameras and controllers in padded crates, label each crate with the room it came from, and keep the asset list with the load so nothing is lost between floor and truck.",
+        ],
+        image: blogB202Body,
+        imageAlt: "Two crew members wheeling a loaded flatbed trolley of padded office equipment and chairs across a protected marble lobby floor from a lift towards a loading bay and truck",
+        imageCaption: "Padded, labelled loads move from the lift to the loading bay in one pass, which keeps building access time short.",
+      },
+      {
+        heading: "Plan meeting room clearance with the wider move",
+        paragraphs: [
+          "Meeting rooms usually clear in the same window as the rest of the office, and building loading bays and service lifts work to booked slots and permitted hours. Strip the AV first, then the tables and chairs, so heavy furniture is not moved over loose cables. Leave the room photographed and empty for the landlord's handback inspection.",
+          "Our [office junk removal service](https://dubaijunkcollection.com/services/office-junk-removal) collects meeting room displays, camera systems, racks and furniture once licences and ownership are settled, including from offices in [Dubai Production City](https://dubaijunkcollection.com/service-areas/dubai-production-city). For related steps, see our guides to [office projectors](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-office-projector-in-dubai), [office monitors](https://dubaijunkcollection.com/blog/how-to-dispose-of-office-monitors-in-dubai) and [conference tables](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-conference-table-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Do video conferencing cameras store recordings?", answer: "Most room cameras and video bars stream live and do not keep recordings, which are usually stored in the cloud platform. They do hold settings, network credentials and sometimes call logs, so they still need a factory reset. Check the platform's recording retention separately with IT." },
+      { question: "Can meeting room displays be reused as office TVs?", answer: "Often, yes. Commercial displays work as digital signage, reception screens or training-room monitors after a reset. Check that the display does not rely on a removed control system or a specific video bar to switch on, and keep the remote and mount brackets with it." },
+      { question: "What happens to cables and floor boxes?", answer: "Loose cables, adapters and extenders go to e-waste. Floor boxes, back boxes and cable runs inside walls and raised floors are part of the fit-out, so the lease and the landlord decide whether they stay or are stripped out and made good before handover." },
+      { question: "What details help quote meeting room AV collection?", answer: "List the number of rooms, displays and their sizes, cameras, racks and ceiling microphones, and say whether IT has reset the devices. Mention whether displays are still on the wall, the building's loading bay rules and the dates the office must be empty." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-an-office-projector-in-dubai", "how-to-dispose-of-office-monitors-in-dubai", "how-to-dispose-of-a-conference-table-in-dubai"],
+    serviceLink: { href: "/services/office-junk-removal", label: "Arrange meeting room AV collection" },
+    sources: [
+      { href: "https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws", label: "UAE Government - Data protection laws" },
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
     ],
   },
 ];
