@@ -370,6 +370,12 @@ import blogB201Cover from "@/assets/blog-b25-appliance-disposal-cover.jpg";
 import blogB201Body from "@/assets/blog-b98-appliance-degassing-body.webp";
 import blogB202Cover from "@/assets/blog-b145-projector-removal-cover.webp";
 import blogB202Body from "@/assets/blog-b38-office-loading-access-body.webp";
+import blogB203Cover from "@/assets/blog-b203-nesting-tables-cover.webp";
+import blogB203Body from "@/assets/blog-b203-nesting-tables-packing-body.webp";
+import blogB204Cover from "@/assets/blog-b204-bread-maker-cover.webp";
+import blogB204Body from "@/assets/blog-b204-bread-maker-parts-body.webp";
+import blogB205Cover from "@/assets/blog-b205-interactive-display-cover.webp";
+import blogB205Body from "@/assets/blog-b205-interactive-display-packing-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -20348,6 +20354,225 @@ export const blogPosts: BlogPost[] = [
     ],
     relatedSlugs: ["how-to-dispose-of-an-office-projector-in-dubai", "how-to-dispose-of-office-monitors-in-dubai", "how-to-dispose-of-a-conference-table-in-dubai"],
     serviceLink: { href: "/services/office-junk-removal", label: "Arrange meeting room AV collection" },
+    sources: [
+      { href: "https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws", label: "UAE Government - Data protection laws" },
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-nesting-tables-in-dubai",
+    title: "How to Dispose of Nesting Tables in Dubai: Matched Sets, Fragile Tops and Safe Packing",
+    excerpt: "Keep the graduated tables together, remove and pad loose glass or stone tops, photograph every piece, then sell sound matched sets or book one furniture collection for damaged frames and tops.",
+    category: "Guides & Tips",
+    coverImage: blogB203Cover,
+    coverImageAlt: "Clearance worker lifting the round glass top from the largest of three walnut nesting tables in a Dubai apartment living room",
+    publishedAt: "2026-11-18",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Nesting Table Disposal", "Living Room Furniture", "Glass Table Tops", "Furniture Collection"],
+    seoTitle: "How to Dispose of Nesting Tables in Dubai Safely",
+    seoDescription: "How to dispose of nesting tables in Dubai: keep matched pieces together, pad loose glass or stone tops, sell sound sets and collect damaged tables safely.",
+    keyTakeaways: [
+      "A nest loses most of its reuse value when one table goes missing, so count the pieces and keep the graduated set together from listing to collection.",
+      "Loose glass, marble or stone tops travel upright in padding, never flat beneath another table where vibration and point loads can crack them.",
+      "Tables should only be nested for transport when their frames do not rub; felt or blankets between tiers protect finishes and stop the set locking together.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of nesting tables in Dubai?",
+        paragraphs: [
+          "To dispose of nesting tables in Dubai, count and photograph the complete set, remove any loose glass or stone tops, and pad each surface. Sell or donate sound matched sets with their fixings; wrap cracked tops separately, mark unstable frames, and arrange furniture collection rather than leaving tables in a building bin room.",
+          "A nest of tables looks like one compact item until it is pulled apart. Then it becomes two, three or sometimes four frames with slightly different dimensions, tops and feet. The most common mistake is to send the smallest table with another load or stack everything bare, leaving scratches that turn a reusable set into disposal material.",
+        ],
+      },
+      {
+        heading: "Count the set and identify how each top is held",
+        paragraphs: [
+          "Pull every table out and arrange them from largest to smallest. Check under each frame for a maker's label, loose corner blocks, missing glides and the small rubber pads that support glass. Photograph the complete nest before dismantling it. A buyer can then see that all pieces match, while a collector knows exactly how many items must leave the property.",
+          "Solid timber and laminated tops are normally fixed to the frame. Glass may sit loose on clear pads or suction cups, while marble and sintered-stone inserts can rest inside a shallow rim. Lift a loose top with two hands at opposite sides and never use a table leg as a handle. If a top does not lift easily, inspect underneath for clips instead of forcing it.",
+        ],
+        callout: { type: "warning", title: "A chipped glass top is still a sharp load", text: "Do not tape a broken corner and place the table back into service. Cover the entire top with card, tape the card to itself rather than the glass, label the damage and tell the collector. Toughened glass can fail suddenly after an edge impact." },
+      },
+      {
+        heading: "Decide whether the set is worth reusing",
+        paragraphs: [
+          "Complete sets with firm joints and clean tops are easy to resell or give away because they suit apartments where floor space is limited. Include the largest table's width and height, the number of pieces, the top material and a photo of any mark. If the set uses model-specific glass, keeping every pad and clip with it matters almost as much as keeping every table.",
+          "A loose timber joint may be repairable, but be honest about it. Mark the affected leg and stop using the table until it is reglued. Swollen MDF, peeling laminate and cracked stone rarely justify repair on inexpensive sets. Separate removable tops from frames so a recovery facility can assess glass, stone, timber and metal without breaking everything together.",
+        ],
+      },
+      {
+        heading: "Pack nested tables without damaging them",
+        paragraphs: [
+          "Wipe dust from the rails before sliding tables together, then place felt, corrugated card or a folded moving blanket wherever one frame could touch another. Do not force a swollen or twisted table into the nest. Secure the grouped frames with a soft furniture strap around the outside, keeping the buckle away from finished edges.",
+          "Pack loose tops separately and upright. Glass and stone need full-face padding and a rigid slot or A-frame; they should never ride flat under the timber frames. Bag clips, pads and feet, attach the bag to the largest table, and keep the set on one trolley so a service-lift booking does not split it across trips.",
+        ],
+        image: blogB203Body,
+        imageAlt: "Three walnut nesting tables strapped together on a padded trolley beside glass tops packed upright in a cushioned crate at a service lift",
+        imageCaption: "Matched frames travel as one padded set, while removable glass tops stay upright in their own protected slot.",
+      },
+      {
+        heading: "Plan one collection from the apartment",
+        paragraphs: [
+          "Before collection, clear cups, lamps and remote controls from every tier and check beneath the smallest table for personal items. In a tower, confirm the service lift and loading-bay window with building management. Keep damaged glass inside the apartment until the crew arrives; a shared refuse room is not a safe holding place for it.",
+          "Our [furniture removal team](https://dubaijunkcollection.com/services/furniture-removal) collects nesting tables and other living-room pieces from apartments in [Dubai Marina](https://dubaijunkcollection.com/service-areas/dubai-marina). For nearby items, see how to prepare a [coffee table](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-coffee-table-in-dubai), [console table](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-console-table-in-dubai) and [sideboard](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-sideboard-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can nesting tables go in an apartment bin room?", answer: "Usually not. They are bulky furniture, and loose glass creates an extra handling risk for cleaners. Keep the complete set in your unit and use the building's approved bulky-item process or a booked collection." },
+      { question: "Should I tape loose glass tops to the frames?", answer: "No. Adhesive can mark the finish, and a top can still shift or crack while lying flat. Remove each loose top, pad it fully and carry it upright. Bag the support pads and clips with the frames." },
+      { question: "Can I donate a set with one table missing?", answer: "You can offer it honestly as a partial set, but acceptance is less likely. Give the exact number and dimensions. Do not substitute an unrelated side table or hide damage to make the group appear complete." },
+      { question: "What details help quote nesting-table collection?", answer: "Send one photo with every table pulled out, note the top materials and any cracks, and say whether the tables fit in the lift. Mention other furniture leaving so the crew can size the trolley and vehicle correctly." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-a-coffee-table-in-dubai", "how-to-dispose-of-a-console-table-in-dubai", "how-to-dispose-of-a-sideboard-in-dubai"],
+    serviceLink: { href: "/services/furniture-removal", label: "Book nesting table removal" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality - Dispose of household appliances and furniture" },
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-bread-maker-in-dubai",
+    title: "How to Dispose of a Bread Maker in Dubai: Loaf Pans, Paddles and Small-Appliance E-Waste",
+    excerpt: "Unplug and cool the bread maker, remove crumbs and dough, keep the loaf pan, kneading paddle and hook together, then pass on working machines or route faulty bases to small-appliance e-waste.",
+    category: "Eco & Recycling",
+    coverImage: blogB204Cover,
+    coverImageAlt: "Technician cleaning flour residue from an unplugged bread maker beside its removable loaf pan, paddle and measuring cup in a Dubai kitchen",
+    publishedAt: "2026-11-18",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Bread Maker Disposal", "Bread Machines", "Kitchen Appliances", "Small Appliance Recycling"],
+    seoTitle: "How to Dispose of a Bread Maker in Dubai Responsibly",
+    seoDescription: "How to dispose of a bread maker in Dubai: cool and clean it, keep the loaf pan and paddle together, pass on working machines and recycle faulty bases.",
+    keyTakeaways: [
+      "The loaf pan, kneading paddle and paddle-removal hook are model-matched parts; keeping them together can decide whether a working machine is reusable.",
+      "Dry flour and baked dough must be removed before storage, but the powered body is wiped only and never immersed or rinsed under a tap.",
+      "A failed bread maker contains a heater, motor, controls and wiring, so the powered base belongs with small-appliance e-waste rather than general rubbish.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a bread maker in Dubai?",
+        paragraphs: [
+          "To dispose of a bread maker in Dubai, unplug it, let the heating chamber cool, and remove all dough and crumbs. Wash and dry the loaf pan, then keep its kneading paddle, hook and cup together. Pass on a working complete machine; send a faulty powered base to small-appliance e-waste.",
+          "Bread machines often spend months at the back of a kitchen cabinet after an enthusiastic start. By the time they leave, the machine may still work perfectly but its paddle is missing, or old flour has attracted insects. Ten careful minutes can preserve a useful appliance and prevent food residue contaminating an e-waste load.",
+        ],
+      },
+      {
+        heading: "Cool it and clean the food-contact parts",
+        paragraphs: [
+          "Unplug the machine and wait until the chamber and pan are completely cool. Twist and lift the loaf pan using its handle, following the model's release direction. Remove the kneading paddle from the spindle with the supplied hook if it is stuck; do not pry at a non-stick pan with a screwdriver or knife.",
+          "Wash the pan, paddle, cup and spoon according to the manual, then dry them fully. Brush loose flour and crumbs from the heating chamber with a dry, soft brush and wipe the exterior with a barely damp cloth. The main body contains the heater, drive motor and control board, so it must never be immersed or rinsed in the sink.",
+        ],
+        callout: { type: "warning", title: "Do not power up a damaged cord", text: "A split sheath, scorched plug or loose strain relief is a retirement fault until a qualified repairer assesses it. Leave the machine unplugged, photograph the damage and disclose it to the collector. Tape is not a safe electrical repair." },
+      },
+      {
+        heading: "Test a complete machine before offering it",
+        paragraphs: [
+          "Check that the pan locks in, the paddle turns freely by hand when removed from the machine, the lid closes and the control buttons respond. If the machine has a short test or knead-only programme, follow the manual and stay with it. Stop immediately if the drive grinds, the heater smells burnt or an error returns.",
+          "A clean working bread maker is useful to a new household, but only when its matched parts are present. Put the paddle and removal hook inside the dry pan, wrap the cup and spoon, and include the manual or a link to the exact model instructions. If you cannot confirm operation, list it as untested rather than promising it works.",
+        ],
+      },
+      {
+        heading: "Separate reusable parts from electrical waste",
+        paragraphs: [
+          "A scratched pan or missing paddle does not automatically end the machine's life. Replacement parts may be available using the model number on the rating plate, and complete pans are useful as spares. Severely flaking non-stick coatings should not return to food use, but do not place the pan in a metal bin until you know whether its coating and mixed fittings are accepted.",
+          "When the motor, heater or electronics have failed, keep the powered body intact for small-appliance recycling. Do not strip out the motor or cut the cord. An e-waste processor can separate steel, aluminium, copper wiring and circuit boards under controlled conditions, while food-contact pieces can be assessed separately.",
+        ],
+        image: blogB204Body,
+        imageAlt: "Gloved technician inspecting the cord of an unplugged bread maker with the dry loaf pan, kneading paddle, hook and cup separated on a kitchen worktop",
+        imageCaption: "Keeping the dry pan, paddle, hook and cup with the machine preserves reuse value; a damaged powered base stays intact for e-waste.",
+      },
+      {
+        heading: "Add it to a planned appliance collection",
+        paragraphs: [
+          "One bread maker rarely justifies a dedicated pickup, so group it with other small appliances, cables and kitchen items. Keep working and faulty equipment in separate boxes, and tell the collector about any damaged cord or burnt smell. In a tower, do not leave the box beside the chute while waiting for the service-lift slot.",
+          "Our [appliance removal service](https://dubaijunkcollection.com/services/appliance-removal) collects bread makers with other household appliances from homes in [Al Barsha](https://dubaijunkcollection.com/service-areas/al-barsha). For similar countertop equipment, see the guides to [food processors](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-food-processor-in-dubai), [stand mixers](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-stand-mixer-in-dubai) and [toasters](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-toaster-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Can I donate a bread maker without its kneading paddle?", answer: "Only if the recipient knows the paddle is missing and can source the exact replacement. Without it, the machine cannot mix dough. Search by the full model number first; paddles that look alike can have different shaft fittings." },
+      { question: "Can the loaf pan go in metal recycling?", answer: "Not automatically. It may combine coated aluminium or steel with a spindle, seal and bearing. Ask the receiving recycler what it accepts. A usable pan is usually more valuable kept with the machine or offered as a model-specific spare." },
+      { question: "What if old dough is stuck beneath the paddle?", answer: "Soak only the removable pan and paddle if the manual permits. Keep water out of the powered body. Use the supplied hook or a wooden tool, not a blade that can damage the coating or spindle seal." },
+      { question: "What details help quote bread-maker collection?", answer: "Give the number of machines, whether each works, and whether the pan, paddle and cable are present. Mention other appliances in the pickup and disclose burnt smells, damaged plugs or pest contamination before collection." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-a-food-processor-in-dubai", "how-to-dispose-of-a-stand-mixer-in-dubai", "how-to-dispose-of-a-toaster-in-dubai"],
+    serviceLink: { href: "/services/appliance-removal", label: "Arrange bread maker collection" },
+    sources: [
+      { href: "https://www.dm.gov.ae/dubai-municipality-services/", label: "Dubai Municipality - Dispose of household appliances and furniture" },
+      { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
+      { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-an-interactive-display-in-dubai",
+    title: "How to Dispose of an Interactive Display in Dubai: Accounts, Wall Mounts and Touchscreen E-Waste",
+    excerpt: "Remove the display from device management, sign out room accounts, wipe its storage, inventory the styluses and computer module, then use approved contractors to take the heavy touchscreen down for reuse or documented e-waste.",
+    category: "Commercial & Office",
+    coverImage: blogB205Cover,
+    coverImageAlt: "IT technicians inventorying and disconnecting a powered-off interactive touchscreen display in a glass-walled Dubai office training room",
+    publishedAt: "2026-11-18",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Interactive Display Disposal", "Touchscreen Displays", "Office IT Disposal", "Commercial E-Waste"],
+    seoTitle: "How to Dispose of an Interactive Display in Dubai",
+    seoDescription: "How to dispose of an interactive display in Dubai: remove accounts, wipe storage, inventory accessories, take down the wall mount safely and document e-waste.",
+    keyTakeaways: [
+      "An interactive display may store Wi-Fi credentials, cloud logins, browser data and whiteboard files, so IT resets it before the screen leaves the room.",
+      "The panel, wall mount, slot-in computer, styluses, remote and touch cables form one system; inventorying them together preserves reuse value.",
+      "Large touchscreens are heavier and more fragile than ordinary monitors, so an approved team moves them upright on a padded display trolley and makes good the fit-out.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an interactive display in Dubai?",
+        paragraphs: [
+          "To dispose of an interactive display in Dubai, remove it from device management, sign out cloud and room accounts, export needed files, and factory reset the panel and slot-in computer. Inventory styluses, remotes and cables, then have approved contractors take down the heavy touchscreen for resale or documented commercial e-waste.",
+          "Interactive displays now sit in boardrooms, classrooms and training suites across Dubai. They may look like oversized televisions, but many run their own operating system, join the corporate network and store whiteboard sessions. Disposal therefore starts with IT and the asset register, not with two people lifting the panel off the wall.",
+        ],
+      },
+      {
+        heading: "Close accounts and preserve required files",
+        paragraphs: [
+          "Ask the room owner whether whiteboard exports, lesson material or meeting annotations must be retained. Save approved files to the organisation's controlled storage, then sign out collaboration, browser and app accounts. Remove the panel from mobile-device or endpoint management and release any display, classroom or room licence assigned to its serial number.",
+          "Factory reset the display using the manufacturer procedure and record the date, serial number and person responsible. If an OPS or other slot-in computer is fitted, treat it as a separate computer: remove it, wipe its drive under the IT policy and record its own serial number. A reset of the screen does not necessarily erase the computer module.",
+        ],
+        callout: { type: "warning", title: "Do not assume a blank home screen means the data is gone", text: "Saved whiteboards, browser sessions, wireless-sharing credentials and files may sit behind separate apps or on a slot-in PC. IT should verify each storage location and management portal before facilities isolates power or the display leaves controlled custody." },
+      },
+      {
+        heading: "Check ownership and inventory the complete system",
+        paragraphs: [
+          "Confirm whether the display was purchased, leased or supplied under an AV or education-technology contract. Asset tags, invoices and the integrator's handover pack should identify the owner. A leased screen goes back through the provider's return process; it should not enter an office-clearance load simply because the room is being stripped.",
+          "Count the styluses, remote controls, wall-mount arms, wireless-sharing dongles, touch USB leads, cameras and speakers. Photograph the rear connections before unplugging them and put small accessories in a parts case tied to the panel's asset number. A working display without its touch cable, pen or proprietary compute module loses much of its resale value.",
+        ],
+      },
+      {
+        heading: "Take down and transport the touchscreen upright",
+        paragraphs: [
+          "Building management may require a work permit for wall-mounted equipment, particularly where power, data or reinforced backing sits inside a tenant fit-out. Isolate the circuit, disconnect cables and use enough trained people or a rated lifting aid to release the panel from its mount. The mount can spring or shift once the panel weight comes off, so it stays controlled until unbolted.",
+          "Protect the entire touch surface, keep the panel upright and secure it to a purpose-built display trolley. Never carry a large screen by its bezel corners or lay it face-down across a conference table. Wrap wall brackets and sharp fasteners separately, then agree whether the bracket, cable box and backing remain for the next tenant or the wall is patched for handover.",
+        ],
+        image: blogB205Body,
+        imageAlt: "Two technicians guiding a large interactive display upright on a padded trolley beside packed wall brackets, styluses, remote, computer and cables at a service lift",
+        imageCaption: "The touchscreen stays upright on a padded display trolley while its mount, computer and accessories travel as a separately inventoried kit.",
+      },
+      {
+        heading: "Choose reuse or documented e-waste",
+        paragraphs: [
+          "Recent 4K panels with responsive touch, current security support and a complete accessory kit can move to another room, school or business. Test every touch zone before listing one and disclose dead pixels, glass damage or obsolete software. A panel with cracked cover glass should stay powered off and be packed to contain fragments.",
+          "Failed or unsupported panels belong with a commercial e-waste receiver that records the transfer and separates the display, boards, steel chassis and computer module. Our [office junk removal service](https://dubaijunkcollection.com/services/office-junk-removal) coordinates collection after IT sign-off from offices in [Business Bay](https://dubaijunkcollection.com/service-areas/business-bay). Continue with the guides to [office whiteboards](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-office-whiteboard-in-dubai), [office monitors](https://dubaijunkcollection.com/blog/how-to-dispose-of-office-monitors-in-dubai) and [video-conferencing equipment](https://dubaijunkcollection.com/blog/how-to-dispose-of-video-conferencing-equipment-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Is an interactive display just a large office monitor?", answer: "No. It normally adds a touch sensor, embedded operating system, speakers and sometimes a slot-in computer, camera or wireless-sharing module. Those parts create extra data-erasure, inventory and packing work before the display can leave." },
+      { question: "Can the wall mount stay for the next tenant?", answer: "Only if the landlord agrees and the mount is compatible with the planned replacement. Record that agreement in the handover scope. Otherwise, an approved contractor removes it and makes good the wall, power and cable openings." },
+      { question: "What should happen to a cracked touchscreen?", answer: "Power it off, do not test touch by pressing the damaged area, and cover the face with rigid card and padding. Tell the collector about the crack so the panel can be contained, kept upright and sent to an appropriate e-waste receiver." },
+      { question: "What details help quote interactive-display collection?", answer: "Provide the quantity and screen sizes, wall or trolley mounting, floor and service-lift access, and whether IT has reset each panel and computer module. List cameras, soundbars, mounts and other room equipment leaving in the same window." },
+    ],
+    relatedSlugs: ["how-to-dispose-of-an-office-whiteboard-in-dubai", "how-to-dispose-of-office-monitors-in-dubai", "how-to-dispose-of-video-conferencing-equipment-in-dubai"],
+    serviceLink: { href: "/services/office-junk-removal", label: "Arrange interactive display collection" },
     sources: [
       { href: "https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws", label: "UAE Government - Data protection laws" },
       { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },

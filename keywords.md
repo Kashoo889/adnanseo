@@ -792,3 +792,11 @@
 | 442 | how to dispose of a hanging egg chair in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-hanging-egg-chair-in-dubai`) |
 | 443 | how to dispose of an ice maker in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-ice-maker-in-dubai`) |
 | 444 | how to dispose of video conferencing equipment in dubai | Q | Blog Article (`/blog/how-to-dispose-of-video-conferencing-equipment-in-dubai`) |
+
+### New question-intent blog targets (Batch 61)
+
+| # | Keyword | Intent | Recommended Page |
+| :-: | :--- | :---: | :--- |
+| 445 | how to dispose of nesting tables in dubai | Q | Blog Article (`/blog/how-to-dispose-of-nesting-tables-in-dubai`) |
+| 446 | how to dispose of a bread maker in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-bread-maker-in-dubai`) |
+| 447 | how to dispose of an interactive display in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-interactive-display-in-dubai`) |

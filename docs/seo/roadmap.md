@@ -771,6 +771,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules section 16):** B200 differs from B58 (sun-damaged outdoor and balcony furniture, which lists egg chairs only as a rattan material example), B188 (rocking chairs), B101 (gazebos) and B179 (armchairs) through a three-part pod, stand and weighted-base split, tenant-drilled ceiling hooks and make-good, rusted pole-joint bolts and UV-brittle synthetic rattan. B201 differs from B25 (fridges), B132 (wine coolers), B71 (water dispensers) and B98 (appliance lifecycle) through reservoir draining and drying, evaporator-prong mould, plumbed under-counter supply and drain lines, filter cartridges and commercial cube machines. B202 differs from B145 (projectors), B187 (office monitors), B184 (peripherals incl. conference cameras in passing) and B151 (conference tables) through collaboration-platform portal enrolment and room-licence release, integrator lease returns, wall-mounted large-format displays and ceiling microphone arrays requiring building work approval.
 
+### Track 64: Matched Occasional Tables, Bread Making & Interactive Touchscreens (Clusters 3, 4, 5, 6 & 10)
+*Continues the furniture-appliance-office sequence through three distinct controls: preserving a graduated matched table set while protecting loose glass or stone tops, keeping a bread maker's model-specific pan and paddle with a clean powered base, and closing cloud accounts and embedded storage before a heavy interactive display comes off its wall mount.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B203** | *How to Dispose of Nesting Tables in Dubai: Matched Sets, Fragile Tops and Safe Packing* | `how to dispose of nesting tables in dubai` | `nest of tables disposal dubai`, `glass side table removal dubai`, `living room furniture collection dubai` | Q | `/services/furniture-removal` |
+| **B204** | *How to Dispose of a Bread Maker in Dubai: Loaf Pans, Paddles and Small-Appliance E-Waste* | `how to dispose of a bread maker in dubai` | `bread machine recycling dubai`, `small kitchen appliance disposal dubai`, `kitchen e-waste dubai` | Q | `/services/appliance-removal` |
+| **B205** | *How to Dispose of an Interactive Display in Dubai: Accounts, Wall Mounts and Touchscreen E-Waste* | `how to dispose of an interactive display in dubai` | `interactive whiteboard disposal dubai`, `touchscreen display recycling dubai`, `office e-waste collection dubai` | Q | `/services/office-junk-removal` |
+
+**Overlap check (content-rules section 16):** B203 differs from B144 (coffee tables), B155 (console tables), B149 (sideboards) and B153/B167 (stools and dining chairs) through graduated matched-set completeness, safe nesting clearances, model-specific support pads and separately packed loose glass or stone tops. B204 differs from B150 (food processors), B159 (toasters), B168 (slow cookers) and B177 (stand mixers) through a heated baking chamber, twist-lock loaf pan, model-matched kneading paddle and hook, dry flour contamination and separation of food-contact parts from a motor-and-heater base. B205 differs from B148 (non-electronic office whiteboards), B187 (office monitors), B202 (video-conferencing systems) and B145 (projectors) through embedded whiteboard storage, device-management enrolment, slot-in computers, touch USB accessories, stylus inventories and the lifting and reinstatement requirements of a large wall-mounted touchscreen.
+
 ---
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -833,3 +844,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 58. **Batch 58 (Articles B194–B196):** Motorised Sleeping, Hot-Oil Frying & Point-of-Sale Hardware — **100% Completed (3/3 Live)**.
 59. **Batch 59 (Articles B197–B199):** Floor-Level Majlis Seating, Plug-In Induction Cooking & Surveillance Recording — **100% Completed (3/3 Live)**.
 60. **Batch 60 (Articles B200–B202):** Suspended Seating, Countertop Ice & Meeting Room AV — **100% Completed (3/3 Live)**.
+61. **Batch 61 (Articles B203–B205):** Matched Occasional Tables, Bread Making & Interactive Touchscreens — **100% Completed (3/3 Live)**.
