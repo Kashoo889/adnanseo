@@ -800,3 +800,11 @@
 | 445 | how to dispose of nesting tables in dubai | Q | Blog Article (`/blog/how-to-dispose-of-nesting-tables-in-dubai`) |
 | 446 | how to dispose of a bread maker in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-bread-maker-in-dubai`) |
 | 447 | how to dispose of an interactive display in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-interactive-display-in-dubai`) |
+
+### New question-intent blog targets (Batch 62)
+
+| # | Keyword | Intent | Recommended Page |
+| :-: | :--- | :---: | :--- |
+| 448 | how to dispose of a chaise longue in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-chaise-longue-in-dubai`) |
+| 449 | how to dispose of a coffee grinder in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-coffee-grinder-in-dubai`) |
+| 450 | how to dispose of an office label printer in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-office-label-printer-in-dubai`) |

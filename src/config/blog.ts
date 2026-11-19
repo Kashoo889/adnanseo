@@ -376,6 +376,12 @@ import blogB204Cover from "@/assets/blog-b204-bread-maker-cover.webp";
 import blogB204Body from "@/assets/blog-b204-bread-maker-parts-body.webp";
 import blogB205Cover from "@/assets/blog-b205-interactive-display-cover.webp";
 import blogB205Body from "@/assets/blog-b205-interactive-display-packing-body.webp";
+import blogB206Cover from "@/assets/blog-b206-chaise-longue-cover.webp";
+import blogB206Body from "@/assets/blog-b206-chaise-longue-access-body.webp";
+import blogB207Cover from "@/assets/blog-b207-coffee-grinder-cover.webp";
+import blogB207Body from "@/assets/blog-b207-coffee-grinder-ewaste-body.webp";
+import blogB208Cover from "@/assets/blog-b208-label-printer-cover.webp";
+import blogB208Body from "@/assets/blog-b208-label-printer-ewaste-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -20577,6 +20583,350 @@ export const blogPosts: BlogPost[] = [
       { href: "https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws", label: "UAE Government - Data protection laws" },
       { href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf", label: "Dubai Municipality - Waste duty-of-care guideline" },
       { href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management", label: "UAE Government - Waste management" },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-chaise-longue-in-dubai",
+    title: "How to Dispose of a Chaise Longue in Dubai: Frames, Legs and Lift Access",
+    excerpt:
+      "Check whether the chaise is one piece or modular, measure its longest diagonal, remove only useful detachable parts, protect the upholstery and choose reuse or a booked bulky-furniture collection.",
+    category: "Guides & Tips",
+    coverImage: blogB206Cover,
+    coverImageAlt:
+      "Uniformed technicians protecting a chaise longue and measuring the doorway of a Dubai high-rise apartment",
+    publishedAt: "2026-11-19",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: [
+      "Chaise Longue Disposal",
+      "Upholstered Furniture",
+      "Furniture Removal",
+      "Service Lift Access",
+    ],
+    seoTitle: "How to Dispose of a Chaise Longue in Dubai",
+    seoDescription:
+      "How to dispose of a chaise longue in Dubai: check its frame, remove useful detachable parts, measure the lift route and arrange reuse or collection.",
+    keyTakeaways: [
+      "Measure the chaise's full length, back height and carrying diagonal against every doorway, corridor turn and service-lift opening before moving it.",
+      "Remove screw-in legs or a documented modular connector only when that meaningfully improves access; keep every fixing in a labelled bag.",
+      "A clean, structurally sound chaise may be reused, while broken or contaminated upholstery needs an agreed bulky-furniture route rather than a chute or bin room.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a chaise longue in Dubai?",
+        paragraphs: [
+          "To dispose of a chaise longue in Dubai, inspect its frame and upholstery, measure the complete route to the service lift, and remove only detachable legs or modular sections. Offer a clean, sound piece for reuse; otherwise protect it, book building access and arrange an approved bulky-furniture collection.",
+          "A chaise is awkward because its long seat and raised back create an uneven centre of gravity. Some are a single hardwood frame; others are the end module from a sectional sofa. Establishing which type you have prevents a forced split that ruins a reusable piece or exposes staples and broken timber during the carry.",
+        ],
+      },
+      {
+        heading: "Decide whether the chaise is reusable",
+        paragraphs: [
+          "Remove cushions and check the seat deck, corner joints, springs and underside cloth. A stable frame with clean fabric, complete cushions and only light cosmetic wear is a realistic resale or donation candidate. Photograph every side in daylight and disclose stains, fading, pet damage, odour or a repaired leg rather than leaving the recipient to discover it.",
+          "Retire the chaise when the frame shifts under gentle pressure, springs protrude, mould or pest evidence is present, or upholstery contamination cannot be professionally cleaned. Do not place a questionable piece in a communal donation area. Bag loose cushions separately and tell the collector about hygiene or sharp-frame risks before arrival.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Do not cut through the upholstery to make it fit",
+          text: "A concealed spring, metal connector or staple strip can injure the person cutting and anyone carrying the exposed frame. Confirm the construction first; if controlled dismantling is necessary, it belongs in the collection plan.",
+        },
+      },
+      {
+        heading: "Measure the entire route, not only the lift",
+        paragraphs: [
+          "Record overall length, width and the height from floor to the tallest back. Then measure the apartment door, corridor corners, fire doors, service-lift opening and lift-car diagonal. A chaise that fits inside the car may still fail at a tight ninety-degree turn outside it. Protect wall corners and keep common corridors clear while waiting for the booked slot.",
+          "Ask building management about move permits, protective lift padding and loading-bay times. Downtown and Marina towers commonly separate passenger and contractor access, while a villa may have an easier ground-floor route but a narrow gate or landscaped path. In summer, stage the vehicle before bringing upholstery into heat and dust.",
+        ],
+      },
+      {
+        heading: "Remove useful parts and protect the frame",
+        paragraphs: [
+          "Screw-in feet can often be removed by hand once the chaise is safely tipped onto a clean blanket. Photograph each position, label the feet and fittings, and return any washers to the same order. For a modular chaise, release only visible manufacturer connectors while both sections are supported; never wrench apart a joint that may be structural.",
+          "Wrap the upholstery in a breathable moving blanket, cover projecting corners and secure the wrap without placing tape on fabric or leather. Carry the chaise on its strongest frame rails, not by an arm, back scroll or loose cushion. Keep it upright on a padded trolley when the route allows, with one person controlling each end.",
+        ],
+        image: blogB206Body,
+        imageAlt:
+          "Chaise longue wrapped on a padded trolley with detached wooden legs and fixings beside a Dubai service lift",
+        imageCaption:
+          "Removing the legs only when it improves clearance preserves the frame and keeps every model-specific fixing with the chaise.",
+      },
+      {
+        heading: "Choose reuse or a planned furniture collection",
+        paragraphs: [
+          "Give reuse a firm deadline so the item does not remain in a lobby or block a handover. Supply accurate dimensions and require the recipient to confirm transport. If nobody can use it, Dubai Municipality currently lists a household bulky-waste service subject to its location and eligibility conditions; private collection should follow an appropriate regulated route.",
+          "Our [furniture removal service](https://dubaijunkcollection.com/services/furniture-removal) can collect a chaise with other unwanted seating from homes in [Downtown Dubai](https://dubaijunkcollection.com/service-areas/downtown-dubai). Related guides explain [ordinary sofa disposal](https://dubaijunkcollection.com/blog/where-to-dispose-old-sofa-in-dubai), [recliner removal](https://dubaijunkcollection.com/blog/how-to-dispose-of-recliner-chair-dubai) and the sprung mechanism inside a [sofa bed](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-sofa-bed-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can a chaise longue go in an apartment rubbish room?",
+        answer:
+          "No. It can block doors, fire routes and waste equipment, and leaving it there may breach building rules. Keep it inside the apartment until management confirms a bulky-item route or your collector arrives for the booked service-lift window.",
+      },
+      {
+        question: "Should I remove the back from a chaise longue?",
+        answer:
+          "Only when the maker designed it as a detachable module and the connectors are visible. Many backs are structural parts of the frame. Forcing one off can expose sharp staples, weaken the chaise and make a safe carry harder.",
+      },
+      {
+        question: "Can a stained chaise be donated?",
+        answer:
+          "Usually not without successful professional cleaning and honest disclosure. Charities and recipients set their own condition rules. Persistent odour, mould, pest evidence or bodily-fluid contamination makes reuse inappropriate and must be disclosed to the collector.",
+      },
+      {
+        question: "What information helps quote chaise collection?",
+        answer:
+          "Send photos, dimensions, the floor, doorway and service-lift details, parking or loading access, and whether the legs or modules detach. Mention frame damage, contamination and any deadline linked to an Ejari handover.",
+      },
+    ],
+    relatedSlugs: [
+      "where-to-dispose-old-sofa-in-dubai",
+      "how-to-dispose-of-recliner-chair-dubai",
+      "how-to-dispose-of-a-sofa-bed-in-dubai",
+    ],
+    serviceLink: { href: "/services/furniture-removal", label: "Arrange chaise longue collection" },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-services/",
+        label: "Dubai Municipality - Dispose of household appliances and furniture",
+      },
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf",
+        label: "Dubai Municipality - Waste duty-of-care guideline",
+      },
+      {
+        href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management",
+        label: "UAE Government - Waste management",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-coffee-grinder-in-dubai",
+    title: "How to Dispose of a Coffee Grinder in Dubai: Burrs, Grounds and E-Waste",
+    excerpt:
+      "Unplug the grinder, empty and dry-brush its coffee path, keep matched hoppers and cups together, remove an accessible rechargeable battery, then reuse a working unit or route the intact base to small-appliance e-waste.",
+    category: "Eco & Recycling",
+    coverImage: blogB207Cover,
+    coverImageAlt:
+      "Technician dry-brushing coffee residue from an unplugged burr grinder in a bright Dubai apartment kitchen",
+    publishedAt: "2026-11-19",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Coffee Grinder Disposal", "Small Appliances", "Kitchen E-Waste", "Coffee Equipment"],
+    seoTitle: "How to Dispose of a Coffee Grinder in Dubai",
+    seoDescription:
+      "How to dispose of a coffee grinder in Dubai: empty grounds, clean removable parts, isolate batteries and reuse or recycle the intact electrical base.",
+    keyTakeaways: [
+      "Old beans and oily grounds should be cleared before storage, but the motor base and fixed burr housing must never be rinsed or immersed.",
+      "The hopper, lid, grounds cup, burr and cleaning brush are model-matched; keeping the set complete preserves reuse and repair value.",
+      "Failed corded and rechargeable grinders are small electrical appliances, so their powered bodies belong in an e-waste route rather than mixed household rubbish.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a coffee grinder in Dubai?",
+        paragraphs: [
+          "To dispose of a coffee grinder in Dubai, unplug it, empty the beans and grounds, and dry-brush the grinding chamber. Wash only removable food-contact parts and dry them fully. Pass on a clean working grinder with all matched parts; route a faulty powered base and accessible battery through small-appliance e-waste.",
+          "Coffee grinders are compact, but stale grounds, sharp burrs and a motor make them unsuitable for an ordinary recycling bin. Preparation differs from a complete coffee machine: there is no boiler to depressurise, yet fine coffee dust can spread through a collection box and missing model-specific burrs can make a sound grinder unusable.",
+        ],
+      },
+      {
+        heading: "Empty the coffee path without wetting the motor",
+        paragraphs: [
+          "Unplug the grinder and tip loose beans into a container. Follow the manual to remove the hopper, grounds cup and accessible upper burr. Use the supplied brush or a soft dry brush around the burr carrier and chute. Never put fingers into a blade grinder, defeat its lid interlock or use a metal tool near a powered mechanism.",
+          "Wash removable plastic or glass pieces only when the manual permits, then let them dry completely before packing. Wipe the exterior with a barely damp cloth. Water inside a fixed burr housing, blade bowl or motor base can corrode bearings and create an electrical hazard if the next owner tests it.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Keep swollen batteries out of the collection box",
+          text: "If a cordless grinder is hot, bulging, leaking or has a damaged battery, stop using and charging it. Isolate it away from heat and combustible material and ask an appropriate e-waste receiver for battery-specific instructions.",
+        },
+      },
+      {
+        heading: "Test reuse honestly and keep the kit complete",
+        paragraphs: [
+          "Check the cord, plug, lid interlock and adjustment ring before any short test. A grinder that starts slowly, emits a burnt smell, grinds unevenly or has a cracked hopper needs repair assessment rather than a confident resale listing. Do not run a burr grinder empty for longer than its manual allows merely to prove it works.",
+          "Put the cleaned upper burr, hopper, lid, grounds cup and brush together, and include the exact model number and manual link. For a rechargeable hand grinder, add its original charging lead. Burr geometry and carriers are not interchangeable just because two parts have a similar diameter.",
+        ],
+      },
+      {
+        heading: "Separate batteries and route the electrical base",
+        paragraphs: [
+          "Remove a user-accessible battery only by the manufacturer procedure and protect its terminals from contact. Do not pry open a sealed grinder or strip out its copper motor at home. Keeping the powered body intact protects handlers from blades and capacitors and lets a processor separate steel burrs, copper, circuit boards and plastics under controlled conditions.",
+          "Coffee grounds can go to the household food-waste or compost route only where that service accepts them; they do not belong inside the e-waste load. Empty retail coffee bags may combine plastic and foil, so do not assume they belong with paper. Keep each material stream clean and follow the receiving facility's current rules.",
+        ],
+        image: blogB207Body,
+        imageAlt:
+          "Gloved technician inspecting the cord and rating plate of an intact coffee grinder beside its dry hopper and grounds cup",
+        imageCaption:
+          "The intact powered base stays dry while removable parts are grouped together and other failed small appliances are prepared for e-waste.",
+      },
+      {
+        heading: "Combine it with a planned appliance collection",
+        paragraphs: [
+          "A single grinder is easy to store safely until the next authorised drop-off or grouped collection. Put it in a sturdy box with other clean, dry small appliances, separating working items from faulty ones and batteries from loose metal. Never leave the box beside a tower chute or in a service corridor before the collection slot.",
+          "Our [appliance removal service](https://dubaijunkcollection.com/services/appliance-removal) can collect grinders with other kitchen equipment from homes in [Jumeirah Village Circle](https://dubaijunkcollection.com/service-areas/jumeirah-village-circle). For adjacent equipment, read how to prepare a [coffee machine](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-coffee-machine-in-dubai), [blender](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-blender-in-dubai) or [food processor](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-food-processor-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can I put a coffee grinder in a general rubbish bin?",
+        answer:
+          "Use a small-appliance e-waste route instead. Even a simple grinder contains a motor, wiring and recoverable metal, while rechargeable models also contain a battery that should not enter compacted mixed waste.",
+      },
+      {
+        question: "Can coffee grounds stay inside for recycling?",
+        answer:
+          "No. Empty and dry-brush the grinder first. Food residue attracts pests, creates odour and contaminates other electronics. Keep water away from the powered base and wash only removable pieces that the manual identifies as washable.",
+      },
+      {
+        question: "Are ceramic burrs recyclable with glass?",
+        answer:
+          "No. Technical ceramic is not container glass and can contaminate that recycling stream. Keep a usable model-specific burr with the grinder; otherwise let the e-waste receiver assess the mixed appliance rather than placing it in a bottle bank.",
+      },
+      {
+        question: "What details help quote grinder collection?",
+        answer:
+          "State the number of grinders, whether they are corded or rechargeable, their working condition, and whether hoppers, cups and chargers are present. Mention damaged cables, burnt smells or battery swelling before pickup.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-a-coffee-machine-in-dubai",
+      "how-to-dispose-of-a-blender-in-dubai",
+      "how-to-dispose-of-a-food-processor-in-dubai",
+    ],
+    serviceLink: {
+      href: "/services/appliance-removal",
+      label: "Arrange coffee grinder collection",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-services/",
+        label: "Dubai Municipality - Dispose of household appliances and furniture",
+      },
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf",
+        label: "Dubai Municipality - Waste duty-of-care guideline",
+      },
+      {
+        href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management",
+        label: "UAE Government - Waste management",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-an-office-label-printer-in-dubai",
+    title: "How to Dispose of an Office Label Printer in Dubai: Accounts, Rolls and E-Waste",
+    excerpt:
+      "Remove queued jobs and saved templates, release the printer from management systems, clear labels and ribbons, inventory adapters and batteries, then return leased units or document their reuse and e-waste transfer.",
+    category: "Commercial & Office",
+    coverImage: blogB208Cover,
+    coverImageAlt:
+      "Facilities and IT staff inventorying a desktop thermal label printer and its accessories in a modern Dubai office",
+    publishedAt: "2026-11-19",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Label Printer Disposal", "Thermal Printers", "Office E-Waste", "Asset Disposal"],
+    seoTitle: "How to Dispose of an Office Label Printer in Dubai",
+    seoDescription:
+      "How to dispose of an office label printer in Dubai: clear templates and queues, remove media and batteries, check ownership and document reuse or e-waste.",
+    keyTakeaways: [
+      "Networked label printers can retain Wi-Fi settings, address books, templates and queued jobs, so IT clears them and releases management records before collection.",
+      "Direct-thermal labels, transfer ribbons and backing liners are different materials; remove them from the printer and follow the supplier or receiver's current acceptance rules.",
+      "Adapters, cables, cutters, batteries and label holders stay tied to the correct asset, while leased or managed devices return through their provider rather than an office-clearance load.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an office label printer in Dubai?",
+        paragraphs: [
+          "To dispose of an office label printer in Dubai, stop print jobs, export required templates, clear stored settings and remove the device from management systems. Empty label and ribbon media, isolate accessible batteries, inventory adapters and cables, then return leased units or record their reuse or transfer to commercial e-waste.",
+          "A desktop label printer is not merely a smaller office printer. Thermal models may have no ink or toner at all, yet they can hold warehouse addresses, patient or customer templates, network credentials and a sharp powered cutter. The right retirement sequence starts with business data and ownership before facilities packs the hardware.",
+        ],
+      },
+      {
+        heading: "Close queues, templates and device accounts",
+        paragraphs: [
+          "Pause new jobs, cancel the queue and let the business owner identify any regulated label format that must be retained. Export approved templates to controlled storage. Remove the printer from warehouse, retail, courier or device-management software, release its licence where applicable, and delete saved Wi-Fi, Bluetooth pairings, address books and credentials using the manufacturer procedure.",
+          "Factory reset the printer and record its asset number, serial number, reset date and responsible person. A reset does not replace the organisation's retention policy: print-server logs, cloud templates and transaction records may live elsewhere. IT or the system owner confirms those records before the hardware leaves controlled custody.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Used ribbon can reveal printed information",
+          text: "A thermal-transfer ribbon may retain a legible negative image of every label it produced. Treat used ribbons according to the information on them and the organisation's destruction policy; do not place sensitive rolls in an open recycling bin.",
+        },
+      },
+      {
+        heading: "Remove media and make the mechanism safe",
+        paragraphs: [
+          "Power off, unplug the adapter and allow the print head to cool. Open the cover using its normal latch, then remove the label roll, liner and thermal-transfer ribbon if fitted. Do not scrape the print head or reach into an automatic cutter. Close and latch the cover for transport, and disclose a jammed cutter rather than forcing it by hand.",
+          "Separate unused label stock for the next compatible machine. Direct-thermal paper, adhesive labels, silicone-coated backing liners and resin or wax ribbons do not share one automatic recycling route; acceptance depends on material and local receiver. Keep each stream clean and ask the supplier or waste contractor instead of putting mixed rolls into office-paper recycling.",
+        ],
+      },
+      {
+        heading: "Check ownership and inventory every accessory",
+        paragraphs: [
+          "Confirm whether each printer was purchased, leased or supplied as part of a courier, point-of-sale or managed-print contract. Provider-owned units and proprietary batteries follow the contract return process. For owned assets, match the power adapter, USB or network cable, roll spindle, media guides and optional peelers or cutters to the serial number.",
+          "Remove a user-accessible rechargeable battery only by the manual and protect its terminals. Do not prise open a sealed mobile printer. Photograph damage, swollen batteries, cracked covers or missing adapters, and keep a chain-of-custody list when several branches or departments contribute equipment to one clearance.",
+        ],
+        image: blogB208Body,
+        imageAlt:
+          "Technician scanning asset tags on padded office label printers beside sorted adapters, cables, batteries and unused rolls at a Dubai service lift",
+        imageCaption:
+          "Serial-number control keeps each printer, adapter and approved battery route together before the documented office e-waste transfer.",
+      },
+      {
+        heading: "Test reuse or document the e-waste transfer",
+        paragraphs: [
+          "A supported printer with a clean head, complete adapter and reliable feed can move to another site or resale after the reset is verified. Test a non-sensitive sample label and every connection method in scope. Disclose worn rollers, pale print, cutter faults and discontinued drivers so the recipient can make an informed decision.",
+          "Failed devices belong with a commercial e-waste receiver that records quantity and transfer. Our [office junk removal service](https://dubaijunkcollection.com/services/office-junk-removal) coordinates collection after IT and asset sign-off from workplaces in [Dubai Internet City](https://dubaijunkcollection.com/service-areas/dubai-internet-city). Related guides cover [office printers](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-printer-dubai), [POS systems](https://dubaijunkcollection.com/blog/how-to-dispose-of-pos-systems-and-cash-registers-in-dubai) and [computer peripherals](https://dubaijunkcollection.com/blog/how-to-dispose-of-office-computer-peripherals-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Do label printers store confidential data?",
+        answer:
+          "Some do. Network settings, templates, address books, job queues and usage logs may remain in the printer, print server or cloud platform. The system owner should identify those locations, preserve required records and verify the reset before release.",
+      },
+      {
+        question: "Can label backing liner go in office-paper recycling?",
+        answer:
+          "Do not assume so. Many liners have a silicone release coating and may need a specialist programme. Ask the label supplier or receiving recycler about the exact liner; keep it out of ordinary paper unless they explicitly accept it.",
+      },
+      {
+        question: "What should happen to a used thermal-transfer ribbon?",
+        answer:
+          "Assess the information visible on it. A used ribbon can preserve a readable negative image, so sensitive rolls may require controlled destruction under company policy. Non-sensitive ribbon still follows the receiver's material rules, not automatic paper recycling.",
+      },
+      {
+        question: "What details help quote a label-printer collection?",
+        answer:
+          "Provide quantities, desktop or mobile models, ownership status, site and service-lift access, and whether IT has reset them. List batteries, adapters, unused media, damaged cutters and other office electronics leaving in the same window.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-old-printer-dubai",
+      "how-to-dispose-of-pos-systems-and-cash-registers-in-dubai",
+      "how-to-dispose-of-office-computer-peripherals-in-dubai",
+    ],
+    serviceLink: {
+      href: "/services/office-junk-removal",
+      label: "Arrange label printer collection",
+    },
+    sources: [
+      {
+        href: "https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws",
+        label: "UAE Government - Data protection laws",
+      },
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf",
+        label: "Dubai Municipality - Waste duty-of-care guideline",
+      },
+      {
+        href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management",
+        label: "UAE Government - Waste management",
+      },
     ],
   },
 ];
