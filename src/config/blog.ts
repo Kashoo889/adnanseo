@@ -382,6 +382,12 @@ import blogB207Cover from "@/assets/blog-b207-coffee-grinder-cover.webp";
 import blogB207Body from "@/assets/blog-b207-coffee-grinder-ewaste-body.webp";
 import blogB208Cover from "@/assets/blog-b208-label-printer-cover.webp";
 import blogB208Body from "@/assets/blog-b208-label-printer-ewaste-body.webp";
+import blogB209Cover from "@/assets/blog-b209-drinks-trolley-cover.webp";
+import blogB209Body from "@/assets/blog-b209-drinks-trolley-glass-body.webp";
+import blogB210Cover from "@/assets/blog-b210-electric-grill-cover.webp";
+import blogB210Body from "@/assets/blog-b210-electric-grill-packing-body.webp";
+import blogB211Cover from "@/assets/blog-b211-barcode-scanner-cover.webp";
+import blogB211Body from "@/assets/blog-b211-barcode-scanner-custody-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -20914,6 +20920,339 @@ export const blogPosts: BlogPost[] = [
       href: "/services/office-junk-removal",
       label: "Arrange label printer collection",
     },
+    sources: [
+      {
+        href: "https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws",
+        label: "UAE Government - Data protection laws",
+      },
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf",
+        label: "Dubai Municipality - Waste duty-of-care guideline",
+      },
+      {
+        href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management",
+        label: "UAE Government - Waste management",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-drinks-trolley-in-dubai",
+    title: "How to Dispose of a Drinks Trolley in Dubai: Glass Shelves, Castors and Safe Moving",
+    excerpt:
+      "Empty bottles and glassware, identify removable glass or mirrored shelves, secure the castors and frame, then preserve a complete usable bar cart or arrange a protected furniture collection through the service lift.",
+    category: "Guides & Tips",
+    coverImage: blogB209Cover,
+    coverImageAlt:
+      "Uniformed technician checking the castors and doorway clearance of a brass drinks trolley in a Dubai apartment",
+    publishedAt: "2026-11-20",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Drinks Trolley Disposal", "Bar Cart Removal", "Glass Furniture", "Furniture Collection"],
+    seoTitle: "How to Dispose of a Drinks Trolley in Dubai Safely",
+    seoDescription:
+      "How to dispose of a drinks trolley in Dubai: empty it, pack removable glass shelves, secure castors and arrange safe reuse or furniture collection.",
+    keyTakeaways: [
+      "Remove every bottle, glass and loose accessory before testing the trolley; liquids and breakables travel separately and never remain on the shelves during a move.",
+      "Lift-out glass or mirrored shelves need rigid face protection and upright packing, while model-specific clips and rails stay labelled with the frame.",
+      "Lock or chock the castors, measure the complete route and move the empty frame on a blanket or trolley rather than using a delicate drinks cart to carry other clearance items.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a drinks trolley in Dubai?",
+        paragraphs: [
+          "To dispose of a drinks trolley in Dubai, empty it completely, check whether glass or mirrored shelves lift out, and secure its wheels and loose rails. Offer a clean, stable cart with all fittings for reuse; otherwise protect fragile panels, book the service route and arrange an approved furniture collection.",
+          "A drinks trolley looks designed for moving, but its small decorative castors, tall frame and loose shelves are meant for gentle use on a level floor. They are not removal equipment. Rolling a loaded cart across a threshold can twist the frame, release a glass shelf or send the trolley down a sloped loading bay.",
+        ],
+      },
+      {
+        heading: "Empty and inventory everything before moving the frame",
+        paragraphs: [
+          "Remove bottles, decanters, glasses, trays and bar tools one shelf at a time. Keep sealed drinks for the owner to transport separately and dispose of unwanted liquids through an appropriate household route; never pour unknown contents into a drain or leave them for a clearance crew to identify. Wrap glassware in boxes that are independent of the trolley.",
+          "Photograph the complete cart, then count shelf clips, removable trays, bottle rails, handles and keys for any locking cabinet. A clean, stable trolley with its original parts can be useful in another home. Disclose tarnish, loose joints, chipped veneer, scratched mirrors and wheels that bind instead of presenting a decorative piece as ready to roll.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Never use the trolley as a removal cart",
+          text: "Decorative castors and glass shelves are not rated for boxes, appliances or clearance bags. Move the trolley empty and use a proper flat trolley for the load.",
+        },
+      },
+      {
+        heading: "Remove fragile shelves only when the design allows it",
+        paragraphs: [
+          "Wear gloves and inspect the underside before lifting. Some glass panels sit on rubber pads or small metal clips and lift straight out; others are bonded into a metal rim or fixed beneath a retaining rail. Do not lever a bonded panel with a screwdriver. If the construction is unclear, pad the glass in place and let the collection team assess it.",
+          "Wrap removable glass or mirror panels individually with clean paper, bubble protection and rigid cardboard on both faces. Keep them upright in a marked slot away from metal frames, and bag their clips against the trolley's asset or photo. Tempered glass still chips at exposed edges and can fail suddenly after an impact.",
+        ],
+        image: blogB209Body,
+        imageAlt:
+          "Technician protecting drinks trolley wheels beside individually wrapped glass shelves in a Dubai service lift lobby",
+        imageCaption:
+          "Removable glass shelves travel upright with rigid face protection while clips stay labelled to the empty, secured frame.",
+      },
+      {
+        heading: "Secure the castors and measure the service route",
+        paragraphs: [
+          "Test each wheel on the cleared floor. Apply fitted brakes, or chock unbraked castors before wrapping. Never tape directly over plated metal or timber because adhesive can lift lacquer and leave residue. Protect handles and corner rails, then move the frame on a blanket-covered furniture dolly or carry it by strong lower rails rather than a decorative top handle.",
+          "Measure overall width and height against the apartment door, corridor turns, service-lift opening and loading access. Ask management about a move permit and lift reservation. In towers, stage the vehicle before the trolley enters a common area; at a villa, check ramps and driveway slopes because a four-wheel cart can roll away as soon as the handler releases it.",
+        ],
+      },
+      {
+        heading: "Choose complete reuse or protected furniture collection",
+        paragraphs: [
+          "Keep a matched trolley together for resale or donation when its frame is stable, glass is unchipped and castors work. If the frame is bent or glass is broken, do not leave shards on the shelves or in a communal furniture area. Contain damaged glass separately, disclose it before pickup and let the receiving route decide how metal, timber and glass will be separated.",
+          "Our [furniture removal service](https://dubaijunkcollection.com/services/furniture-removal) can collect protected trolleys with other unwanted furniture from homes in [Downtown Dubai](https://dubaijunkcollection.com/service-areas/downtown-dubai). Related guides cover [console tables](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-console-table-in-dubai), [nesting tables](https://dubaijunkcollection.com/blog/how-to-dispose-of-nesting-tables-in-dubai) and glass-fronted [display cabinets](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-display-cabinet-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can I roll a drinks trolley straight to the loading bay?",
+        answer:
+          "Only when it is empty, the route is level, every wheel is sound and management permits it. Small decorative castors can catch in lift gaps and thresholds. For most routes, lock or chock the wheels and place the protected frame on a proper furniture dolly controlled by the crew.",
+      },
+      {
+        question: "Should glass shelves stay in the trolley during collection?",
+        answer:
+          "Remove them only if they are designed to lift out and can be packed safely. Individually protect and transport them upright. Bonded or mechanically retained panels may be safer padded in place. Photograph the mount first and never force glass from a frame when the fixing method is unclear.",
+      },
+      {
+        question: "Can a tarnished brass bar cart be donated?",
+        answer:
+          "Possibly. Tarnish is cosmetic, while loose brazed joints, cracked glass and failed castors affect safety. Clean it gently, photograph every side and disclose faults and dimensions. The charity or recipient decides whether it fits their condition rules and must confirm a suitable vehicle and carrying plan.",
+      },
+      {
+        question: "What details help quote drinks-trolley collection?",
+        answer:
+          "Send photos, overall dimensions, frame material, number of glass or mirrored panels, and whether the shelves lift out. Include the floor, service-lift and loading access, wheel condition, any broken glass and the other furniture leaving during the same booked window.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-a-console-table-in-dubai",
+      "how-to-dispose-of-nesting-tables-in-dubai",
+      "how-to-dispose-of-a-display-cabinet-in-dubai",
+    ],
+    serviceLink: { href: "/services/furniture-removal", label: "Arrange drinks trolley collection" },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/dubai-municipality-services/",
+        label: "Dubai Municipality - Dispose of household appliances and furniture",
+      },
+      {
+        href: "https://dmpmedia.dm.gov.ae/uploads/2021/09/Technical-Guidelines-no.5-Waste-Classification.pdf",
+        label: "Dubai Municipality - Waste classification guideline",
+      },
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf",
+        label: "Dubai Municipality - Waste duty-of-care guideline",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-an-electric-grill-in-dubai",
+    title: "How to Dispose of an Electric Grill in Dubai: Grease, Plates and Small-Appliance E-Waste",
+    excerpt:
+      "Cool and unplug the grill, remove grease without washing the electrical base, keep dry model-matched plates together, then pass on a safe working unit or route the intact appliance through e-waste.",
+    category: "Eco & Recycling",
+    coverImage: blogB210Cover,
+    coverImageAlt:
+      "Technician inspecting an unplugged electric tabletop grill with removable plates and drip tray in a Dubai kitchen",
+    publishedAt: "2026-11-21",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Electric Grill Disposal", "Small Appliances", "Kitchen E-Waste", "Tabletop Grill"],
+    seoTitle: "How to Dispose of an Electric Grill in Dubai Safely",
+    seoDescription:
+      "How to dispose of an electric grill in Dubai: cool it, clear grease, dry removable plates, keep the electrical base intact and use an e-waste route.",
+    keyTakeaways: [
+      "The grill must be fully cool and unplugged before grease, crumbs and removable food-contact parts are handled.",
+      "Wash only parts the manual identifies as removable and washable; the control, plug, hinge and heating base stay dry and intact.",
+      "A faulty electric grill is electrical equipment, while collected grease is a separate waste stream that should never be poured into a sink or packed with electronics.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an electric grill in Dubai?",
+        paragraphs: [
+          "To dispose of an electric grill in Dubai, let it cool completely, unplug it and remove food and grease without immersing the powered base. Clean and dry approved removable plates, keep every model-matched part together, then reuse a safe working grill or send the intact faulty appliance through an e-waste route.",
+          "A contact grill, panini press or electric griddle combines food residue with a heating element, thermostat and wiring. That combination rules out both the ordinary metal-recycling bin and a greasy handover to an electronics collector. Clean separation is what preserves reuse value and prevents contamination during transport.",
+        ],
+      },
+      {
+        heading: "Cool, unplug and remove grease first",
+        paragraphs: [
+          "Switch off the grill, unplug it and leave both plates open until every surface is cold. Remove the drip tray and scrape cooled residue into a sealable container with a non-metal tool. Never pour oil or grease into a sink, floor drain or the electronics collection box; follow the building or receiving contractor's current route for household cooking residue.",
+          "Wipe crumbs and surface grease with paper or a cloth before moving the appliance. If a detachable thermostat or temperature probe is fitted, remove it only as the manual directs and keep it dry. Do not cut the cable, bypass a damaged switch or energise a grill that has tripped a circuit merely to prove it works.",
+        ],
+        callout: {
+          type: "warning",
+          title: "A removable plate does not make the base washable",
+          text: "Water entering the hinge, thermostat or heating connections can create a shock or corrosion risk. Clean the electrical body only by the manufacturer's method and disclose any earlier water exposure to the next owner or collector.",
+        },
+      },
+      {
+        heading: "Keep dry plates, trays and controls with the base",
+        paragraphs: [
+          "Release removable plates only after the grill is cold. Wash them and the drip tray if the manual permits, then air-dry them completely. Fixed plates should be wiped in place without flooding their edges. Pair the plates, tray, power lead and detachable probe with the model number because similar-looking parts may have different locks or temperature ratings.",
+          "Inspect non-stick surfaces for deep scratches or peeling, the hinge for play, and the plug and cable for heat damage. A working grill with clean plates, a stable hinge and a responsive control can be offered for reuse. Disclose worn coatings, intermittent heat, burnt smells or a missing tray instead of passing an electrical fault to another household.",
+        ],
+        image: blogB210Body,
+        imageAlt:
+          "Clean electric grill base packed with dry removable plates, drip tray and secured power cord for appliance collection",
+        imageCaption:
+          "The powered base remains intact while completely dry model-matched plates and the drip tray travel in the same protected box.",
+      },
+      {
+        heading: "Pack the appliance without dismantling its electrics",
+        paragraphs: [
+          "Close and latch the grill if its design provides a transport lock. Otherwise place a clean pad between the plates and secure the lid without pulling against the hinge. Coil the cable loosely, protect the plug pins and pack the appliance upright in a sturdy box so a heavy steel lid cannot swing open during the lift journey.",
+          "Do not strip out the heating elements, thermostat or copper cable at home. An intact unit is safer for handlers and lets an appropriate receiver assess reusable parts before separating metals, circuit components and plastics. Store the box indoors until the booked pickup; Dubai heat and a humid balcony can degrade wiring and encourage pests around missed food residue.",
+        ],
+      },
+      {
+        heading: "Combine small appliances into one planned collection",
+        paragraphs: [
+          "One clean grill can wait in a dry box until the next accepted e-waste drop-off or grouped pickup. Dubai Municipality's classification guidance identifies consumer electrical equipment as electronic waste, while its household bulky service lists appliances subject to current eligibility and area rules. Confirm the route before taking equipment to a communal waste room.",
+          "Our [appliance removal service](https://dubaijunkcollection.com/services/appliance-removal) can group a grill with other unwanted kitchen equipment from homes in [Jumeirah Village Circle](https://dubaijunkcollection.com/service-areas/jumeirah-village-circle). Adjacent guides explain how to prepare a [sandwich maker](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-sandwich-maker-in-dubai), [air fryer](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-air-fryer-in-dubai) and [induction cooker](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-induction-cooker-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can an electric grill go in a metal recycling bin?",
+        answer:
+          "No. The appliance combines metal with wiring, heating elements, controls and plastics, and it may still contain grease. Keep the grill intact and use an electrical-equipment route. A receiver can then assess reuse and separate materials under controlled conditions instead of contaminating a container-metal stream.",
+      },
+      {
+        question: "Should I cut off a damaged grill power cord?",
+        answer:
+          "No. Unplug the grill, secure the cable against the body and label the fault. Cutting can expose conductors, remove useful diagnostic evidence and create a sharp loose cable. Tell the collector about scorching, cracked insulation or a damaged plug so the appliance is handled as faulty equipment.",
+      },
+      {
+        question: "Can I donate a grill with scratched non-stick plates?",
+        answer:
+          "Do not present it as ready to use. Photograph and disclose the coating damage, model and availability of replacement plates. The recipient or repairer must decide whether replacement is practical. A grill with loose coating, an electrical fault or unavailable safety-critical parts is better routed for assessment rather than casual reuse.",
+      },
+      {
+        question: "What details help quote electric-grill collection?",
+        answer:
+          "Provide the grill type and approximate size, whether it works, and whether its plates, tray, probe and power lead are complete. Mention grease contamination, cable damage, burnt smells, building access and the other appliances you want collected in the same visit.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-a-sandwich-maker-in-dubai",
+      "how-to-dispose-of-an-air-fryer-in-dubai",
+      "how-to-dispose-of-an-induction-cooker-in-dubai",
+    ],
+    serviceLink: { href: "/services/appliance-removal", label: "Arrange electric grill collection" },
+    sources: [
+      {
+        href: "https://dmpmedia.dm.gov.ae/uploads/2021/09/Technical-Guidelines-no.5-Waste-Classification.pdf",
+        label: "Dubai Municipality - Waste classification guideline",
+      },
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf",
+        label: "Dubai Municipality - Waste duty-of-care guideline",
+      },
+      {
+        href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management",
+        label: "UAE Government - Waste management",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-office-barcode-scanners-in-dubai",
+    title: "How to Dispose of Office Barcode Scanners in Dubai: Pairings, Batteries and Asset Records",
+    excerpt:
+      "Remove scanners from warehouse and device-management systems, clear stored configuration, match each unit to its cradle and adapter, isolate accessible batteries, and document reuse, provider return or commercial e-waste transfer.",
+    category: "Commercial & Office",
+    coverImage: blogB211Cover,
+    coverImageAlt:
+      "IT and facilities staff recording handheld barcode scanners, charging cradles and batteries in a Dubai warehouse office",
+    publishedAt: "2026-11-22",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Barcode Scanner Disposal", "Office E-Waste", "Warehouse Equipment", "Asset Retirement"],
+    seoTitle: "How to Dispose of Office Barcode Scanners in Dubai",
+    seoDescription:
+      "How to dispose of office barcode scanners in Dubai: clear pairings, close asset records, match cradles, isolate batteries and document the e-waste route.",
+    keyTakeaways: [
+      "Wireless and rugged scanners may retain network profiles, terminal pairings, application settings or offline scan batches, so the system owner clears them before release.",
+      "The scanner, charging cradle, adapter, cable and user-removable battery form one model-specific kit that should remain tied to the asset record.",
+      "Leased or vendor-managed units return through the contract; owned failed scanners need a documented commercial e-waste transfer after data and asset sign-off.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of office barcode scanners in Dubai?",
+        paragraphs: [
+          "To dispose of office barcode scanners in Dubai, stop new scan jobs, export required records, unpair each device and clear stored network or application settings. Match scanners with their cradles, adapters and batteries, verify ownership, then document redeployment, provider return or transfer to an approved commercial e-waste receiver.",
+          "A scanner may be a simple wired input device, a Bluetooth handheld paired to a terminal, or a rugged mobile computer with local storage and Wi-Fi. Treating all three as identical peripherals creates gaps: the mobile unit may contain operational or personal data, while a basic scanner may still need licence, asset and battery closure.",
+        ],
+      },
+      {
+        heading: "Close scan workflows before facilities packs hardware",
+        paragraphs: [
+          "Ask the warehouse, retail or records owner to stop new assignments and reconcile outstanding transactions. Export only the logs that policy requires, then remove each serial number from the warehouse-management, point-of-sale, inventory or mobile-device platform. Release device licences and revoke certificates, API credentials, Wi-Fi profiles and Bluetooth pairings where the model uses them.",
+          "Use the manufacturer's reset procedure and record the reset date, asset tag and responsible person. A factory reset on the handheld does not delete cloud or server records, and deleting a console entry does not prove local data is gone. IT should verify both sides before the equipment crosses the controlled collection point.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Check for offline scan batches",
+          text: "Rugged mobile computers can retain product, shipment, customer or patient identifiers when connectivity drops. The process owner should synchronise or securely discard those batches before reset and keep the required business record in its approved system.",
+        },
+      },
+      {
+        heading: "Identify ownership and rebuild each complete kit",
+        paragraphs: [
+          "Check contracts and asset records before removing labels. Courier, maintenance or managed-warehouse providers may own scanners that sit on your premises, and leased devices need their formal return process. For owned equipment, photograph the serial number and condition, then match the correct cradle, adapter, USB lead, trigger accessory and spare battery.",
+          "Do not mix look-alike power supplies. Voltage, polarity and cradle contacts can differ between generations. Clean the scan window with the maker-approved method, not an abrasive pad, and disclose cracked housings, unreliable triggers or unreadable screens. Keeping complete kits together gives a supported working model the best chance of redeployment.",
+        ],
+      },
+      {
+        heading: "Make batteries and packing safe for the service route",
+        paragraphs: [
+          "Power down each unit. Remove a user-accessible battery only as the manual directs, cover its terminals and keep it away from loose metal. Do not open sealed scanner bodies or continue charging a hot, swollen, leaking or physically damaged pack. Isolate a suspect battery away from heat and combustible material and obtain battery-specific instructions from the receiving contractor.",
+          "Use padded dividers so scan windows and screens cannot strike one another. Put every cradle and adapter in the same numbered compartment as its scanner, and maintain a count at packing, loading and receipt. Book the commercial building's service lift and loading bay so a controlled e-waste cart never waits unattended in a public lobby.",
+        ],
+        image: blogB211Body,
+        imageAlt:
+          "Technician checking an inventory of barcode scanners, charging cradles, adapters and protected batteries on a padded trolley by a Dubai service lift",
+        imageCaption:
+          "Numbered compartments preserve each complete scanner kit and make the custody count visible at collection and receipt.",
+      },
+      {
+        heading: "Record redeployment, return or e-waste receipt",
+        paragraphs: [
+          "Test supported equipment with non-sensitive sample data after reset. Confirm the trigger, scan engine, screen, radios, cradle and battery charging, then update the asset owner and new location. Failed or unsupported devices should leave through a commercial e-waste receiver with a quantity and transfer record consistent with the organisation's disposal policy.",
+          "Our [office junk removal service](https://dubaijunkcollection.com/services/office-junk-removal) coordinates collection after IT and asset sign-off from commercial sites in [Dubai Investment Park](https://dubaijunkcollection.com/service-areas/dubai-investment-park). Related guides cover [POS systems and cash registers](https://dubaijunkcollection.com/blog/how-to-dispose-of-pos-systems-and-cash-registers-in-dubai), [office computer peripherals](https://dubaijunkcollection.com/blog/how-to-dispose-of-office-computer-peripherals-in-dubai) and [label printers](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-office-label-printer-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Do barcode scanners store personal or business data?",
+        answer:
+          "Some do. A basic wired scanner may behave like a keyboard, while wireless and rugged models can retain pairings, network profiles, application configuration and offline scan records. Check the exact model and connected platform, preserve required records, then verify both local reset and management-system removal before release.",
+      },
+      {
+        question: "Can scanner batteries stay inside during collection?",
+        answer:
+          "A sound battery may stay installed if the manufacturer and receiving contractor allow it and the scanner is protected from accidental activation. User-removable packs are often easier to count separately with covered terminals. Swollen, hot, leaking or damaged batteries need immediate isolation and receiver-specific handling instructions.",
+      },
+      {
+        question: "Should asset labels be removed before e-waste pickup?",
+        answer:
+          "Keep the asset tag visible until the custody count and disposal approval are complete. After reconciliation, follow company policy for defacing or removing identifiers that should not leave the organisation. Never remove a provider's ownership label from leased or managed equipment before its return status is confirmed.",
+      },
+      {
+        question: "What details help quote barcode-scanner collection?",
+        answer:
+          "Provide quantities and model types, wired or wireless status, ownership, battery condition, floor and loading access, and whether IT has reset and released every device. List cradles, adapters, rugged terminals, label printers and other warehouse electronics included in the same collection window.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-pos-systems-and-cash-registers-in-dubai",
+      "how-to-dispose-of-office-computer-peripherals-in-dubai",
+      "how-to-dispose-of-an-office-label-printer-in-dubai",
+    ],
+    serviceLink: { href: "/services/office-junk-removal", label: "Arrange barcode scanner collection" },
     sources: [
       {
         href: "https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws",

@@ -793,6 +793,17 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 
 **Overlap check (content-rules section 16):** B206 differs from B23 (sofas), B77 (recliners), B128 (sofa beds) and B179 (armchairs) through an asymmetrical long seat, one-piece versus sectional identification, screw-in feet and the doorway-pivot and lift-diagonal problem. B207 differs from B119 (coffee machines), B150 (food processors), B154 (blenders) and B177 (stand mixers) through dry coffee-path cleaning, burr and carrier matching, oily grounds contamination and rechargeable hand-grinder batteries. B208 differs from B81/B163 (printers and photocopiers), B196 (POS systems) and B184 (peripherals) through thermal media, liner and ribbon separation, sensitive negative images on used transfer ribbon, saved label templates, courier or warehouse integrations and mobile-printer batteries.
 
+### Track 66: Wheeled Entertaining Furniture, Tabletop Grilling & Barcode Capture (Clusters 3, 4, 5, 6 & 10)
+*Continues the furniture-appliance-office sequence through three different packing and custody problems: separating fragile lift-out shelves from a decorative wheeled drinks trolley, separating grease and dry food-contact parts from an intact electric heating base, and closing scanner pairings and asset records while keeping model-matched cradles and batteries together.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B209** | *How to Dispose of a Drinks Trolley in Dubai: Glass Shelves, Castors and Safe Moving* | `how to dispose of a drinks trolley in dubai` | `drinks trolley disposal dubai`, `bar cart removal dubai`, `glass furniture collection dubai` | Q | `/services/furniture-removal` |
+| **B210** | *How to Dispose of an Electric Grill in Dubai: Grease, Plates and Small-Appliance E-Waste* | `how to dispose of an electric grill in dubai` | `electric grill disposal dubai`, `tabletop grill recycling dubai`, `small kitchen appliance disposal dubai` | Q | `/services/appliance-removal` |
+| **B211** | *How to Dispose of Office Barcode Scanners in Dubai: Pairings, Batteries and Asset Records* | `how to dispose of office barcode scanners in dubai` | `barcode scanner disposal dubai`, `warehouse scanner recycling dubai`, `office e-waste collection dubai` | Q | `/services/office-junk-removal` |
+
+**Overlap check (content-rules section 16):** B209 differs from B155 (console tables), B203 (nesting tables), B164 (display cabinets) and B144 (coffee tables) through decorative castors and brakes, a tall mobile frame that must never serve as a removal cart, lift-out glass or mirrored shelf packing, bottle-rail inventories and roll-away control on ramps. B210 differs from B171 (sandwich makers), B142 (air fryers), B198 (induction cookers) and B195 (deep fryers) through open or contact-grill geometry, paired removable ribbed plates, detachable thermostats, cooled drip-tray grease and protecting a heavy hinged lid. B211 differs from B196 (POS systems), B184 (general computer peripherals), B208 (label printers) and B193 (biometric attendance machines) through offline scan batches, warehouse-management enrolment, scan-engine windows, Bluetooth terminal pairings and model-matched charging cradles and swappable batteries.
+
 ---
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -857,3 +868,4 @@ The blog opportunities are organized into thematic publishing tracks. Each artic
 60. **Batch 60 (Articles B200–B202):** Suspended Seating, Countertop Ice & Meeting Room AV — **100% Completed (3/3 Live)**.
 61. **Batch 61 (Articles B203–B205):** Matched Occasional Tables, Bread Making & Interactive Touchscreens — **100% Completed (3/3 Live)**.
 62. **Batch 62 (Articles B206–B208):** Asymmetrical Seating, Coffee Grinding & Label Printing — **100% Completed (3/3 Live)**.
+63. **Batch 63 (Articles B209–B211):** Wheeled Entertaining Furniture, Tabletop Grilling & Barcode Capture — **100% Completed (3/3 Published/Scheduled)**.
