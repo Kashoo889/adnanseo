@@ -816,3 +816,11 @@
 | 451 | how to dispose of a drinks trolley in dubai | Q | Blog Article (`/blog/how-to-dispose-of-a-drinks-trolley-in-dubai`) |
 | 452 | how to dispose of an electric grill in dubai | Q | Blog Article (`/blog/how-to-dispose-of-an-electric-grill-in-dubai`) |
 | 453 | how to dispose of office barcode scanners in dubai | Q | Blog Article (`/blog/how-to-dispose-of-office-barcode-scanners-in-dubai`) |
+
+### New question-intent blog targets (Batch 64)
+
+|  #  | Keyword                                      | Intent | Recommended Page                                                    |
+| :-: | :------------------------------------------- | :----: | :------------------------------------------------------------------ |
+| 454 | how to dispose of folding chairs in dubai    |   Q    | Blog Article (`/blog/how-to-dispose-of-folding-chairs-in-dubai`)    |
+| 455 | how to dispose of a food dehydrator in dubai |   Q    | Blog Article (`/blog/how-to-dispose-of-a-food-dehydrator-in-dubai`) |
+| 456 | how to dispose of office tablets in dubai    |   Q    | Blog Article (`/blog/how-to-dispose-of-office-tablets-in-dubai`)    |

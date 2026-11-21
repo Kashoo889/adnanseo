@@ -388,6 +388,12 @@ import blogB210Cover from "@/assets/blog-b210-electric-grill-cover.webp";
 import blogB210Body from "@/assets/blog-b210-electric-grill-packing-body.webp";
 import blogB211Cover from "@/assets/blog-b211-barcode-scanner-cover.webp";
 import blogB211Body from "@/assets/blog-b211-barcode-scanner-custody-body.webp";
+import blogB212Cover from "@/assets/blog-b212-folding-chairs-cover.webp";
+import blogB212Body from "@/assets/blog-b212-folding-chairs-packing-body.webp";
+import blogB213Cover from "@/assets/blog-b213-food-dehydrator-cover.webp";
+import blogB213Body from "@/assets/blog-b213-food-dehydrator-parts-body.webp";
+import blogB214Cover from "@/assets/blog-b214-office-tablets-cover.webp";
+import blogB214Body from "@/assets/blog-b214-office-tablets-custody-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -21257,6 +21263,357 @@ export const blogPosts: BlogPost[] = [
       {
         href: "https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws",
         label: "UAE Government - Data protection laws",
+      },
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf",
+        label: "Dubai Municipality - Waste duty-of-care guideline",
+      },
+      {
+        href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management",
+        label: "UAE Government - Waste management",
+      },
+    ],
+  },
+{
+    slug: "how-to-dispose-of-folding-chairs-in-dubai",
+    title: "How to Dispose of Folding Chairs in Dubai: Hinge Locks, Stacks and Rental Returns",
+    excerpt:
+      "Confirm ownership, clean and test every folding mechanism, separate unsafe chairs, secure short upright stacks and protect the service route before donation, supplier return or furniture collection.",
+    category: "Guides & Tips",
+    coverImage: blogB212Cover,
+    coverImageAlt:
+      "Removal crew inspecting metal folding-chair hinges beside a service lift in a Dubai residential tower",
+    publishedAt: "2026-11-23",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Folding Chair Disposal", "Furniture Removal", "Event Furniture", "Move-Out Clearance"],
+    seoTitle: "How to Dispose of Folding Chairs in Dubai: Safe Steps",
+    seoDescription:
+      "How to dispose of folding chairs in Dubai: check ownership and hinge locks, secure safe stacks, protect lift routes and choose reuse or collection.",
+    keyTakeaways: [
+      "Rented, venue-owned and landlord-supplied chairs must be reconciled before disposal; folding furniture is easily mixed into a clearance load by mistake.",
+      "A chair that collapses, has a cracked seat or will not lock open is unsafe for donation even when its fabric and frame still look presentable.",
+      "Folded chairs travel in short restrained stacks on a padded trolley, never as a tall loose bundle that can fan open on a ramp or inside a lift.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of folding chairs in Dubai?",
+        paragraphs: [
+          "To dispose of folding chairs in Dubai, confirm whether they are owned or rented, clean them, test each hinge lock and separate unsafe chairs from reusable sets. Fold and secure them in short upright stacks, protect floors and lift walls, then arrange donation, supplier return or documented furniture collection.",
+          "The space-saving mechanism creates the real risk. A loose frame can open while carried, trap fingers or slide out of a stack. Event chairs also tend to look identical across owners, so a count and ownership check matter as much as the physical move.",
+        ],
+      },
+      {
+        heading: "Count chairs and settle ownership before sorting",
+        paragraphs: [
+          "Build a simple count by type, colour and condition before the room is cleared. Check rental paperwork, venue stock lists, landlord inventories and event-supplier markings. Keep any borrowed chair in a separate bay with its trolley or storage rack, and arrange the contractual return instead of sending it into a disposal load.",
+          "For owned sets, keep matching chairs together. A complete group of six or twelve has more reuse value than mixed singles. Remove personal belongings from seat pockets, but leave manufacturer labels and fire-performance information attached; a recipient may need them to decide whether the chairs suit a workplace, school or event setting.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Do not trust appearance alone",
+          text: "Open each chair on a level floor and apply light controlled pressure. Retire it from reuse if a brace does not lock, a rivet is missing, a weld is cracked, a plastic seat is split or the frame rocks unexpectedly.",
+        },
+      },
+      {
+        heading: "Clean and test without dismantling the hinge system",
+        paragraphs: [
+          "Vacuum upholstered seats and wipe metal or plastic surfaces with a material-safe cleaner. Dry the chairs fully before closing them; moisture trapped between nested frames encourages corrosion and odour. Disclose staining, mould or pest evidence rather than covering it with a storage bag and passing the problem to a recipient.",
+          "Do not drill out rivets or remove spring-loaded braces merely to reduce volume. Sharp tube ends and loose scissor joints are harder to handle than a complete chair. If a sound model has a replaceable foot or bolt, use the correct manufacturer part and test it again before considering reuse.",
+        ],
+      },
+      {
+        heading: "Build short restrained stacks for the service route",
+        paragraphs: [
+          "Close every chair completely and orient frames the same way. Use a purpose-made chair trolley where available, or stand a short stack on a padded flatbed and restrain it around the frames without crushing upholstery. Keep fingers outside the hinge line, and never drag metal feet across marble, timber or a lift threshold.",
+          "Book the building service lift and loading bay before bringing stacks into a common corridor. In a Downtown tower, the approved slot may be shorter than the time needed to count, clean and test the chairs, so finish that work inside the unit. Keep the route attended and do not lean loose stacks against fire doors.",
+        ],
+        image: blogB212Body,
+        imageAlt:
+          "Technician checking folding-chair locks while a short mixed stack is strapped to a padded trolley",
+        imageCaption:
+          "Aligned frames, checked locks and one restraint keep the stack stable through lift thresholds and loading ramps.",
+      },
+      {
+        heading: "Choose reuse, material recovery or planned collection",
+        paragraphs: [
+          "Clean, complete chairs with reliable locks can be offered as a matched set, subject to the recipient's acceptance rules. Chairs with failed hinges, split seats, severe rust or unknown structural repairs should not be described as usable. Keep them intact for assessment so a receiver can separate steel, aluminium, plastic, timber and upholstery safely.",
+          "Our [furniture collection service](https://dubaijunkcollection.com/services/furniture-removal) can coordinate a booked removal from homes and venues in [Downtown Dubai](https://dubaijunkcollection.com/service-areas/downtown-dubai). Related preparation guides cover [dining chairs](https://dubaijunkcollection.com/blog/how-to-dispose-of-dining-chairs-in-dubai), [office chairs](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-office-chair-in-dubai) and [room dividers](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-room-divider-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can folding chairs go down an apartment rubbish chute?",
+        answer:
+          "No. Even a compact chair can jam a chute, open on impact or damage the compactor and shaft. Keep it inside the unit until a building-approved bulky collection or private pickup is ready, then use the service route specified by management.",
+      },
+      {
+        question: "Can I donate a chair with a loose hinge?",
+        answer:
+          "Not as a ready-to-use chair. A loose rivet, brace or hinge can collapse under a seated person. Have the exact model repaired and tested by someone competent, or disclose it as faulty for material recovery rather than leaving the recipient to discover the risk.",
+      },
+      {
+        question: "Should folding chairs be tied together for collection?",
+        answer:
+          "Yes, in short manageable groups or on a suitable trolley. Run the restraint around the frames, not across a point that crushes padded seats, and keep the load upright. Do not make one heavy bundle that exceeds safe manual handling or becomes unstable on ramps.",
+      },
+      {
+        question: "What details help quote folding-chair collection?",
+        answer:
+          "Provide the chair count, frame and seat materials, folded dimensions, condition and ownership. Add the floor, service-lift booking, loading access, parking clearance and whether storage racks, trolleys, tables or other event furniture are included.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-dining-chairs-in-dubai",
+      "how-to-dispose-of-an-office-chair-in-dubai",
+      "how-to-dispose-of-a-room-divider-in-dubai",
+    ],
+    serviceLink: { href: "/services/furniture-removal", label: "Arrange folding-chair collection" },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf",
+        label: "Dubai Municipality - Waste duty-of-care guideline",
+      },
+      {
+        href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management",
+        label: "UAE Government - Waste management",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-food-dehydrator-in-dubai",
+    title: "How to Dispose of a Food Dehydrator in Dubai: Trays, Residue and E-Waste",
+    excerpt:
+      "Cool and unplug the dehydrator, clear every trace of food, dry removable trays, keep model-specific sheets together and route a failed powered base through small-appliance e-waste.",
+    category: "Eco & Recycling",
+    coverImage: blogB213Cover,
+    coverImageAlt:
+      "Technician inspecting an unplugged food dehydrator with clean stacked trays in a Dubai apartment kitchen",
+    publishedAt: "2026-11-24",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: [
+      "Food Dehydrator Disposal",
+      "Small Appliances",
+      "Kitchen E-Waste",
+      "Appliance Recycling",
+    ],
+    seoTitle: "How to Dispose of a Food Dehydrator in Dubai Safely",
+    seoDescription:
+      "How to dispose of a food dehydrator in Dubai: cool the heater, clean and dry trays, keep accessories together and route the base through e-waste.",
+    keyTakeaways: [
+      "Fruit, meat and herb residue must be removed before storage or collection because it attracts pests and contaminates an otherwise recoverable appliance load.",
+      "Trays, mesh screens, fruit-leather sheets and lids are usually model-specific; a clean complete set gives a working dehydrator its best chance of reuse.",
+      "The powered base contains a fan, heater, wiring and controls, so a failed unit stays intact and follows an electrical-equipment route rather than a plastics bin.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a food dehydrator in Dubai?",
+        paragraphs: [
+          "To dispose of a food dehydrator in Dubai, unplug it, let the heater cool and remove every tray, mesh sheet and drip insert. Wash and dry food-contact parts, keep the powered base intact, bundle model-specific accessories together, then choose reuse for a working unit or an approved e-waste route for failure.",
+          "A dehydrator looks like a stack of recyclable plastic, but the lower or rear housing is an electrical appliance. The practical job is to remove perishable residue without wetting the motor or heater, then prevent the loose tray set from being separated from the correct base.",
+        ],
+      },
+      {
+        heading: "Cool the heater and clear perishable residue",
+        paragraphs: [
+          "Finish the last cycle, switch off and unplug the unit, then wait until the heater housing and trays are at room temperature. Remove dried fruit, herbs, crumbs and jerky residue. Meat residue needs particular care: do not box a greasy tray with other electronics or leave it in a hot storeroom where odour and pests develop quickly.",
+          "Follow the manual for washable parts. Use a soft brush around mesh openings, wash removable trays and sheets, and dry every surface completely before restacking. Wipe the powered base with a barely damp cloth only. Never immerse it, pour water through its fan vents or probe inside with a metal tool.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Do not run an empty fault test",
+          text: "A damaged fan, scorched plug, cracked housing, abnormal noise or burnt smell is enough reason to stop. Repeatedly energising a suspect heater to prove the fault can worsen damage and is unnecessary for e-waste collection.",
+        },
+      },
+      {
+        heading: "Keep the tray system complete for honest reuse",
+        paragraphs: [
+          "Count rigid trays, fine-mesh screens, solid fruit-leather sheets, drip inserts and lids against the manual. Check for cracks, warping and melted areas. A missing accessory may not make the appliance unsafe, but it changes capacity and should be disclosed to a buyer or recipient with the exact model number.",
+          "If the unit appears sound, test it only as the maker directs after all cleaned parts are dry. Confirm that the fan runs steadily, controls respond and the power lead remains cool. Do not promise an exact drying temperature without suitable measurement, and do not donate a unit with exposed wiring, a failed fan or heat-damaged plastic.",
+        ],
+      },
+      {
+        heading: "Pack the intact electrical base separately from food waste",
+        paragraphs: [
+          "Stack trays squarely, place flexible sheets flat and secure the lid without overtightening it. Coil the lead loosely and prevent the plug from scratching clear plastic. Keep the motor-and-heater base intact; opening it creates sharp edges and exposes electrical parts while reducing the processor's ability to assess the appliance safely.",
+          "A tower collection is easier when the clean appliance is boxed before the service-lift slot. Do not put food scraps, cleaning liquid or loose kitchen waste into the same carton. During Dubai's hotter months, move the box from an air-conditioned room directly to collection rather than leaving clean plastic parts to distort in a parked vehicle.",
+        ],
+        image: blogB213Body,
+        imageAlt:
+          "Worker checking clean dehydrator trays, mesh sheets and an intact powered base on a protected table",
+        imageCaption:
+          "Dry model-matched accessories stay with the intact base, while food residue remains outside the electrical-equipment load.",
+      },
+      {
+        heading: "Use a small-appliance route for a failed unit",
+        paragraphs: [
+          "A working complete dehydrator can be sold or passed on if the recipient accepts it. A failed base contains mixed plastic, steel, copper, wiring and controls, so neither the whole unit nor its motor housing belongs in a packaging-recycling bin. Let the receiving e-waste facility decide how those materials are separated.",
+          "Our [appliance removal service](https://dubaijunkcollection.com/services/appliance-removal) can group a dehydrator with other unwanted kitchen equipment from homes in [Jumeirah Village Circle](https://dubaijunkcollection.com/service-areas/jumeirah-village-circle). Related guides explain disposal preparation for a [food processor](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-food-processor-in-dubai), [bread maker](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-bread-maker-in-dubai) and [coffee grinder](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-coffee-grinder-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can dehydrator trays go in plastic recycling?",
+        answer:
+          "Do not assume they can. Trays may use heat-resistant plastics that local packaging streams do not accept, and dirty or cracked pieces contaminate collection. Keep usable model-specific trays with the appliance; ask the receiving facility about separate broken plastic parts.",
+      },
+      {
+        question: "Can I donate a dehydrator with stained trays?",
+        answer:
+          "Food-safe staining is different from grease, odour, mould, cracks or melted plastic. Clean the parts according to the manual and disclose remaining marks honestly. A recipient decides whether cosmetic staining is acceptable; structurally damaged or unhygienic trays should not be presented as ready for food use.",
+      },
+      {
+        question: "Should I remove the dehydrator heating element?",
+        answer:
+          "No. Leave the powered base assembled and unplugged. Removing its heater, fan or wiring can expose sharp metal and electrical components, destroy repair value and complicate safe handling. An e-waste processor can dismantle the mixed appliance under controlled conditions.",
+      },
+      {
+        question: "What details help quote dehydrator collection?",
+        answer:
+          "Provide its shape, approximate size, working condition and number of trays. Mention burnt smells, cable damage, missing accessories, heavy food contamination, building access and the other small or major appliances included in the collection.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-a-food-processor-in-dubai",
+      "how-to-dispose-of-a-bread-maker-in-dubai",
+      "how-to-dispose-of-a-coffee-grinder-in-dubai",
+    ],
+    serviceLink: {
+      href: "/services/appliance-removal",
+      label: "Arrange food dehydrator collection",
+    },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/municipality-business/waste-and-sewerage-agency-technical-guidelines/",
+        label: "Dubai Municipality - Waste and recycling technical guidelines",
+      },
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf",
+        label: "Dubai Municipality - Waste duty-of-care guideline",
+      },
+      {
+        href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management",
+        label: "UAE Government - Waste management",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-office-tablets-in-dubai",
+    title: "How to Dispose of Office Tablets in Dubai: MDM, Accounts and Battery Safety",
+    excerpt:
+      "Reconcile ownership, preserve required records, release tablets from management systems, remove accounts and cellular service, verify resets, inspect batteries and document every redeployment, return or e-waste handover.",
+    category: "Commercial & Office",
+    coverImage: blogB214Cover,
+    coverImageAlt:
+      "IT and facilities staff inventorying office tablets, charging docks and cables in a Dubai workplace",
+    publishedAt: "2026-11-25",
+    readingTime: "9 min read",
+    author: defaultAuthor,
+    tags: ["Office Tablet Disposal", "Data Security", "Office E-Waste", "Asset Retirement"],
+    seoTitle: "How to Dispose of Office Tablets in Dubai Securely",
+    seoDescription:
+      "How to dispose of office tablets in Dubai: release MDM and accounts, cancel SIMs, verify resets, inspect batteries and document the e-waste handover.",
+    keyTakeaways: [
+      "A factory reset is only one step: IT must also release device-management enrolment, activation locks, managed accounts, application licences and cellular service.",
+      "Serial numbers, asset tags, assigned users and lease status are reconciled before packing so company-owned, employee-owned and provider-owned devices never mix.",
+      "Tablets travel powered off in individual padded slots; swollen, hot or damaged batteries are isolated and declared to the receiver instead of joining the normal device case.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of office tablets in Dubai?",
+        paragraphs: [
+          "To dispose of office tablets in Dubai, freeze the asset list, preserve required business records, remove each device from mobile-device management and sign out managed accounts. Verify a factory reset, cancel cellular service, match chargers and styluses, inspect batteries, then record redeployment, lease return or transfer to an approved e-waste receiver.",
+          "A tablet may be a meeting-room controller, delivery device, reception sign-in screen or employee endpoint. Those roles create different data and ownership obligations. Clearing the visible apps without closing the cloud, carrier and management records can leave company access active or make a reusable device activation-locked.",
+        ],
+      },
+      {
+        heading: "Freeze the asset list and preserve required records",
+        paragraphs: [
+          "Record the asset tag, serial number, model, assigned user, SIM identity, ownership and condition before anyone resets a device or removes a label. Separate leased hardware and employee-owned tablets immediately. Export business records that retention policy requires, but do not make an uncontrolled backup simply because the device is being retired.",
+          "For shared reception, field-service or point-of-sale tablets, ask the process owner to close pending jobs and synchronise offline records. Remove payment, customer, staff or visitor data according to the organisation's approved procedure. The UAE's personal-data framework makes controlled handling relevant wherever a tablet contains identifiable information.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Do not reset before releasing management",
+          text: "A wiped tablet can remain enrolled or activation-locked. IT should first remove it from the MDM, zero-touch or automated-enrolment portal, release assigned licences and disable any kiosk profile, then verify that the reset reaches an unclaimed setup screen.",
+        },
+      },
+      {
+        heading: "Close accounts, connectivity and security credentials",
+        paragraphs: [
+          "Revoke work accounts, certificates, VPN profiles, Wi-Fi credentials, authenticator registrations and application tokens. Sign out the platform account and disable device tracking in the correct order for that operating system. Remove memory cards and physical SIMs, cancel or reassign eSIM and carrier lines, and release paid application seats.",
+          "Use the manufacturer or enterprise reset procedure, not a third-party shortcut. After restart, verify that company apps, local files and user profiles are absent and that the device is no longer visible in management or tracking consoles. Record who verified the result and the date; a reset screen alone is not an auditable asset closure.",
+        ],
+      },
+      {
+        heading: "Inspect batteries and rebuild complete device kits",
+        paragraphs: [
+          "Power each tablet off and inspect the screen, rear case and seams. A lifted display, bowed chassis, unusual heat, chemical odour or pressure mark can indicate battery damage. Do not charge, press flat, puncture or open a suspect tablet. Isolate it away from heat and combustible material and obtain battery-specific instructions from the receiver.",
+          "Match sound devices with their model-correct charger, cable, dock, keyboard case and stylus. Do not put loose adapters against screens or mix visually similar power supplies. Remove a stylus cell only when the manufacturer provides a user procedure, protect accessible battery terminals, and disclose missing or damaged accessories in the asset record.",
+        ],
+      },
+      {
+        heading: "Pack for an accountable commercial handover",
+        paragraphs: [
+          "Place powered-off tablets upright in padded dividers and maintain a count at packing, loading and receipt. Keep chargers and accessories in matching numbered compartments. In a Business Bay tower, book the service lift and loading bay so the locked trolley does not wait in a public lobby or cross the reception route during the office rush.",
+          "The receiving record should identify quantities, serials where policy requires them, condition and destination: redeployment, lessor return, refurbishment or e-waste. A destruction or processing certificate may be appropriate for devices that carried sensitive data. Keep that evidence with the asset register rather than treating the collector's invoice as proof of data erasure.",
+        ],
+        image: blogB214Body,
+        imageAlt:
+          "Powered-off office tablets in individual padded slots with matched chargers and styluses beside a Dubai service lift",
+        imageCaption:
+          "Individual slots protect screens and make the custody count visible before the trolley leaves the controlled office area.",
+      },
+      {
+        heading: "Decide redeployment, return or e-waste after sign-off",
+        paragraphs: [
+          "A supported tablet with a healthy battery can be redeployed or passed to a qualified refurbisher after reset verification. Provider-owned units follow the return contract. Unsupported, broken or battery-damaged devices require an appropriate electronics route; they do not belong in mixed office rubbish or a general packaging-recycling cage.",
+          "Our [office clearance team](https://dubaijunkcollection.com/services/office-junk-removal) coordinates collection after IT sign-off from workplaces in [Business Bay](https://dubaijunkcollection.com/service-areas/business-bay). Related guides cover [old laptops](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-laptop-dubai), [mobile phones](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-mobile-phones-in-dubai) and [office computer peripherals](https://dubaijunkcollection.com/blog/how-to-dispose-of-office-computer-peripherals-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Is a factory reset enough before recycling an office tablet?",
+        answer:
+          "Not by itself. Preserve required records, release MDM and automated enrolment, remove activation locks and managed accounts, revoke credentials, close cellular service, then reset and verify both the setup screen and the management console. Your organisation's data policy may require additional evidence or physical media destruction.",
+      },
+      {
+        question: "What should happen to SIM cards and eSIMs?",
+        answer:
+          "Remove physical SIMs and reconcile them against the carrier account. Cancel, suspend or reassign each line, including eSIM profiles, through the authorised account owner. Deleting an eSIM from the tablet does not necessarily end the subscription or prevent further billing.",
+      },
+      {
+        question: "Can a tablet with a swollen battery be collected?",
+        answer:
+          "It needs a declared battery-specific plan. Stop charging and using it, do not squeeze the screen back into place, and isolate it away from heat and combustible materials. Tell the receiver the symptoms before pickup so it is not packed in the normal tablet case.",
+      },
+      {
+        question: "What details help quote office-tablet collection?",
+        answer:
+          "Provide quantities, models, ownership, reset status, battery condition and whether chargers, docks, keyboards or styluses are included. Add the office floor, lift and loading rules, security access, preferred collection window and whether other IT assets are leaving in the same project.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-old-laptop-dubai",
+      "how-to-dispose-of-old-mobile-phones-in-dubai",
+      "how-to-dispose-of-office-computer-peripherals-in-dubai",
+    ],
+    serviceLink: {
+      href: "/services/office-junk-removal",
+      label: "Arrange office tablet collection",
+    },
+    sources: [
+      {
+        href: "https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws",
+        label: "UAE Government - Data protection laws",
+      },
+      {
+        href: "https://www.dm.gov.ae/municipality-business/waste-and-sewerage-agency-technical-guidelines/",
+        label: "Dubai Municipality - Waste and recycling technical guidelines",
       },
       {
         href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf",
