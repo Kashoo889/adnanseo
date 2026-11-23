@@ -816,6 +816,18 @@ _Continues the furniture-appliance-office sequence through three different contr
 
 **Overlap check (content-rules section 16):** B212 differs from B167 (dining chairs), B103 (office chairs), B176 (folding room dividers) and B151 (conference tables) through scissor-hinge and brace-lock inspection, rental and venue-stock reconciliation, nested stack control and chair-trolley restraints. B213 differs from B150 (food processors), B154 (blenders), B204 (bread makers) and B207 (coffee grinders) through low-temperature fan-and-heater operation, perishable residue across multiple vented trays, mesh and fruit-leather sheet matching, and heat-warped tray inspection. B214 differs from B27 (laptops), B106 (mobile phones), B184 (peripherals) and B211 (barcode scanners) through enterprise MDM and automated-enrolment release, activation locks, eSIM and carrier closure, kiosk profiles, integrated lithium batteries and serial-level custody.
 
+### Track 68: Hallway Coat Stands, Home Carbonation & Workplace Radios (Clusters 3, 4, 5, 6 & 10)
+
+_Continues the furniture-appliance-office sequence through three different control points: releasing wall anchors and separating a weighted base from a hook-crowned pole, removing and returning a pressurised CO2 cylinder before the carbonation machine is rehomed or recycled, and clearing radio programming, keys and licence records before battery packs and handsets leave the site._
+
+|    #     | Article Title                                                                            | Primary Target Keyword                            | Secondary Keywords                                                                                    | Intent | Target Internal Funnel          |
+| :------: | :--------------------------------------------------------------------------------------- | :------------------------------------------------ | :---------------------------------------------------------------------------------------------------- | :----: | :------------------------------ |
+| **B215** | _How to Dispose of a Coat Stand in Dubai: Hooks, Weighted Bases and Wall Anchors_        | `how to dispose of a coat stand in dubai`         | `coat stand disposal dubai`, `hallway furniture removal dubai`, `hall tree collection dubai`         |   Q    | `/services/furniture-removal`   |
+| **B216** | _How to Dispose of a Soda Maker in Dubai: CO2 Cylinders, Bottles and the Machine_        | `how to dispose of a soda maker in dubai`         | `co2 cylinder return dubai`, `small kitchen appliance disposal dubai`, `kitchen e-waste dubai`       |   Q    | `/services/appliance-removal`   |
+| **B217** | _How to Dispose of Office Two-Way Radios in Dubai: Programming, Batteries and Licences_  | `how to dispose of office two-way radios in dubai` | `walkie-talkie recycling dubai`, `radio battery disposal dubai`, `office e-waste collection dubai`  |   Q    | `/services/office-junk-removal` |
+
+**Overlap check (content-rules section 16):** B215 differs from B100 (shoe racks), B153 (bar stools), B109 (floor and table lamps) and the shelving-units guide through hook-crown and protruding-hook protection, wall-anchored hall trees and handover hole records, screw-together pole sections and cast-iron, marble or filled weighted bases. B216 differs from B119 (coffee machines), the water-dispenser guide, B156 (electric kettles) and the hazardous-waste guide through removing and returning a pressurised CO2 cylinder via retailer exchange, cylinder heat storage, carbonation-bottle use-by dates, syrup residue and manual versus electric machine routes. B217 differs from B140 (UPS batteries), B190 (desk phones), B211 (barcode scanners) and B214 (tablets) through channel, talk-group and encryption-key codeplug clearing, TDRA frequency-authorisation records, contractor-supplied handsets, model-specific antennas, hygiene earpieces and multi-unit charger banks.
+
 ---
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -882,3 +894,4 @@ _Continues the furniture-appliance-office sequence through three different contr
 62. **Batch 62 (Articles B206–B208):** Asymmetrical Seating, Coffee Grinding & Label Printing — **100% Completed (3/3 Live)**.
 63. **Batch 63 (Articles B209–B211):** Wheeled Entertaining Furniture, Tabletop Grilling & Barcode Capture — **100% Completed (3/3 Published/Scheduled)**.
 64. **Batch 64 (Articles B212–B214):** Folding Event Seating, Food Dehydration & Managed Tablets — **100% Completed (3/3 Scheduled)**.
+65. **Batch 65 (Articles B215–B217):** Hallway Coat Stands, Home Carbonation & Workplace Radios — **100% Completed (3/3 Scheduled)**.

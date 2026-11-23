@@ -824,3 +824,11 @@
 | 454 | how to dispose of folding chairs in dubai    |   Q    | Blog Article (`/blog/how-to-dispose-of-folding-chairs-in-dubai`)    |
 | 455 | how to dispose of a food dehydrator in dubai |   Q    | Blog Article (`/blog/how-to-dispose-of-a-food-dehydrator-in-dubai`) |
 | 456 | how to dispose of office tablets in dubai    |   Q    | Blog Article (`/blog/how-to-dispose-of-office-tablets-in-dubai`)    |
+
+### New question-intent blog targets (Batch 65)
+
+|  #  | Keyword                                          | Intent | Recommended Page                                                        |
+| :-: | :----------------------------------------------- | :----: | :---------------------------------------------------------------------- |
+| 457 | how to dispose of a coat stand in dubai          |   Q    | Blog Article (`/blog/how-to-dispose-of-a-coat-stand-in-dubai`)          |
+| 458 | how to dispose of a soda maker in dubai          |   Q    | Blog Article (`/blog/how-to-dispose-of-a-soda-maker-in-dubai`)          |
+| 459 | how to dispose of office two-way radios in dubai |   Q    | Blog Article (`/blog/how-to-dispose-of-office-two-way-radios-in-dubai`) |

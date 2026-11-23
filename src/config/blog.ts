@@ -21625,6 +21625,328 @@ export const blogPosts: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "how-to-dispose-of-a-coat-stand-in-dubai",
+    title: "How to Dispose of a Coat Stand in Dubai: Hooks, Weighted Bases and Wall Anchors",
+    excerpt:
+      "Empty every hook, release any wall anchor, split the pole from its weighted base, cover protruding hooks and move the heavy base low before resale, donation or furniture collection.",
+    category: "Guides & Tips",
+    coverImage: blogB100Cover,
+    coverImageAlt:
+      "Two uniformed movers wrapping tall wooden hallway furniture in a padded blanket outside a Dubai apartment door",
+    publishedAt: "2026-11-26",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Coat Stand Disposal", "Furniture Removal", "Hallway Furniture", "Move-Out Clearance"],
+    seoTitle: "How to Dispose of a Coat Stand in Dubai: Safe Steps",
+    seoDescription:
+      "How to dispose of a coat stand in Dubai: release wall anchors, separate the pole and weighted base, cover hooks and plan resale, donation or pickup.",
+    keyTakeaways: [
+      "Most of a coat stand's weight sits in a small base, so it is the base, not the pole, that causes dropped loads, chipped tiles and strained backs.",
+      "Hall trees and tall stands are often fixed to the wall with an anti-tip strap; release it and note the fixing holes before the Ejari handover inspection.",
+      "Protruding hooks sit at face and door-frame height, so they are covered or removed before the stand passes through corridors, lifts and loading bays.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a coat stand in Dubai?",
+        paragraphs: [
+          "To dispose of a coat stand in Dubai, clear every hook, check whether it is anchored to a wall, and separate a screw-together pole from its weighted base. Protect protruding hooks, carry the heavy base low, book the service lift, then choose resale, donation or a planned furniture collection.",
+          "A coat stand looks like the lightest piece in the hallway, which is exactly why people underestimate it. The pole is slim and awkward, the hooks catch on everything, and the base can be cast iron, marble or a sand-filled drum that weighs more than the rest of the stand combined.",
+        ],
+      },
+      {
+        heading: "Empty it and check how it is held up",
+        paragraphs: [
+          "Take off coats, bags, umbrellas and keys, then check the pockets of anything that has hung there for months; car keys and access cards turn up regularly during hallway clear-outs. Lift any shoe tray, umbrella ring or drip pan out of the base so water and grit do not spill in the corridor.",
+          "Next, look behind it. Hall trees with a mirror or bench, and taller freestanding stands in family homes, are often secured with an anti-tip strap or bracket screwed into the wall. Undo the strap before tilting the stand. If you are leaving a rental, decide with your landlord or agent whether you fill the fixing holes or leave them for the handover snagging list.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Never tilt a strapped stand",
+          text: "A stand still tied to the wall can pull the bracket and plaster out as it tips, or swing sideways once the strap gives. Release the fixing with the stand held upright by a second person.",
+        },
+      },
+      {
+        heading: "Split the pole from the weighted base",
+        paragraphs: [
+          "Many metal and timber stands unscrew into two or three pole sections plus the base, and the hook crown often lifts or twists off the top. Keep every bolt, threaded rod and washer in a labelled bag taped to the pole. A complete set is what makes the stand worth something to the next owner.",
+          "Hooks that cannot come off should be wrapped individually in cardboard or bubble wrap and taped, never covered by a loose blanket that slips. A marble or cast base goes onto a trolley or is carried by two people with gloves, kept close to the floor. Do not roll a round base on its edge across marble flooring or a lift threshold; it chips both.",
+        ],
+        image: blogB153Body,
+        imageAlt:
+          "Crew member loading slim metal poles and heavy round pedestal bases onto a padded trolley beside a service lift",
+        imageCaption:
+          "Poles and weighted bases travel as separate, low items on a trolley rather than as one top-heavy piece.",
+      },
+      {
+        heading: "Plan the route through the building",
+        paragraphs: [
+          "Even a dismantled stand needs the service lift in most towers, because security staff will not let loose furniture parts ride the passenger lifts. Book the slot with building management, keep the corridor clear of fire doors, and carry poles vertically through door frames so the ends do not hit sprinkler heads or ceiling lights.",
+          "In villa communities such as Al Furjan, the risk is the final stretch: a stand carried flat across a tiled driveway in summer heat can slip from sweaty hands. Move it in the morning, keep the base on a trolley and do not lean the pole against a car or gate.",
+        ],
+      },
+      {
+        heading: "Decide between resale, donation and collection",
+        paragraphs: [
+          "A complete, stable stand with all its hooks sells or donates easily, especially solid timber and classic bentwood designs. Wobbling joints, stripped threads, a cracked marble base or missing hooks should be described honestly; a stand that tips under a loaded coat is not a safe donation.",
+          "Our [furniture collection service](https://dubaijunkcollection.com/services/furniture-removal) can take a coat stand with other hallway pieces from homes in [Al Furjan](https://dubaijunkcollection.com/service-areas/al-furjan) and across the city. If you are clearing the whole entrance, see our guides to a [shoe rack](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-shoe-rack-in-dubai), [shelving units](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-shelving-units-in-dubai) and [bar stools](https://dubaijunkcollection.com/blog/how-to-dispose-of-bar-stools-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can I leave a coat stand next to the building bins?",
+        answer:
+          "Not without permission. Most Dubai towers and communities treat furniture left beside bins or in the parking as dumping, and management may charge the unit for removal. Ask building management about bulky-item arrangements, or keep the stand inside until a booked collection arrives.",
+      },
+      {
+        question: "Is a cast-iron coat stand base recyclable?",
+        answer:
+          "Generally yes, as scrap metal, provided it is separated from timber, plastic feet and any concrete or sand filling. Do not try to break open a filled base at home. Tell the collector what the base is made of so it goes to the right recovery stream.",
+      },
+      {
+        question: "Should I fill the wall holes from an anti-tip bracket?",
+        answer:
+          "Check your tenancy contract and ask the landlord or agent first. Some prefer to handle filling and paint touch-ups with the rest of the handover snagging; others expect the tenant to return walls in original condition. Photograph the holes either way for your move-out record.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-a-shoe-rack-in-dubai",
+      "how-to-dispose-of-old-shelving-units-in-dubai",
+      "how-to-dispose-of-bar-stools-in-dubai",
+    ],
+    serviceLink: { href: "/services/furniture-removal", label: "Arrange coat stand collection" },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf",
+        label: "Dubai Municipality - Waste duty-of-care guideline",
+      },
+      {
+        href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management",
+        label: "UAE Government - Waste management",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-soda-maker-in-dubai",
+    title: "How to Dispose of a Soda Maker in Dubai: CO2 Cylinders, Bottles and the Machine",
+    excerpt:
+      "Remove the CO2 cylinder before anything else, return or exchange it through a retailer, clean and dry the machine, check carbonation bottle dates and route an electric unit through e-waste.",
+    category: "Eco & Recycling",
+    coverImage: blogB46Cover,
+    coverImageAlt:
+      "Man in gloves sorting pressurised canisters, batteries and household chemicals into separate trays on a Dubai villa patio",
+    publishedAt: "2026-11-27",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Soda Maker Disposal", "CO2 Cylinders", "Small Appliances", "Kitchen E-Waste"],
+    seoTitle: "How to Dispose of a Soda Maker in Dubai: CO2 First",
+    seoDescription:
+      "How to dispose of a soda maker in Dubai: remove and return the CO2 cylinder, clean and dry the unit, check bottle dates and recycle what is left.",
+    keyTakeaways: [
+      "The CO2 cylinder is a pressurised gas container: it never goes in a general bin, a recycling bin or an e-waste box, even when it feels empty.",
+      "Cylinders are usually returned or exchanged through retailers that stock the brand, so the machine and the cylinder take two separate routes.",
+      "Carbonation bottles often carry a use-by date; expired or deformed bottles are retired rather than passed on with the machine.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a soda maker in Dubai?",
+        paragraphs: [
+          "To dispose of a soda maker in Dubai, unscrew and remove the CO2 cylinder first and keep it out of every waste bin. Return or exchange the cylinder through a participating retailer, clean and dry the machine, check bottle expiry dates, then sell, donate or recycle the empty unit.",
+          "The machine itself is simple: a plastic or metal housing, a valve and, on some models, a power supply and electronic carbonation control. The part that needs care is the gas cylinder hidden in the back, which is easy to forget until it rolls around in a removal bag.",
+        ],
+      },
+      {
+        heading: "Take the CO2 cylinder out before anything else",
+        paragraphs: [
+          "Open the rear or side panel and unscrew or unclip the cylinder as the manual describes. Do not force a stuck cylinder with pliers, drill it or try to vent it to make it \"safe\". A cylinder that still holds gas is under real pressure, and an empty-feeling one may not be empty.",
+          "Store the cylinder upright, valve protected, in a cool indoor spot until it leaves the home. In a Dubai summer, a car boot, balcony or garage can heat a sealed cylinder far beyond room temperature. Keep it out of reach of children and away from stoves, heaters and direct sun.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Never put a gas cylinder in a bin or chute",
+          text: "Compactor trucks and building chutes crush and heat what goes into them. A pressurised cylinder in that stream is a hazard for collection crews and the equipment. Keep it separate and return it through the proper channel.",
+        },
+      },
+      {
+        heading: "Return or exchange the cylinder",
+        paragraphs: [
+          "Most home carbonation brands run their cylinders on an exchange basis: you hand over an empty and pay only for the gas in a full one. Check the brand's UAE website or ask a supermarket or homeware store that sells its refills whether it accepts returns of empties, including cylinders you no longer want to refill.",
+          "If the cylinder is an off-brand or very old type that no retailer will take, ask the collector or a licensed waste handler how it will be handled before booking. Disclose it clearly; a gas cylinder is not something to slip into a mixed household load. Pressurised containers need a separate, controlled route, not the mixed household stream.",
+        ],
+      },
+      {
+        heading: "Clean the machine and check the bottles",
+        paragraphs: [
+          "Wipe the nozzle, drip tray and housing with a damp cloth and let it dry fully. Flavour syrups leave sticky residue that attracts ants within days in a warm storeroom. If your model has a power cord or adapter, unplug it and keep the adapter taped to the base; an electric unit with a missing power supply is much harder to rehome.",
+          "Look at the carbonation bottles. Many carry a use-by date moulded into the plastic or printed on the label, and bottles that are expired, scratched, cloudy or distorted from a dishwasher should not be reused for carbonation. Empty, clean PET bottles go into plastic recycling; metal and glass carafes follow the rules for those materials.",
+        ],
+        image: blogB156Body,
+        imageAlt:
+          "Small stainless kitchen appliance separated into its body, base with power cord, filter and lid on clean trays beside a window",
+        imageCaption:
+          "Separating a small appliance into body, base and accessories makes it clear which part goes to reuse, plastics or e-waste.",
+      },
+      {
+        heading: "Choose reuse, recycling or a combined pickup",
+        paragraphs: [
+          "A clean, working machine with its bottles in date is easy to pass on, and many buyers only want the machine because they already have cylinders. Say whether a cylinder is included and how full it is. A broken electric model goes to electronic waste; a manual all-plastic or metal model can go to material recycling once the cylinder is gone.",
+          "Our [appliance removal service](https://dubaijunkcollection.com/services/appliance-removal) can collect a soda maker with other kitchen equipment from apartments in [Dubai Marina](https://dubaijunkcollection.com/service-areas/dubai-marina); tell us whether a cylinder is still attached when you send photos. Related guides cover a [water dispenser](https://dubaijunkcollection.com/blog/how-to-dispose-of-water-dispenser-dubai), a [coffee machine](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-coffee-machine-in-dubai) and [hazardous household waste](https://dubaijunkcollection.com/blog/hazardous-waste-disposal-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "How do I know if a soda maker cylinder is empty?",
+        answer:
+          "When the machine stops producing fizz and you hear little or no gas on pressing the button, the cylinder is near empty. Some people weigh it against the full weight printed on the cylinder. Either way, treat it as pressurised and return it rather than trying to open or vent it.",
+      },
+      {
+        question: "Can I keep spare CO2 cylinders after getting rid of the machine?",
+        answer:
+          "You can, but only store them upright, indoors and away from heat. If you have no plan to buy another compatible machine, return them through the brand's exchange channel now; a forgotten cylinder in a hot storeroom or car is a risk and eventually becomes a disposal problem for someone else.",
+      },
+      {
+        question: "Are flavour syrups and concentrates a disposal problem?",
+        answer:
+          "Unopened syrups within date can be given away with the machine. Opened or expired syrup should be emptied into the sink with plenty of water, and the bottle rinsed before recycling. Do not leave sticky bottles in a box with the machine; they leak and attract pests.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-water-dispenser-dubai",
+      "how-to-dispose-of-a-coffee-machine-in-dubai",
+      "hazardous-waste-disposal-dubai",
+    ],
+    serviceLink: { href: "/services/appliance-removal", label: "Arrange soda maker collection" },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/municipality-business/waste-and-sewerage-agency-technical-guidelines/",
+        label: "Dubai Municipality - Waste and recycling technical guidelines",
+      },
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf",
+        label: "Dubai Municipality - Waste duty-of-care guideline",
+      },
+      {
+        href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management",
+        label: "UAE Government - Waste management",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-office-two-way-radios-in-dubai",
+    title: "How to Dispose of Office Two-Way Radios in Dubai: Programming, Batteries and Licences",
+    excerpt:
+      "Reconcile every handset, have the radio administrator clear channels, IDs and encryption keys, update frequency licence records, separate battery packs and document the final handover.",
+    category: "Commercial & Office",
+    coverImage: blogB45Cover,
+    coverImageAlt:
+      "Office worker checking handheld devices, chargers and loose battery packs sorted on a desk before recycling",
+    publishedAt: "2026-11-28",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Two-Way Radio Disposal", "Office E-Waste", "Battery Safety", "Asset Retirement"],
+    seoTitle: "How to Dispose of Two-Way Radios in Dubai Properly",
+    seoDescription:
+      "How to dispose of office two-way radios in Dubai: clear programming and keys, update licence records, isolate batteries and document the e-waste handover.",
+    keyTakeaways: [
+      "A programmed radio still carries your channels, unit IDs and sometimes encryption keys; it is cleared by the radio administrator or dealer, not by switching it off.",
+      "If your organisation holds a frequency authorisation, the retirement is recorded with whoever manages that licence so the register matches the fleet.",
+      "Battery packs come off every handset, are checked for swelling and travel with protected terminals, separate from the radios and multi-unit chargers.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of office two-way radios in Dubai?",
+        paragraphs: [
+          "To dispose of office two-way radios in Dubai, reconcile every handset against the asset register, have the radio administrator remove channel programming, IDs and encryption keys, and update any frequency licence records. Separate battery packs, protect terminals, keep chargers matched, then document redeployment, dealer return or certified e-waste handover.",
+          "Radios live hard lives in security, facilities, hospitality and warehouse teams. They get dropped, shared across shifts and charged in banks of six at a time. That makes them easy to lose track of and easy to underestimate, because a radio left programmed can still listen to the channel your team uses tomorrow.",
+        ],
+      },
+      {
+        heading: "Count the fleet and settle ownership",
+        paragraphs: [
+          "Start with a list: serial number, model, assigned team or shift, condition and whether the unit is owned, leased or supplied by a facilities contractor. Pull radios back from guard rooms, pool decks, car parks and lockers. Contractor-supplied handsets go back to the contractor under its agreement, not into your disposal load.",
+          "Collect the accessories at the same time: belt clips, antennas, multi-unit chargers, single cradles, speaker microphones and earpieces. Antennas are model-specific and a radio without one is close to worthless for reuse. Earpieces and in-ear kits are personal hygiene items and are normally discarded rather than passed on.",
+        ],
+      },
+      {
+        heading: "Clear programming, keys and licence records",
+        paragraphs: [
+          "Digital and analogue business radios are programmed with channel frequencies, talk groups, unit IDs and, on encrypted systems, security keys. Ask whoever manages the fleet, usually the dealer or an internal radio administrator, to reset each handset to a blank or factory codeplug with the programming software. A factory reset from the keypad, where one exists, does not always remove keys.",
+          "In the UAE, the Telecommunications and Digital Government Regulatory Authority (TDRA) oversees radio spectrum and equipment. If your organisation uses licensed frequencies, tell the person who manages that authorisation that the units are being retired so licence and equipment records stay accurate. Licence-free consumer radios used for small events usually need no such step.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Do not sell radios still programmed",
+          text: "A handset with your channels still loaded lets the next owner hear security, guest or delivery traffic. Clear it first, then record who cleared each serial number and when.",
+        },
+      },
+      {
+        heading: "Separate and check every battery pack",
+        paragraphs: [
+          "Slide each battery pack off its radio. Look for swelling, split casings, corrosion on the contacts or packs that run hot on the charger; those are isolated in a non-flammable container away from heat and declared to the receiver. Do not charge, press or open a damaged pack.",
+          "Healthy packs get tape over the terminals and go into a separate box. Lithium-ion and nickel-metal hydride packs both belong in battery recycling, never in office rubbish. Multi-unit chargers and power supplies are electronic waste in their own right and should be counted alongside the radios so nothing goes missing between floors.",
+        ],
+        image: blogB61Body,
+        imageAlt:
+          "Recycling attendant helping a resident place a crate of electronics into labelled e-waste bins at a Dubai drop-off centre",
+        imageCaption:
+          "Radios, chargers and battery packs are sorted into separate electronic and battery streams at the receiving facility.",
+      },
+      {
+        heading: "Choose redeployment, dealer return or e-waste",
+        paragraphs: [
+          "Working radios that are still supported can move to another site, be traded in with your dealer or sold once cleared. Obsolete analogue units, cracked housings and handsets with dead keypads go to electronic waste. Ask the receiver for a handover note listing quantities, serials if your policy needs them, and the batteries sent for recycling.",
+          "Our [office clearance team](https://dubaijunkcollection.com/services/office-junk-removal) collects retired radios, chargers and other site electronics after IT or security sign-off, including from warehouses in [Dubai Investment Park](https://dubaijunkcollection.com/service-areas/dubai-investment-park). Related guides cover [UPS and backup batteries](https://dubaijunkcollection.com/blog/how-to-dispose-of-ups-and-backup-batteries-in-dubai), [office desk phones](https://dubaijunkcollection.com/blog/how-to-dispose-of-office-desk-phones-in-dubai) and [barcode scanners](https://dubaijunkcollection.com/blog/how-to-dispose-of-office-barcode-scanners-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can I give old radios to staff or another business?",
+        answer:
+          "Only after they are cleared of programming and keys, and only if the receiver is entitled to use the frequencies they will be reprogrammed to. Radios set to your licensed channels should not leave your control. Record the transfer, the serials and who reprogrammed them.",
+      },
+      {
+        question: "What if some radios are missing from the count?",
+        answer:
+          "Report the gap to whoever manages the radio system before the collection. On encrypted or managed fleets the administrator can often disable or remove a missing unit's access. Note the missing serials on the handover record rather than closing the count with an assumption.",
+      },
+      {
+        question: "Do multi-unit chargers need special handling?",
+        answer:
+          "They are standard electronic waste, but count them, keep their power supplies with them and remove any battery packs left in the slots. A charger rack with forgotten packs inside can short or overheat in transit, and those packs belong in the battery stream.",
+      },
+      {
+        question: "What details help quote radio collection?",
+        answer:
+          "Share the number of handsets, charger banks and battery packs, whether any batteries are swollen, and whether repeaters, base stations or antennas are included. Add the floor, loading bay rules, security access and any requirement for serial-level handover paperwork.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-ups-and-backup-batteries-in-dubai",
+      "how-to-dispose-of-office-desk-phones-in-dubai",
+      "how-to-dispose-of-office-barcode-scanners-in-dubai",
+    ],
+    serviceLink: {
+      href: "/services/office-junk-removal",
+      label: "Arrange two-way radio collection",
+    },
+    sources: [
+      {
+        href: "https://tdra.gov.ae/",
+        label: "UAE Telecommunications and Digital Government Regulatory Authority (TDRA)",
+      },
+      {
+        href: "https://www.dm.gov.ae/municipality-business/waste-and-sewerage-agency-technical-guidelines/",
+        label: "Dubai Municipality - Waste and recycling technical guidelines",
+      },
+      {
+        href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management",
+        label: "UAE Government - Waste management",
+      },
+    ],
+  },
 ];
 
 // ---------------------------------------------------------------------------
