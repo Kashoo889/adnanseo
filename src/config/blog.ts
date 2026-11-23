@@ -21061,7 +21061,7 @@ export const blogPosts: BlogPost[] = [
     coverImage: blogB210Cover,
     coverImageAlt:
       "Technician inspecting an unplugged electric tabletop grill with removable plates and drip tray in a Dubai kitchen",
-    publishedAt: "2026-11-21",
+    publishedAt: "2026-11-20",
     readingTime: "7 min read",
     author: defaultAuthor,
     tags: ["Electric Grill Disposal", "Small Appliances", "Kitchen E-Waste", "Tabletop Grill"],
@@ -21172,7 +21172,7 @@ export const blogPosts: BlogPost[] = [
     coverImage: blogB211Cover,
     coverImageAlt:
       "IT and facilities staff recording handheld barcode scanners, charging cradles and batteries in a Dubai warehouse office",
-    publishedAt: "2026-11-22",
+    publishedAt: "2026-11-20",
     readingTime: "8 min read",
     author: defaultAuthor,
     tags: ["Barcode Scanner Disposal", "Office E-Waste", "Warehouse Equipment", "Asset Retirement"],
@@ -21283,7 +21283,7 @@ export const blogPosts: BlogPost[] = [
     coverImage: blogB212Cover,
     coverImageAlt:
       "Removal crew inspecting metal folding-chair hinges beside a service lift in a Dubai residential tower",
-    publishedAt: "2026-11-23",
+    publishedAt: "2026-11-21",
     readingTime: "8 min read",
     author: defaultAuthor,
     tags: ["Folding Chair Disposal", "Furniture Removal", "Event Furniture", "Move-Out Clearance"],
@@ -21390,7 +21390,7 @@ export const blogPosts: BlogPost[] = [
     coverImage: blogB213Cover,
     coverImageAlt:
       "Technician inspecting an unplugged food dehydrator with clean stacked trays in a Dubai apartment kitchen",
-    publishedAt: "2026-11-24",
+    publishedAt: "2026-11-21",
     readingTime: "7 min read",
     author: defaultAuthor,
     tags: [
@@ -21509,7 +21509,7 @@ export const blogPosts: BlogPost[] = [
     coverImage: blogB214Cover,
     coverImageAlt:
       "IT and facilities staff inventorying office tablets, charging docks and cables in a Dubai workplace",
-    publishedAt: "2026-11-25",
+    publishedAt: "2026-11-21",
     readingTime: "9 min read",
     author: defaultAuthor,
     tags: ["Office Tablet Disposal", "Data Security", "Office E-Waste", "Asset Retirement"],
@@ -21634,7 +21634,7 @@ export const blogPosts: BlogPost[] = [
     coverImage: blogB100Cover,
     coverImageAlt:
       "Two uniformed movers wrapping tall wooden hallway furniture in a padded blanket outside a Dubai apartment door",
-    publishedAt: "2026-11-26",
+    publishedAt: "2026-11-23",
     readingTime: "7 min read",
     author: defaultAuthor,
     tags: ["Coat Stand Disposal", "Furniture Removal", "Hallway Furniture", "Move-Out Clearance"],
@@ -21736,7 +21736,7 @@ export const blogPosts: BlogPost[] = [
     coverImage: blogB46Cover,
     coverImageAlt:
       "Man in gloves sorting pressurised canisters, batteries and household chemicals into separate trays on a Dubai villa patio",
-    publishedAt: "2026-11-27",
+    publishedAt: "2026-11-23",
     readingTime: "7 min read",
     author: defaultAuthor,
     tags: ["Soda Maker Disposal", "CO2 Cylinders", "Small Appliances", "Kitchen E-Waste"],
@@ -21842,7 +21842,7 @@ export const blogPosts: BlogPost[] = [
     coverImage: blogB45Cover,
     coverImageAlt:
       "Office worker checking handheld devices, chargers and loose battery packs sorted on a desk before recycling",
-    publishedAt: "2026-11-28",
+    publishedAt: "2026-11-23",
     readingTime: "8 min read",
     author: defaultAuthor,
     tags: ["Two-Way Radio Disposal", "Office E-Waste", "Battery Safety", "Asset Retirement"],

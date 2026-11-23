@@ -23,6 +23,7 @@ Execute the daily article creation autonomously from start to finish. Follow the
 
 5. **Generate Required SEO & Schema Fields:**
    - Provide all fields adhering to the `BlogPost` TypeScript interface: `slug`, `title`, `excerpt`, `category`, `coverImage`, `coverImageAlt`, `publishedAt`, `readingTime`, `author`, `tags`, `keyTakeaways`, `sections`, `faqs` (3–5 real questions), `relatedSlugs`, `serviceLink`, and `sources`.
+   - **Publishing cadence:** Three articles are written per day, and all three articles of a batch share the same `publishedAt` date — the day they are written (Asia/Dubai) — so they go live together that day. Do not stagger a batch across consecutive days unless the user asks.
    - **Scheduling:** Set the publish date (`publishedAt`, `YYYY-MM-DD`) to a future date to schedule an article; it is deployed but stays hidden (404, not in listings/sitemap/feed) until that date (Asia/Dubai), then goes live automatically within ~1 hour.
 
 6. **Create Mandatory Visual Assets:**
