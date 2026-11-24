@@ -394,6 +394,12 @@ import blogB213Cover from "@/assets/blog-b213-food-dehydrator-cover.webp";
 import blogB213Body from "@/assets/blog-b213-food-dehydrator-parts-body.webp";
 import blogB214Cover from "@/assets/blog-b214-office-tablets-cover.webp";
 import blogB214Body from "@/assets/blog-b214-office-tablets-custody-body.webp";
+import blogB218Cover from "@/assets/blog-b218-plant-stand-disposal-cover.webp";
+import blogB218Body from "@/assets/blog-b218-plant-stand-parts-body.webp";
+import blogB219Cover from "@/assets/blog-b219-electric-knife-cover.webp";
+import blogB219Body from "@/assets/blog-b219-electric-knife-packing-body.webp";
+import blogB220Cover from "@/assets/blog-b220-banknote-counter-cover.webp";
+import blogB220Body from "@/assets/blog-b220-banknote-counter-handover-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -21944,6 +21950,342 @@ export const blogPosts: BlogPost[] = [
       {
         href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management",
         label: "UAE Government - Waste management",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-plant-stand-in-dubai",
+    title: "How to Dispose of a Plant Stand in Dubai: Pots, Soil and Tiered Frames",
+    excerpt:
+      "Remove every pot and all loose soil, release wall restraints, separate removable tiers and fittings, then route the empty stand by its actual material and condition.",
+    category: "Guides & Tips",
+    coverImage: blogB218Cover,
+    coverImageAlt:
+      "Two uniformed crew members releasing an anti-tip strap from an empty tiered plant stand in a Dubai apartment",
+    publishedAt: "2026-11-24",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Plant Stand Disposal", "Furniture Collection", "Indoor Planters", "Apartment Clearance"],
+    seoTitle: "How to Dispose of a Plant Stand in Dubai: Safe Steps",
+    seoDescription:
+      "How to dispose of a plant stand in Dubai: remove pots and soil, release wall restraints, secure tiered frames and choose reuse, recycling or pickup.",
+    keyTakeaways: [
+      "Plants, pots, saucers and soil leave separately; a collector needs the stand empty, dry and visible before deciding how to handle it.",
+      "Tall or tiered stands may have anti-tip straps, wall screws or interlocking shelves that must be released while the frame is supported.",
+      "Matched shelves, bolts and feet preserve reuse value, while rotten timber, cracked welds and sharp rust need honest disclosure and protected transport.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a plant stand in Dubai?",
+        paragraphs: [
+          "To dispose of a plant stand in Dubai, remove every plant, pot, saucer and loose soil first. Check for wall restraints, separate removable shelves and bag the fittings, protect sharp or rusty edges, book the service lift, then choose reuse, material recycling or a planned furniture collection for the empty stand.",
+          "A tiered stand can look light until wet pots, stone saucers and a weighted base are added. Moving the whole arrangement at once is what cracks ceramic, spills soil into lift tracks and makes a narrow frame twist. Treat the living plants and the furniture as two separate jobs from the start.",
+        ],
+      },
+      {
+        heading: "Clear the plants, water and soil before touching the frame",
+        paragraphs: [
+          "Move healthy plants into stable trays or boxes and decide whether they are travelling, being gifted or staying with the property. Do not place live plants in a furniture load by default. Empty standing water from saucers, wipe each shelf and let the stand dry, especially where timber has absorbed irrigation spills.",
+          "Bag loose potting mix separately and keep it out of communal drains and landscaped beds unless the building or gardener has approved its use. Soil from a pot with pests, mould or chemical treatment should not be mixed into healthy planters. Ceramic and stone pots also travel separately because their concentrated weight can collapse a lightweight shelf.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Never carry the stand with pots attached",
+          text: "A small threshold or lift gap can shift the load suddenly. Remove every pot and saucer first, even when the stand has wheels, and keep soil contained before it enters a shared corridor.",
+        },
+      },
+      {
+        heading: "Release anti-tip fixings and dismantle only what is designed to separate",
+        paragraphs: [
+          "Support a tall stand while a second person checks the wall side for an anti-tip strap, screw plate or discreet bracket. Photograph the fixing and the wall holes before release for the Ejari handover record. Do not pull the furniture forward while it is still tethered; that can tear the bracket from plasterboard.",
+          "Flat-pack stands often use threaded shelf pins, cross-braces or bolts through the frame. Photograph the assembled order, remove only accessible fittings and seal them in a pouch attached to the largest part. Leave glued joints and welded frames intact. Forced dismantling turns a reusable stand into unstable scrap and creates sharp ends.",
+        ],
+        image: blogB218Body,
+        imageAlt:
+          "Dismantled wooden shelves and metal plant stand frames strapped upright to a padded trolley beside a Dubai service lift",
+        imageCaption:
+          "Keep shelves, frame pieces and matched fittings together while pots and bagged soil travel as separate items.",
+      },
+      {
+        heading: "Check condition and route each material honestly",
+        paragraphs: [
+          "A complete, level stand with sound welds or firm timber joints may suit resale or donation. List water rings, rust, swollen board, cracked stone, missing feet and maximum-load information if known. A stand that rocks under an empty shelf is not ready for another home until repaired.",
+          "Metal frames may enter a scrap stream after timber, rubber feet and plastic caps are separated by the receiving facility. Clean solid timber may be reusable, while water-damaged composite board usually has little recovery value. Mixed-material stands should remain assembled enough for a collector to identify them; do not break them into an unlabelled bag of sharp pieces.",
+        ],
+      },
+      {
+        heading: "Plan the service-lift route and final handover",
+        paragraphs: [
+          "Measure the longest frame section and book the building's service lift before bringing it into the corridor. Strap tall parts upright to a padded trolley, cover protruding shelf supports and keep fittings inside the load. In summer, do not leave timber or live plants waiting in a hot loading bay while access is being arranged.",
+          "Our [furniture collection service](https://dubaijunkcollection.com/services/furniture-removal) can include an empty plant stand in a wider clearance from [Downtown Dubai](https://dubaijunkcollection.com/service-areas/downtown-dubai) and other communities. For adjacent items, see the guides to [old shelving units](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-shelving-units-in-dubai), a [coat stand](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-coat-stand-in-dubai) and [old pots and pans](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-pots-and-pans-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can I leave a plant stand beside my building bins?",
+        answer:
+          "Only if building management has confirmed a bulky-item point and collection window. An unattended frame can obstruct waste carts or a fire route, and pots or soil may attract a separate cleaning charge. Keep the stand inside until the approved handover time.",
+      },
+      {
+        question: "What should I do with the plants before collection?",
+        answer:
+          "Keep healthy plants out of the furniture load. Move them with you, offer them to a neighbour or ask a gardener or nursery whether they can accept them. Tell the recipient about pests or treatment, and use trays so water and soil do not leak in shared areas.",
+      },
+      {
+        question: "Is a rusty metal plant stand recyclable?",
+        answer:
+          "Often, but the receiving facility decides after checking its materials. Remove pots and loose soil, cover sharp rusted edges and disclose plastic shelves, timber inserts or concrete weights. Do not grind or cut the frame at home simply to fit it into a bin.",
+      },
+      {
+        question: "What photographs help quote plant stand removal?",
+        answer:
+          "Send one full view with all pots removed, the dimensions, the rear fixings, the base and close-ups of rust, cracked shelves or loose joints. Add the floor, service-lift rules and other items in the collection so the crew can plan the correct trolley and vehicle space.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-old-shelving-units-in-dubai",
+      "how-to-dispose-of-a-coat-stand-in-dubai",
+      "how-to-dispose-of-old-pots-and-pans-in-dubai",
+    ],
+    serviceLink: { href: "/services/furniture-removal", label: "Arrange plant stand collection" },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf",
+        label: "Dubai Municipality - Waste duty-of-care guideline",
+      },
+      {
+        href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management",
+        label: "UAE Government - Waste management",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-an-electric-knife-in-dubai",
+    title: "How to Dispose of an Electric Knife in Dubai: Blades, Cords and E-Waste",
+    excerpt:
+      "Unplug and cool the motor, eject the paired blades by their guards, clean and sleeve them, then keep sharp metal separate from the electrical handle.",
+    category: "Eco & Recycling",
+    coverImage: blogB219Cover,
+    coverImageAlt:
+      "Gloved hands unplugging an electric carving knife beside paired serrated blades in a protective sleeve",
+    publishedAt: "2026-11-24",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Electric Knife Disposal", "Kitchen E-Waste", "Sharp Blades", "Small Appliances"],
+    seoTitle: "How to Dispose of an Electric Knife in Dubai Safely",
+    seoDescription:
+      "How to dispose of an electric knife in Dubai: unplug and cool it, eject and sleeve the blades, disclose faults and separate sharp metal from e-waste.",
+    keyTakeaways: [
+      "The serrated blade pair is a sharp metal item, while the powered handle, cord or battery is electrical waste; prepare them as separate components.",
+      "Unplug the knife before using its blade release, hold only the moulded guards and place clean, dry blades straight into a rigid sleeve.",
+      "A damaged cable, jammed switch, swollen battery or missing blade cover must be disclosed rather than hidden inside a donation or mixed-appliance box.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an electric knife in Dubai?",
+        paragraphs: [
+          "To dispose of an electric knife in Dubai, unplug it, let the motor cool and eject the paired blades while holding their guards. Clean and dry the blades, lock them in a rigid sleeve, coil the cord loosely, disclose faults, then route the motor handle as e-waste and sharp metal separately.",
+          "An electric carving knife is two waste types joined for use: a powered handle with a motor and a long reciprocating blade set. Dropping the complete tool into a small-appliance crate leaves an unseen cutting edge beside cables and hands. Separation and rigid blade protection are the essential steps.",
+        ],
+      },
+      {
+        heading: "Unplug, cool and release the blades by their guards",
+        paragraphs: [
+          "Switch off at the socket, unplug and wait until the handle is cool. Follow the model manual for its release control. Manufacturer guidance for common electric knives says to hold the blades by their plastic guards when removing or inserting them; never grip the serrated length or press the operating switch during release.",
+          "If the release is stuck, keep the tool unplugged and stop forcing it. Do not twist the blade pair with pliers or open the motor housing. Place the whole unit in a rigid container, mark the sharp-item risk for the collector and let a repair technician or trained receiver make it safe.",
+        ],
+        callout: {
+          type: "warning",
+          title: "A cloth wrap is not a blade guard",
+          text: "Fabric and thin plastic can be cut during transport. Use the original rigid sleeve or a purpose-made rigid container that fully covers the tip and both serrated edges.",
+        },
+      },
+      {
+        heading: "Clean food residue and keep the motor dry",
+        paragraphs: [
+          "Separate the paired blades only if the instructions show how, wash them away from the powered handle and dry them completely before rejoining or sleeving. Check the sleeve for cracks. Food residue causes odour and corrosion, while moisture placed beside a motor or plug creates an avoidable electrical risk for handlers.",
+          "Wipe the handle with the method in the manual rather than immersing it. Coil a cord loosely and inspect the plug, strain relief, switch and casing. For a cordless model, note the battery type and any swelling, heat or impact damage; do not place a damaged lithium-powered handle into an ordinary collection box.",
+        ],
+        image: blogB219Body,
+        imageAlt:
+          "Clearance worker placing an electric knife motor and coiled cable in a padded e-waste crate with blades sleeved separately",
+        imageCaption:
+          "The dry motor handle goes with small e-waste while the paired blades remain fully enclosed in a rigid sleeve.",
+      },
+      {
+        heading: "Choose reuse only when every safety part is complete",
+        paragraphs: [
+          "A working knife may suit reuse only with its matched blade pair, intact guards or sleeve, safe cable or battery, and clear instructions. State whether the release, safety switch and motor work normally. Missing covers, intermittent power or a switch that sticks are safety defects, not small cosmetic flaws.",
+          "For a failed unit, keep the motor handle complete for an e-waste receiver and tell the collector about the protected blades. Do not put the powered handle in scrap metal or hide loose blades inside it. Dubai Municipality's technical guidance distinguishes electrical and electronic equipment from general mixed waste and expects controlled handling through appropriate facilities.",
+        ],
+      },
+      {
+        heading: "Arrange collection without creating a hidden sharp hazard",
+        paragraphs: [
+          "Put the sleeved blades and motor in the same outer box only when a rigid divider keeps them apart and the receiver knows what is inside. Keep the box indoors until handover; a Dubai balcony, vehicle or loading bay is not suitable storage for a battery-powered model in summer heat.",
+          "Our [appliance collection service](https://dubaijunkcollection.com/services/appliance-removal) can include the knife in a larger kitchen clearance in [Dubai Marina](https://dubaijunkcollection.com/service-areas/dubai-marina). Related guides explain preparation for a [food processor](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-food-processor-in-dubai), a [blender](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-blender-in-dubai) and [old pots and pans](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-pots-and-pans-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can electric knife blades go in a recycling bin?",
+        answer:
+          "Do not place exposed blades in a household or communal recycling bin. A metal receiver may accept them only when they are clean, fully enclosed and declared. Confirm the local route first; otherwise hand the protected set directly to the appliance or waste collector.",
+      },
+      {
+        question: "What if the original blade sleeve is missing?",
+        answer:
+          "Use a rigid, puncture-resistant container long enough to cover the full tip and both edges, then secure it so the blades cannot slide out. Do not improvise with a towel, paper envelope or thin bag. Tell the receiver that the container holds serrated blades.",
+      },
+      {
+        question: "Can I donate an electric knife with a damaged cord?",
+        answer:
+          "No. A cut, crushed, loose or heat-damaged cord needs qualified repair assessment, not donation. Stop using the appliance, leave the housing closed and disclose the fault. Pass it only to a repair service or an appropriate e-waste route with its blades protected separately.",
+      },
+      {
+        question: "How should a cordless electric knife battery be handled?",
+        answer:
+          "Follow the maker's instructions and identify whether the pack is removable. Keep a normal battery with the device unless the receiving program requests separation. Isolate exposed terminals on a removable pack, and report swelling, leakage, unusual heat or impact damage before collection.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-a-food-processor-in-dubai",
+      "how-to-dispose-of-a-blender-in-dubai",
+      "how-to-dispose-of-old-pots-and-pans-in-dubai",
+    ],
+    serviceLink: { href: "/services/appliance-removal", label: "Arrange small-appliance collection" },
+    sources: [
+      {
+        href: "https://hamiltonbeach.com/frequently-asked-questions",
+        label: "Hamilton Beach - Electric knife safety and blade handling",
+      },
+      {
+        href: "https://www.dm.gov.ae/municipality-business/waste-and-sewerage-agency-technical-guidelines/",
+        label: "Dubai Municipality - Waste and recycling technical guidelines",
+      },
+      {
+        href: "https://uaelegislation.gov.ae/en/legislations/1490/download",
+        label: "UAE Legislation - Integrated waste management executive regulation",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-an-office-banknote-counter-in-dubai",
+    title: "How to Dispose of an Office Banknote Counter in Dubai: Cash, Records and E-Waste",
+    excerpt:
+      "Close the cash count first, clear every note path and reject pocket, record the serial and accessories, then release the empty machine through controlled e-waste handover.",
+    category: "Commercial & Office",
+    coverImage: blogB220Cover,
+    coverImageAlt:
+      "Facilities staff checking an empty banknote counter and disconnected power cable in a secure Dubai office",
+    publishedAt: "2026-11-24",
+    readingTime: "8 min read",
+    author: defaultAuthor,
+    tags: ["Banknote Counter Disposal", "Office E-Waste", "Cash Room Clearance", "Asset Handover"],
+    seoTitle: "How to Dispose of an Office Banknote Counter in Dubai",
+    seoDescription:
+      "How to dispose of an office banknote counter in Dubai: reconcile cash, clear note paths, record assets, erase settings and arrange an e-waste handover.",
+    keyTakeaways: [
+      "Cash-room staff, not the removal crew, should reconcile the final count and inspect the hopper, stacker, reject pocket and internal note path before release.",
+      "Record the serial number, ownership, maintenance status, external display, printer and power supply so leased or service-managed equipment does not leave by mistake.",
+      "Clear saved batch settings and exported reports where the model supports them, then move the empty machine upright in a padded, access-controlled handover.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an office banknote counter in Dubai?",
+        paragraphs: [
+          "To dispose of an office banknote counter in Dubai, stop counting and reconcile the cash first. Clear the hopper, stacker, reject pocket and note path, export required reports, erase saved settings, record the serial and accessories, confirm ownership, then pack the empty machine upright for a documented e-waste handover.",
+          "The removal risk is not the weight of the machine; it is releasing cash-room equipment before finance has closed custody. A folded note can remain behind a guide or reject gate, while an external display, printer or power supply can be separated from the asset and lost during a hurried office clearance.",
+        ],
+      },
+      {
+        heading: "Let finance close the count before facilities touches the machine",
+        paragraphs: [
+          "The responsible cashier or finance manager should finish the shift reconciliation, remove all currency and sign off any discrepancy. Inspect the input hopper, output stacker, reject pocket and accessible jam path using the manufacturer procedure. Never use a removal crew to search for, count or transport cash.",
+          "If a note is jammed beyond an operator-access panel, keep the machine in the controlled room and call the authorised service provider. Do not dismantle sealed modules or shake the unit over a box. Record the unresolved jam in the handover log so custody remains clear until it is recovered.",
+        ],
+        callout: {
+          type: "warning",
+          title: "No cash travels with the equipment",
+          text: "The machine is released only after finance confirms every note path and pocket is empty. Currency, deposit slips and count reports stay within the organisation's approved cash-control process.",
+        },
+      },
+      {
+        heading: "Reconcile ownership, serials and accessories",
+        paragraphs: [
+          "Check the fixed-asset register, purchase record and maintenance agreement before labelling the counter for disposal. Some equipment is leased or covered by a service exchange. Photograph the model and serial labels, and ask the supplier whether a return, data-clearance or parts-recovery condition applies.",
+          "Inventory the power supply, external customer display, printer, communication cable, dust cover, cleaning tools and any software licence media. Keep model-matched parts in a sealed pouch or small crate beside the machine. An accessory-free counter is harder to reuse, while a power adapter added to the wrong unit can cause damage.",
+        ],
+      },
+      {
+        heading: "Clear operational settings and protect the note path",
+        paragraphs: [
+          "Review the manual or service menu for stored count totals, batch presets, user profiles, network details and exported reports. Retain records under the organisation's finance policy, then clear the device where supported. Many basic counters store little beyond settings, but facilities should verify the actual model rather than assume it holds no operational information.",
+          "Switch off, disconnect power and let the machine cool. Remove no rollers, sensors or guards unless the manufacturer designates them as user-removable. Close covers, secure a hinged hopper if the manual permits and pack the counter upright. Dust from banknotes should be handled through the maker's cleaning method, not blown into an occupied office.",
+        ],
+        image: blogB220Body,
+        imageAlt:
+          "Banknote counter packed upright in a padded crate while its serial is checked during a Dubai office handover",
+        imageCaption:
+          "A serial-level handover keeps the empty machine, power supply and accessories together without exposing cash-room records.",
+      },
+      {
+        heading: "Use a documented office e-waste route",
+        paragraphs: [
+          "A banknote counter contains motors, optical sensors, circuit boards, wiring and mixed plastics, so it belongs in an electrical-equipment route rather than a general office skip. Dubai Municipality's duty-of-care guidance places responsibility on waste generators to segregate materials and use permitted waste-management companies for collection and transport.",
+          "Agree the collection list, serials, date, collector and receiving route before the machine leaves the secure area. For several branches, use one asset manifest and require exceptions to be signed rather than altering counts informally. Batteries in cordless accessories or backup modules should be identified and separated only as the receiver instructs.",
+        ],
+      },
+      {
+        heading: "Coordinate the loading-bay handover",
+        paragraphs: [
+          "Book the commercial service lift and loading bay, maintain access control and move the unit on a padded trolley or in a fitted crate. Do not leave it unattended in a shared corridor. In Business Bay towers, collection windows and contractor registration can take longer than the physical lift, so close the paperwork before the crew arrives.",
+          "Our [office clearance service](https://dubaijunkcollection.com/services/office-junk-removal) can collect decommissioned equipment from [Business Bay](https://dubaijunkcollection.com/service-areas/business-bay) and across Dubai. Related guides cover [POS systems and cash registers](https://dubaijunkcollection.com/blog/how-to-dispose-of-pos-systems-and-cash-registers-in-dubai), [paper shredders](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-office-paper-shredder-in-dubai) and [office label printers](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-office-label-printer-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can a banknote counter be sold after office use?",
+        answer:
+          "Yes, when the organisation owns it, finance has cleared it, the serial is released from the asset register and its condition is described honestly. Include the correct power supply and accessories, remove organisational labels and settings, and use a documented transfer to the buyer.",
+      },
+      {
+        question: "What if a banknote remains jammed inside the counter?",
+        answer:
+          "Do not release the machine. Keep it in the controlled area, record the amount if known and ask an authorised operator or service technician to recover it using the model procedure. Finance should resolve the discrepancy and sign off the empty note path before disposal continues.",
+      },
+      {
+        question: "Do banknote counters contain confidential data?",
+        answer:
+          "Capabilities vary. A basic model may retain only batch settings, while connected or advanced units may store users, reports or network configuration. Check the specific manual and your finance policy, export required records, clear supported storage and document what was done instead of assuming every counter is identical.",
+      },
+      {
+        question: "What information is needed for a collection quote?",
+        answer:
+          "Provide the number of machines, model photographs, approximate dimensions, accessories, battery presence and any damage, plus the floor, loading-bay rules and security requirements. State whether serial-level paperwork or a signed receiving manifest is required so the collection is priced and staffed correctly.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-pos-systems-and-cash-registers-in-dubai",
+      "how-to-dispose-of-an-office-paper-shredder-in-dubai",
+      "how-to-dispose-of-an-office-label-printer-in-dubai",
+    ],
+    serviceLink: { href: "/services/office-junk-removal", label: "Arrange controlled office equipment collection" },
+    sources: [
+      {
+        href: "https://www.safescan.com/en/support/safescan-2900-sc-full-manual",
+        label: "Safescan - Banknote counter user and safety manual",
+      },
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf",
+        label: "Dubai Municipality - Waste duty-of-care guideline",
+      },
+      {
+        href: "https://www.dm.gov.ae/municipality-business/waste-and-sewerage-agency-technical-guidelines/",
+        label: "Dubai Municipality - Waste and recycling technical guidelines",
       },
     ],
   },

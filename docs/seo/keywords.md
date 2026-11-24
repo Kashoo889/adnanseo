@@ -832,3 +832,11 @@
 | 457 | how to dispose of a coat stand in dubai          |   Q    | Blog Article (`/blog/how-to-dispose-of-a-coat-stand-in-dubai`)          |
 | 458 | how to dispose of a soda maker in dubai          |   Q    | Blog Article (`/blog/how-to-dispose-of-a-soda-maker-in-dubai`)          |
 | 459 | how to dispose of office two-way radios in dubai |   Q    | Blog Article (`/blog/how-to-dispose-of-office-two-way-radios-in-dubai`) |
+
+### New question-intent blog targets (Batch 66)
+
+|  #  | Keyword                                                   | Intent | Recommended Page                                                                 |
+| :-: | :-------------------------------------------------------- | :----: | :------------------------------------------------------------------------------- |
+| 460 | how to dispose of a plant stand in dubai                  |   Q    | Blog Article (`/blog/how-to-dispose-of-a-plant-stand-in-dubai`)                  |
+| 461 | how to dispose of an electric knife in dubai              |   Q    | Blog Article (`/blog/how-to-dispose-of-an-electric-knife-in-dubai`)              |
+| 462 | how to dispose of an office banknote counter in dubai     |   Q    | Blog Article (`/blog/how-to-dispose-of-an-office-banknote-counter-in-dubai`)     |
