@@ -400,6 +400,12 @@ import blogB219Cover from "@/assets/blog-b219-electric-knife-cover.webp";
 import blogB219Body from "@/assets/blog-b219-electric-knife-packing-body.webp";
 import blogB220Cover from "@/assets/blog-b220-banknote-counter-cover.webp";
 import blogB220Body from "@/assets/blog-b220-banknote-counter-handover-body.webp";
+import blogB221Cover from "@/assets/blog-b221-jewelry-armoire-cover.webp";
+import blogB221Body from "@/assets/blog-b221-jewelry-armoire-check-body.webp";
+import blogB222Cover from "@/assets/blog-b222-steam-mop-disposal-cover.webp";
+import blogB222Body from "@/assets/blog-b222-steam-mop-parts-body.webp";
+import blogB223Cover from "@/assets/blog-b223-projector-screen-cover.webp";
+import blogB223Body from "@/assets/blog-b223-projector-screen-lift-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -22279,6 +22285,313 @@ export const blogPosts: BlogPost[] = [
         href: "https://www.safescan.com/en/support/safescan-2900-sc-full-manual",
         label: "Safescan - Banknote counter user and safety manual",
       },
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf",
+        label: "Dubai Municipality - Waste duty-of-care guideline",
+      },
+      {
+        href: "https://www.dm.gov.ae/municipality-business/waste-and-sewerage-agency-technical-guidelines/",
+        label: "Dubai Municipality - Waste and recycling technical guidelines",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-jewelry-armoire-in-dubai",
+    title: "How to Dispose of a Jewelry Armoire in Dubai: Mirrors, Velvet Drawers and Safe Packing",
+    excerpt:
+      "Check every ring slot, side-door hook and hidden compartment first, lock or tape swing doors shut, protect full-length mirror glass and route intact cabinets for reuse.",
+    category: "Guides & Tips",
+    coverImage: blogB221Cover,
+    coverImageAlt:
+      "Uniformed crew member wrapping a tall wooden jewelry armoire with moving blankets in a sunlit Dubai villa bedroom",
+    publishedAt: "2026-11-25",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Jewelry Armoire Disposal", "Mirrored Furniture", "Bedroom Clearance", "Furniture Reuse"],
+    seoTitle: "How to Dispose of a Jewelry Armoire in Dubai | Guide",
+    seoDescription:
+      "How to dispose of a jewelry armoire in Dubai: check hidden compartments, secure mirrored doors, patch wall-mount holes and choose reuse or collection.",
+    keyTakeaways: [
+      "Empty every velvet ring roll, necklace hook, watch cushion and hidden compartment under good light before the armoire is wrapped or moved.",
+      "Tape or lock swing-open side doors and drawers shut, and pad any full-length front mirror with corrugated board so the glass does not flex in transit.",
+      "Remove wall-mounted armoire brackets and patch the rawl-plug holes before a tenancy handover, then donate sound units or book bulky collection for damaged ones.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a jewelry armoire in Dubai?",
+        paragraphs: [
+          "To dispose of a jewelry armoire in Dubai, empty every drawer, ring slot, side-door hook and hidden compartment first. Lock or tape doors shut, pad any full-length mirror, unbolt wall brackets and patch anchor holes, then donate or sell intact cabinets or book bulky furniture collection.",
+          "Unlike a standard chest of drawers, a jewelry armoire mixes small hidden storage with narrow, top-heavy framing and often a full-length front mirror. Most move-out headaches happen because a small clasp or key is left in a velvet liner, or an unpadded mirror door swings open inside a lift.",
+        ],
+      },
+      {
+        heading: "Sweep every compartment before taping doors",
+        paragraphs: [
+          "Pull each shallow drawer completely out and run a hand along the back rail and felt lining, where earrings, cufflinks and watch links easily slip behind dividers. Check the flip-top lid mirror pocket, the lower deep drawers and any hidden side or rear latch compartments.",
+          "If the cabinet has a key lock, test it while the doors are open so you know whether the latch still engages, then tape the key inside a small labelled pouch. Never use strong packaging tape directly on lacquered wood or faux-leather trim; wrap a layer of stretch film or moving paper around the body first.",
+        ],
+        image: blogB221Body,
+        imageAlt:
+          "Homeowner checking empty velvet-lined ring slots and side necklace hooks inside a walnut jewelry armoire before packing",
+        imageCaption:
+          "Inspecting every velvet slot and side-door hook in daylight prevents small valuables from leaving with the cabinet.",
+        callout: {
+          type: "warning",
+          title: "Check behind drawer liners and side wings",
+          text: "Do not let a clearance crew wrap or tip the armoire until you have personally cleared every felt tray, side necklace door and secret compartment.",
+        },
+      },
+      {
+        heading: "Protect the mirror and stabilise the frame",
+        paragraphs: [
+          "Many standing jewelry armoires have a full-length mirror mounted on a hinged front door that adds weight to one side. Close and latch the mirror door, lay a sheet of thick cardboard or folded moving blanket across the glass face and bind it in place with stretch wrap.",
+          "For cheval-style floor mirrors with a tilt-stand base, tighten the side pivot knobs or remove the cabinet from its A-frame legs so the unit travels flat and balanced. If the mirror is already cracked, tape an X-pattern across the glass and warn the collection crew before lifting.",
+        ],
+      },
+      {
+        heading: "Handle wall-mounted cabinets for tenancy handover",
+        paragraphs: [
+          "Over-the-door and wall-mounted jewelry cabinets are common in compact Dubai Marina and Downtown apartments. Lift the unit off its top door hooks or wall cleat, remove the metal brackets and pull out plastic rawl plugs from the plasterboard or masonry.",
+          "In a rented apartment, leaving four or six open drill holes behind a bedroom door can trigger a snagging deduction during your Ejari inspection. Fill the holes cleanly with wall filler and touch up paint if needed before handing back the keys.",
+        ],
+      },
+      {
+        heading: "Decide between reuse and bulky collection",
+        paragraphs: [
+          "A solid-wood or clean MDF jewelry armoire with intact hinges, unstained velvet lining and an unchipped mirror is easy to sell or pass on locally. Photograph it open and closed in natural light, list the height and depth clearly and include any keys or door hooks.",
+          "Units with peeling laminate from humidity, broken mirror hinges or missing drawers are not suitable for charity donation. Never leave a tall mirrored cabinet beside a building chute room or community bin; Dubai tower management enforces strict rules against corridor dumping. Our [furniture removal service](https://dubaijunkcollection.com/services/furniture-removal) can collect damaged or bulky units from villas and apartments in [Jumeirah](https://dubaijunkcollection.com/service-areas/jumeirah) and across Dubai. You can also check our guides to [dressing table disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-dressing-table-in-dubai), [large mirror and glass handling](https://dubaijunkcollection.com/blog/how-to-dispose-of-large-mirror-glass-dubai) and [chest of drawers removal](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-chest-of-drawers-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Do charities in Dubai accept used jewelry armoires?",
+        answer:
+          "Charities and thrift groups usually accept freestanding jewelry cabinets only if the mirror is unchipped, all drawers slide smoothly, hinges are tight and the velvet lining is clean and odour-free. Cabinets with cracked glass, swollen particleboard or broken locks are normally declined.",
+      },
+      {
+        question: "Can I throw a small jewelry cabinet in my building's waste room?",
+        answer:
+          "No. Even compact freestanding or wall-mounted armoires contain mirror glass, wood composite panels and metal hardware that do not belong in general chute bins. Leaving bulky mirrored furniture in a tower refuse room risks building fines and glass breakage.",
+      },
+      {
+        question: "Should I take the mirror off a jewelry armoire before collection?",
+        answer:
+          "Only unscrew the mirror door if it is designed to detach cleanly and you have a padded sleeve for the glass. In most cases, latching the door shut and taping a sheet of cardboard over the glass face is safer than prising glued mirror panels off the frame.",
+      },
+      {
+        question: "What details help get an accurate removal quote?",
+        answer:
+          "Send a photo showing the full height of the armoire, note whether the mirror is intact or cracked, and mention if it is freestanding, wall-mounted or part of a larger bedroom clearance, along with your building's service-lift access hours.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-a-dressing-table-in-dubai",
+      "how-to-dispose-of-large-mirror-glass-dubai",
+      "how-to-dispose-of-a-chest-of-drawers-in-dubai",
+    ],
+    serviceLink: { href: "/services/furniture-removal", label: "Book bedroom furniture removal" },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/municipality-business/waste-and-sewerage-agency-technical-guidelines/",
+        label: "Dubai Municipality - Waste and recycling technical guidelines",
+      },
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf",
+        label: "Dubai Municipality - Waste duty-of-care guideline",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-steam-mop-in-dubai",
+    title: "How to Dispose of a Steam Mop in Dubai: Water Tanks, Descaling Residue and E-Waste",
+    excerpt:
+      "Let the boiler cool, empty tap water and descaling solution, bin soiled microfibre pads, remove any cordless battery pack and route the electrical body for e-waste recycling.",
+    category: "Eco & Recycling",
+    coverImage: blogB222Cover,
+    coverImageAlt:
+      "Unplugged steam mop beside a Dubai apartment kitchen sink with its emptied water tank and used microfibre pad bagged separately",
+    publishedAt: "2026-11-25",
+    readingTime: "6 min read",
+    author: defaultAuthor,
+    tags: ["Steam Mop Disposal", "Small Appliance E-Waste", "Floor Cleaner Recycling", "Dubai E-Waste"],
+    seoTitle: "How to Dispose of a Steam Mop in Dubai | E-Waste Guide",
+    seoDescription:
+      "How to dispose of a steam mop in Dubai: cool and drain the tank, remove soiled pads, separate cordless batteries and recycle the electrical unit safely.",
+    keyTakeaways: [
+      "Unplug the steam mop and let the internal boiler cool completely before opening the water cap or tipping out remaining tap water or descaler.",
+      "Strip used microfibre pads and soiled mop heads into general waste rather than leaving damp textiles attached to an electrical appliance.",
+      "Keep clean carpet gliders and nozzle attachments with working units for resale, and isolate any cordless lithium battery pack before e-waste recycling.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a steam mop in Dubai?",
+        paragraphs: [
+          "To dispose of a steam mop in Dubai, unplug it and let the boiler cool completely. Empty any remaining water or descaling solution, remove and bin soiled microfibre pads, separate detachable nozzles and any cordless lithium battery, then donate working units or drop broken ones at an e-waste point.",
+          "Steam mops are popular on Dubai's porcelain and marble floors, yet they fail more often than dry vacuums because mineral scale builds up inside the heating element. Preparing the tank and pads properly keeps leaks out of lift lobbies and keeps electrical components out of household rubbish.",
+        ],
+      },
+      {
+        heading: "Cool, depressurise and empty the water tank",
+        paragraphs: [
+          "If the mop was tested recently, switch it off, pull the plug and wait at least 30 minutes until the body and boiler cap are cold to the touch. Opening a pressurised steam cap while warm can release hot water or steam.",
+          "Over the kitchen or laundry sink, remove the translucent reservoir or uncap the fixed boiler and tip out every drop of water. If you recently ran vinegar or a liquid descaler through the tank, flush it once with plain water and leave the cap off for an hour so the chamber dries before packing.",
+        ],
+        callout: {
+          type: "info",
+          title: "Never pack a half-full tank",
+          text: "Even a small splash of trapped water will leak through the steam head when the mop is laid flat in a car boot or removal crate.",
+        },
+      },
+      {
+        heading: "Separate soiled pads, nozzles and battery packs",
+        paragraphs: [
+          "Peel off used microfibre floor pads and handheld steamer cloths. Heavily worn or stained pads belong in bagged general waste, not in textile charity bins or e-waste crates.",
+          "For cordless or handheld-convertible steam mops, slide out the removable lithium-ion battery pack if the model uses one, tape over the metal contacts and take it to a battery drop-off point. Keep plastic carpet gliders, grout brushes and crevice nozzles together in a small bag if the mop still heats cleanly.",
+        ],
+        image: blogB222Body,
+        imageAlt:
+          "Grey sorting crate holding an unplugged steam mop body, empty water tank, plastic nozzles and a bagged cordless battery pack",
+        imageCaption:
+          "Keeping the drained tank, clean attachments and any removable battery organised speeds up reuse or e-waste sorting.",
+      },
+      {
+        heading: "Reuse working units or recycle broken ones",
+        paragraphs: [
+          "A working steam mop with a clean tank, intact cord and one or two washed spare pads is easy to pass on to a neighbour or sell before a move. Describe whether it is corded or cordless and mention if the boiler has been descaled.",
+          "A dead heating element, cracked water reservoir or frayed power cord puts the mop in the small electrical waste stream. Under UAE waste rules, electrical appliances should not be dropped down apartment trash chutes. Place broken units at a verified community e-waste drop-off, or include them in a larger kitchen or utility clear-out with our [appliance removal service](https://dubaijunkcollection.com/services/appliance-removal) covering [Jumeirah Village Circle](https://dubaijunkcollection.com/service-areas/jumeirah-village-circle) and wider Dubai. See also our guides to [vacuum cleaner disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-old-vacuum-cleaner-in-dubai), [garment steamer disposal](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-garment-steamer-in-dubai) and [electric kettle recycling](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-electric-kettle-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can I throw a broken steam mop in the normal kitchen bin?",
+        answer:
+          "No. A steam mop contains a heating element, thermostat, pump, circuit board and power cable, making it small electronic waste. Electrical items should be taken to an accepted e-waste drop-off or collected by a licensed waste carrier rather than binned.",
+      },
+      {
+        question: "Do I need to descale a broken steam mop before recycling it?",
+        answer:
+          "No. If the mop is broken and bound for e-waste recycling, you only need to let it cool, drain out standing water and remove soiled cloth pads. Do not pour acid descalers into a dead unit that cannot rinse itself out.",
+      },
+      {
+        question: "What should I do with unused replacement steam mop pads?",
+        answer:
+          "Sealed or freshly laundered spare microfibre pads can be donated or sold alongside a working steam mop, or kept for general household dusting. Only heavily soiled or frayed pads need to go into general waste.",
+      },
+      {
+        question: "Is it worth booking a separate pickup for one steam mop?",
+        answer:
+          "For a single small steam mop, a community e-waste drop-off box or retailer take-back is usually more economical. Booking a crew makes more sense when you are clearing several appliances, furniture pieces or storeroom boxes in one trip.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-an-old-vacuum-cleaner-in-dubai",
+      "how-to-dispose-of-a-garment-steamer-in-dubai",
+      "how-to-dispose-of-an-electric-kettle-in-dubai",
+    ],
+    serviceLink: { href: "/services/appliance-removal", label: "Arrange small appliance collection" },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/municipality-business/waste-and-sewerage-agency-technical-guidelines/",
+        label: "Dubai Municipality - Waste and recycling technical guidelines",
+      },
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf",
+        label: "Dubai Municipality - Waste duty-of-care guideline",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-an-office-projector-screen-in-dubai",
+    title: "How to Dispose of an Office Projector Screen in Dubai: Motorised Casings, Long Tubes and Ceiling Reinstatement",
+    excerpt:
+      "Retract and lock the screen fabric into its cassette, isolate hard-wired switches and 12V triggers, measure 2.5m+ casings for commercial lifts and reinstate ceiling mounts before handover.",
+    category: "Commercial & Office",
+    coverImage: blogB223Cover,
+    coverImageAlt:
+      "Two commercial clearance technicians lowering a retracted motorised projector screen cassette in a sunlit Dubai conference room",
+    publishedAt: "2026-11-25",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Projector Screen Disposal", "Office AV E-Waste", "Boardroom Decommissioning", "Commercial Clearance"],
+    seoTitle: "How to Dispose of an Office Projector Screen in Dubai",
+    seoDescription:
+      "How to dispose of an office projector screen in Dubai: retract the fabric, isolate motor wiring, plan lift access for long casings and make good ceilings.",
+    keyTakeaways: [
+      "Always roll a motorised or manual pull-down screen fully inside its metal cassette before disconnecting power so the tensioned fabric and weighted bottom bar stay protected.",
+      "Have a qualified building electrician isolate hard-wired wall switches, 12V trigger cables and ceiling-recessed junction boxes before unmounting.",
+      "Measure the full cassette length (often 2.4 m to 3.5 m) against service-lift diagonal clearance and confirm ceiling or wall make-good rules before your lease handover.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an office projector screen in Dubai?",
+        paragraphs: [
+          "To dispose of an office projector screen in Dubai, retract the fabric completely into its metal cassette before cutting power. Have an electrician isolate hard-wired wall switches or ceiling feeds, confirm landlord versus tenant ownership, measure the long casing for service lifts, then recycle motorised units as commercial e-waste.",
+          "A boardroom screen looks simple until it comes off the wall: a 120-inch or 150-inch tensioned cassette can be over three metres long, heavier at the motor end and wired directly into a ceiling void. Planning isolation and lift length first avoids torn vinyl, scuffed lift doors and handover penalties.",
+        ],
+      },
+      {
+        heading: "Retract the fabric and isolate the power safely",
+        paragraphs: [
+          "Run a motorised screen all the way up into its housing before switching off the breaker or unplugging the control lead. Once power is isolated, a tubular motor cannot retract a half-dropped screen, and carrying a cassette with dangling fabric or a loose weighted batten almost always creases the surface.",
+          "For manual spring-roller screens, retract slowly until the catch locks cleanly. Have a licensed electrician disconnect any hard-wired wall rocker switch, infrared receiver or 12V projector trigger cable and cap the live feed safely inside the back box.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Never cut live ceiling feeds",
+          text: "Motorised recessed screens in Dubai offices are often wired to dedicated lighting or AV spurs above the false ceiling. Isolate and test the circuit before any bracket is loosened.",
+        },
+      },
+      {
+        heading: "Check ownership and reinstate ceilings or walls",
+        paragraphs: [
+          "Review your office lease inventory and fit-out schedule before removing a ceiling-recessed or wall-mounted screen. Many fitted boardrooms in Dubai Internet City and Business Bay include the recessed screen as part of the landlord's base build, while portable tripod or tenant-installed wall screens belong to the company.",
+          "If the screen is tenant-owned and must come down for reinstatement, remove the masonry wall brackets or threaded ceiling rods, replace any cut gypsum ceiling tiles and patch anchor holes so the room passes commercial handover inspection.",
+        ],
+      },
+      {
+        heading: "Plan service-lift geometry for 2.5m to 3.5m casings",
+        paragraphs: [
+          "A rigid metal cassette between 2.4 metres and 3.5 metres long will not lie flat inside many standard tower service lifts. Measure the elevator's diagonal floor-to-ceiling clearance and loading-bay door height before booking collection, and keep the remote handset, wall switch and mounting brackets taped in a bag to the casing.",
+          "Motorised screens contain a tubular electric motor, control PCB, limit switches and coated steel housing, so they require a documented commercial e-waste route rather than a general construction skip. Our [office junk removal team](https://dubaijunkcollection.com/services/office-junk-removal) handles boardroom decommissioning across [Dubai Internet City](https://dubaijunkcollection.com/service-areas/dubai-internet-city) and Dubai commercial towers. Related guides cover [office projectors](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-office-projector-in-dubai), [video-conferencing equipment](https://dubaijunkcollection.com/blog/how-to-dispose-of-video-conferencing-equipment-in-dubai) and [interactive displays](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-interactive-display-in-dubai).",
+        ],
+        image: blogB223Body,
+        imageAlt:
+          "Retracted white motorised projector screen cassette, wall switch and brackets staged diagonally on a trolley in a Dubai office service-lift lobby",
+        imageCaption:
+          "Keeping the retracted cassette padded alongside its wall switch and brackets protects the motor end through commercial service lifts.",
+      },
+    ],
+    faqs: [
+      {
+        question: "Can a motorised projector screen be donated or resold in Dubai?",
+        answer:
+          "Yes, if the screen fabric is flat without edge curl or staining, the motor runs quietly to both upper and lower limits, and the remote, wall switch and mounting brackets are all included. Buyers will usually test the drop-down travel before collecting.",
+      },
+      {
+        question: "What if a motorised screen is stuck halfway down?",
+        answer:
+          "Do not force the weighted bar upward against a jammed tubular motor, as that can strip the internal gears or tear the vinyl. Have a technician check the limit switch or power supply first; if the motor has failed completely, tape the rolled fabric securely along the casing before removal.",
+      },
+      {
+        question: "Do projector screens count as electronic waste?",
+        answer:
+          "Motorised screens do, because they house an electric tubular motor, receiver board, wiring and limit switches inside the cassette. Manual pull-down and tripod screens have no electronics and can be routed for steel, aluminium and fabric scrap separation.",
+      },
+      {
+        question: "What information is needed for an office removal quote?",
+        answer:
+          "Share the screen width or diagonal size, whether it is manual, wall-mounted motorised or ceiling-recessed, whether it is already unmounted and isolated, plus your floor level, service-lift dimensions and building permit hours.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-an-office-projector-in-dubai",
+      "how-to-dispose-of-video-conferencing-equipment-in-dubai",
+      "how-to-dispose-of-an-interactive-display-in-dubai",
+    ],
+    serviceLink: { href: "/services/office-junk-removal", label: "Schedule boardroom & office clearance" },
+    sources: [
       {
         href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf",
         label: "Dubai Municipality - Waste duty-of-care guideline",

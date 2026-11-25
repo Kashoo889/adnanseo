@@ -840,3 +840,11 @@
 | 460 | how to dispose of a plant stand in dubai                  |   Q    | Blog Article (`/blog/how-to-dispose-of-a-plant-stand-in-dubai`)                  |
 | 461 | how to dispose of an electric knife in dubai              |   Q    | Blog Article (`/blog/how-to-dispose-of-an-electric-knife-in-dubai`)              |
 | 462 | how to dispose of an office banknote counter in dubai     |   Q    | Blog Article (`/blog/how-to-dispose-of-an-office-banknote-counter-in-dubai`)     |
+
+### New question-intent blog targets (Batch 67)
+
+|  #  | Keyword                                                   | Intent | Recommended Page                                                                 |
+| :-: | :-------------------------------------------------------- | :----: | :------------------------------------------------------------------------------- |
+| 463 | how to dispose of a jewelry armoire in dubai              |   Q    | Blog Article (`/blog/how-to-dispose-of-a-jewelry-armoire-in-dubai`)              |
+| 464 | how to dispose of a steam mop in dubai                    |   Q    | Blog Article (`/blog/how-to-dispose-of-a-steam-mop-in-dubai`)                    |
+| 465 | how to dispose of an office projector screen in dubai     |   Q    | Blog Article (`/blog/how-to-dispose-of-an-office-projector-screen-in-dubai`)     |

@@ -839,6 +839,17 @@ _Continues the furniture-appliance-office sequence through three different contr
 
 **Overlap check (content-rules section 16):** B215 differs from B100 (shoe racks), B153 (bar stools), B109 (floor and table lamps) and the shelving-units guide through hook-crown and protruding-hook protection, wall-anchored hall trees and handover hole records, screw-together pole sections and cast-iron, marble or filled weighted bases. B216 differs from B119 (coffee machines), the water-dispenser guide, B156 (electric kettles) and the hazardous-waste guide through removing and returning a pressurised CO2 cylinder via retailer exchange, cylinder heat storage, carbonation-bottle use-by dates, syrup residue and manual versus electric machine routes. B217 differs from B140 (UPS batteries), B190 (desk phones), B211 (barcode scanners) and B214 (tablets) through channel, talk-group and encryption-key codeplug clearing, TDRA frequency-authorisation records, contractor-supplied handsets, model-specific antennas, hygiene earpieces and multi-unit charger banks.
 
+### Track 70: Mirrored Bedroom Storage, Heated Floor Care & Boardroom Projection Screens (Clusters 3, 4, 5 & 6)
+*Continues the furniture–appliance–office sequence through three distinct controls: sweeping hidden velvet compartments and padding full-length front mirrors on a jewelry armoire, cooling and draining a floor-boiler steam mop before electrical recycling, and retracting, isolating and measuring 2.5m+ motorised projector screen casings for commercial lift access.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B221** | *How to Dispose of a Jewelry Armoire in Dubai: Mirrors, Velvet Drawers and Safe Packing* | `how to dispose of a jewelry armoire in dubai` | `jewelry cabinet disposal dubai`, `mirrored furniture removal dubai`, `bedroom furniture collection dubai` | Q | `/services/furniture-removal` |
+| **B222** | *How to Dispose of a Steam Mop in Dubai: Water Tanks, Descaling Residue and E-Waste* | `how to dispose of a steam mop in dubai` | `steam mop recycling dubai`, `small appliance disposal dubai`, `floor cleaner e-waste dubai` | Q | `/services/appliance-removal` |
+| **B223** | *How to Dispose of an Office Projector Screen in Dubai: Motorised Casings, Long Tubes and Ceiling Reinstatement* | `how to dispose of an office projector screen in dubai` | `projector screen removal dubai`, `motorised screen disposal dubai`, `office av e-waste dubai` | Q | `/services/office-junk-removal` |
+
+**Overlap check (content-rules section 16):** B221 differs from B134 (dressing tables), B62 (standalone mirrors), B122 (chests of drawers) and B100 (shoe racks) through checking velvet ring rolls, side-door necklace hooks and hidden compartments for small valuables, locking or taping swing doors, padding full-length front mirror glass and patching wall-mounted bracket holes at handover. B222 differs from B96 (vacuum cleaners), B165 (garment steamers) and B156 (electric kettles) through cooling and depressurising a floor-boiler tank, emptying tap water and descaling solution, binning soiled microfibre pads and isolating cordless lithium battery packs before electrical recycling. B223 differs from B145 (projectors), B202 (video-conferencing systems), B205 (interactive displays) and B148 (whiteboards) through retracting and locking tensioned screen fabric into its cassette, isolating hard-wired wall switches and 12V triggers, measuring 2.5m–3.5m rigid casings against commercial service-lift diagonals and reinstating ceiling-recessed slots or masonry anchors.
+
 ---
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -906,3 +917,5 @@ _Continues the furniture-appliance-office sequence through three different contr
 63. **Batch 63 (Articles B209–B211):** Wheeled Entertaining Furniture, Tabletop Grilling & Barcode Capture — **100% Completed (3/3 Published/Scheduled)**.
 64. **Batch 64 (Articles B212–B214):** Folding Event Seating, Food Dehydration & Managed Tablets — **100% Completed (3/3 Scheduled)**.
 65. **Batch 65 (Articles B215–B217):** Hallway Coat Stands, Home Carbonation & Workplace Radios — **100% Completed (3/3 Scheduled)**.
+66. **Batch 66 (Articles B218–B220):** Tiered Plant Display, Powered Carving & Cashroom Counting — **100% Completed (3/3 Live)**.
+67. **Batch 67 (Articles B221–B223):** Mirrored Bedroom Storage, Heated Floor Care & Boardroom Projection Screens — **100% Completed (3/3 Live)**.
