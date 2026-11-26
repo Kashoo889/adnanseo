@@ -406,6 +406,12 @@ import blogB222Cover from "@/assets/blog-b222-steam-mop-disposal-cover.webp";
 import blogB222Body from "@/assets/blog-b222-steam-mop-parts-body.webp";
 import blogB223Cover from "@/assets/blog-b223-projector-screen-cover.webp";
 import blogB223Body from "@/assets/blog-b223-projector-screen-lift-body.webp";
+import blogB224Cover from "@/assets/blog-b224-folding-table-removal-cover.webp";
+import blogB224Body from "@/assets/blog-b224-folding-table-parts-body.webp";
+import blogB225Cover from "@/assets/blog-b225-electric-heater-disposal-cover.webp";
+import blogB225Body from "@/assets/blog-b225-electric-heater-sorting-body.webp";
+import blogB226Cover from "@/assets/blog-b226-digital-signage-removal-cover.webp";
+import blogB226Body from "@/assets/blog-b226-digital-signage-components-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -22591,6 +22597,306 @@ export const blogPosts: BlogPost[] = [
       "how-to-dispose-of-an-interactive-display-in-dubai",
     ],
     serviceLink: { href: "/services/office-junk-removal", label: "Schedule boardroom & office clearance" },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf",
+        label: "Dubai Municipality - Waste duty-of-care guideline",
+      },
+      {
+        href: "https://www.dm.gov.ae/municipality-business/waste-and-sewerage-agency-technical-guidelines/",
+        label: "Dubai Municipality - Waste and recycling technical guidelines",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-folding-table-in-dubai",
+    title: "How to Dispose of a Folding Table in Dubai: Hinge Locks, Warped Tops and Bulk Collection",
+    excerpt:
+      "Lock the scissor-hinge steel legs, check for heat-warped plastic or swollen particleboard, separate usable event tables from scrap, and book a bulky furniture pickup without blocking building lifts.",
+    category: "Guides & Tips",
+    coverImage: blogB224Cover,
+    coverImageAlt:
+      "Two uniformed Dubai clearance crew members carrying a white trestle table out of a sunlit villa courtyard toward a removal truck",
+    publishedAt: "2026-11-26",
+    readingTime: "6 min read",
+    author: defaultAuthor,
+    tags: ["Folding Table Disposal", "Trestle Table Removal", "Bulky Furniture", "Villa Clearance"],
+    seoTitle: "How to Dispose of a Folding Table in Dubai",
+    seoDescription:
+      "How to dispose of a folding table in Dubai: lock leg braces, check heat-warped tops, donate intact tables or book bulky steel and plastic collection.",
+    keyTakeaways: [
+      "Always slide the steel locking rings over both leg-brace hinges before carrying or stacking a folding table so the legs cannot snap open in a lift or corridor.",
+      "Inspect the tabletop for sun warping, cracked HDPE corners or swollen particleboard from garage humidity before offering it for resale or charity pickup.",
+      "Never leave folded 1.8m trestle tables beside apartment bin chutes; book a dedicated bulky collection or donate intact sets in one trip.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a folding table in Dubai?",
+        paragraphs: [
+          "To dispose of a folding table in Dubai, fold the legs flat, engage the locking rings or centre-latch, and assess whether the top is still flat and sturdy. Intact tables can be resold or donated, while warped plastic or rusted steel frames need bulky furniture collection or scrap sorting.",
+          "Most folding tables in Dubai are bought for Ramadan Iftar gatherings, villa garden parties, or temporary work-from-home setups, then stored upright in a hot garage or balcony until they buckle. Because a standard 1.8-metre trestle table is too tall and heavy for household waste bins, clearing it safely comes down to securing the frame and choosing the right route.",
+        ],
+      },
+      {
+        heading: "Lock the legs and check for heat or humidity damage",
+        paragraphs: [
+          "Start by turning the table upside down on a mat and folding each leg assembly inward until it sits flush against the underside. On steel-framed trestle tables, slide the small metal locking collar firmly over the folding brace hinge; on bi-fold tables, engage the centre carry-handle latch so the two halves cannot pinch fingers when lifted.",
+          "Check the surface honestly before listing it online. Blow-moulded HDPE plastic tops left in uncooled garages or on terraces often bow in the middle or turn chalky and brittle under summer UV exposure. Melamine or particleboard catering tables swell along the edges if stored near AC condensation or garden hoses, which makes them unsafe for reuse.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Watch the centre hinge on bi-fold tables",
+          text: "If the plastic carry latch on a bi-fold table is snapped or missing, wrap a strap or heavy tape around the folded edges before lifting. Unlatched halves can swing open mid-carry and catch lift doors or fingers.",
+        },
+      },
+      {
+        heading: "Separate intact tables for reuse from damaged frames",
+        paragraphs: [
+          "A flat, clean folding table with intact rubber foot caps and working leg locks moves quickly on local community groups or through villa estate sales, especially ahead of winter hosting season. Wipe off dust, tape any loose bolts or spare foot caps in a small bag to the underside rail, and note the exact length (typically 1.2 m, 1.5 m, or 1.8 m) so buyers bring a suitable car.",
+          "If the frame is rusted, a weld has cracked, or the top has warped, separate it as non-reusable bulky waste. Apartment towers strictly prohibit leaving long tables in garbage rooms or beside chute doors, and building security will issue a fine if communal corridors are blocked.",
+        ],
+        image: blogB224Body,
+        imageAlt:
+          "Folded white steel-leg banquet table leaning against a Dubai villa garage wall beside a moving blanket with the leg brace locking ring and taped hardware bag visible",
+        imageCaption:
+          "Engaging the steel brace lock and taping loose caps to the frame keeps a folded table safe to lean, stack, and carry.",
+      },
+      {
+        heading: "Clearing single or stacked event tables in one trip",
+        paragraphs: [
+          "When you are clearing a single warped table or a full stack of ten catering trestles after an office or villa event, check service-lift height and loading-bay booking windows first. A 1.8-metre unfolded or single-piece table often needs to travel diagonally in smaller residential lifts.",
+          "Our [furniture removal team](https://dubaijunkcollection.com/services/furniture-removal) collects single folding tables and bulk event stacks across [Arabian Ranches](https://dubaijunkcollection.com/service-areas/arabian-ranches) and Dubai residential or commercial buildings, separating steel underframes from polymer or timber tops. Related guides cover [folding chairs](https://dubaijunkcollection.com/blog/how-to-dispose-of-folding-chairs-in-dubai), [conference tables](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-conference-table-in-dubai) and [coffee tables](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-coffee-table-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can I put a broken folding table in my apartment bin room?",
+        answer:
+          "No. Folding tables are bulky mixed-material items (steel legs plus HDPE plastic or particleboard) that do not fit residential waste chutes or standard wheelie bins. Leaving them in bin rooms usually triggers building management fines.",
+      },
+      {
+        question: "Will charities in Dubai pick up a single warped trestle table?",
+        answer:
+          "Charities generally only accept clean, flat, structurally sound furniture they can redistribute immediately. A heat-bowed plastic top, rusted leg hinge, or swollen timber edge will usually be declined at inspection.",
+      },
+      {
+        question: "Should I unscrew the steel legs before collection?",
+        answer:
+          "No, you do not need to unbolt the frame unless a hinge is jammed open and cannot fold flat. Simply fold the legs in, secure any broken centre latches with tape, and keep loose rubber feet in a small bag.",
+      },
+      {
+        question: "What details help get an accurate removal quote?",
+        answer:
+          "Send a photo of the folded table (or stack of tables), the approximate length, whether it is in a villa garage or an apartment tower, and your building's service-lift or security permit hours.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-folding-chairs-in-dubai",
+      "how-to-dispose-of-a-conference-table-in-dubai",
+      "how-to-dispose-of-a-coffee-table-in-dubai",
+    ],
+    serviceLink: { href: "/services/furniture-removal", label: "Book folding table & furniture removal" },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/municipality-business/waste-and-sewerage-agency-technical-guidelines/",
+        label: "Dubai Municipality - Waste and recycling technical guidelines",
+      },
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf",
+        label: "Dubai Municipality - Waste duty-of-care guideline",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-an-electric-heater-in-dubai",
+    title: "How to Dispose of an Electric Heater in Dubai: Oil-Filled Radiators, Ceramic Units and E-Waste",
+    excerpt:
+      "Identify whether your heater is a sealed oil-filled radiator or a dry ceramic fan unit, check for scorched plugs, keep thermal oil intact, and route it safely as appliance e-waste.",
+    category: "Eco & Recycling",
+    coverImage: blogB225Cover,
+    coverImageAlt:
+      "Uniformed Dubai appliance technician wheeling a strapped white finned oil-filled electric radiator on a padded trolley through a villa hallway beside a compact ceramic heater",
+    publishedAt: "2026-11-26",
+    readingTime: "6 min read",
+    author: defaultAuthor,
+    tags: ["Electric Heater Disposal", "Oil-Filled Radiator", "Appliance Recycling", "E-Waste Dubai"],
+    seoTitle: "How to Dispose of an Electric Heater in Dubai",
+    seoDescription:
+      "How to dispose of an electric heater in Dubai: keep oil-filled radiators sealed, separate dry ceramic fan heaters, and route both to appliance e-waste.",
+    keyTakeaways: [
+      "Oil-filled finned radiators contain sealed diathermic thermal oil that must never be punctured, drained at home, or crushed in general waste compactors.",
+      "Dry ceramic, halogen, and convector fan heaters contain no liquids and go directly through small-appliance e-waste collection once cooled and unplugged.",
+      "Inspect the UK 3-pin plug and power cord for heat discolouration or melted insulation before offering any working heater for resale or donation.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an electric heater in Dubai?",
+        paragraphs: [
+          "To dispose of an electric heater in Dubai, unplug it, let it cool completely, and identify whether it is a sealed oil-filled radiator or a dry ceramic fan heater. Never put either type in household bins; route dry units through e-waste recycling and keep oil-filled radiators upright and sealed for specialist appliance collection.",
+          "In Dubai, portable heaters are often bought for a few chilly weeks in January across tiled villas, then pushed to the back of a storeroom until a move-out or spring clear-out. Knowing what is inside the casing decides whether it can be resold safely or needs controlled recycling.",
+        ],
+      },
+      {
+        heading: "Identify oil-filled radiators versus dry ceramic or fan heaters",
+        paragraphs: [
+          "Heavy finned column radiators on castor wheels are filled with sealed mineral thermal oil that transfers heat silently through the steel fins. That oil is permanently sealed at the factory and should never be opened, drained into a sink, or punctured.",
+          "Lightweight tower heaters, ceramic PTC units, halogen bars, and compact fan heaters contain no fluid—only heating elements, a fan motor, thermal cut-off switches, and circuit boards. Both types are classed as electrical waste under UAE waste regulations and must stay out of municipal rubbish chutes.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Never bin or crush an oil-filled radiator",
+          text: "If an oil-filled radiator is dropped into a building compactor or general skip, the steel fins can split and leak thermal oil onto floors or into mixed waste. Always transport it upright and intact.",
+        },
+      },
+      {
+        heading: "Check cords, thermostats and oil seals before rehoming",
+        paragraphs: [
+          "Before giving away or selling a heater that still turns on, inspect the moulded plug pins and the flex where it enters the body. Because heaters draw high continuous current, worn sockets or cheap extension leads often leave brown scorch marks or stiff, brittle insulation on the cord—any unit with heat damage should be retired immediately rather than passed on.",
+          "Check the bottom seam of an oil-filled radiator for sticky residue or a faint chemical smell, which signals a pinhole leak. Coil the power cord neatly around the cord-wrap bracket or secure it to the top handle, and keep the castor wheels intact so it rolls smoothly without scratching marble or parquet floors.",
+        ],
+        image: blogB225Body,
+        imageAlt:
+          "Unplugged white oil-filled radiator with coiled power cord strapped to the top handle beside a compact ceramic fan heater on a protective floor mat in a Dubai utility room",
+        imageCaption:
+          "Keeping the power cord secured and separating oil-filled radiators from dry ceramic units prevents leaks and trip hazards during collection.",
+      },
+      {
+        heading: "Schedule safe appliance and e-waste collection",
+        paragraphs: [
+          "Working, undamaged heaters are easiest to pass on between November and February; out of season, most households prefer a single-trip clearance alongside other stored appliances. Never leave heaters in villa alleyways or apartment garbage rooms where staff may not handle electrical items.",
+          "Our [appliance removal service](https://dubaijunkcollection.com/services/appliance-removal) collects oil-filled radiators and dry electric heaters across [Dubai Hills Estate](https://dubaijunkcollection.com/service-areas/dubai-hills-estate) and all Dubai communities, routing sealed-oil units and dry e-waste to licensed recovery partners. Related guides cover [dehumidifiers](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-dehumidifier-in-dubai), [portable air conditioners](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-portable-air-conditioner-in-dubai) and [electric blankets](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-electric-blanket-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Do I need to drain the oil out of an oil-filled radiator before disposal?",
+        answer:
+          "No. Oil-filled radiators are factory-sealed units and must not be drilled or drained at home. Licensed appliance recyclers extract and process the thermal oil safely before recovering the steel fins and copper wiring.",
+      },
+      {
+        question: "Can I throw a small ceramic fan heater in the general rubbish bin?",
+        answer:
+          "No. Even compact desk or bathroom fan heaters count as electronic waste (WEEE) because they contain heating coils, motors, and thermal switches. They should go to an e-waste drop-off or an appliance collection crew.",
+      },
+      {
+        question: "What if my oil-filled radiator is leaking oil onto the floor?",
+        answer:
+          "Unplug it at the wall, stand it upright inside a heavy plastic tray or doubled rubble bag lined with cardboard or absorbent paper, and wipe any floor residue with degreaser before moving it.",
+      },
+      {
+        question: "Is it safe to donate an older electric heater in Dubai?",
+        answer:
+          "Only if it has a clean, undamaged UK 3-pin plug, no scorch marks or frayed flex, a working tip-over safety switch, and no sign of oil seepage on finned models.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-a-dehumidifier-in-dubai",
+      "how-to-dispose-of-a-portable-air-conditioner-in-dubai",
+      "how-to-dispose-of-an-electric-blanket-in-dubai",
+    ],
+    serviceLink: { href: "/services/appliance-removal", label: "Book electric heater & appliance removal" },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf",
+        label: "Dubai Municipality - Waste duty-of-care guideline",
+      },
+      {
+        href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management",
+        label: "UAE Government - Waste management and e-waste overview",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-office-digital-signage-in-dubai",
+    title: "How to Dispose of Office Digital Signage in Dubai: Media Players, Brackets and Commercial E-Waste",
+    excerpt:
+      "Unbind cloud CMS licences and wipe external media players, isolate hard-wired lobby power, unmount heavy commercial brackets with wall reinstatement, and recycle displays as tracked commercial e-waste.",
+    category: "Commercial & Office",
+    coverImage: blogB226Cover,
+    coverImageAlt:
+      "Two uniformed commercial clearance technicians in a sunlit Dubai office lobby lowering a wrapped digital signage flat-panel display with corner guards onto a padded trolley",
+    publishedAt: "2026-11-26",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Digital Signage Disposal", "Commercial Display", "Office AV E-Waste", "Business Clearance"],
+    seoTitle: "How to Dispose of Office Digital Signage in Dubai",
+    seoDescription:
+      "How to dispose of office digital signage in Dubai: unbind CMS licences, remove external media players, unbolt heavy mounts and recycle commercial screens.",
+    keyTakeaways: [
+      "Unbind the screen and any external signage media player from your cloud CMS, Wi-Fi profile, and company Google or Microsoft signage account before powering down.",
+      "Commercial 55-inch to 86-inch signage panels are significantly heavier than home TVs and use high-load masonry wall brackets that require two-person unmounting and wall patching.",
+      "Keep the remote, power brick, OPS slot-in PC, and HDMI leads bagged with the asset tag so IT records reconcile cleanly before commercial e-waste transfer.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of office digital signage in Dubai?",
+        paragraphs: [
+          "To dispose of office digital signage in Dubai, unbind the display from your cloud CMS and wipe any external or slot-in media player first. Have building maintenance isolate hard-wired power, unmount the heavy commercial bracket safely, patch anchor holes if required for lease handover, and send the kit for commercial e-waste recycling.",
+          "Lobby welcome screens, reception menu boards, and corridor wayfinding displays look like oversized TVs, but they carry commercial-grade metal chassis, 24/7 power supplies, and active network credentials. Treating them as a coordinated IT and facilities job prevents cracked glass in the lift and orphaned licences on your billing account.",
+        ],
+      },
+      {
+        heading: "Wipe CMS licences, Wi-Fi credentials and media players",
+        paragraphs: [
+          "Before unplugging a signage screen, log into your content management portal (CMS) and deactivate or unpair the device licence so you are not billed for an unused slot—and so internal dashboards, visitor logs, or company announcements cannot reappear if the panel is resold.",
+          "Check behind the panel for an external Android or Windows media box, BrightSign player, or an OPS PC module slotted directly into the side of the screen. Remove microSD cards or USB sticks, perform a factory reset on both the display firmware and the player, and forget any corporate WPA2-Enterprise Wi-Fi credentials.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Never leave media players or USB drives attached",
+          text: "Reception and lift-lobby signage often caches presentation decks, staff directories, or API tokens locally. Detach USB drives and reset external media boxes before the panel leaves the floor.",
+        },
+      },
+      {
+        heading: "Handle heavy commercial brackets and lobby reinstatement",
+        paragraphs: [
+          "Commercial signage displays built for 16/7 or 24/7 operation weigh far more than domestic televisions of the same diagonal size. Never attempt a solo lift off a high reception wall—support both bottom corners while releasing the VESA security locking screws or pull-cord latches.",
+          "Once the screen is padded and strapped upright on a trolley, unbolt the heavy-duty steel wall plate and remove masonry sleeves or toggle anchors. In Business Bay and DIFC offices, landlord handover teams check reception marble, acoustic panelling, and gypsum partitions closely, so confirm whether holes must be filled and painted or whether the landlord is retaining the mount.",
+        ],
+        image: blogB226Body,
+        imageAlt:
+          "Decommissioned commercial digital signage display strapped on a trolley in a Dubai office corridor beside its steel wall mount bracket, coiled HDMI leads, and labelled e-waste media player box",
+        imageCaption:
+          "Staging the padded display alongside its detached wall bracket and boxed media player keeps hardware and asset tags together for handover.",
+      },
+      {
+        heading: "Route commercial displays through documented e-waste",
+        paragraphs: [
+          "Commercial flat panels contain LED/LCD matrices, power-supply boards, and heavy-gauge steel housings that cannot go into building skips or general waste rooms. Record the serial number and asset tag against your IT disposal log before collection.",
+          "Our [office junk removal team](https://dubaijunkcollection.com/services/office-junk-removal) coordinates after-hours tower permits, service-lift protection, and e-waste collection across [Business Bay](https://dubaijunkcollection.com/service-areas/business-bay) and Dubai commercial districts. Related guides cover [interactive displays](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-interactive-display-in-dubai), [office monitors](https://dubaijunkcollection.com/blog/how-to-dispose-of-office-monitors-in-dubai) and [office projector screens](https://dubaijunkcollection.com/blog/how-to-dispose-of-an-office-projector-screen-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can working office digital signage screens be resold or donated in Dubai?",
+        answer:
+          "Yes, provided the panel has no dead backlight zones or screen burn-in from static logos, the CMS licence is unbound, and the power lead, remote, and wall bracket are included. Commercial screens without burn-in are often reused by retail kiosks and clinics.",
+      },
+      {
+        question: "What is an OPS slot-in PC and should I remove it separately?",
+        answer:
+          "An Open Pluggable Specification (OPS) module is a small slide-in computer built into the side of many commercial displays. Unscrew and slide it out before removal so your IT team can wipe its SSD or reuse it on a newer screen.",
+      },
+      {
+        question: "Do I need a building permit to remove lobby signage in a Dubai office tower?",
+        answer:
+          "Yes, most commercial towers require a move-out or contractor NOC, after-hours service-lift booking, and security sign-off at the loading bay—especially for 65-inch to 86-inch panels that require a padded trolley.",
+      },
+      {
+        question: "What details are needed for a commercial signage removal quote?",
+        answer:
+          "Share the number of screens, approximate diagonal sizes, whether they are already unmounted or still bolted to reception walls, and your building's loading-bay access hours.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-an-interactive-display-in-dubai",
+      "how-to-dispose-of-office-monitors-in-dubai",
+      "how-to-dispose-of-an-office-projector-screen-in-dubai",
+    ],
+    serviceLink: { href: "/services/office-junk-removal", label: "Schedule commercial signage & office clearance" },
     sources: [
       {
         href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf",

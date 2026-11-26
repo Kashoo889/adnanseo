@@ -848,3 +848,11 @@
 | 463 | how to dispose of a jewelry armoire in dubai              |   Q    | Blog Article (`/blog/how-to-dispose-of-a-jewelry-armoire-in-dubai`)              |
 | 464 | how to dispose of a steam mop in dubai                    |   Q    | Blog Article (`/blog/how-to-dispose-of-a-steam-mop-in-dubai`)                    |
 | 465 | how to dispose of an office projector screen in dubai     |   Q    | Blog Article (`/blog/how-to-dispose-of-an-office-projector-screen-in-dubai`)     |
+
+### New question-intent blog targets (Batch 68)
+
+|  #  | Keyword                                                   | Intent | Recommended Page                                                                 |
+| :-: | :-------------------------------------------------------- | :----: | :------------------------------------------------------------------------------- |
+| 466 | how to dispose of a folding table in dubai                |   Q    | Blog Article (`/blog/how-to-dispose-of-a-folding-table-in-dubai`)                |
+| 467 | how to dispose of an electric heater in dubai             |   Q    | Blog Article (`/blog/how-to-dispose-of-an-electric-heater-in-dubai`)             |
+| 468 | how to dispose of office digital signage in dubai         |   Q    | Blog Article (`/blog/how-to-dispose-of-office-digital-signage-in-dubai`)         |

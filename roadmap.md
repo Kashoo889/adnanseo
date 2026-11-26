@@ -850,6 +850,17 @@ _Continues the furniture-appliance-office sequence through three different contr
 
 **Overlap check (content-rules section 16):** B221 differs from B134 (dressing tables), B62 (standalone mirrors), B122 (chests of drawers) and B100 (shoe racks) through checking velvet ring rolls, side-door necklace hooks and hidden compartments for small valuables, locking or taping swing doors, padding full-length front mirror glass and patching wall-mounted bracket holes at handover. B222 differs from B96 (vacuum cleaners), B165 (garment steamers) and B156 (electric kettles) through cooling and depressurising a floor-boiler tank, emptying tap water and descaling solution, binning soiled microfibre pads and isolating cordless lithium battery packs before electrical recycling. B223 differs from B145 (projectors), B202 (video-conferencing systems), B205 (interactive displays) and B148 (whiteboards) through retracting and locking tensioned screen fabric into its cassette, isolating hard-wired wall switches and 12V triggers, measuring 2.5m–3.5m rigid casings against commercial service-lift diagonals and reinstating ceiling-recessed slots or masonry anchors.
 
+### Track 71: Event Folding Tables, Seasonal Heating & Commercial Lobby Signage (Clusters 3, 4, 5 & 6)
+*Continues the furniture–appliance–office sequence through three distinct controls: locking scissor-hinge steel legs and checking UV-warped tops on folding trestle tables, keeping sealed thermal oil intact inside finned radiators versus dry ceramic heaters, and clearing CMS accounts, external media players and heavy commercial wall mounts from office digital signage.*
+
+| # | Article Title | Primary Target Keyword | Secondary Keywords | Intent | Target Internal Funnel |
+| :-: | :--- | :--- | :--- | :---: | :--- |
+| **B224** | *How to Dispose of a Folding Table in Dubai: Hinge Locks, Warped Tops and Bulk Collection* | `how to dispose of a folding table in dubai` | `folding table disposal dubai`, `trestle table removal dubai`, `bulky furniture collection dubai` | Q | `/services/furniture-removal` |
+| **B225** | *How to Dispose of an Electric Heater in Dubai: Oil-Filled Radiators, Ceramic Units and E-Waste* | `how to dispose of an electric heater in dubai` | `oil-filled radiator disposal dubai`, `space heater recycling dubai`, `small appliance disposal dubai` | Q | `/services/appliance-removal` |
+| **B226** | *How to Dispose of Office Digital Signage in Dubai: Media Players, Brackets and Commercial E-Waste* | `how to dispose of office digital signage in dubai` | `commercial display disposal dubai`, `digital signage removal dubai`, `office av e-waste dubai` | Q | `/services/office-junk-removal` |
+
+**Overlap check (content-rules section 16):** B224 differs from B83 (dining tables), B144 (coffee tables), B151 (conference tables), B203 (nesting tables) and B212 (folding chairs) through folding trestle leg-brace locks, blow-moulded HDPE versus particleboard top warping from balcony/garage heat, centre-fold pinch hazards and bulk event-stack transport. B225 differs from B115 (dehumidifiers), B135 (portable ACs) and B189 (pedestal fans) through distinguishing sealed thermal-oil radiators (which must never be punctured or crushed) from dry ceramic/PTC fan heaters, cord/plug heat-damage checks and seasonal winter-to-spring villa clear-outs. B226 differs from B55 (home TVs), B187 (desk monitors), B205 (interactive touchscreens) and B223 (projector screens) through 24/7 commercial panel weights, external signage media players and CMS licence unbinding, heavy-duty masonry wall brackets and lobby/corridor handover reinstatement.
+
 ---
 
 1. **Batch 1 (Articles B01–B07):** Cost, Pricing Transparency & "Free" Intercepts (captures immediate commercial conversion queries) — **100% Completed (7/7 Live)**.
@@ -919,3 +930,4 @@ _Continues the furniture-appliance-office sequence through three different contr
 65. **Batch 65 (Articles B215–B217):** Hallway Coat Stands, Home Carbonation & Workplace Radios — **100% Completed (3/3 Scheduled)**.
 66. **Batch 66 (Articles B218–B220):** Tiered Plant Display, Powered Carving & Cashroom Counting — **100% Completed (3/3 Live)**.
 67. **Batch 67 (Articles B221–B223):** Mirrored Bedroom Storage, Heated Floor Care & Boardroom Projection Screens — **100% Completed (3/3 Live)**.
+68. **Batch 68 (Articles B224–B226):** Event Folding Tables, Seasonal Heating & Commercial Lobby Signage — **100% Completed (3/3 Live)**.
