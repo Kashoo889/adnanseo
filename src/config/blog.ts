@@ -412,6 +412,12 @@ import blogB225Cover from "@/assets/blog-b225-electric-heater-disposal-cover.web
 import blogB225Body from "@/assets/blog-b225-electric-heater-sorting-body.webp";
 import blogB226Cover from "@/assets/blog-b226-digital-signage-removal-cover.webp";
 import blogB226Body from "@/assets/blog-b226-digital-signage-components-body.webp";
+import blogB227Cover from "@/assets/blog-b227-rollaway-bed-removal-cover.webp";
+import blogB227Body from "@/assets/blog-b227-rollaway-bed-folded-body.webp";
+import blogB228Cover from "@/assets/blog-b228-pressure-washer-disposal-cover.webp";
+import blogB228Body from "@/assets/blog-b228-pressure-washer-parts-body.webp";
+import blogB229Cover from "@/assets/blog-b229-network-switch-disposal-cover.webp";
+import blogB229Body from "@/assets/blog-b229-network-switch-ewaste-body.webp";
 
 export type BlogAuthor = {
   name: string;
@@ -22905,6 +22911,306 @@ export const blogPosts: BlogPost[] = [
       {
         href: "https://www.dm.gov.ae/municipality-business/waste-and-sewerage-agency-technical-guidelines/",
         label: "Dubai Municipality - Waste and recycling technical guidelines",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-rollaway-bed-in-dubai",
+    title: "How to Dispose of a Rollaway Bed in Dubai: Folding Frames, Thin Mattresses and Guest Room Clearances",
+    excerpt:
+      "Lock the X-frame latch and castor brakes, check the thin folding mattress for hygiene, separate usable guest beds from bent frames, and clear storerooms in one trip.",
+    category: "Guides & Tips",
+    coverImage: blogB227Cover,
+    coverImageAlt:
+      "Two uniformed Dubai clearance crew members wheeling a strapped folded metal rollaway guest bed down a sunlit apartment hallway toward a service elevator",
+    publishedAt: "2026-11-27",
+    readingTime: "6 min read",
+    author: defaultAuthor,
+    tags: ["Rollaway Bed Disposal", "Folding Guest Bed", "Bulky Furniture", "Storeroom Clearance"],
+    seoTitle: "How to Dispose of a Rollaway Bed in Dubai",
+    seoDescription:
+      "How to dispose of a rollaway bed in Dubai: secure the folding X-frame latch, check mattress hygiene, donate intact frames or book bulky furniture pickup.",
+    keyTakeaways: [
+      "Always engage the folding frame latch or wrap a heavy strap around the folded halves before wheeling a rollaway bed so spring tension cannot snap the frame open in a lift.",
+      "Separate the thin folding mattress from the steel frame when assessing condition—bent mesh springs or stained foam mean the unit goes to bulky clearance, not charity.",
+      "Never leave folded guest beds in apartment bin rooms or corridors; book a bulky furniture collection or pass intact units directly to a buyer.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a rollaway bed in Dubai?",
+        paragraphs: [
+          "To dispose of a rollaway bed in Dubai, fold the steel frame closed, lock the side latch or strap both halves together, and inspect the thin mattress and mesh springs. Clean, straight units can be sold or donated, while stained mattresses or bent frames require bulky furniture collection.",
+          "Rollaway guest beds spend most of the year tucked inside maid's rooms, apartment utility closets, or villa under-stair cupboards until a move-out or deep clear-out brings them back out. Even folded, their steel X-frames and four-wheel bases are awkward to manoeuvre around tight doorways and too bulky for any residential rubbish chute.",
+        ],
+      },
+      {
+        heading: "Secure the folding frame and castor wheels before moving",
+        paragraphs: [
+          "Fold the bed with the mattress still inside only if the manufacturer's side clip or Velcro retention strap is intact. On older units where the clip has snapped, run a luggage strap or heavy packaging tape twice around the middle of the folded frame before tilting it onto its castors.",
+          "Check the four swivel wheels at the base before rolling it across marble or engineered wood. Jammed or grit-locked castors from balcony or garage storage will drag and score tiled floors, and unbraked wheels can roll unexpectedly inside a moving service lift.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Respect the fold-assist springs",
+          text: "Many rollaway beds use tensioned side springs to help lift the bed halves. Keep hands clear of the central hinge bars while folding, and never unbolt the springs under load.",
+        },
+      },
+      {
+        heading: "Triage the mattress, wire mesh and frame condition",
+        paragraphs: [
+          "Inspect the thin foam or sprung mattress separately from the metal chassis. Charities and secondhand buyers in Dubai decline mattresses with perspiration stains, dampness from humid storerooms, or perished foam that crumbles when pressed.",
+          "If the powder-coated steel frame is straight, the wooden slats or wire-link deck have no broken welds, and the mattress is clean and encased in its dust cover, list it as a complete folding guest bed with exact folded dimensions. If the mattress is worn out or the frame wobbles when locked flat, treat the whole assembly as bulky non-reusable waste.",
+        ],
+        image: blogB227Body,
+        imageAlt:
+          "Slim folded steel X-frame rollaway guest bed with strapped mattress and locked castor wheels resting on a protective moving blanket in a Dubai apartment storeroom",
+        imageCaption:
+          "Strapping the folded mattress inside the locked frame and bagging loose retaining clips keeps the bed stable through narrow hallways.",
+      },
+      {
+        heading: "Clear guest beds without risking building fines",
+        paragraphs: [
+          "Apartment towers strictly forbid leaving folded beds beside bin chutes or in basement parking bays, and Ejari handover inspections penalise leftover storeroom items. Schedule a single pickup that matches your building's service-lift booking hours.",
+          "Our [furniture removal team](https://dubaijunkcollection.com/services/furniture-removal) collects rollaway beds and spare mattresses across [Jumeirah Village Circle](https://dubaijunkcollection.com/service-areas/jumeirah-village-circle) and all Dubai communities, separating steel frames for scrap recovery. Related guides cover [folding tables](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-folding-table-in-dubai), [daybeds](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-daybed-in-dubai) and [mattresses](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-mattress-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can I throw a rollaway bed mattress in the building rubbish chute?",
+        answer:
+          "No. Even thin 10 cm folding mattresses are too rigid and wide for apartment waste chutes and will jam the shaft. Both the mattress and steel frame must be disposed of as bulky waste.",
+      },
+      {
+        question: "Should I separate the mattress from the folding frame before pickup?",
+        answer:
+          "Only if the mattress is loose and slides out when tilted. If it has built-in ties or sits snugly inside the locked X-frame, leaving it strapped together makes it easier to wheel on its castors.",
+      },
+      {
+        question: "Will Dubai charities accept a used rollaway guest bed?",
+        answer:
+          "Only if the frame opens and locks safely and the mattress is completely clean, odour-free, and unstained. Most charities refuse standalone used mattresses, so damaged or stained units need paid clearance.",
+      },
+      {
+        question: "What details help quote a rollaway bed removal?",
+        answer:
+          "Send a photo of the folded bed, confirm whether it is in an apartment tower or villa, and share your building's move-out permit or service-lift hours.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-a-folding-table-in-dubai",
+      "how-to-dispose-of-a-daybed-in-dubai",
+      "how-to-dispose-of-a-mattress-in-dubai",
+    ],
+    serviceLink: { href: "/services/furniture-removal", label: "Book rollaway bed & furniture removal" },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/municipality-business/waste-and-sewerage-agency-technical-guidelines/",
+        label: "Dubai Municipality - Waste and recycling technical guidelines",
+      },
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf",
+        label: "Dubai Municipality - Waste duty-of-care guideline",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-a-pressure-washer-in-dubai",
+    title: "How to Dispose of a Pressure Washer in Dubai: Pumps, Hoses and Small-Appliance E-Waste",
+    excerpt:
+      "Depressurise the trigger gun, drain trapped water from the pump and detergent tank, separate intact hoses and lances, and route broken electric pressure washers as appliance e-waste.",
+    category: "Eco & Recycling",
+    coverImage: blogB228Cover,
+    coverImageAlt:
+      "Uniformed Dubai appliance technician loading a compact electric pressure washer with coiled hose and detached spray lance onto a padded trolley in a sunlit villa driveway",
+    publishedAt: "2026-11-27",
+    readingTime: "6 min read",
+    author: defaultAuthor,
+    tags: ["Pressure Washer Disposal", "Power Washer Recycling", "Villa Garage Clearance", "Appliance E-Waste"],
+    seoTitle: "How to Dispose of a Pressure Washer in Dubai",
+    seoDescription:
+      "How to dispose of a pressure washer in Dubai: depressurise the pump, drain water and detergent tanks, keep attachments together or recycle as e-waste.",
+    keyTakeaways: [
+      "Disconnect the garden hose and squeeze the spray gun trigger before unplugging so trapped pressure inside the pump and lance releases safely.",
+      "Drain all residual water from the pump inlet and empty any onboard soap tank so stagnant water does not leak inside lifts or vehicles.",
+      "Electric pressure washers contain induction or universal motors, brass/aluminium pumps, and wiring that must go through appliance e-waste rather than general bins.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of a pressure washer in Dubai?",
+        paragraphs: [
+          "To dispose of a pressure washer in Dubai, turn off the tap, squeeze the trigger gun to release remaining line pressure, and drain water from the pump and detergent bottle. Working units can be sold or donated complete with their lance, while seized or cracked washers go to appliance e-waste recycling.",
+          "Villa residents across Dubai rely on electric pressure washers to clear desert dust from interlock driveways, pergolas, and carports. Because the high-pressure pump, electrical motor, and long reinforced hose hold trapped water and detergent, preparing the machine properly keeps collection clean and safe.",
+        ],
+      },
+      {
+        heading: "Depressurise the line and drain the pump and soap tank",
+        paragraphs: [
+          "Before disconnecting the high-pressure hose, switch the machine off at the mains, turn off the outdoor tap, and hold the spray gun trigger open for ten seconds until water stops spurting. Never unscrew a quick-connect hose while the pump is still pressurised.",
+          "Tip the washer gently forward and back to empty water sitting inside the inlet filter and pump manifold. If your model has an integrated detergent bottle or foam cannon, pour any leftover car-wash or patio soap back into a labelled bottle—never leave liquid detergent inside the unit during transport.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Check petrol models separately",
+          text: "If you are clearing a petrol-driven pressure washer rather than an electric one, drain the fuel tank and engine oil completely into approved containers before collection—never load a unit with petrol inside.",
+        },
+      },
+      {
+        heading: "Coil hoses, check O-rings and sort working vs faulty units",
+        paragraphs: [
+          "Detach the spray lance, patio-cleaner disc, and high-pressure hose, then coil the hose loosely without sharp kinks and secure it with a strap or cord tie. Keep the UK 3-pin plug dry and inspect the flex for sun cracking if the machine lived outdoors.",
+          "A working pressure washer that simply needs a replacement O-ring or nozzle tip still has resale value in Dubai villa communities. However, if the plastic pump housing has split, the motor trips the RCD breaker, or internal seals leak continuously, route it straight to appliance recycling rather than passing on an electrical hazard.",
+        ],
+        image: blogB228Body,
+        imageAlt:
+          "Drained electric pressure washer on a protective rubber mat in a Dubai villa garage beside its coiled black high-pressure hose, detached spray lance, and empty detergent bottle",
+        imageCaption:
+          "Draining the pump manifold, emptying the soap bottle, and coiling the hose keeps garage staging dry and ready for collection.",
+      },
+      {
+        heading: "Route broken pressure washers to appliance e-waste",
+        paragraphs: [
+          "Electric pressure washers combine copper-wound motors, aluminium or brass pump heads, power cords, and heavy ABS casings that are prohibited from municipal household skips. Bundling them with other garage appliances makes clearance straightforward in a single visit.",
+          "Our [appliance removal service](https://dubaijunkcollection.com/services/appliance-removal) collects drained pressure washers and garden equipment across [Al Furjan](https://dubaijunkcollection.com/service-areas/al-furjan) and Dubai villa communities, sending motors and metal pump parts to licensed recyclers. Related guides cover [lawn mowers](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-lawn-mower-in-dubai), [steam mops](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-steam-mop-in-dubai) and [old power tools](https://dubaijunkcollection.com/blog/how-to-dispose-of-old-power-tools-in-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can I put an old electric pressure washer in my villa green or black wheelie bin?",
+        answer:
+          "No. Electric pressure washers are electrical appliances containing motors, wiring, and metal pump assemblies that must go through e-waste or scrap-appliance recovery rather than domestic rubbish bins.",
+      },
+      {
+        question: "Why does water still leak out of a pressure washer after I unplug it?",
+        answer:
+          "Water stays trapped inside the pump chambers and the coiled high-pressure hose. Squeezing the gun trigger with the tap off and tilting the machine over a drain clears most of it before pickup.",
+      },
+      {
+        question: "Should I keep the patio cleaner attachment and spray lances with the machine?",
+        answer:
+          "Yes. Keeping the gun, lances, and hose together makes resale or donation possible if the motor works, and ensures all plastic and metal parts are recycled together if it is broken.",
+      },
+      {
+        question: "What if the high-pressure hose is permanently jammed onto the outlet?",
+        answer:
+          "Leave it attached rather than forcing plastic threads with pliers—simply coil the hose neatly around the machine handle and tape it down so it does not snag during loading.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-a-lawn-mower-in-dubai",
+      "how-to-dispose-of-a-steam-mop-in-dubai",
+      "how-to-dispose-of-old-power-tools-in-dubai",
+    ],
+    serviceLink: { href: "/services/appliance-removal", label: "Book pressure washer & appliance removal" },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf",
+        label: "Dubai Municipality - Waste duty-of-care guideline",
+      },
+      {
+        href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management",
+        label: "UAE Government - Waste management and e-waste overview",
+      },
+    ],
+  },
+  {
+    slug: "how-to-dispose-of-office-network-switches-in-dubai",
+    title: "How to Dispose of Office Network Switches and Firewalls in Dubai: Config Wipes, SFP Modules and IT E-Waste",
+    excerpt:
+      "Erase startup configurations and unbind cloud controllers, pull reusable SFP optical transceivers, unmount rack ears cleanly, and transfer switches and firewalls to tracked commercial e-waste.",
+    category: "Commercial & Office",
+    coverImage: blogB229Cover,
+    coverImageAlt:
+      "Uniformed commercial IT clearance technician carrying a padded anti-static crate of decommissioned rack-mount network switches and a firewall toward a trolley in a modern Dubai Business Bay office",
+    publishedAt: "2026-11-27",
+    readingTime: "7 min read",
+    author: defaultAuthor,
+    tags: ["Network Switch Disposal", "Firewall E-Waste", "Office IT Clearance", "Commercial E-Waste"],
+    seoTitle: "How to Dispose of Office Network Switches in Dubai",
+    seoDescription:
+      "How to dispose of office network switches and firewalls in Dubai: wipe startup configs, unbind cloud licences, pull SFP modules and recycle IT hardware.",
+    keyTakeaways: [
+      "Always wipe startup-config, VLAN databases, VPN pre-shared keys, and local certificates—and unbind cloud-managed units from Meraki, UniFi, or FortiCloud portals—before hardware leaves your office.",
+      "Remove high-value SFP/SFP+ fibre transceivers, DAC cables, and console leads before sending switches to e-waste so spares stay with your IT team.",
+      "Record chassis and power-supply serial numbers on your IT asset disposal log before transferring rack-mounted switches and firewalls to commercial e-waste.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of office network switches and firewalls in Dubai?",
+        paragraphs: [
+          "To dispose of office network switches and firewalls in Dubai, export needed backups, erase startup configurations and credentials, and unbind cloud-managed licences. Remove reusable SFP optical modules, unmount the units from the rack, log serial numbers against your IT asset register, and route them to commercial e-waste.",
+          "Unlike a home Wi-Fi box, enterprise PoE switches and UTM firewalls store VLAN topologies, RADIUS secrets, site-to-site VPN keys, and active support contracts. Clearing them in the right order protects company security and keeps your hardware inventory clean during an office move or refit.",
+        ],
+      },
+      {
+        heading: "Wipe configurations, credentials and cloud-portal bindings",
+        paragraphs: [
+          "Never rely on simply unplugging a switch or firewall. Have your network administrator back up any archive configs required for compliance, then run a full factory reset (`write erase` and `delete vlan.dat`, or the vendor's secure-wipe command) so routing tables, SNMP community strings, and local admin hashes are cleared.",
+          "For cloud-managed platforms such as Cisco Meraki, Ubiquiti UniFi, Aruba Central, or FortiGate Cloud, release the serial number from your organisation dashboard before handover. Leaving a device bound blocks resale or reuse and can keep telemetry or renewal alerts tied to your company account.",
+        ],
+        callout: {
+          type: "warning",
+          title: "Check firewalls for internal SSDs and SD cards",
+          text: "Next-generation firewalls often house small M.2 SSDs, CompactFlash cards, or USB logging drives that store traffic logs and SSL inspection certificates. Pull or sanitise removable storage before releasing the chassis.",
+        },
+      },
+      {
+        heading: "Recover SFP transceivers, power supplies and rack hardware",
+        paragraphs: [
+          "Before boxing decommissioned 1U or 2U switches, eject all SFP, SFP+, or QSFP optical transceivers and twinax DAC cables—those small modules are frequently compatible with newer switches and cost far more to replace than the old chassis is worth.",
+          "Unscrew the left and right rack-mounting ears and cage nuts if you are keeping them for replacement hardware, or tape them to the top cover if the switch is being resold complete. Keep redundant hot-swap PSU modules seated inside the chassis so internal dust and sharp sheet-metal edges stay contained during transit.",
+        ],
+        image: blogB229Body,
+        imageAlt:
+          "Two decommissioned 1U enterprise network switches on an anti-static mat in a Dubai office with coiled power cords, detached rack ears, and removed SFP optical modules in a tray",
+        imageCaption:
+          "Pulling SFP transceivers, coiling C13 power cords, and staging switches on an anti-static mat keeps spare optics and asset tags organised.",
+      },
+      {
+        heading: "Transfer commercial networking gear to tracked e-waste",
+        paragraphs: [
+          "Enterprise switches and firewalls contain dense multi-layer PCBs, copper PoE transformers, cooling fans, and steel chassis that must never enter general office waste skips. Log each serial number and asset tag off your fixed-asset register before collection.",
+          "Our [office junk removal team](https://dubaijunkcollection.com/services/office-junk-removal) handles after-hours tower access, server-room clearances, and commercial e-waste collection across [Dubai Internet City](https://dubaijunkcollection.com/service-areas/dubai-internet-city) and Dubai business parks. Related guides cover [server racks](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-server-rack-in-dubai), [Wi-Fi routers and modems](https://dubaijunkcollection.com/blog/how-to-dispose-of-a-wifi-router-and-modem-in-dubai) and [data-safe electronics disposal](https://dubaijunkcollection.com/blog/data-safe-electronics-disposal-dubai).",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can we throw old office switches into the building's commercial skip?",
+        answer:
+          "No. Network switches and firewalls are regulated commercial electronic waste under UAE waste directives and must be routed to licensed e-waste recyclers rather than general building skips.",
+      },
+      {
+        question: "What happens if we forget to unbind a Meraki or UniFi switch from our cloud account?",
+        answer:
+          "The hardware remains locked to your organisation's serial inventory, meaning a buyer or charity cannot claim it and your IT team may continue receiving offline device alerts.",
+      },
+      {
+        question: "Should we leave patch cables plugged into the switch ports?",
+        answer:
+          "No. Disconnect all Cat6 patch leads and fibre patch cords first—they tangle during handling and can snap fragile RJ45 clips or fibre ferrules inside the crate.",
+      },
+      {
+        question: "Do leased or ISP-managed firewalls go into e-waste?",
+        answer:
+          "No. Check your telecom or managed-service provider contract first—ISP-supplied edge routers and leased SD-WAN appliances usually remain the provider's property and must be returned.",
+      },
+    ],
+    relatedSlugs: [
+      "how-to-dispose-of-a-server-rack-in-dubai",
+      "how-to-dispose-of-a-wifi-router-and-modem-in-dubai",
+      "data-safe-electronics-disposal-dubai",
+    ],
+    serviceLink: { href: "/services/office-junk-removal", label: "Schedule office IT & switch clearance" },
+    sources: [
+      {
+        href: "https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf",
+        label: "Dubai Municipality - Waste duty-of-care guideline",
+      },
+      {
+        href: "https://u.ae/en/information-and-services/environment-and-energy/waste-management",
+        label: "UAE Government - Waste management and e-waste overview",
       },
     ],
   },

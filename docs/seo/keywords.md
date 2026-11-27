@@ -856,3 +856,11 @@
 | 466 | how to dispose of a folding table in dubai                |   Q    | Blog Article (`/blog/how-to-dispose-of-a-folding-table-in-dubai`)                |
 | 467 | how to dispose of an electric heater in dubai             |   Q    | Blog Article (`/blog/how-to-dispose-of-an-electric-heater-in-dubai`)             |
 | 468 | how to dispose of office digital signage in dubai         |   Q    | Blog Article (`/blog/how-to-dispose-of-office-digital-signage-in-dubai`)         |
+
+### New question-intent blog targets (Batch 69)
+
+|  #  | Keyword                                                   | Intent | Recommended Page                                                                 |
+| :-: | :-------------------------------------------------------- | :----: | :------------------------------------------------------------------------------- |
+| 469 | how to dispose of a rollaway bed in dubai                 |   Q    | Blog Article (`/blog/how-to-dispose-of-a-rollaway-bed-in-dubai`)                 |
+| 470 | how to dispose of a pressure washer in dubai              |   Q    | Blog Article (`/blog/how-to-dispose-of-a-pressure-washer-in-dubai`)              |
+| 471 | how to dispose of office network switches in dubai        |   Q    | Blog Article (`/blog/how-to-dispose-of-office-network-switches-in-dubai`)        |
